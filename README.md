@@ -1,6 +1,4 @@
-##################
-# ATLAS # NOVUM #
-##################
+# ATLAS NOVUM #
 
 Also known as Atlas Renovum, this is a successor mod to the one for Europa Universalis 4.
 
