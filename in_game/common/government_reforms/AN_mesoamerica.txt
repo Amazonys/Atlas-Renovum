@@ -1,0 +1,47 @@
+﻿
+altepetl = {
+	age = age_1_traditions
+
+	major = yes
+
+	potential = {
+		culture = culture:nahua_culture
+		NOT = { has_variable = reformed_nahuatl_society_variable }
+	}
+
+	country_modifier = {
+		auto_slave_raid = yes
+		diplomatic_capacity = 1
+		monthly_towards_centralization = societal_value_monthly_move
+		may_not_take_land_in_peace_treaties = yes
+		subjugation_preference_modifier = 0.25
+	}
+
+	locked = {
+		has_reform = government_reform:altepetl
+	}
+
+	years = 2
+}
+
+reformed_nahuatl_society = {
+	age = age_1_traditions
+
+	major = yes
+
+	potential = {
+		has_variable = reformed_nahuatl_society_variable
+		religion = religion:nahuatl
+	}
+
+	country_modifier = {
+		auto_slave_raid = yes
+		government_reform_slots = 1
+		global_crown_estate_power = 0.33
+		monthly_doom = -25
+		revoke_privilege_cost_modifier = -0.1
+		monthly_towards_centralization = societal_value_monthly_move
+	}
+
+	years = 1
+}
