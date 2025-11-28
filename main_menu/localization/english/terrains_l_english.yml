@@ -90,6 +90,15 @@
  oceanic_desc: "$oceanic$ represents areas with mild winters but high humidity."
  subtropical_desc: "$subtropical$ represents areas with high average temperatures and mild winters."
  
+ sicco_desc: "Sicco"
+ xeric_desc: "Xeric"
+ boreal_desc: "Boreal"
+ calidic_desc: "Calidic"
+ mesothermal_desc: "Mesothermal"
+ hemiboreal_desc: "Hemiboreal"
+ cascadic_desc: "Cascadic"
+ maritime_desc: "Maritime"
+ 
  desert_desc: "Deserts are barren landscapes with little precipitation and almost no potential for plant or animal life."
  sparse_desc: "Sparse represent large flat areas of land with few or no trees."
  grasslands_desc: "Grasslands represent terrain dominated by grass with little or no trees or shrubs."

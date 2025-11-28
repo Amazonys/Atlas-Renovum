@@ -1,0 +1,259 @@
+﻿default_biome = {
+	decal_material = {
+		index = 0
+		uv_tiling = 2.0
+		specular = 0.0
+		diffuse = 		"gfx/city_materials/textures/decal_peasants_grasslands_diffuse.dds"
+		normal =  		"gfx/city_materials/textures/decal_peasants_grasslands_normal.dds"
+		properties = 	"gfx/city_materials/textures/decal_peasants_grasslands_properties.dds"
+	}
+	decal_material = {
+		index = 1
+		uv_tiling = 2.0
+		specular = 0.0
+		diffuse = 		"gfx/city_materials/textures/european_city_ground_stone_diffuse.dds"
+		normal =  		"gfx/city_materials/textures/european_city_ground_stone_normal.dds"
+		properties = 	"gfx/city_materials/textures/european_city_ground_stone_properties.dds"
+	}
+	
+	road_material = {
+		index = 0
+		thickness = 0.1
+		diffuse = 		"gfx/city_materials/textures/roads_peasants_grasslands_diffuse.dds"
+		normal =  		"gfx/city_materials/textures/roads_peasants_grasslands_normal.dds"
+		properties = 	"gfx/city_materials/textures/roads_peasants_grasslands_properties.dds"
+	}
+	road_material = {
+		index = 1
+		thickness = 0.2
+		diffuse = 		"gfx/city_materials/textures/roads_peasants_grasslands_diffuse.dds"
+		normal =  		"gfx/city_materials/textures/roads_peasants_grasslands_normal.dds"
+		properties = 	"gfx/city_materials/textures/roads_peasants_grasslands_properties.dds"
+	}
+}
+
+mediterranean_flatlands_desert_biome = {
+	decal_material = {
+		index = 0
+		uv_tiling = 2.0
+		specular = 0.0
+		diffuse = 		"gfx/city_materials/textures/decal_peasants_grasslands_light_diffuse.dds"
+		normal =  		"gfx/city_materials/textures/decal_peasants_grasslands_normal.dds"
+		properties = 	"gfx/city_materials/textures/decal_peasants_grasslands_properties.dds"
+	}
+	decal_material = {
+		index = 1
+		uv_tiling = 1.5
+		specular = 0.0
+		diffuse = 		"gfx/city_materials/textures/syrian_city_ground_stone_diffuse.dds"
+		normal =  		"gfx/city_materials/textures/syrian_city_ground_stone_normal.dds"
+		properties = 	"gfx/city_materials/textures/european_city_ground_stone_properties.dds"
+	}
+	
+	road_material = {
+		index = 0
+		thickness = 0.1
+		diffuse = 		"gfx/city_materials/textures/roads_peasants_grasslands_diffuse.dds"
+		normal =  		"gfx/city_materials/textures/roads_peasants_grasslands_normal.dds"
+		properties = 	"gfx/city_materials/textures/roads_peasants_grasslands_properties.dds"
+	}
+	road_material = {
+		index = 1
+		thickness = 0.2
+		diffuse = 		"gfx/city_materials/textures/roads_peasants_grasslands_diffuse.dds"
+		normal =  		"gfx/city_materials/textures/roads_peasants_grasslands_normal.dds"
+		properties = 	"gfx/city_materials/textures/roads_peasants_grasslands_properties.dds"
+	}
+}
+
+
+
+arctic_flatlands_desert_biome = { copy_from = default_biome }
+arctic_hills_desert_biome = { copy_from = default_biome }
+arctic_plateau_desert_biome = { copy_from = default_biome }
+arctic_mountains_desert_biome = { copy_from = default_biome }
+arctic_mountain_wasteland_desert_biome = { copy_from = default_biome }
+arctic_flatlands_sparse_biome = { copy_from = default_biome }
+arctic_hills_sparse_biome = { copy_from = default_biome }
+arctic_plateau_sparse_biome = { copy_from = default_biome }
+arctic_mountains_sparse_biome = { copy_from = default_biome }
+arctic_mountains_wasteland_sparse_biome = { copy_from = default_biome }
+arctic_flatland_grasslands_woods_biome = { copy_from = default_biome }
+arctic_hills_grasslands_woods_biome = { copy_from = default_biome }
+arctic_plateau_grasslands_woods_biome = { copy_from = default_biome }
+arctic_mountains_grasslands_woods_biome = { copy_from = default_biome }
+arctic_mountains_wasteland_grasslands_woods_biome = { copy_from = default_biome }
+arctic_wetlands_grasslands_woods_biome = { copy_from = default_biome }
+arctic_farmland_woods_biome = { copy_from = default_biome }
+arctic_hills_farmland_woods_biome = { copy_from = default_biome }
+arctic_plateau_farmland_biome = { copy_from = default_biome }
+arctic_mountains_farmland_biome = { copy_from = default_biome }
+arctic_flatland_forest_jungle_biome = { copy_from = default_biome }
+arctic_hills_forest_jungle_biome = { copy_from = default_biome }
+arctic_plateau_forest_jungle_biome = { copy_from = default_biome }
+arctic_mountains_forest_jungle_biome = { copy_from = default_biome }
+arctic_mountains_wasteland_forest_jungle_biome = { copy_from = default_biome }
+arctic_wetlands_forest_jungle_biome = { copy_from = default_biome }
+arctic_coastal = { copy_from = default_biome }
+arctic_narrows = { copy_from = default_biome }
+arid_flatlands_desert_biome = { copy_from = default_biome }
+arid_hills_desert_biome = { copy_from = default_biome }
+arid_plateau_desert_biome = { copy_from = default_biome }
+arid_mountains_desert_biome = { copy_from = default_biome }
+arid_mountain_wasteland_desert_biome = { copy_from = default_biome }
+arid_flatlands_sparse_biome = { copy_from = default_biome }
+arid_hills_sparse_biome = { copy_from = default_biome }
+arid_plateau_sparse_biome = { copy_from = default_biome }
+arid_mountains_sparse_biome = { copy_from = default_biome }
+arid_mountains_wasteland_sparse_biome = { copy_from = default_biome }
+arid_flatland_grasslands_woods_biome = { copy_from = default_biome }
+arid_hills_grasslands_woods_biome = { copy_from = default_biome }
+arid_plateau_grasslands_woods_biome = { copy_from = default_biome }
+arid_mountains_grasslands_woods_biome = { copy_from = default_biome }
+arid_mountains_wasteland_grasslands_woods_biome = { copy_from = default_biome }
+arid_wetlands_grasslands_woods_biome = { copy_from = default_biome }
+arid_farmland_woods_biome = { copy_from = default_biome }
+arid_hills_farmland_woods_biome = { copy_from = default_biome }
+arid_plateau_farmland_biome = { copy_from = default_biome }
+arid_mountains_farmland_biome = { copy_from = default_biome }
+arid_flatland_forest_jungle_biome = { copy_from = default_biome }
+arid_hills_forest_jungle_biome = { copy_from = default_biome }
+arid_plateau_forest_jungle_biome = { copy_from = default_biome }
+arid_mountains_forest_jungle_biome = { copy_from = default_biome }
+arid_mountains_wasteland_forest_jungle_biome = { copy_from = default_biome }
+arid_wetlands_forest_jungle_biome = { copy_from = default_biome }
+arid_coastal = { copy_from = default_biome }
+arid_narrows = { copy_from = default_biome }
+cold_arid_flatlands_desert_biome = { copy_from = default_biome }
+cold_arid_hills_desert_biome = { copy_from = default_biome }
+cold_arid_plateau_desert_biome = { copy_from = default_biome }
+cold_arid_mountains_desert_biome = { copy_from = default_biome }
+cold_arid_mountain_wasteland_desert_biome = { copy_from = default_biome }
+cold_arid_flatlands_sparse_biome = { copy_from = default_biome }
+cold_arid_hills_sparse_biome = { copy_from = default_biome }
+cold_arid_plateau_sparse_biome = { copy_from = default_biome }
+cold_arid_mountains_sparse_biome = { copy_from = default_biome }
+cold_arid_mountains_wasteland_sparse_biome = { copy_from = default_biome }
+cold_arid_flatland_grasslands_woods_biome = { copy_from = default_biome }
+cold_arid_hills_grasslands_woods_biome = { copy_from = default_biome }
+cold_arid_plateau_grasslands_woods_biome = { copy_from = default_biome }
+cold_arid_mountains_grasslands_woods_biome = { copy_from = default_biome }
+cold_arid_mountains_wasteland_grasslands_woods_biome = { copy_from = default_biome }
+cold_arid_wetlands_grasslands_woods_biome = { copy_from = default_biome }
+cold_arid_farmland_woods_biome = { copy_from = default_biome }
+cold_arid_hills_farmland_woods_biome = { copy_from = default_biome }
+cold_arid_plateau_farmland_biome = { copy_from = default_biome }
+cold_arid_mountains_farmland_biome = { copy_from = default_biome }
+cold_arid_flatland_forest_jungle_biome = { copy_from = default_biome }
+cold_arid_hills_forest_jungle_biome = { copy_from = default_biome }
+cold_arid_plateau_forest_jungle_biome = { copy_from = default_biome }
+cold_arid_mountains_forest_jungle_biome = { copy_from = default_biome }
+cold_arid_mountains_wasteland_forest_jungle_biome = { copy_from = default_biome }
+cold_arid_wetlands_forest_jungle_biome = { copy_from = default_biome }
+cold_arid_coastal = { copy_from = default_biome }
+cold_arid_narrows = { copy_from = default_biome }
+tropical_flatlands_desert_biome = { copy_from = default_biome }
+tropical_hills_desert_biome = { copy_from = default_biome }
+tropical_plateau_desert_biome = { copy_from = default_biome }
+tropical_mountains_desert_biome = { copy_from = default_biome }
+tropical_mountain_wasteland_desert_biome = { copy_from = default_biome }
+tropical_flatlands_sparse_biome = { copy_from = default_biome }
+tropical_hills_sparse_biome = { copy_from = default_biome }
+tropical_plateau_sparse_biome = { copy_from = default_biome }
+tropical_mountains_sparse_biome = { copy_from = default_biome }
+tropical_mountains_wasteland_sparse_biome = { copy_from = default_biome }
+tropical_flatland_grasslands_woods_biome = { copy_from = default_biome }
+tropical_hills_grasslands_woods_biome = { copy_from = default_biome }
+tropical_plateau_grasslands_woods_biome = { copy_from = default_biome }
+tropical_mountains_grasslands_woods_biome = { copy_from = default_biome }
+tropical_mountains_wasteland_grasslands_woods_biome = { copy_from = default_biome }
+tropical_wetlands_grasslands_woods_biome = { copy_from = default_biome }
+tropical_farmland_woods_biome = { copy_from = default_biome }
+tropical_hills_farmland_woods_biome = { copy_from = default_biome }
+tropical_plateau_farmland_biome = { copy_from = default_biome }
+tropical_mountains_farmland_biome = { copy_from = default_biome }
+tropical_flatland_forest_jungle_biome = { copy_from = default_biome }
+tropical_hills_forest_jungle_biome = { copy_from = default_biome }
+tropical_plateau_forest_jungle_biome = { copy_from = default_biome }
+tropical_mountains_forest_jungle_biome = { copy_from = default_biome }
+tropical_mountains_wasteland_forest_jungle_biome = { copy_from = default_biome }
+tropical_wetlands_forest_jungle_biome = { copy_from = default_biome }
+tropical_coastal = { copy_from = default_biome }
+tropical_narrows = { copy_from = default_biome }
+oceanic_flatlands_desert_biome = { copy_from = default_biome }
+oceanic_hills_desert_biome = { copy_from = default_biome }
+oceanic_plateau_desert_biome = { copy_from = default_biome }
+oceanic_mountains_desert_biome = { copy_from = default_biome }
+oceanic_mountain_wasteland_desert_biome = { copy_from = default_biome }
+oceanic_flatlands_sparse_biome = { copy_from = default_biome }
+oceanic_hills_sparse_biome = { copy_from = default_biome }
+oceanic_plateau_sparse_biome = { copy_from = default_biome }
+oceanic_mountains_sparse_biome = { copy_from = default_biome }
+oceanic_mountains_wasteland_sparse_biome = { copy_from = default_biome }
+oceanic_flatland_grasslands_biome = { copy_from = default_biome }
+oceanic_hills_grasslands_biome = { copy_from = default_biome }
+oceanic_plateau_grasslands_biome = { copy_from = default_biome }
+oceanic_mountains_grasslands_biome = { copy_from = default_biome }
+oceanic_mountains_wasteland_grasslands_biome = { copy_from = default_biome }
+oceanic_wetlands_grasslands_biome = { copy_from = default_biome }
+oceanic_flatland_woods_biome = { copy_from = default_biome }
+oceanic_hills_woods_biome = { copy_from = default_biome }
+oceanic_plateau_woods_biome = { copy_from = default_biome }
+oceanic_mountains_woods_biome = { copy_from = default_biome }
+oceanic_mountains_wasteland_woods_biome = { copy_from = default_biome }
+oceanic_wetlands_woods_biome = { copy_from = default_biome }
+oceanic_farmland_woods_biome = { copy_from = default_biome }
+oceanic_hills_farmland_woods_biome = { copy_from = default_biome }
+oceanic_plateau_farmland_biome = { copy_from = default_biome }
+oceanic_mountains_farmland_biome = { copy_from = default_biome }
+oceanic_flatland_forest_jungle_biome = { copy_from = default_biome }
+oceanic_hills_forest_jungle_biome = { copy_from = default_biome }
+oceanic_plateau_forest_jungle_biome = { copy_from = default_biome }
+oceanic_mountains_forest_jungle_biome = { copy_from = default_biome }
+oceanic_mountains_wasteland_forest_jungle_biome = { copy_from = default_biome }
+oceanic_wetlands_forest_jungle_biome = { copy_from = default_biome }
+oceanic_coastal = { copy_from = default_biome }
+oceanic_narrows = { copy_from = default_biome }
+mediterranean_hills_desert_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_plateau_desert_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_mountains_desert_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_mountain_wasteland_desert_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_flatlands_sparse_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_hills_sparse_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_plateau_sparse_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_mountains_sparse_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_mountains_wasteland_sparse_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_flatland_grasslands_woods_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_hills_grasslands_woods_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_plateau_grasslands_woods_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_mountains_grasslands_woods_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_mountains_wasteland_grasslands_woods_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_wetlands_grasslands_woods_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_farmland_woods_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_hills_farmland_woods_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_plateau_farmland_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_mountains_farmland_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_flatland_forest_jungle_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_hills_forest_jungle_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_plateau_forest_jungle_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_mountains_forest_jungle_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_mountains_wasteland_forest_jungle_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_wetlands_forest_jungle_biome = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_coastal = { copy_from = mediterranean_flatlands_desert_biome }
+mediterranean_narrows = { copy_from = mediterranean_flatlands_desert_biome }
+tropical_wetlands_sparse_biome = { copy_from = default_biome }
+arid_wetlands_farmland_biome = { copy_from = default_biome }
+cold_arid_wetlands_sparse_biome = { copy_from = default_biome }
+desert_rock_wasteland = { copy_from = default_biome }
+arctic_wetlands_farmland_biome = { copy_from = default_biome }
+mediterranean_wetlands_sparse_biome = { copy_from = default_biome }
+tropical_wetlands_farmland_biome = { copy_from = default_biome }
+oceanic_wetlands_sparse_biome = { copy_from = default_biome }
+cold_arid_wetlands_farmland_biome = { copy_from = default_biome }
+arid_wetlands_sparse_biome = { copy_from = default_biome }
+arctic_wetlands_sparse_biome = { copy_from = default_biome }
+dune_wasteland = { copy_from = default_biome }
+mediterranean_wetlands_farmland_biome = { copy_from = default_biome }
+oceanic_wetlands_farmland_biome = { copy_from = default_biome }
+saltpans = { copy_from = default_biome }
+atolls = { copy_from = default_biome }

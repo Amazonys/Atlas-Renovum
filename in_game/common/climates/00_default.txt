@@ -66,6 +66,7 @@ cold_arid = { #Pratumic
 
 arctic = { #Glacial
 	winter = severe
+	has_precipitation = no
 	
 	color = climate_arctic
 
