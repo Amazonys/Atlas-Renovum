@@ -1,6 +1,6 @@
 ﻿sicco = {
 	winter = none
-	color = climate_arid
+	color = climate_sicco
 	has_precipitation = no
 
 	location_modifier = {
@@ -17,12 +17,12 @@
 	audio_tags = {
 		masDataClimateZone = 0.65
 	}
-	debug_color = rgb { 167 117 58 } # for climate_screenshot mapmode
+	debug_color = rgb { 196 27 27 } # for climate_screenshot mapmode
 }
 
-xeric = { #Xeric
+xeric = { 
 	winter = mild
-	color = climate_cold_arid
+	color = climate_xeric
 	has_precipitation = no
 
 	location_modifier = {
@@ -152,7 +152,7 @@ continental = {
 
 boreal = {
 	winter = severe
-	color = climate_cold_arid
+	color = climate_boreal
 	has_precipitation = no
 
 	location_modifier = {
@@ -175,7 +175,7 @@ boreal = {
 calidic = {
 	winter = none
 	
-	color = climate_mediterranean
+	color = climate_calidic
 	
 	location_modifier = {
 		local_population_capacity_modifier = 0.5
@@ -189,13 +189,13 @@ calidic = {
 	audio_tags = {
 		masDataClimateZone = 0.5
 	}
-	debug_color = rgb { 198 255 78 }  # for climate_screenshot mapmode
+	debug_color = rgb { 179 100 100 }  # for climate_screenshot mapmode
 }
 
 mesothermal = {
 	winter = mild
 	
-	color = climate_mediterranean
+	color = climate_mesothermal
 	
 	location_modifier = {
 		local_population_capacity_modifier = 1.5
@@ -236,7 +236,7 @@ oceanic = {
 hemiboreal = {
 	winter = severe
 	
-	color = climate_continental
+	color = climate_hemiboreal
 	
 	location_modifier = {
 		local_population_capacity_modifier = -0.3
@@ -298,7 +298,7 @@ subtropical = {
 
 cascadic = {
 	winter = normal
-	color = climate_subtropical
+	color = climate_cascadic
 	
 	location_modifier = {
 		local_population_capacity_modifier = 0.5
@@ -321,7 +321,7 @@ cascadic = {
 
 maritime = {
 	winter = severe
-	color = climate_subtropical
+	color = climate_maritime
 	
 	location_modifier = {
 		local_population_capacity_modifier = 0.3
