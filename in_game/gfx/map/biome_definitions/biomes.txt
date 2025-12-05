@@ -674,7 +674,6 @@
 061 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = desert
@@ -684,7 +683,6 @@
 062 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = hills
 	topography = hills_wasteland
 	vegetation = desert
@@ -694,7 +692,6 @@
 063 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = plateau
 	topography = plateau_wasteland
 	topography = hills_wasteland
@@ -705,7 +702,6 @@
 064 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = mountains
 	vegetation = desert
 	biome = cold_arid_mountains_desert_biome
@@ -715,7 +711,6 @@
 065 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = mountain_wasteland
 	vegetation = desert
 	biome = cold_arid_mountain_wasteland_desert_biome
@@ -726,7 +721,6 @@
 066 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = sparse
@@ -736,7 +730,6 @@
 067 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = hills
 	topography = hills_wasteland
 	vegetation = sparse
@@ -747,7 +740,6 @@
 068 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = sparse
@@ -757,7 +749,6 @@
 069 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = mountains
 	vegetation = sparse
 	biome = cold_arid_mountains_sparse_biome
@@ -766,7 +757,6 @@
 070 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = mountain_wasteland
 	vegetation = sparse
 	biome = cold_arid_mountains_wasteland_sparse_biome
@@ -775,7 +765,6 @@
 071 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = sparse
@@ -787,7 +776,6 @@
 072 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = grasslands
@@ -798,7 +786,6 @@
 073 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = hills
 	topography = hills_wasteland
 	vegetation = grasslands
@@ -809,7 +796,6 @@
 074 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = grasslands
@@ -821,7 +807,6 @@
 075 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = mountains
 	vegetation = grasslands
 	vegetation = woods
@@ -831,7 +816,6 @@
 076 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = mountain_wasteland
 	vegetation = grasslands
 	vegetation = woods
@@ -841,7 +825,6 @@
 077 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = grasslands
@@ -854,7 +837,6 @@
 078 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = farmland
@@ -864,7 +846,6 @@
 079 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = hills
 	topography = hills_wasteland
 	vegetation = farmland
@@ -874,7 +855,6 @@
 080 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = farmland
@@ -884,7 +864,6 @@
 081 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = mountains
 	vegetation = farmland
 	biome = cold_arid_mountains_farmland_biome
@@ -893,7 +872,6 @@
 082 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = farmland
@@ -905,7 +883,6 @@
 083 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = forest
@@ -916,7 +893,6 @@
 084 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = hills
 	topography = hills_wasteland
 	vegetation = forest
@@ -927,7 +903,6 @@
 085 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = forest
@@ -939,7 +914,6 @@
 086 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = mountains
 	vegetation = forest
 	vegetation = jungle
@@ -949,7 +923,6 @@
 087 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = mountain_wasteland
 	vegetation = forest
 	vegetation = jungle
@@ -959,7 +932,6 @@
 088 = 
 {
 	climate = cold_arid
-	climate = xeric
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = forest
@@ -972,7 +944,6 @@
 089 =
 {
 	climate = cold_arid
-	climate = xeric
 	topography = lakes
 	topography = inland_sea
 	topography = coastal_ocean
@@ -984,7 +955,6 @@
 090 =
 {
 	climate = cold_arid
-	climate = xeric
 	topography = narrows
 	biome = cold_arid_narrows
 }
@@ -995,7 +965,8 @@
 
 091 =  
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = flatland
@@ -1006,7 +977,8 @@
 
 092 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = hills
@@ -1017,7 +989,8 @@
 
 093 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = plateau
@@ -1029,7 +1002,8 @@
 
 094 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = mountains
@@ -1040,7 +1014,8 @@
 
 095 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = mountain_wasteland
@@ -1052,7 +1027,8 @@
 
 096 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = flatland
@@ -1063,7 +1039,8 @@
 
 097 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = hills
@@ -1075,7 +1052,8 @@
 
 098 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = plateau
@@ -1086,7 +1064,8 @@
 
 099 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = mountains
@@ -1096,7 +1075,8 @@
 
 100 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = mountain_wasteland
@@ -1106,7 +1086,8 @@
 
 101 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = wetlands
@@ -1119,7 +1100,8 @@
 
 102 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = flatland
@@ -1131,7 +1113,8 @@
 
 103 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = hills
@@ -1143,7 +1126,8 @@
 
 104 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = plateau
@@ -1156,7 +1140,8 @@
 
 105 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = mountains
@@ -1167,7 +1152,8 @@
 
 106 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = mountain_wasteland
@@ -1178,7 +1164,8 @@
 
 107 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = wetlands
@@ -1192,7 +1179,8 @@
 
 108 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = flatland
@@ -1203,7 +1191,8 @@
 
 109 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = hills
@@ -1214,7 +1203,8 @@
 
 110 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = plateau
@@ -1226,7 +1216,8 @@
 
 111 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = mountains
@@ -1236,7 +1227,8 @@
 
 112 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = wetlands
@@ -1249,7 +1241,8 @@
 
 113 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = flatland
@@ -1261,7 +1254,8 @@
 
 114 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = hills
@@ -1273,7 +1267,8 @@
 
 115 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = plateau
@@ -1286,7 +1281,8 @@
 
 116 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = mountains
@@ -1297,7 +1293,8 @@
 
 117 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = mountain_wasteland
@@ -1308,7 +1305,8 @@
 
 118 = 
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = wetlands
@@ -1322,7 +1320,8 @@
 
 119 =
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = lakes
@@ -1335,7 +1334,8 @@
 
 120 =
 {
-	climate = tropical
+	climate = tropical	
+	climate = calidic
 	climate = subtropical
 	climate = mesothermal
 	topography = narrows
@@ -1348,8 +1348,11 @@
 
 121 =  
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = desert
@@ -1358,8 +1361,11 @@
 
 122 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = hills
 	topography = hills_wasteland
 	vegetation = desert
@@ -1368,8 +1374,11 @@
 
 123 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = plateau
 	topography = plateau_wasteland
 	topography = hills_wasteland
@@ -1379,8 +1388,11 @@
 
 124 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = mountains
 	vegetation = desert
 	biome = oceanic_mountains_desert_biome
@@ -1389,8 +1401,11 @@
 
 125 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = mountain_wasteland
 	vegetation = desert
 	biome = oceanic_mountain_wasteland_desert_biome
@@ -1400,8 +1415,11 @@
 
 126 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = sparse
@@ -1410,8 +1428,11 @@
 
 127 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = hills
 	topography = hills_wasteland
 	vegetation = sparse
@@ -1421,8 +1442,11 @@
 
 128 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = sparse
@@ -1431,8 +1455,11 @@
 
 129 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = mountains
 	vegetation = sparse
 	biome = oceanic_mountains_sparse_biome
@@ -1440,8 +1467,11 @@
 
 130 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = mountain_wasteland
 	vegetation = sparse
 	biome = oceanic_mountains_wasteland_sparse_biome
@@ -1449,8 +1479,11 @@
 
 131 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = sparse
@@ -1461,8 +1494,11 @@
 
 132 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = grasslands
@@ -1471,8 +1507,11 @@
 
 133 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = hills
 	topography = hills_wasteland
 	vegetation = grasslands
@@ -1481,8 +1520,11 @@
 
 134 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = grasslands
@@ -1492,8 +1534,11 @@
 
 135 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = mountains
 	vegetation = grasslands
 	biome = oceanic_mountains_grasslands_biome
@@ -1501,8 +1546,11 @@
 
 136 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = mountain_wasteland
 	vegetation = grasslands
 	biome = oceanic_mountains_wasteland_grasslands_biome
@@ -1510,8 +1558,11 @@
 
 137 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = grasslands
@@ -1523,8 +1574,11 @@
 
 138 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = woods
@@ -1533,8 +1587,11 @@
 
 139 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = hills
 	topography = hills_wasteland
 	vegetation = woods
@@ -1543,8 +1600,11 @@
 
 140 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = woods
@@ -1554,8 +1614,11 @@
 
 142 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = mountains
 	vegetation = woods
 	biome = oceanic_mountains_woods_biome
@@ -1563,8 +1626,11 @@
 
 143 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = mountain_wasteland
 	vegetation = woods
 	biome = oceanic_mountains_wasteland_woods_biome
@@ -1572,8 +1638,11 @@
 
 144 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = woods
@@ -1584,8 +1653,11 @@
 
 145 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = farmland
@@ -1594,8 +1666,11 @@
 
 146 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = hills
 	topography = hills_wasteland
 	vegetation = farmland
@@ -1604,8 +1679,11 @@
 
 147 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = farmland
@@ -1615,8 +1693,11 @@
 
 148 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = mountains
 	vegetation = farmland
 	biome = oceanic_mountains_farmland_biome
@@ -1624,8 +1705,11 @@
 
 149 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = farmland
@@ -1636,8 +1720,11 @@
 
 150 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = forest
@@ -1647,8 +1734,11 @@
 
 151 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = hills
 	topography = hills_wasteland
 	vegetation = forest
@@ -1658,8 +1748,11 @@
 
 152 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = forest
@@ -1670,8 +1763,11 @@
 
 153 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = mountains
 	vegetation = forest
 	vegetation = jungle
@@ -1680,8 +1776,11 @@
 
 154 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = mountain_wasteland
 	vegetation = forest
 	vegetation = jungle
@@ -1690,8 +1789,11 @@
 
 155 = 
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = forest
@@ -1703,8 +1805,11 @@
 
 156 =
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = lakes
 	topography = inland_sea
 	topography = coastal_ocean
@@ -1715,8 +1820,11 @@
 
 157 =
 {
-	climate = oceanic
+	climate = oceanic	
+	climate = maritime	
+	climate = cascadic	
 	climate = continental
+	climate = hemiboreal
 	topography = narrows
 	biome = oceanic_narrows
 }
@@ -1728,6 +1836,7 @@
 158 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = desert
@@ -1737,6 +1846,7 @@
 159 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = hills
 	topography = hills_wasteland
 	vegetation = desert
@@ -1746,6 +1856,7 @@
 160 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = plateau
 	topography = plateau_wasteland
 	topography = hills_wasteland
@@ -1756,6 +1867,7 @@
 161 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = mountains
 	vegetation = desert
 	biome = mediterranean_mountains_desert_biome
@@ -1765,6 +1877,7 @@
 162 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = mountain_wasteland
 	vegetation = desert
 	biome = mediterranean_mountain_wasteland_desert_biome
@@ -1775,6 +1888,7 @@
 163 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = sparse
@@ -1784,6 +1898,7 @@
 164 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = hills
 	topography = hills_wasteland
 	vegetation = sparse
@@ -1794,6 +1909,7 @@
 165 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = sparse
@@ -1803,6 +1919,7 @@
 166 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = mountains
 	vegetation = sparse
 	biome = mediterranean_mountains_sparse_biome
@@ -1811,6 +1928,7 @@
 167 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = mountain_wasteland
 	vegetation = sparse
 	biome = mediterranean_mountains_wasteland_sparse_biome
@@ -1819,6 +1937,7 @@
 168 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = sparse
@@ -1830,6 +1949,7 @@
 169 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = grasslands
@@ -1840,6 +1960,7 @@
 170 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = hills
 	topography = hills_wasteland
 	vegetation = grasslands
@@ -1850,6 +1971,7 @@
 171 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = grasslands
@@ -1861,6 +1983,7 @@
 172 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = mountains
 	vegetation = grasslands
 	vegetation = woods
@@ -1870,6 +1993,7 @@
 173 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = mountain_wasteland
 	vegetation = grasslands
 	vegetation = woods
@@ -1879,6 +2003,7 @@
 174 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = grasslands
@@ -1891,6 +2016,7 @@
 175 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = farmland
@@ -1900,6 +2026,7 @@
 176 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = hills
 	topography = hills_wasteland
 	vegetation = farmland
@@ -1909,6 +2036,7 @@
 177 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = farmland
@@ -1919,6 +2047,7 @@
 178 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = mountains
 	vegetation = farmland
 	biome = mediterranean_mountains_farmland_biome
@@ -1927,6 +2056,7 @@
 179 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = farmland
@@ -1938,6 +2068,7 @@
 180 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = flatland
 	topography = flatland_wasteland
 	vegetation = forest
@@ -1948,6 +2079,7 @@
 181 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = hills
 	topography = hills_wasteland
 	vegetation = forest
@@ -1958,6 +2090,7 @@
 182 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = plateau
 	topography = plateau_wasteland
 	vegetation = forest
@@ -1969,6 +2102,7 @@
 183 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = mountains
 	vegetation = forest
 	vegetation = jungle
@@ -1978,6 +2112,7 @@
 184 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = mountain_wasteland
 	vegetation = forest
 	vegetation = jungle
@@ -1987,6 +2122,7 @@
 185 = 
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = wetlands
 	topography = wetlands_wasteland
 	vegetation = forest
@@ -1999,6 +2135,7 @@
 186 =
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = lakes
 	topography = inland_sea
 	topography = coastal_ocean
@@ -2010,6 +2147,7 @@
 187 =
 {
 	climate = mediterranean
+	climate = xeric	
 	topography = narrows
 	biome = mediterranean_narrows
 }

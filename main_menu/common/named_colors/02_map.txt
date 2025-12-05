@@ -3962,19 +3962,19 @@ colors = {
 	terrain_salt_pans = rgb { 141 130 61 }
 	terrain_atoll = hsv360 { 195 70 100 }
 	
-	climate_sicco = rgb { 180 150 145 }
-	climate_xeric = rgb { 240 210 182 }
-	climate_cold_arid = rgb { 211 222 190 }
-	climate_arctic = rgb { 153 206 203}
+	climate_sicco = rgb { 215 177 145 }
+	climate_xeric = rgb { 240 240 177 }
+	climate_cold_arid = rgb { 191 219 157 }
+	climate_arctic = rgb { 191 205 238 }
 	
 	climate_arid = rgb { 170 122 122 }
 	climate_mediterranean = rgb { 198 255 78 }
-	climate_continental = rgb { 102 255 51 }
+	climate_continental = hsv360 { 126 57 62 }
 	climate_boreal = rgb {120 171 191}
 	
 	climate_calidic = rgb { 180 90 90 }
-	climate_mesothermal = rgb { 210 190 119 }
-	climate_oceanic = rgb { 126 57 62 }
+	climate_mesothermal = rgb { 222 245 11 }
+	climate_oceanic = rgb { 102 255 51 }
 	climate_hemiboreal = rgb { 52 163 141 }
 	
 	climate_tropical = rgb { 191 22 22 }

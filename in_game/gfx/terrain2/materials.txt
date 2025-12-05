@@ -1297,46 +1297,53 @@ biomes = {
 		materials = {
 
 			#Coastlines
-			base_sand	#flatland
-			base_sand	#hills
-			base_sand	#plateaus
-			base_sand	#mountains
-			base_sand	#wetlands
-			base_sand	#coastline transition
+			sand_transition	#flatland
+			sediment_orange_01	#hills
+			sediment_orange_01	#plateaus
+			sediment_orange_01	#mountains
+			sand_transition	#wetlands
+			sand_transition	#coastline transition
 
 			##Rivers/Borders+Transitions Vegetation+Climate
 			sand_transition	#rivers/lakes
 			sand_transition	#borders/water transition
-			sand_transition	#transition vegetation
-			sand_transition	#transition climate
+			sediment_heavy_orange_01	#transition vegetation
+			sediment_heavy_orange_01	#transition climate
 
 			##Variations
-			base_sand	#variation 1.1
-			base_sand	#variation 1.2
-			base_sand	#variation 1.3
-			base_sand	#variation 2.1
-			base_sand	#variation 2.2
-			base_sand	#variation 2.3
+			sand_dunes_variation_01	#variation 1.1
+			sand_dunes_variation_01	#variation 1.2
+			sand_dunes_variation_01	#variation 1.3
+			sediment_heavy_orange_01	#variation 2.1
+			sand_dunes_variation_01	#variation 2.2
+			sand_dunes_variation_01	#variation 2.3
 		}
 	}
 
 	{
 		name = arid_hills_desert_biome
 		materials = {
+			#Coastlines
+			sand_transition	#flatland
+			sediment_orange_01	#hills
+			sediment_orange_01	#plateaus
+			sediment_heavy_orange_01	#mountains
+			sand_transition	#wetlands
+			sand_transition	#coastline transition
 
-			base_sand
-			base_sand
-			base_sand
-			base_sand
-			base_sand
-			base_sand
-			base_sand
-			base_sand
-			base_sand
-			base_sand
-			base_sand
-			base_sand
-			base_sand
+			##Rivers/Borders+Transitions Vegetation+Climate
+			grass_scatter_orange_variation_01	#rivers/lakes
+			sand_transition	#borders/water transition
+			sediment_heavy_orange_01	#transition vegetation
+			sediment_heavy_orange_01	#transition climate
+
+			##Variations
+			sand_dunes_variation_01	#variation 1.1
+			sand_dunes_variation_01	#variation 1.2
+			sediment_heavy_orange_01	#variation 1.3
+			sand_dunes_variation_01	#variation 2.1
+			sand_dunes_variation_01	#variation 2.2
+			sediment_heavy_orange_01	#variation 2.3
 		}
 	}
 
@@ -1359,13 +1366,13 @@ biomes = {
 			sediment_orange_01
 			grass_scatter_orange_variation_01
 			grass_scatter_orange_variation_01
-			base_sand
+			sand_dunes_variation_01
 			base_rock_ochre_01
 			base_rock_ochre_01
 			base_rock_ochre_01
 			base_rock_ochre_01
 			sediment_heavy_orange_01
-			base_sand
+			sand_dunes_variation_01
 		}
 	}
 
