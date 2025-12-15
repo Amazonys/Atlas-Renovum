@@ -8,6 +8,7 @@ sca_unified_scandinavia = {
 	icon = dan_scanian_regiment
 	
 	global_crown_estate_power = 0.1
+	unlock_cabinet_action = merge_culture_group	
 }
 
 sca_legacy_kalmar_union = {
