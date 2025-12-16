@@ -1,0 +1,10 @@
+﻿l_english:
+
+ #Village Production Methods 
+ farming_village_millet_maintenance: "Grain Farming"
+ farming_village_wheat_maintenance: "Wheat Farming"
+ farming_village_rice_maintenance: "Rice Farming"
+ forest_village_leather_maintenance: "Hide Tanning"
+ forest_village_game_maintenance: "Hunting Grounds"
+ forest_village_lumber_maintenance: "Logging"
+ 
