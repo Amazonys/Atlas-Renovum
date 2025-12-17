@@ -58,7 +58,7 @@ fishing_village = {
 	
 		fishing_village_maintenance = {
 			produced = fish
-			output = 0.5
+			output = 1
 			
 			salt = 0.08
 			tools = 0.02
@@ -71,7 +71,7 @@ fishing_village = {
 		
 		arctic_fishing_village_maintenance = {
 			produced = fish
-			output = 0.5
+			output = 1
 			
 			salt = 0.08
 			ivory = 0.01
@@ -140,7 +140,7 @@ farming_village = {
 			tools = 0.025
 			clay = 1.0
 			
-			output = 0.5
+			output = 0.625
 			
 			produced = livestock
 			
@@ -164,7 +164,7 @@ farming_village = {
 			tools = 0.025
 			clay = 1.0
 			
-			output = 0.5
+			output = 0.625
 			
 			produced = wheat
 			
@@ -253,7 +253,7 @@ forest_village = {
 			category = building_maintenance
 		}
 		forest_village_game_maintenance = {
-			produced = game
+			produced = wild_game
 			
 			output = 1
 			
