@@ -6944,7 +6944,7 @@ kaliakra_point = { topography = inland_sea climate = mesothermal}
 south_danube_delta = { topography = inland_sea climate = cold_arid}
 north_danube_delta = { topography = inland_sea climate = cold_arid}
 dniester_estuary = { topography = inland_sea climate = cold_arid}
-black_sea5 = { topography = inland_sea climate = mesothermal}
+black_sea5 = { topography = inland_sea climate = oceanic}
 dnieper_bug_estuary = { topography = narrows climate = cold_arid}
 karadzhynska_bay = { topography = inland_sea climate = cold_arid}
 karkinit_bay = { topography = narrows climate = cold_arid}
@@ -6959,8 +6959,8 @@ kaffa_bay = { topography = inland_sea climate = cold_arid}
 circassian_coast = { topography = inland_sea climate = mesothermal}
 gelendzhik_bay = { topography = inland_sea climate = mesothermal}
 tsemess_bay = { topography = inland_sea climate = cold_arid}
-black_sea2 = { topography = inland_sea climate = mesothermal}
-black_sea3 = { topography = inland_sea climate = mesothermal}
+black_sea2 = { topography = inland_sea climate = oceanic}
+black_sea3 = { topography = inland_sea climate = oceanic}
 balik_gulf = { topography = inland_sea climate = mesothermal}
 cape_yasurt = { topography = inland_sea climate = oceanic}
 east_pontic_coast = { topography = inland_sea climate = oceanic}
@@ -6968,14 +6968,14 @@ cape_fener = { topography = inland_sea climate = oceanic}
 batumi_bay = { topography = inland_sea climate = mesothermal}
 sokhumi_bay = { topography = inland_sea climate = mesothermal}
 pitsunda_cape = { topography = inland_sea climate = mesothermal}
-black_sea1 = { topography = inland_sea climate = mesothermal}
+black_sea1 = { topography = inland_sea climate = oceanic}
 cape_pazarbasi = { topography = inland_sea climate = mesothermal}
 cape_baba = { topography = inland_sea climate = oceanic}
 west_pontic_coast = { topography = inland_sea climate = mesothermal}
 cape_kerempe = { topography = inland_sea climate = oceanic}
 central_pontic_coast = { topography = inland_sea climate = mesothermal}
 cape_sinop = { topography = inland_sea climate = mesothermal}
-black_sea4 = { topography = inland_sea climate = mesothermal}
+black_sea4 = { topography = inland_sea climate = oceanic}
 obitochny_gulf = { topography = inland_sea climate = cold_arid}
 genichskaya_channel = { topography = inland_sea climate = cold_arid}
 taganrog_gulf = { topography = narrows climate = cold_arid}
@@ -14734,7 +14734,7 @@ lopburi = { topography = wetlands vegetation = farmland climate = tropical relig
 prachinburi = { topography = flatland vegetation = jungle climate = tropical religion = theravada culture = thai_culture raw_material = lumber}
 saraburi = { topography = flatland vegetation = forest climate = tropical religion = theravada culture = thai_culture raw_material = millet}
 sankamphaeng_mountains = { topography = mountain_wasteland vegetation = jungle climate = tropical}
-phetchaburi = { topography = flatland vegetation = jungle climate = tropical religion = theravada culture = thai_culture raw_material = sugar natural_harbor_suitability = 0.00}
+phetchaburi = { topography = flatland vegetation = jungle climate = calidic religion = theravada culture = thai_culture raw_material = sugar natural_harbor_suitability = 0.00}
 chumphon = { topography = flatland vegetation = jungle climate = tropical religion = theravada culture = dambro_culture raw_material = lumber natural_harbor_suitability = 0.00}
 muang_na_rang = { topography = flatland vegetation = jungle climate = tropical religion = theravada culture = thai_culture raw_material = lumber natural_harbor_suitability = 0.00}
 phraek = { topography = flatland vegetation = grasslands climate = tropical religion = theravada culture = thai_culture raw_material = livestock}
@@ -14758,11 +14758,11 @@ nakhon_thai = { topography = hills vegetation = jungle climate = tropical religi
 song_khwae = { topography = plateau vegetation = jungle climate = tropical religion = theravada culture = thai_culture raw_material = horses}
 sra_luang = { topography = flatland vegetation = grasslands climate = tropical religion = theravada culture = thai_culture raw_material = rice}
 sri_satchanalai = { topography = flatland vegetation = jungle climate = tropical religion = theravada culture = thai_culture raw_material = millet}
-suphanburi = { topography = flatland vegetation = grasslands climate = tropical religion = theravada culture = thai_culture raw_material = rice}
-chaisri = { topography = flatland vegetation = forest climate = tropical religion = theravada culture = thai_culture raw_material = lumber natural_harbor_suitability = 0.00}
-kanchanaburi = { topography = hills vegetation = jungle climate = tropical religion = karen_religion culture = karen_culture raw_material = millet}
-ratchaburi = { topography = flatland vegetation = jungle climate = tropical religion = theravada culture = thai_culture raw_material = lumber natural_harbor_suitability = 0.00}
-wang_pho = { topography = hills vegetation = jungle climate = tropical religion = karen_religion culture = karen_culture raw_material = stone}
+suphanburi = { topography = flatland vegetation = grasslands climate = calidic religion = theravada culture = thai_culture raw_material = rice}
+chaisri = { topography = flatland vegetation = forest climate = calidic religion = theravada culture = thai_culture raw_material = lumber natural_harbor_suitability = 0.00}
+kanchanaburi = { topography = hills vegetation = jungle climate = calidic religion = karen_religion culture = karen_culture raw_material = millet}
+ratchaburi = { topography = flatland vegetation = jungle climate = calidic religion = theravada culture = thai_culture raw_material = lumber natural_harbor_suitability = 0.00}
+wang_pho = { topography = hills vegetation = jungle climate = calidic religion = karen_religion culture = karen_culture raw_material = stone}
 tak = { topography = flatland vegetation = forest climate = tropical religion = theravada culture = thai_culture raw_material = rice}
 ban_pa_la_ta = { topography = hills vegetation = jungle climate = tropical religion = karen_religion culture = karen_culture raw_material = tin}
 mae_sot = { topography = hills vegetation = jungle climate = tropical religion = karen_religion culture = karen_culture raw_material = gems}
@@ -14803,11 +14803,11 @@ laungshe = { topography = hills vegetation = forest climate = calidic religion =
 ngape = { topography = hills vegetation = forest climate = calidic religion = theravada culture = burmese_culture raw_material = millet}
 sagu = { topography = flatland vegetation = woods climate = calidic religion = theravada culture = burmese_culture raw_material = millet}
 arakan_mountains1 = { topography = mountain_wasteland vegetation = jungle climate = subtropical}
-taungoo = { topography = flatland vegetation = forest climate = tropical religion = theravada culture = burmese_culture raw_material = legumes}
-lewe = { topography = mountains vegetation = jungle climate = tropical religion = theravada culture = burmese_culture raw_material = wool}
-nwamethin = { topography = flatland vegetation = forest climate = tropical religion = theravada culture = burmese_culture raw_material = millet}
-pyinmana = { topography = flatland vegetation = jungle climate = tropical religion = theravada culture = burmese_culture raw_material = lumber}
-thandaunggyi = { topography = hills vegetation = forest climate = tropical religion = karen_religion culture = karen_culture raw_material = fruit}
+taungoo = { topography = flatland vegetation = forest climate = calidic religion = theravada culture = burmese_culture raw_material = legumes}
+lewe = { topography = mountains vegetation = jungle climate = calidic religion = theravada culture = burmese_culture raw_material = wool}
+nwamethin = { topography = flatland vegetation = forest climate = calidic religion = theravada culture = burmese_culture raw_material = millet}
+pyinmana = { topography = flatland vegetation = jungle climate = calidic religion = theravada culture = burmese_culture raw_material = lumber}
+thandaunggyi = { topography = hills vegetation = forest climate = calidic religion = karen_religion culture = karen_culture raw_material = fruit}
 martaban = { topography = flatland vegetation = jungle climate = tropical religion = theravada culture = mon_culture raw_material = rice natural_harbor_suitability = 0.00}
 haungtharaw = { topography = flatland vegetation = jungle climate = tropical religion = theravada culture = mon_culture raw_material = lumber}
 hpa_an = { topography = flatland vegetation = jungle climate = tropical religion = theravada culture = mon_culture raw_material = rice}
@@ -15077,12 +15077,12 @@ ban_luang_cheng = { topography = mountains vegetation = forest climate = subtrop
 muang_thaeng = { topography = hills vegetation = jungle climate = subtropical religion = satsana_phi culture = lao_culture raw_material = rice}
 nam_xuang = { topography = mountains vegetation = jungle climate = subtropical religion = mahayana culture = lao_culture raw_material = elephants}
 phongsali = { topography = mountains vegetation = forest climate = subtropical religion = satsana_phi culture = tai_lu_culture raw_material = millet}
-muang_yuam = { topography = mountains vegetation = jungle climate = tropical religion = karen_religion culture = karen_culture raw_material = medicaments}
-hot = { topography = hills vegetation = jungle climate = tropical religion = theravada culture = khon_muang_culture raw_material = lumber}
+muang_yuam = { topography = mountains vegetation = jungle climate = calidic religion = karen_religion culture = karen_culture raw_material = medicaments}
+hot = { topography = hills vegetation = jungle climate = calidic religion = theravada culture = khon_muang_culture raw_material = lumber}
 mae_hong_son = { topography = mountains vegetation = jungle climate = subtropical religion = karen_religion culture = karen_culture raw_material = amber}
 muang_jam = { topography = mountains vegetation = jungle climate = subtropical religion = theravada culture = khon_muang_culture raw_material = lumber}
-omkoi = { topography = mountains vegetation = jungle climate = tropical religion = theravada culture = khon_muang_culture raw_material = incense}
-sariang = { topography = hills vegetation = jungle climate = tropical religion = karen_religion culture = karen_culture raw_material = elephants}
+omkoi = { topography = mountains vegetation = jungle climate = calidic religion = theravada culture = khon_muang_culture raw_material = incense}
+sariang = { topography = hills vegetation = jungle climate = calidic religion = karen_religion culture = karen_culture raw_material = elephants}
 karen_jungle = { topography = hills_wasteland vegetation = jungle climate = tropical}
 phrae = { topography = flatland vegetation = forest climate = tropical religion = theravada culture = thai_culture raw_material = livestock}
 muang_ngao = { topography = hills vegetation = forest climate = tropical religion = theravada culture = khon_muang_culture raw_material = rice}
@@ -15183,12 +15183,12 @@ takawng = { topography = flatland vegetation = forest climate = tropical religio
 mongnai = { topography = plateau vegetation = jungle climate = subtropical religion = satsana_phi culture = tai_long_culture raw_material = rice}
 kengtawng = { topography = plateau vegetation = jungle climate = subtropical religion = satsana_phi culture = tai_long_culture raw_material = legumes}
 lai_hka = { topography = plateau vegetation = jungle climate = subtropical religion = satsana_phi culture = tai_long_culture raw_material = iron}
-mawkmai = { topography = hills vegetation = jungle climate = tropical religion = satsana_phi culture = tai_long_culture raw_material = stone}
+mawkmai = { topography = hills vegetation = jungle climate = calidic religion = satsana_phi culture = tai_long_culture raw_material = stone}
 mongkung = { topography = plateau vegetation = jungle climate = subtropical religion = satsana_phi culture = tai_long_culture raw_material = tin}
 mongtung = { topography = mountains vegetation = jungle climate = subtropical religion = satsana_phi culture = tai_long_culture raw_material = lead}
-mongpai = { topography = plateau vegetation = jungle climate = tropical religion = karen_religion culture = karen_culture raw_material = lumber}
+mongpai = { topography = plateau vegetation = jungle climate = calidic religion = karen_religion culture = karen_culture raw_material = lumber}
 lawksawk = { topography = plateau vegetation = forest climate = subtropical religion = satsana_phi culture = tai_long_culture raw_material = lumber}
-siri_do = { topography = mountains vegetation = jungle climate = tropical religion = karen_religion culture = karen_culture raw_material = tin}
+siri_do = { topography = mountains vegetation = jungle climate = calidic religion = karen_religion culture = karen_culture raw_material = tin}
 taunggyi = { topography = plateau vegetation = forest climate = subtropical religion = karen_religion culture = karen_culture raw_material = legumes}
 yawnghwe = { topography = hills vegetation = forest climate = subtropical religion = karen_religion culture = karen_culture raw_material = elephants}
 inle_lake = { topography = high_lakes climate = subtropical}
