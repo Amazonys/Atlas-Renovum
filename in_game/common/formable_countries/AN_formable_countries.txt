@@ -1,0 +1,168 @@
+﻿DUA_f = {
+	level = 4
+	required_locations_fraction = 0.3
+
+	rule = historical
+	
+	potential = {
+		any_primary_or_accepted_or_tolerated_culture = { has_culture_group = culture_group:british_group }
+	}
+
+	allow = {
+		culture = { has_culture_group = culture_group:british_group }
+		situation:hundred_years_war = {
+			situation_has_ended = yes
+		}
+		OR = {
+			AND = {
+				owns = location:paris
+				NOT = { country_exists = c:FRA }
+			}
+			c:FRA = { 
+				OR = {
+					AND = { is_subject_or_below_of = root }
+					AND = {
+						in_union_with = root
+						union ?= {
+							international_organization_has_policy = policy:union_establish_seniority_policy
+							country_has_special_status = {
+								type = special_status:senior_partner
+								country = root
+							}
+						} 
+					}
+				}
+			}
+		}
+		trigger_if = {
+			limit = { 
+				country_exists = c:ENG
+				this != c:ENG
+			}
+			custom_tooltip = {
+				text = GBR_f_trigger_eng
+				OR = {
+					tag = ENG
+					NOT = { country_exists = c:ENG }
+					c:ENG = { is_subject_or_below_of = root }
+				}			
+			}
+		}
+		trigger_if = {
+			limit = { 
+				country_exists = c:WLS
+				this != c:WLS
+			}
+			custom_tooltip = {
+				text = GBR_f_trigger_wls
+				OR = {
+					tag = WLS
+					NOT = { country_exists = c:WLS }
+					c:WLS = { is_subject_or_below_of = root }
+				}			
+			}
+		}
+		trigger_if = {
+			limit = { 
+				country_exists = c:SBL
+				this != c:SBL
+			}
+			custom_tooltip = {
+				text = GBR_f_trigger_sbl
+				OR = {
+					tag = SBL
+					NOT = { country_exists = c:SBL }
+					c:SBL = { is_subject_or_below_of = root }
+				}			
+			}
+		}
+	}
+	
+	name = DUA
+	flag = DUA
+	adjective = DUA_ADJ
+	tag = DUA
+	color = map_DUA
+
+	regions = {
+		great_britain_region
+		france_region
+	}
+	locations = {
+		london
+		paris
+	}
+	form_effect = {
+		annex_country = { country = c:FRA }
+		change_culture = culture:anglois
+		hidden_effect = {
+			ruler = { change_character_culture = culture:anglois every_child = { change_character_culture = culture:anglois } }
+			heir = { change_character_culture = culture:anglois every_child = { change_character_culture = culture:anglois } }
+			spouse = { change_character_culture = culture:anglois }
+			every_cabinet_character = { change_character_culture = culture:anglois }
+			location:london = {
+				every_pop = {
+					limit = {
+						culture = culture:english
+					}
+					change_pop_culture = culture:anglois
+				}
+				change_integration_level = core
+			}
+			location:paris = {
+				every_pop = {
+					limit = {
+						culture = culture:english
+					}
+					change_pop_culture = culture:anglois
+				}
+				change_integration_level = core
+			}
+			every_owned_location = {
+				limit = {
+					NOT = { OR = { location = location:london location = location:paris } }
+					#OR = {
+					#	location_rank = location_rank:town
+					#	location_rank = location_rank:city
+					#}
+				}
+				random_pop = {
+					limit = {
+						owner = root
+						pop_type = pop_type:nobles
+					}
+					change_pop_culture = culture:anglois
+				}
+				random_pop = {
+					limit = {
+						owner = root
+						pop_type = pop_type:clergy
+					}
+					change_pop_culture = culture:anglois
+				}
+				random_pop = {
+					limit = {
+						owner = root
+						pop_type = pop_type:burghers
+					}
+					change_pop_culture = culture:anglois
+				}
+				
+				random_pop = {
+					limit = {
+						owner = root
+						pop_type = pop_type:laborers
+					}
+					change_pop_culture = culture:anglois
+				}
+				random_pop = {
+					limit = {
+						owner = root
+						pop_type = pop_type:peasants
+					}
+					change_pop_culture = culture:anglois
+				}
+			}
+		}
+	}
+}

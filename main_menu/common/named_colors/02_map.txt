@@ -15,6 +15,7 @@ colors = {
 	map_ENG = hsv360 { 2 80 95 }
 	map_AIA = hsv360 { 154 100 33 }
 	map_GBR = hsv360 { 355 70 90 }
+	map_DUA = rgb { 46 0 108 }
 	map_finnish = hsv360 { 216 24 80 }
 	map_bjarmian = rgb { 170 230 180 }
 	map_tavastian = rgb { 174 200 80 }

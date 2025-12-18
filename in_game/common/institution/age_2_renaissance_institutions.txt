@@ -86,12 +86,15 @@ banking = {
 					area = area:tuscany_area
 					area = area:veneto_area
 					area = area:liguria_area
+					area = area:flanders_area
+					area = area:brabant_area
+					area = area:holland_area
+					area = area:friesland_area
 				}
 				OR = {
 					location_rank = location_rank:town
 					location_rank = location_rank:city
 				}
-				location_tax_base = 25
 				
 				
 				owner = {
