@@ -1,0 +1,616 @@
+﻿l_english:
+### Region 'scandinavian_region' () ###
+
+## Area 'svealand_area' () ##
+# Province 'uppland_province' () #
+stockholm.sami_language: "Muorrašuolu"
+norrtalje.sami_language: "Nuorttáljá"
+enkoping.sami_language: "Eanámárkan"
+uppsala.sami_language: "Bajitsálá"
+kastelholm.sami_language: "Gásttešuolu"
+tierp.sami_language: "Dierbmáki"
+heby.sami_language: "Heibbát"
+
+# Province 'sodermanland_province' () #
+nykoping.sami_language: "Ođđagávpot"
+kolmarden.sami_language: "Golmmavuopmi"
+strangnas.sami_language: "Stráŋganjárga"
+oppunda.sami_language: "Oapmanvuopmi"
+sodertalje.sami_language: "Nanneáljá"
+
+# Province 'vastmanland_province' () #
+arboga.sami_language: "Árbuga"
+vasteras.sami_language: "Vesterássi"
+nora.sami_language: "Nuarra"
+sala.sami_language: "Sáláruoktu"
+sala.sami_language: "Sáláruoktu"
+skinskatteberg.sami_language: "Šiggnibeardda"
+linde.sami_language: "Lindi"
+grythyttan.sami_language: "Gryttehytte"
+
+# Province 'nerike_province' () #
+orebro.sami_language: "Oarreborg"
+riseberga.sami_language: "Rissabeardi"
+goksholm.sami_language: "Guksuolu"
+
+# Province 'varmland_province' () #
+varnum.sami_language: "Várnumnjárga"
+tingvalla.sami_language: "Dingávuolli"
+nas.sami_language: "Náasnjárga"
+nordmark.sami_language: "Davvimárkan"
+gillberg.sami_language: "Gillebearga"
+farnebo.sami_language: "Fárnebuotna"
+fryksdal.sami_language: "Fruksávággi"
+josse.sami_language: "Jossačohkka"
+
+# Province 'dalarna_province' () #
+avesta.sami_language: "Áveste"
+falun.sami_language: "Fálunvuolli"
+leksand.sami_language: "Leksáddi"
+grange.sami_language: "Gáránnjárga"
+malung.sami_language: "Málungeaidnu"
+mora.sami_language: "Muvrra"
+idre.sami_language: "Iđrevággi"
+hedemora.sami_language: "Heademuvrri"
+orsa.sami_language: "Oarssa"
+soderbarke.sami_language: "Vuonanbárki"
+stora_tuna.sami_language: "StuorraDunna"
+floda.sami_language: "Fluotnajohka"
+
+# Province 'gastrikland_province' () #
+gefle.sami_language: "Gieflavuotna"
+hedesunda.sami_language: "Headesuonda"
+hamrange.sami_language: "Hámmaránjárga"
+ockelbo.sami_language: "Okkelbuotna"
+
+## Area 'gotaland_area' () ##
+# Province 'ostergotland_province' () #
+linkoping.sami_language: "Liŋkkegávpot"
+soderkoping.sami_language: "Lullekávpot"
+norrkoping.sami_language: "Nuorttagávpot"
+alvastra.sami_language: "Álvásta"
+vadstena.sami_language: "Vátstena"
+
+# Province 'ostra_smaland_province' () #
+kalmar.sami_language: "Gálmmár"
+tjust.sami_language: "Čuosta"
+sevede.sami_language: "Seavvde"
+handbord.sami_language: "Hánnabeardu"
+kinda.sami_language: "Ginná"
+jonkoping.sami_language: "Junnagávpot"
+oland.sami_language: "Oallušuolu"
+
+# Province 'vastergotland_province' () #
+skara.sami_language: "Skará"
+hjo.sami_language: "Juođaluokta"
+tiveden.sami_language: "Tivemuotki"
+vartofta.sami_language: "Vártofta"
+utlandet.sami_language: "Olggueatnan"
+lodose.sami_language: "Loddušvuotna"
+ekholm.sami_language: "Eahkesuolu"
+falkoping.sami_language: "Fálkkogávpot"
+allingsas.sami_language: "Állingsás"
+bogesund.sami_language: "Buogasuolu"
+lidkoping.sami_language: "Liiddegávpot"
+skene.sami_language: "Šgeana"
+
+# Province 'tioharad_province' () #
+vaxjo.sami_language: "Váksjuovri"
+vallsjo.sami_language: "Vállšjávri"
+vetlanda.sami_language: "Veatlándda"
+albo.sami_language: "Álbu"
+konga.sami_language: "Gongga"
+uppvidinge.sami_language: "Bajitviddi"
+ljungby.sami_language: "Juŋggá"
+trollaborg.sami_language: "Troallaborg"
+waestbo.sami_language: "Vástevuopmi"
+
+# Province 'gotland_province' () #
+slite.sami_language: "Slitti"
+visby.sami_language: "Vissábyn"
+hoborg.sami_language: "Hobbarbárga"
+
+# Province 'dalsland_province' () #
+dalaborg.sami_language: "Dáluborg"
+amal.sami_language: "Ámálvuotna"
+vedbo.sami_language: "Veadduvuopmi"
+
+## Area 'denmark_area' () ##
+# Province 'sonderjylland_province' () #
+ribe.sami_language: "Ribbi"
+haderslev.sami_language: "Háddarsleabá"
+aabenraa.sami_language: "Ápmerá"
+tonder.sami_language: "Duonndár"
+# Province 'norrejylland_province' () #
+randers.sami_language: "Rándársuolu"
+viborg.sami_language: "Vibborg"
+aalborg.sami_language: "Álbborg"
+ars.sami_language: "Árssa"
+
+# Province 'western_jutland_province' () #
+bolling.sami_language: "Buollegieddi"
+ringkobing.sami_language: "Rinkegávpot"
+holstebro_lundenes.sami_language: "Hulstebruonjárga"
+varde.sami_language: "Várddi"
+
+# Province 'eastern_jutland_province' () #
+kolding.sami_language: "Gollinvuotna"
+aarhus.sami_language: "Árhutgávpot"
+grindsted.sami_language: "Griŋgosteadji"
+silkeborg.sami_language: "Šillgeborg"
+kalo.sami_language: "Gállovuotna"
+
+# Province 'vendsyssel_thy_province' () #
+thisted.sami_language: "Diistadji"
+skagen.sami_language: "Skágenjárga"
+hjorring.sami_language: "Jorriŋgieddi"
+
+# Province 'zealand_province' () #
+roskilde.sami_language: "Roskildi"
+ringsted.sami_language: "Rinsteaddi"
+kalundborg.sami_language: "Gállunborg"
+helsingor.sami_language: "Healsingárguovlu"
+hammershus.sami_language: "Hámmárshus"
+kobenhavn.sami_language: "Københápman"
+slagelse.sami_language: "Slágelsi"
+vordingborg.sami_language: "Vuorddinborg"
+
+# Province 'funen_province' () #
+odense.sami_language: "Ođđense"
+navskov.sami_language: "Návgaskuovvi"
+falster.sami_language: "Falstersuolu"
+assens.sami_language: "Ássensiid"
+svendborg.sami_language: "Sveanndaborg"
+
+# Province 'slesvig_province' () #
+slesvig.sami_language: "Šlesvig"
+flensburg.sami_language: "Flensbárga"
+eckernforde.sami_language: "Ekkárvuotna"
+husum.sami_language: "Husobuotna"
+
+## Area 'skaneland_area' () ##
+# Province 'malmohus_province' () #
+helsingborg.sami_language: "Healsinborg"
+lund.sami_language: "Lundagieddi"
+malmo.sami_language: "Málmmogávpot"
+
+# Province 'gonge_province' () #
+gladsax.sami_language: "Gládsáksi"
+osby.sami_language: "Oassabyn"
+asbo.sami_language: "Ássabu"
+
+# Province 'halland_province' () #
+varberg.sami_language: "Várbearga"
+laholm.sami_language: "Láholmsuolu"
+halmstad.sami_language: "Hállmástáda"
+kungsbacka.sami_language: "Gonnsbakka"
+
+# Province 'blekinge_province' () #
+ronneby.sami_language: "Ronnebuotna"
+bregne.sami_language: "Bregnegieddi"
+solvesborg.sami_language: "Suolvesborg"
+
+## Area 'norrland_area' () ##
+# Province 'halsingland_province' () #
+hudiksvall.sami_language: "Huddegávvu"
+alfta.sami_language: "Álftagieddi"
+soderala.sami_language: "LulliÁrla"
+hogdal.sami_language: "Hohkádávággi"
+havero.sami_language: "Háverjohka"
+selanger.sami_language: "Seláŋgirvuotna"
+
+# Province 'angermanland_province' () #
+harnosand.sami_language: "Hárnosáddi"
+solatunum.sami_language: "Suolahtu"
+ramsele.sami_language: "Ramseluokta"
+sjalevad.sami_language: "Šálevuotna"
+anundsjo.sami_language: "Ánunsjávri"
+grundsunda.sami_language: "Gruvnnasuolu"
+
+# Province 'vasterbotten_province' () #
+umea.sami_language: "Ubmi"
+vindeln.sami_language: "Viinddálvuotna"
+skelleftea.sami_language: "Šillftejohka"
+tornea.sami_language: "Duortnus"
+bygdea.sami_language: "Buogdejávri"
+pitea.sami_language: "Bihtámuorras"
+lulea.sami_language: "Luulá"
+ranea.sami_language: "Ránájohka"
+gratesk.sami_language: "Grádeskáidi"
+hienatiemi.sami_language: "Hiemnanjárga"
+branna.sami_language: "Bránnjárga"
+byske.sami_language: "Buosskejohka"
+bodebyn.sami_language: "Bådåddjo"
+alvsby.sami_language: "Álvesby"
+kiemi.sami_language: "Giepma"
+pajala.sami_language: "Báidjaláhti"
+kittila.sami_language: "Gihttel"
+rovaniemi.sami_language: "Roavenjárga"
+
+# Province 'norra_osterbotten_province' () #
+simo.sami_language: "Sievmu"
+uleaborg.sami_language: "Oulu gávpot"
+brahestad.sami_language: "Práhastáda"
+utajarvi.sami_language: "Uttajávri"
+siikalatva.sami_language: "Šiikkaláttu"
+taivalkoski.sami_language: "Dávellguoika"
+kuivaniemi.sami_language: "Guivanjárga"
+ranua.sami_language: "Ránnuovvuopmi"
+pudasjarvi.sami_language: "Budásjávri"
+posio.sami_language: "Boassu"
+
+# Province 'ume_lappmark_province' () #
+asele.sami_language: "Ássele"
+lycksele.sami_language: "Likssele"
+arvidsjaur.sami_language: "Árviesjávrrie"
+volgsjo.sami_language: "Vuolgesjávri"
+stensele.sami_language: "Steanseluokta"
+tarna.sami_language: "Dearnu"
+ortrask.sami_language: "Oarjjetrásk"
+
+# Province 'pite_lappmark_province' () #
+akkajaur.sami_language: "Áhkájávri"
+arjeplog.sami_language: "Árjepluovve"
+silbojock.sami_language: "Silbajohka"
+sorsele.sami_language: "Suorssá"
+
+# Province 'lule_lappmark_province' () #
+socksjock.sami_language: "Suoksajohka"
+jokkmokk.sami_language: "Jåhkåmåhkke"
+kvikkjock.sami_language: "Givggájohka"
+porjus.sami_language: "Buoržžu"
+gellivaara.sami_language: "Jiellevárri"
+sarek.sami_language: "Sáregáisi"
+
+# Province 'torne_lappmark_province' () #
+nikkaluokta.sami_language: "Nichcaluokta"
+kasivarren.sami_language: "Gássivárrit"
+abisko.sami_language: "Ábeskovvu"
+raunala.sami_language: "Rávnnal"
+mourionska.sami_language: "Muvrriskáidi"
+enontakis.sami_language: "Eanodat"
+nunnanen.sami_language: "Nunnánen"
+korpilombo.sami_language: "Guorbálombbu"
+juckasjarvi.sami_language: "Juvggásjávri"
+
+# Province 'kemi_lappmark_province' () #
+salla.sami_language: "Sallavuotna"
+kemijarvi.sami_language: "Giepmajávri"
+korvala.sami_language: "Gorvvola"
+enare.sami_language: "Anár"
+sodankyla.sami_language: "Soađegilli"
+savukoski.sami_language: "Sávvujohka"
+ivalo.sami_language: "Avvil"
+utsjoki.sami_language: "Ohcejohka"
+
+# Province 'kajanaland_province' () #
+paltamo.sami_language: "Balttámo"
+kajana.sami_language: "Gáigenállu"
+sotkamo.sami_language: "Soahtkámuorri"
+kuhmo.sami_language: "Kuhmojohka"
+suomussalmi.sami_language: "Suomusálmmi"
+kuusamo.sami_language: "Guossánvuopmi"
+
+## Area 'finland_area' () ##
+# Province 'sodra_osterbotten_province' () #
+korsholm.sami_language: "Gorskansuolu"
+koppo.sami_language: "Goppu"
+pedersore.sami_language: "Bierdásuolu"
+storkyro.sami_language: "StuorraČuorru"
+karleby.sami_language: "Gárleby"
+kaustby.sami_language: "Gávstaby"
+lappo.sami_language: "Láhppo"
+vora.sami_language: "Vuorjá"
+
+# Province 'finland_province' () #
+abo.sami_language: "Ábovuotna"
+nystad.sami_language: "Ođđastáda"
+poytis.sami_language: "Buoiddes"
+sauvo.sami_language: "Sávvu"
+
+# Province 'nyland_province' () #
+helsinge.sami_language: "Healsingeaivi"
+ekenas.sami_language: "Ekkenjárga"
+sjundea.sami_language: "Šundejohka"
+porvoo.sami_language: "Borjávri"
+liljendal.sami_language: "Liljenvággi"
+
+# Province 'satakunta_province' () #
+ikalis.sami_language: "Ihkalas"
+raumo.sami_language: "Rávnmuotki"
+bjorneborg.sami_language: "Bearnerborg"
+hvittis.sami_language: "Vittisvuopmi"
+sastmola.sami_language: "Sástmuolu"
+birkala.sami_language: "Birkkal"
+sastamala.sami_language: "Sástamálas"
+orivesi.sami_language: "Orrejávri"
+
+# Province 'tavastland_province' () #
+hollola.sami_language: "Hollolagieddi"
+lohja.sami_language: "Luođá"
+tavastehus.sami_language: "Hämeenborri"
+janakkala.sami_language: "Jánnágalli"
+forssa.sami_language: "Forssaguoika"
+itis.sami_language: "Iitijávri"
+jyvaskyla.sami_language: "Jyvásguoika"
+jamsa.sami_language: "Jámsájohka"
+saarijarvi.sami_language: "Sárijávri"
+viitasaari.sami_language: "Vittasárri"
+laukas.sami_language: "Lávkás"
+sysma.sami_language: "Šiismá"
+
+# Province 'savolax_province' () #
+mikkeli.sami_language: "Mikkelgilli"
+olofsborg.sami_language: "Oloffaborg"
+heinola.sami_language: "Heinoluokta"
+kangasniemi.sami_language: "Gáŋgasnjárga"
+ristiina.sami_language: "Ristinvuopmi"
+joroinen.sami_language: "Jorvojávri"
+kuopio.sami_language: "Guopmu"
+idensalmi.sami_language: "Ittenšálmmi"
+rautavaara.sami_language: "Ráudavárri"
+savonranta.sami_language: "Sávvánránta"
+
+# Province 'vyborg_province' () #
+kymi_fi.sami_language: "Gumijohka"
+vyborg.sami_language: "Viiborg"
+villmanstrand.sami_language: "Villmannsuolu"
+veckelax.sami_language: "Veikeláksi"
+elimaki.sami_language: "Elimáhki"
+vederlax.sami_language: "Vierdeláksi"
+valkeasaari.sami_language: "Válgešuolu"
+kyyrola.sami_language: "Čuoráláhku"
+beryozovskoye.sami_language: "Bieržaluokta"
+heinjoki.sami_language: "Heinjohka"
+jaskis.sami_language: "Jáškes"
+
+## Area 'syd_norge_area' () ##
+# Province 'bohus_province' () #
+konghalla.sami_language: "Guhkáláhku"
+uddevalla.sami_language: "Uttevuolli"
+stromstad.sami_language: "Štroamstáda"
+hornborg.sami_language: "Hornaborg"
+
+# Province 'ostfold_province' () #
+borg.sami_language: "Borga"
+halden.sami_language: "Haldenjárga"
+moss.sami_language: "Mossegieddi"
+trogstad.sami_language: "Droagástáda"
+
+# Province 'vestfold_province' () #
+tonsberg.sami_language: "Tønsbearga"
+skien.sami_language: "Škiengieddi"
+sande.sami_language: "Sánneduopmi"
+grenland.sami_language: "Gránnjieatnan"
+
+# Province 'rogaland_province' () #
+stavanger.sami_language: "Stavangeardi"
+ryfylke.sami_language: "Riffuolgu"
+suledal.sami_language: "Suollevággi"
+haugalandet.sami_language: "Hávgaleatnan"
+jaeren.sami_language: "Járanvuopmi"
+
+# Province 'agder_province' () #
+flekkefjord.sami_language: "Flekkefuordda"
+sirudal.sami_language: "Širuovvággi"
+otredal.sami_language: "Oarredávággi"
+lindesnes.sami_language: "Lindesnjárga"
+oddernes.sami_language: "Oadárnjárga"
+oyestad.sami_language: "Oaivvastáda"
+sondeled.sami_language: "Sundáleatnu"
+amli.sami_language: "Ámmligieddi"
+
+# Province 'buskerud_province' () #
+kongsberg.sami_language: "Gonjasbearga"
+ringerike.sami_language: "Riŋgeruovdi"
+hallingdal.sami_language: "Hálinngieddi"
+numedal.sami_language: "Njumedávággi"
+sigdal.sami_language: "Šiggedávággi"
+bragernes.sami_language: "Bragganjárga"
+flesberg.sami_language: "Fleasbearga"
+
+# Province 'bergenhus_province' () #
+bergen.sami_language: "Bergevárri"
+fana.sami_language: "Fánavuotna"
+kvinnherad.sami_language: "Gvinnáruovdi"
+ullensvang.sami_language: "Ullesvággi"
+moster.sami_language: "Mostersuolu"
+eidfjord.sami_language: "Áiddevuotna"
+nordhordland.sami_language: "DavviHordaleatnan"
+voss.sami_language: "Vuossavuopmi"
+
+# Province 'sogn_province' () #
+eid.sami_language: "Áiddegieddi"
+stryn.sami_language: "Striinnjávri"
+sunnfjord.sami_language: "LulliFuordda"
+sogndal.sami_language: "Suogndálvággi"
+aurland.sami_language: "Ávrraleatnan"
+vik.sami_language: "Vikkuotna"
+laerdal.sami_language: "Láirdávággi"
+
+# Province 'akershus_province' () #
+oslo.sami_language: "Áslovuotna"
+ski.sami_language: "Škigieddi"
+eidsvoll.sami_language: "Áiddevuolli"
+
+# Province 'oppland_province' () #
+vardal.sami_language: "Várdávuopmi"
+lillehammer.sami_language: "UnnaHámmar"
+valdres.sami_language: "Válldaras"
+otta.sami_language: "Oattajohka"
+imsdalen.sami_language: "Immesdálvággi"
+hedmarksvidda.sami_language: "Headmárkseadgi"
+
+# Province 'hedmark_province' () #
+hamar.sami_language: "Hámmar"
+kongsvinger.sami_language: "Gonjasvinggi"
+elverum.sami_language: "Jolviruovdi"
+glommadal.sami_language: "Gluomadjávggi"
+trysil.sami_language: "Druosil"
+amot.sami_language: "Ámotjohka"
+tynset.sami_language: "Diinnsáddi"
+
+## Area 'nord_norge_area' () ##
+# Province 'sor_trondelag_province' () #
+nidaros.sami_language: "Nidarosgávpot"
+roros.sami_language: "Rørosgilli"
+stjordal.sami_language: "Stuoradálvuotna"
+oppdal.sami_language: "Obbádávággi"
+orkdal.sami_language: "Orkádávággi"
+skaun.sami_language: "Skáunna"
+storen.sami_language: "Stuorringieddi"
+holtalen.sami_language: "Holtádalen"
+meraker.sami_language: "Meráhkárguovlu"
+alvdal.sami_language: "Álvedávággi"
+
+# Province 'nor_trondelag_province' () #
+levanger.sami_language: "Leavŋgárguovlu"
+namdal.sami_language: "Námdádávuopmi"
+orland.sami_language: "Oarjileatnan"
+snasa.sami_language: "Snåases"
+lierne.sami_language: "Lierránvuopmi"
+steinkjer.sami_language: "Steinnčearru"
+
+# Province 'romsdalen_province' () #
+molde.sami_language: "Målldegávpot"
+fosna.sami_language: "Fosnaguovlu"
+sunndal.sami_language: "Suonedávággi"
+rauma.sami_language: "Rávmajohka"
+sunnmore.sami_language: "LulliMøre"
+borgund.sami_language: "Borgundgávpot"
+stordal.sami_language: "Stuordávággi"
+tofte.sami_language: "Doftesnuolu"
+
+# Province 'troms_province' () #
+troms.sami_language: "Romsa"
+trondenes.sami_language: "Ruohttánjárga"
+senja.sami_language: "Seŋggá"
+bardodalen.sami_language: "Bearduovdálvuotna"
+raisa.sami_language: "Ráisávuovdi"
+
+# Province 'jamtland_province' () #
+hammerdal.sami_language: "Hámmardávággi"
+offerdal.sami_language: "Offerdálu"
+berg.sami_language: "Beargevuohta"
+froso.sami_language: "Frosesuolu"
+ragunda.sami_language: "Rágundavuotna"
+sveg.sami_language: "Sveagieddi"
+hede.sami_language: "Headegieddi"
+oviken.sami_language: "Ovikkinsuolu"
+
+# Province 'nordland_province' () #
+bodo.sami_language: "Bådåddjo"
+birndal.sami_language: "Birredávággi"
+hattfjelldal.sami_language: "Hátfjelldálu"
+rana.sami_language: "Ránavuotna"
+alstahaug.sami_language: "Álstehávgieddi"
+gildeskal.sami_language: "Gilduškuolu"
+steigen.sami_language: "Steaiganjárga"
+langenes.sami_language: "Láŋgenjárga"
+lofotr.sami_language: "Lofotnuolu"
+hamaroy.sami_language: "Hámmársuolu"
+ofoti.sami_language: "Uffuogvuotna"
+
+# Province 'finnmark_province' () #
+kautokeino.sami_language: "Guovdageaidnu"
+varanger.sami_language: "Várjjat"
+vardo.sami_language: "Várggát"
+deatnu.sami_language: "Deatnu"
+porsanger.sami_language: "Porsáŋgu"
+karasjok.sami_language: "Kárášjohka"
+hammerfest.sami_language: "Hámmárfeasta"
+alta.sami_language: "Áltá"
+kirkenes.sami_language: "Girkonjárga"
+lebesby.sami_language: "Leabbušvuotna"
+
+## Area 'karelia_area' () ##
+# Province 'aunus_karelia_province' () #
+olonets.sami_language: "Vuálonnjárga"
+kinerma.sami_language: "Ginnermá"
+kondpoga.sami_language: "Gondboga"
+ostrechiny.sami_language: "Oastrešgieddi"
+pryazha.sami_language: "Priášávuopmi"
+shuya_karelia.sami_language: "Šujajohka"
+shyoltozero.sami_language: "Šoltojávri"
+vazhiny.sami_language: "Vážinigieddi"
+
+# Province 'inner_aunus_karelia_province' () #
+repola.sami_language: "Reabboluokta"
+karhumagi.sami_language: "Gárbumággi"
+kizhi.sami_language: "Gižesuolu"
+lindjarvi.sami_language: "Lindijávri"
+nadvoitsy.sami_language: "Nadvuođđi"
+pieninka.sami_language: "Pienŋgá"
+puatane.sami_language: "Buotnáne"
+sellinkyla.sami_language: "Sellingili"
+semcojarvi.sami_language: "Semkujávri"
+
+# Province 'inner_white_karelia_province' () #
+rukajarvi.sami_language: "Ruvkkajávri"
+jyskyjarvi.sami_language: "Juskejávri"
+kiestinki.sami_language: "Giistinki"
+ontajarvi.sami_language: "Ovntajávri"
+paanajarvi.sami_language: "Báanajávri"
+suikujarvi.sami_language: "Suikkujávri"
+tunkuo.sami_language: "Duŋkkovággi"
+uhtuo.sami_language: "Uhtovuotna"
+
+# Province 'korela_province' () #
+korela.sami_language: "Gorelagárdi"
+kurkijoki.sami_language: "Gurgijohka"
+konevets.sami_language: "Gunevesuolu"
+joensuu.sami_language: "Jovnnasuolu"
+sordavala.sami_language: "Sordavállá"
+vartsila.sami_language: "Várccil"
+ilomantsi.sami_language: "Ilománcsi"
+lieksa.sami_language: "Lieksajohka"
+juuka.sami_language: "Juvggá"
+salmi.sami_language: "Sálmmijávri"
+loimola.sami_language: "Lojmuluokta"
+mohko.sami_language: "Mohkkogieddi"
+suojarvi.sami_language: "Suojjájávri"
+nurmes.sami_language: "Nurmessuolu"
+
+# Province 'white_karelia_province' () #
+kem.sami_language: "Giepmajohka"
+keret.sami_language: "Giereddsuolu"
+kovda.sami_language: "Guovddejávri"
+kriitina.sami_language: "Griitná"
+saarijoki.sami_language: "Sárijohka"
+
+## Area 'kola_area' () ##
+# Province 'north_kola_province' () #
+kola.sami_language: "Guoládat"
+dalniye_zelentsy.sami_language: "Dállelávnnja"
+kiltina.sami_language: "Gilttinná"
+luujarvi.sami_language: "Luujjájávri"
+maaselka.sami_language: "Máasealgi"
+ponoi.sami_language: "Bonoijohka"
+semiostrov.sami_language: "Šemiškuolu"
+svyatoy_nos.sami_language: "BassiNjárga"
+
+# Province 'south_kola_province' () #
+umba.sami_language: "Upmavuotna"
+kantalahti.sami_language: "Gánddaláhtti"
+kashkarantsy.sami_language: "Gáškarannca"
+olenitsa.sami_language: "Oallenítsuolu"
+pyalitsa.sami_language: "Bájalitnjárga"
+raivke.sami_language: "Ráivkegieddi"
+tetrino.sami_language: "Teattrinnjárga"
+varzuga.sami_language: "Vársujohka"
+
+# Province 'western_kola_province' () #
+pechenga.sami_language: "Beahcán"
+akkala.sami_language: "Áhkalvuopmi"
+alakurti.sami_language: "Álakurtti"
+koliskoj.sami_language: "Golisguovlu"
+mootka.sami_language: "Muotkavuopmi"
+nuorttijarvi.sami_language: "Nuorttijávri"
+prirechnyi.sami_language: "Jokŋegieddi"
+suonikyla.sami_language: "Suõnnjelbáiki"
+
+## Area 'scandinavian_sea_zones_area' () ##
+
+## Area 'western_baltic_sea' () ##
+
+## Area 'russian_coastline' () ##

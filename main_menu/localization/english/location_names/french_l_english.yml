@@ -1,0 +1,2672 @@
+﻿l_english:
+### Region 'south_german_region' () ###
+
+## Area 'austria_area' () ##
+# Province 'unter_dem_wienerwald_province' () #
+vienna.french_language: "Vienne"
+austria_baden.french_language: "Baden-les-Bains"
+bruck_leitha.french_language: "Bruck-sur-Laïtha"
+
+# Province 'ober_dem_manhartsberg_province' () #
+krems.french_language: "Crems"
+horn.french_language: "Horne"
+waidhofen_an_der_thaya.french_language: "Vaidhof-sur-Taïa"
+zwettl.french_language: "Zettel"
+
+# Province 'ober_dem_wienerwald_province' () #
+st_polten.french_language: "Saint-Polten"
+amstetten.french_language: "Amstette"
+lilienfeld.french_language: "Lilienville"
+melk.french_language: "Melque"
+scheibbs.french_language: "Chèbes"
+tulln.french_language: "Toulne"
+waidhofen.french_language: "Vaidhofen"
+
+# Province 'unter_dem_manhartsberg_province' () #
+hollabrunn.french_language: "Hollabrunne"
+ganserndorf.french_language: "Gansedorf"
+korneuburg.french_language: "Cornebourg"
+mistelbach.french_language: "Mistelac"
+
+
+## Area 'upper_austria_area' () ##
+# Province 'schaunberg_province' () #
+linz.french_language: "Linz"
+braunau.french_language: "Braunaud"
+ried.french_language: "Ried"
+st_georgen.french_language: "Saint-Georges"
+scharding.french_language: "Chardin"
+
+# Province 'muhlviertel_province' () #
+freistadt.french_language: "Fraiville"
+perg.french_language: "Pergues"
+rohrbach.french_language: "Rorbac"
+
+# Province 'traungau_province' () #
+steyr.french_language: "Steir"
+bad_ischl.french_language: "Ischel-les-Bains"
+gmunden.french_language: "Gamonde"
+kirchdorf.french_language: "Quirdor"
+wels.french_language: "Vels"
+
+
+## Area 'salzburg_area' () ##
+# Province 'salzburger_land_province' () #
+salzburg.french_language: "Salzbourg"
+berchtesgaden.french_language: "Bercadène"
+hallein.french_language: "Halleine"
+
+# Province 'pinzgau_province' () #
+zell_am_see.french_language: "Zelle-sur-Lac"
+mittersill.french_language: "Mitresil"
+saalfelden.french_language: "Salfeldene"
+bavarian_alps1.french_language: "Alpes bavaroises"
+
+# Province 'pongau_province' () #
+st_johann.french_language: "Saint-Jean"
+bischofshofen.french_language: "Bicofon"
+tamsweg.french_language: "Tamsveg"
+bavarian_alps2.french_language: "Alpes bavaroises orientales"
+
+
+## Area 'styria_area' () ##
+# Province 'middle_styria_province' () #
+graz.french_language: "Gratz"
+leibnitz.french_language: "Lévnie"
+voitsberg.french_language: "Voitesbourg"
+
+# Province 'lower_styria_province' () #
+celje.french_language: "Cellie"
+lasko.french_language: "Lasco"
+maribor.french_language: "Maribourg"
+ptuj.french_language: "Ptoï"
+slovenj_gradec.french_language: "Slovengradet"
+
+# Province 'upper_styria_province' () #
+judenburg.french_language: "Judenbourg"
+leoben.french_language: "Léoben"
+liezen.french_language: "Liesenne"
+murau.french_language: "Mureau"
+rottenmann.french_language: "Rotteman"
+schladming.french_language: "Chladminge"
+kapfenberg.french_language: "Capfenbourg"
+murzzuschlag.french_language: "Murzoulac"
+tauern_range2.french_language: "Chaîne des Tauern"
+
+# Province 'eastern_styria_province' () #
+pitten.french_language: "Pitaine"
+wiener_neustadt.french_language: "Neustade-de-Vienne"
+furstenfeld.french_language: "Furstenville"
+weiz.french_language: "Veiz"
+feldbach.french_language: "Felbac"
+
+
+## Area 'carinthia_area' () ##
+# Province 'lower_carinthia_province' () #
+wolfsberg.french_language: "Loupsbourg"
+st_veit.french_language: "Saint-Vite"
+friesach.french_language: "Frisac"
+volkermarkt.french_language: "Volcermart"
+klagenfurt.french_language: "Clagenfort"
+feldkirchen.french_language: "Feldciron"
+
+# Province 'upper_carinthia_province' () #
+villach.french_language: "Villac"
+hermagor.french_language: "Hermagor"
+steinfeld.french_language: "Steinfel"
+winklern.french_language: "Vinclaire"
+spittal.french_language: "Spital"
+lienz.french_language: "Lience"
+tauern_range1.french_language: "Massif des Tauern"
+dolomite_alps3.french_language: "Dolomites carinthiennes"
+
+
+## Area 'tirol_area' () ##
+# Province 'south_tirol_province' () #
+bolzano.french_language: "Bolzano"
+brixen.french_language: "Bricenne"
+bruneck.french_language: "Brunec"
+cavalese.french_language: "Cavalèse"
+merano.french_language: "Méran"
+silandro.french_language: "Silandre"
+sterzing.french_language: "Sterzin"
+villandro.french_language: "Villandre"
+dolomite_alps1.french_language: "Dolomites du nord"
+dolomite_alps4.french_language: "Dolomites orientales"
+rhaetian_alps7.french_language: "Alpes rhétiques centrales"
+otztal_alps1.french_language: "Alpes d'Otztal"
+venediger_group.french_language: "Groupe Vénédiger"
+
+# Province 'trentino_province' () #
+trento.french_language: "Trente"
+cles.french_language: "Clès"
+riva.french_language: "Rive"
+rovereto.french_language: "Roverète"
+rhaetian_alps8.french_language: "Alpes rhétiques méridionales"
+
+# Province 'unterinntal_province' () #
+schwaz.french_language: "Souaze"
+innsbruck.french_language: "Innsbruc"
+zell_am_ziller.french_language: "Zelle-sur-Ziller"
+kufstein.french_language: "Cufstin"
+kitzbuhel.french_language: "Kitbuelle"
+
+# Province 'oberinntal_province' () #
+imst.french_language: "Imste"
+reutte.french_language: "Reute"
+landeck.french_language: "Landec"
+lechtal_alps1.french_language: "Alpes du Lech"
+lechtal_alps2.french_language: "Hautes Alpes du Lech"
+otztal_alps2.french_language: "Chaîne d'Otztal"
+
+# Province 'vorarlberg_province' () #
+feldkirch.french_language: "Feldcirque"
+bregenz.french_language: "Brégence"
+bludenz.french_language: "Bludence"
+
+
+## Area 'central_switzerland_area' () ##
+# Province 'bern_province' () #
+bern.french_language: "Berne"
+burgdorf_emmental.french_language: "Bourgdorf"
+saanen.french_language: "Sannen"
+thun.french_language: "Thoune"
+frutigen.french_language: "Frutigenne"
+interlaken.french_language: "Interlaken"
+
+# Province 'oberwallis_province' () #
+brig.french_language: "Brigue"
+sion.french_language: "Sion"
+martigny.french_language: "Martigny"
+monthey.french_language: "Monthey"
+bernese_alps.french_language: "Alpes bernoises"
+stein_glacier.french_language: "Glacier de Stein"
+lepontine_alps1.french_language: "Alpes lépontines"
+
+# Province 'aargau_province' () #
+aarau.french_language: "Aarau"
+baden_im_aargau.french_language: "Baden d'Argovie"
+lucerne.french_language: "Lucerne"
+wolhusen.french_language: "Volhusen"
+lake_lucerne.french_language: "lac des Quatre-Cantons"
+
+
+## Area 'eastern_switzerland_area' () ##
+# Province 'waldstatte_province' () #
+schwyz.french_language: "Suitz"
+glarus.french_language: "Glaris"
+altdorf.french_language: "Altdor"
+sarnen.french_language: "Sarnes"
+
+# Province 'graubunden_province' () #
+tarasp.french_language: "Taraspe"
+zuoz.french_language: "Zouoz"
+disentis.french_language: "Disentisse"
+davos.french_language: "Davos"
+chur.french_language: "Coire"
+ilanz.french_language: "Ilance"
+mesocco.french_language: "Mésoque"
+silvretta_alps.french_language: "Alpes Silvretta"
+glarner_alps.french_language: "Alpes glaronnaises"
+lepontine_alps2.french_language: "Crêtes lépontines"
+rhaetian_alps1.french_language: "Alpes rhétiques orientales"
+rhaetian_alps4.french_language: "Chaîne rhétique"
+
+# Province 'thurgau_province' () #
+zurich.french_language: "Zurich"
+werdenberg.french_language: "Verdenbergue"
+st_gallen.french_language: "Saint-Gall"
+frauenfeld.french_language: "Frauenfel"
+toggenburg.french_language: "Toggenbourg"
+kyburg.french_language: "Kybourg"
+lake_zurich.french_language: "lac de Zurich"
+
+
+## Area 'western_switzerland_area' () ##
+# Province 'vaud_province' () #
+geneve.french_language: "Genève"
+nyon.french_language: "Nyon"
+yverdon_les_bains.french_language: "Yverdon-les-Bains"
+lausanne.french_language: "Lausanne"
+montreux.french_language: "Montreux"
+fribourg.french_language: "Fribourg"
+gruyere.french_language: "Gruyère"
+lake_geneva.french_language: "lac Léman"
+
+# Province 'neuchatel_province' () #
+delemont.french_language: "Delémont"
+neuchatel.french_language: "Neuchâtel"
+solothurn.french_language: "Soleure"
+basel.french_language: "Bâle"
+bienne.french_language: "Bienne"
+lake_neuchatel.french_language: "lac de Neuchâtel"
+
+
+## Area 'upper_rhine_area' () ##
+# Province 'palatinate_province' () #
+kaiserslautern.french_language: "Césarlautre"
+zweibrucken.french_language: "Deux-Ponts"
+speyer.french_language: "Spire"
+pirmasens.french_language: "Pirmasson"
+germersheim.french_language: "Germerseim"
+leiningen.french_language: "Léningen"
+heidelberg.french_language: "Heidelbergue"
+landau_rhineland.french_language: "Landau-du-Rhin"
+neustadt_an_der_haardt.french_language: "Neustade-de-la-Harde"
+
+# Province 'kraichgau_province' () #
+sinsheim.french_language: "Sinseim"
+heilbronn.french_language: "Helbron"
+bruchsal.french_language: "Broussale"
+durlach.french_language: "Durlac"
+
+# Province 'schwarzwald_province' () #
+calw.french_language: "Calves"
+oberndorf.french_language: "Oberndor"
+oberkirch.french_language: "Obercirque"
+nagold.french_language: "Nagolde"
+villingen.french_language: "Villinge"
+furstenberg.french_language: "Furstenbergue"
+waldshut.french_language: "Valdoute"
+bonndorf.french_language: "Bonndor"
+
+# Province 'rhine_valley_province' () #
+freiburg.french_language: "Fribourg-Brisgau"
+mullheim.french_language: "Mulleim"
+offenburg.french_language: "Offenbourg"
+hachberg.french_language: "Hachbergue"
+baden.french_language: "Baden-sur-Rhin"
+
+# Province 'odenwald_province' () #
+bensheim.french_language: "Benseim"
+mosbach.french_language: "Mosbac"
+buchen.french_language: "Buquenne"
+erbach.french_language: "Herbac"
+
+
+## Area 'swabia_area' () ##
+# Province 'hegau_province' () #
+konstanz.french_language: "Constance"
+uberlingen.french_language: "Ubelingen"
+schaffhausen.french_language: "Chafouse"
+stockach.french_language: "Stockac"
+lake_constance.french_language: "lac de Constance"
+
+# Province 'hohenloher_ebene_province' () #
+ellwangen.french_language: "Elvange"
+welzheim.french_language: "Velzeim"
+dinkelsbuhl.french_language: "Dincelbule"
+oettingen.french_language: "Etinge"
+
+# Province 'swabian_alb_province' () #
+ulm.french_language: "Ulm"
+heidenheim.french_language: "Haydenem"
+sigmaringen.french_language: "Sigmaringue"
+riedlingen.french_language: "Riedligne"
+helfenstein.french_language: "Helffenstin"
+balingen.french_language: "Balingue"
+hohenberg.french_language: "Hautemberg"
+erbach_swabia.french_language: "Herbac-Souabe"
+
+# Province 'eastern_upper_swabia_province' () #
+augsburg.french_language: "Augsbourg"
+memmingen.french_language: "Memmingue"
+krumbach.french_language: "Crumbac"
+gunzburg.french_language: "Gunsbourg"
+dillingen.french_language: "Dillingue"
+wertingen.french_language: "Vertingue"
+illereichen.french_language: "Illereine"
+
+# Province 'western_upper_swabia_province' () #
+ravensburg.french_language: "Ravensbourg"
+biberach.french_language: "Biberac"
+waldburg.french_language: "Valdebourg"
+waldsee.french_language: "Valdée"
+saulgau.french_language: "Saulgau"
+
+# Province 'allgau_province' () #
+immenstadt.french_language: "Immenville"
+sonthofen.french_language: "Sontofen"
+kempten.french_language: "Quempten"
+oberdorf.french_language: "Oberdor"
+
+# Province 'neckar_province' () #
+horb.french_language: "Orbe"
+tubingen.french_language: "Tubingue"
+stuttgart.french_language: "Stuttgart"
+urach.french_language: "Ourac"
+vaihingen.french_language: "Vaïngen"
+goppingen.french_language: "Goppingue"
+
+
+## Area 'franconia_area' () ##
+# Province 'ries_province' () #
+nuremberg.french_language: "Nuremberg"
+schwabach.french_language: "Souabac"
+ansbach.french_language: "Ansbac"
+uffenheim.french_language: "Uffeneim"
+rothenburg.french_language: "Rothenbourg"
+neustadt.french_language: "Neustade"
+
+# Province 'franconian_alb_province' () #
+neumarkt.french_language: "Neumarte"
+weissenburg.french_language: "Weissenbourg"
+eichstatt.french_language: "Aisville"
+parsberg.french_language: "Parsbourg"
+beilngries.french_language: "Beilngrie"
+
+# Province 'frankische_schweiz_province' () #
+bayreuth.french_language: "Baireute"
+forchheim.french_language: "Forcheim"
+pegnitz.french_language: "Pegnise"
+schesslitz.french_language: "Chesslisse"
+wunsiedel.french_language: "Vunsiedel"
+kulmbach.french_language: "Coulmbac"
+eschenbach.french_language: "Echenbac"
+tirschenreuth.french_language: "Tirchereute"
+sulzbach.french_language: "Sulsbac"
+bamberg.french_language: "Bambergue"
+
+# Province 'main_franconia_province' () #
+hassfurt.french_language: "Hasfur"
+wurzburg.french_language: "Wurtzbourg"
+karlstadt.french_language: "Carbergue"
+schweinfurt.french_language: "Chevainfur"
+kitzingen.french_language: "Kitzingue"
+mellrichstadt.french_language: "Melrichsville"
+konigshofen.french_language: "Conigofen"
+aschach.french_language: "Achac"
+
+# Province 'frankenwald_province' () #
+coburg.french_language: "Cobourg"
+kronach.french_language: "Cronac"
+lichtenfels.french_language: "Lichtenfel"
+
+# Province 'tauberfranken_province' () #
+mergentheim.french_language: "Mergenteim"
+hall.french_language: "Halle"
+crailsheim.french_language: "Craillem"
+backnang.french_language: "Bacnan"
+ohringen.french_language: "Oringue"
+tauberbischofsheim.french_language: "Tauberbichême"
+
+
+## Area 'bavaria_area' () ##
+# Province 'alpenvorland_province' () #
+garmisch.french_language: "Garmiche"
+schongau.french_language: "Chongau"
+weilheim.french_language: "Veilleim"
+miesbach.french_language: "Miesbac"
+tolz.french_language: "Tolze"
+
+# Province 'munchner_schotterebene_province' () #
+munich.french_language: "Munich"
+ebersberg.french_language: "Ebersbergue"
+landsberg.french_language: "Landsbourg"
+andechs.french_language: "Andexe"
+indersdorf.french_language: "Andersdor"
+friedberg.french_language: "Fribergue"
+freising.french_language: "Freisingue"
+erding.french_language: "Erdingue"
+lake_starnberg.french_language: "lac Starnberg"
+
+# Province 'chiemgau_province' () #
+traunstein.french_language: "Tronstène"
+laufen.french_language: "Loffen"
+wasserburg.french_language: "Vasserbourg"
+muhldorf.french_language: "Mulldor"
+rosenheim.french_language: "Rosenem"
+lake_chiemsee.french_language: "lac de Chiem"
+
+# Province 'gauboden_province' () #
+landau.french_language: "Landau"
+eggenfelden.french_language: "Eggenfelde"
+landshut.french_language: "Landoute"
+griesbach.french_language: "Griesbac"
+burghausen.french_language: "Burgauzen"
+
+# Province 'donau_moos_province' () #
+neuburg_an_der_donau.french_language: "Neubourg-sur-Danube"
+ingolstadt.french_language: "Ingolsstat"
+rottenburg.french_language: "Rottenbourg"
+pfaffenhofen.french_language: "Pafenofen"
+regensburg.french_language: "Ratisbonne"
+mallersdorf.french_language: "Malersdor"
+kelheim.french_language: "Kelleim"
+
+# Province 'bayerischer_wald_province' () #
+passau.french_language: "Passau"
+grafenau.french_language: "Grafenau"
+bavaria_regen.french_language: "Régens"
+straubing.french_language: "Straubingue"
+
+# Province 'oberpfalzer_wald_province' () #
+cham.french_language: "Cam"
+amberg.french_language: "Ambergue"
+leuchtenberg.french_language: "Leuchtenbergue"
+roding.french_language: "Rodingue"
+burglengenfeld.french_language: "Burlengenfel"
+
+
+## Area 'bohemia_area' () ##
+# Province 'bechinsko_province' () #
+bechyne.french_language: "Bechine"
+budejovice.french_language: "Boudéovice"
+j_hradec.french_language: "Hradec-du-Sud"
+krumlov.french_language: "Crumlov"
+trebon.french_language: "Trébonne"
+
+# Province 'boleslavsko_province' () #
+mlada_boleslav.french_language: "Boléslave"
+frydlant.french_language: "Fridlande"
+turnov.french_language: "Tournove"
+
+# Province 'chebsko_province' () #
+cheb.french_language: "Egra"
+jachymov.french_language: "Jachimov"
+loket.french_language: "Loquet"
+
+# Province 'hradecko_province' () #
+hradec_kralove.french_language: "Hradec-Royal"
+jicin.french_language: "Yitcine"
+klodzko.french_language: "Clodisco"
+nachod.french_language: "Nachode"
+podebrady.french_language: "Podebrade"
+
+# Province 'litomericko_province' () #
+litomerice.french_language: "Litomérice"
+decin.french_language: "Décine"
+usti_nad_labem.french_language: "Oustie-sur-Elbe"
+
+# Province 'plzensko_province' () #
+plzen.french_language: "Pilsen"
+domazlice.french_language: "Domažlice"
+klatovy.french_language: "Klatovy"
+tachov.french_language: "Tachove"
+tepla.french_language: "Tepla"
+
+# Province 'chrudimsko_province' () #
+caslav.french_language: "Tchaslav"
+chrudim.french_language: "Kroudime"
+kutna_hora.french_language: "Kutnahore"
+litomysl.french_language: "Litomychle"
+nemecky_brod.french_language: "Brod-Allemand"
+
+# Province 'prachensko_province' () #
+prachen.french_language: "Prachenne"
+husinec.french_language: "Husinéc"
+pisek.french_language: "Pisek"
+
+# Province 'prague_province' () #
+prague.french_language: "Prague"
+benesov.french_language: "Beneshove"
+beroun.french_language: "Béronne"
+kourim.french_language: "Kourime"
+slany.french_language: "Slanni"
+
+# Province 'zatecko_province' () #
+zatec.french_language: "Jatets"
+most.french_language: "Moste"
+rakovnik.french_language: "Racovnique"
+
+
+## Area 'moravia_area' () ##
+# Province 'znojemsko_province' () #
+znojmo.french_language: "Znoyme"
+bitov.french_language: "Bitoff"
+dacice.french_language: "Datchice"
+jihlava.french_language: "Iglave"
+
+# Province 'brnensko_province' () #
+brno.french_language: "Brune"
+pernstejn.french_language: "Pernechtaine"
+hodonin.french_language: "Hodonine"
+vyskov.french_language: "Viskoff"
+
+# Province 'olomoucko_province' () #
+olomouc.french_language: "Olomoutz"
+prostejov.french_language: "Prosteïov"
+zabreh.french_language: "Zabreh"
+sumperk.french_language: "Choumperque"
+
+# Province 'hradistsko_province' () #
+hradiste.french_language: "Hradiste"
+vizovice.french_language: "Visovice"
+prerov.french_language: "Preroff"
+pribor.french_language: "Pribour"
+
+
+## Area 'alsace_area' () ##
+# Province 'lower_alsace_province' () #
+strasbourg.french_language: "Strasbourg"
+haguenau.french_language: "Haguenau"
+zabern.french_language: "Saverne"
+lichtenberg.french_language: "Lichtenberg"
+benfeld.french_language: "Benfeld"
+
+# Province 'upper_alsace_province' () #
+colmar.french_language: "Colmar"
+belfort.french_language: "Belfort"
+ensisheim.french_language: "Ensisheim"
+ferrette.french_language: "Ferrette"
+murbach.french_language: "Murbach"
+mulhouse.french_language: "Mulhouse"
+
+### Region 'north_german_region' () ###
+
+## Area 'brabant_area' () ##
+# Province 'limburg_province' () #
+maastricht.french_language: "Maestricht"
+venlo.french_language: "Venleau"
+weert.french_language: "Werte"
+roermond.french_language: "Roremont"
+
+# Province 'antwerp_province' () #
+antwerp.french_language: "Anvers"
+bergen_zoom.french_language: "Bergues-sur-Zom"
+breda.french_language: "Bréda"
+turnhout.french_language: "Tournoute"
+mechelen.french_language: "Malines"
+
+# Province 'kempenland_province' () #
+helmond.french_language: "Helmont"
+cuijk.french_language: "Cuique"
+hertogenbosch.french_language: "Bois-le-Duc"
+eindhoven.french_language: "Aindauve"
+
+# Province 'brabant_province' () #
+brussels.french_language: "Bruxelles"
+leuven.french_language: "Louvain"
+nivelles.french_language: "Nivelles"
+
+# Province 'loon_province' () #
+borgloon.french_language: "Borglons"
+hasselt.french_language: "Hasselte"
+bree.french_language: "Brée"
+
+
+## Area 'flanders_area' () ##
+# Province 'east_flanders_province' () #
+ghent.french_language: "Gand"
+aalst.french_language: "Alost"
+hulst.french_language: "Hulste"
+kortriik.french_language: "Courtrai"
+oudenaarde.french_language: "Oudenarde"
+sint_niklaas.french_language: "Saint-Nicolas"
+
+# Province 'roman_flanders_province' () #
+lille.french_language: "Lille"
+douai.french_language: "Douai"
+tournai.french_language: "Tournai"
+
+# Province 'west_flanders_province' () #
+bruges.french_language: "Bruges"
+cassel.french_language: "Cassel"
+dunkirk.french_language: "Dunkerque"
+ostend.french_language: "Ostende"
+veurne.french_language: "Furnes"
+ypres.french_language: "Ypres"
+
+
+## Area 'friesland_area' () ##
+# Province 'east_friesland_province' () #
+emden.french_language: "Emdene"
+jever.french_language: "Jeverre"
+aurich.french_language: "Aurique"
+leer.french_language: "Lère"
+
+# Province 'ommelanden_province' () #
+appingedam.french_language: "Apinguédam"
+groningen.french_language: "Groningue"
+wedde.french_language: "Vedde"
+
+# Province 'friesland_province' () #
+sloten.french_language: "Sloteine"
+harlingen.french_language: "Harlingues"
+leeuwarden.french_language: "Lévardes"
+stavoren.french_language: "Stavorne"
+wolvega.french_language: "Volvegues"
+
+# Province 'drenthe_province' () #
+assen.french_language: "Assen"
+meppel.french_language: "Mépel"
+coevorden.french_language: "Covorde"
+
+# Province 'overijssel_province' () #
+zwolle.french_language: "Zvolles"
+kampen.french_language: "Campen"
+deventer.french_language: "Deventre"
+oldenzaal.french_language: "Oldensale"
+
+
+## Area 'holland_area' () ##
+# Province 'north_holland_province' () #
+amsterdam.french_language: "Amsterdam"
+amersfoort.french_language: "Amersfort"
+alkmaar.french_language: "Alquemar"
+hoorn.french_language: "Horne"
+utrecht.french_language: "Utrecht"
+haarlemmermeer.french_language: "Haerlem-Mer"
+
+# Province 'south_holland_province' () #
+the_hague.french_language: "La Haye"
+dordrecht.french_language: "Dordrec"
+geertruidenberg.french_language: "Gertrudenberg"
+rotterdam.french_language: "Rotterdam"
+leiden.french_language: "Leyde"
+middelburg.french_language: "Middelbourg"
+
+# Province 'gelderland_province' () #
+arnhem.french_language: "Arnème"
+apeldoorn.french_language: "Apeldorne"
+doetinchem.french_language: "Dotincame"
+harderwijk.french_language: "Hardenvic"
+nijmegen.french_language: "Nimegue"
+tiel.french_language: "Tiet"
+zutphen.french_language: "Zutphène"
+
+
+## Area 'wallonia_area' () ##
+# Province 'east_luxembourg_province' () #
+luxembourg.french_language: "Luxembourg"
+arlon.french_language: "Arlon"
+thionville.french_language: "Thionville"
+vianden.french_language: "Vianden"
+
+# Province 'hainaut_province' () #
+mons.french_language: "Mons"
+ath.french_language: "Ath"
+chimay.french_language: "Chimay"
+enghien.french_language: "Enghien"
+maubeuge.french_language: "Maubeuge"
+valenciennes.french_language: "Valenciennes"
+
+# Province 'liege_province' () #
+liege.french_language: "Liège"
+limbourg.french_language: "Limbourg"
+st_vith.french_language: "Saint-Vith"
+stavelot.french_language: "Stavelot"
+
+# Province 'namur_province' () #
+namur.french_language: "Namur"
+dinant.french_language: "Dinant"
+orchimont.french_language: "Orchimont"
+walcourt.french_language: "Walcourt"
+
+# Province 'west_luxembourg_province' () #
+bastogne.french_language: "Bastogne"
+bouillon.french_language: "Bouillon"
+la_roche.french_language: "La Roche"
+montmedy.french_language: "Montmédy"
+neufchateau_luxembourg.french_language: "Neufchâteau-en-Ardenne"
+
+
+## Area 'holstein_area' () ##
+# Province 'lubeck_province' () #
+lubeck.french_language: "Lubeque"
+heiligenhafen.french_language: "Héligenhafe"
+ratzeburg.french_language: "Ratzebourg"
+eutin.french_language: "Eutinne"
+lauenburg.french_language: "Lauembourg"
+
+# Province 'holstein_province' () #
+kiel.french_language: "Kièle"
+heide.french_language: "Heïde"
+steinburg.french_language: "Steinbourg"
+rendsburg.french_language: "Ransbourg"
+stormarn.french_language: "Stomarne"
+segeberg.french_language: "Ségebère"
+pinneberg.french_language: "Pinebergue"
+plon.french_language: "Plone"
+
+
+## Area 'brandenburg_area' () ##
+# Province 'neumark_province' () #
+chojna.french_language: "Choina"
+soltyn.french_language: "Soltin"
+gorzow.french_language: "Gorzoff"
+santok.french_language: "Santoc"
+torzym.french_language: "Torzime"
+
+# Province 'altmark_province' () #
+stendal.french_language: "Stendalle"
+gardelegen.french_language: "Gardelègne"
+salzwedel.french_language: "Salzvèdel"
+osterburg.french_language: "Osterbourg"
+haldensleben.french_language: "Haldenslèbe"
+wolmirstedt.french_language: "Volmirstette"
+
+# Province 'prignitz_province' () #
+havelberg.french_language: "Havelbourg"
+wittstock.french_language: "Vitstoc"
+ruppin.french_language: "Rupin"
+pritzwalk.french_language: "Pritzval"
+wittenberge.french_language: "Vittenbergue"
+
+# Province 'uckermark_province' () #
+prenzlau.french_language: "Prenslaou"
+templin.french_language: "Templin"
+angermunde.french_language: "Angremonde"
+
+# Province 'mittelmark_province' () #
+berlin.french_language: "Berlin"
+teltow.french_language: "Teltau"
+treuenbrietzen.french_language: "Treunbrisène"
+herzfelde.french_language: "Hersfel"
+freienwalde.french_language: "Freinvalde"
+lebus.french_language: "Lébus"
+brandenburg.french_language: "Brandebourg"
+potsdam.french_language: "Potsdam"
+
+# Province 'flaming_province' () #
+juterbog.french_language: "Yuterboc"
+schweinitz.french_language: "Chevenice"
+zerbst.french_language: "Zerbeste"
+wittenberg.french_language: "Wittenbergue"
+belzig.french_language: "Belzique"
+bitterfeld.french_language: "Bitterfel"
+
+# Province 'niederlausitz_province' () #
+cottbus.french_language: "Cottbousse"
+guben.french_language: "Guben"
+spremberg.french_language: "Sprembergue"
+calau.french_language: "Calau"
+lubben.french_language: "Lubbenne"
+luckau.french_language: "Luckau"
+beeskow.french_language: "Béscau"
+zossen.french_language: "Zossen"
+
+
+## Area 'rhineland_area' () ##
+# Province 'eifel_province' () #
+bitburg.french_language: "Bitbourg"
+prum.french_language: "Prome"
+daun.french_language: "Daune"
+wittlich.french_language: "Vitliche"
+cochem.french_language: "Cocème"
+mayen.french_language: "Mayen"
+simmern.french_language: "Simmern"
+ahrweiler.french_language: "Arvèler"
+schleiden.french_language: "Chleiden"
+castellaun.french_language: "Castellaune"
+
+# Province 'hunsruck_province' () #
+saarbrucken.french_language: "Sarrebruck"
+merzig.french_language: "Merzique"
+lichtenberg_veldenz.french_language: "Lichtenberg-Veldense"
+trier.french_language: "Trèves"
+birkenfeld.french_language: "Birkenfel"
+meisenheim.french_language: "Meisenem"
+saarburg.french_language: "Sarrebourg"
+kreuznach.french_language: "Creusnac"
+
+# Province 'koln_bucht_province' () #
+cologne.french_language: "Cologne"
+bonn.french_language: "Bonn"
+bergheim.french_language: "Berguème"
+neuss.french_language: "Neus"
+
+# Province 'bergisches_land_province' () #
+remscheid.french_language: "Remchede"
+siegburg.french_language: "Sigbourg"
+gummersbach.french_language: "Gumerbac"
+solingen.french_language: "Solingue"
+
+# Province 'westerwald' () #
+coblenz.french_language: "Coblence"
+altenkirchen.french_language: "Altenkir"
+wied.french_language: "Vide"
+
+# Province 'julich_province' () #
+aachen.french_language: "Aix-la-Chapelle"
+heinsberg.french_language: "Hainsbourg"
+duren.french_language: "Durenne"
+
+# Province 'niederrhein_province' () #
+dusseldorf.french_language: "Dusseldorfe"
+monchengladbach.french_language: "Monchengladbac"
+kleve.french_language: "Clève"
+mors.french_language: "Mors"
+geldern.french_language: "Gelderne"
+
+
+## Area 'hesse_area' () ##
+# Province 'hessen_bergland_province' () #
+kassel.french_language: "Cassel"
+eschwege.french_language: "Esvegue"
+rotenburg.french_language: "Rotenbourg"
+korbach.french_language: "Corbac"
+frankenberg.french_language: "Frankenbourg"
+marburg.french_language: "Marbourg"
+melsungen.french_language: "Melsongen"
+
+# Province 'untermain_province' () #
+worms.french_language: "Vormes"
+mainz.french_language: "Mayence"
+darmstadt.french_language: "Darmstat"
+offenbach.french_language: "Ofenbac"
+oppenheim.french_language: "Oppenem"
+
+# Province 'wetterau_province' () #
+hanau.french_language: "Hanau"
+frankfurt.french_language: "Francfort"
+giessen.french_language: "Gicienne"
+wetzlar.french_language: "Vetzlar"
+friedberg_hesse.french_language: "Friberg-en-Hesse"
+budingen.french_language: "Budingenne"
+nidda.french_language: "Nidde"
+
+# Province 'vogelsberg_province' () #
+fulda.french_language: "Foulda"
+lauterbach.french_language: "Loterbac"
+hunfeld.french_language: "Hunfel"
+hersfeld.french_language: "Hersfel"
+ziegenhain.french_language: "Zigenen"
+alsfeld.french_language: "Alsfel"
+
+# Province 'spessart_province' () #
+miltenberg.french_language: "Miltenbourg"
+aschaffenburg.french_language: "Achaffenbourg"
+lohr.french_language: "Lorre"
+bruckenau.french_language: "Bruquenaou"
+
+# Province 'taunus_province' () #
+dillenburg.french_language: "Dillenbourg"
+wiesbaden.french_language: "Wisbadène"
+diez.french_language: "Diez"
+usingen.french_language: "Usingenne"
+katzenelnbogen.french_language: "Cazenelbogne"
+hadamar.french_language: "Hadamar"
+
+
+## Area 'westphalia_area' () ##
+# Province 'munsterland_province' () #
+munster.french_language: "Munster"
+warendorf.french_language: "Varendorfe"
+ahaus.french_language: "Ausse"
+horstmar.french_language: "Orstmar"
+dulmen.french_language: "Dulmenne"
+
+# Province 'ostwestphalia_province' () #
+bielefeld.french_language: "Biélefel"
+osnabruck.french_language: "Osnabruc"
+minden.french_language: "Mindenne"
+
+# Province 'lippe_province' () #
+lippstadt.french_language: "Lipstat"
+soest.french_language: "Souste"
+paderborn.french_language: "Paderborn"
+detmold.french_language: "Detmol"
+hoxter.french_language: "Hocter"
+warburg.french_language: "Varbourg"
+buren.french_language: "Burenne"
+rietberg.french_language: "Rietbourg"
+
+# Province 'sauerland_province' () #
+berleburg.french_language: "Berlebours"
+siegen.french_language: "Sigenne"
+altena.french_language: "Altena"
+arnsberg.french_language: "Arnsbourg"
+meschede.french_language: "Mechede"
+brilon.french_language: "Brilons"
+attendorn.french_language: "Attendorn"
+
+# Province 'ruhr_province' () #
+essen.french_language: "Essen"
+recklinghausen.french_language: "Reclinhausen"
+dortmund.french_language: "Dortemont"
+wesel.french_language: "Vézel"
+hamm.french_language: "Hamme"
+bochum.french_language: "Bocum"
+
+# Province 'wesermarch_province' () #
+oldenburg.french_language: "Oldenbourg"
+elsfleth.french_language: "Elsflette"
+gestenthorpe.french_language: "Gestentorpe"
+bremen.french_language: "Brême"
+osterholz.french_language: "Osterol"
+friesoythe.french_language: "Frisette"
+delmenhorst.french_language: "Delmenorst"
+
+# Province 'emsland_province' () #
+lingen.french_language: "Lingenne"
+bentheim.french_language: "Benteim"
+meppen.french_language: "Méppen"
+cloppenburg.french_language: "Cloppenbourg"
+bersenbruck.french_language: "Bersenbruc"
+tecklenburg.french_language: "Tecklenbourg"
+rheine.french_language: "Rheine"
+aschendorf.french_language: "Acendorfe"
+
+# Province 'middle_weser_province' () #
+nienburg.french_language: "Nienbourg"
+hoya.french_language: "Hoïa"
+diepholz.french_language: "Diepoles"
+vechta.french_language: "Vecta"
+
+
+## Area 'lower_saxony_area' () ##
+# Province 'elbmarch_province' () #
+harburg.french_language: "Harbourg"
+stade.french_language: "Stade"
+hamburg.french_language: "Hambourg"
+neuhaus.french_language: "Neuhousse"
+ritzebuttel.french_language: "Ritzebutel"
+bremervorde.french_language: "Bremervorde"
+
+# Province 'hanover_province' () #
+hildesheim.french_language: "Hildeseim"
+hanover.french_language: "Hanovre"
+burgdorf.french_language: "Burgdor"
+buckeburg.french_language: "Buquebourg"
+hamelin.french_language: "Hamelin"
+neustadt_am_rubenberge.french_language: "Neustade-sur-Rubenberg"
+
+# Province 'brunswick_province' () #
+brunswick.french_language: "Brunswick"
+wolfenbuttel.french_language: "Volfenbutel"
+helmstedt.french_language: "Helmstette"
+gifhorn.french_language: "Giforne"
+meinersen.french_language: "Menersen"
+
+# Province 'leine_province' () #
+holzminden.french_language: "Holzmindenne"
+gottingen.french_language: "Gottingue"
+einbeck.french_language: "Ainbec"
+hofgeismar.french_language: "Hofgémar"
+muhlhausen.french_language: "Mulhausen"
+duderstadt.french_language: "Duderstad"
+
+# Province 'luneburger_heide_province' () #
+dannenberg.french_language: "Dannenbergue"
+luneburg.french_language: "Lunebourg"
+uelzen.french_language: "Uelzène"
+winsen.french_language: "Vincenne"
+soltau.french_language: "Soltau"
+winsen_aller.french_language: "Vincenne-sur-Aller"
+isenhagen.french_language: "Isenhagène"
+ebstorf.french_language: "Ebstorfe"
+luchow.french_language: "Luchau"
+
+# Province 'aller_province' () #
+celle.french_language: "Celles"
+fallingbostel.french_language: "Falinbostel"
+verden.french_language: "Verdène"
+zeven.french_language: "Zévène"
+achim.french_language: "Acquin"
+
+# Province 'harz_province' () #
+nordhausen.french_language: "Nordhausen"
+sangerhausen.french_language: "Sangerosen"
+goslar.french_language: "Goslar"
+alfeld.french_language: "Alfel"
+blankenburg.french_language: "Blanckenbourg"
+gandersheim.french_language: "Ganderseim"
+herzberg.french_language: "Hersbourg"
+ballenstedt.french_language: "Ballenstette"
+wernigerode.french_language: "Verniguerode"
+
+# Province 'magdeburger_borde_province' () #
+magdeburg.french_language: "Magdebourg"
+bernburg.french_language: "Bernbourg"
+calbe.french_language: "Calbe"
+halberstadt.french_language: "Halberstat"
+quedlinburg.french_language: "Quedlinbourg"
+burg.french_language: "Bourg"
+jerichow.french_language: "Jérichau"
+
+
+## Area 'upper_saxony_area' () ##
+# Province 'oberlausitz_province' () #
+gorlitz.french_language: "Gorlissè"
+bautzen.french_language: "Baussène"
+zittau.french_language: "Zitteu"
+hoyerswerda.french_language: "Hoyerverde"
+rothenburg_oberlausitz.french_language: "Rothenbourg-de-Haute-Lusace"
+marienstern.french_language: "Mariesterne"
+
+# Province 'elbtal_province' () #
+meissen.french_language: "Meissenne"
+dresden.french_language: "Dresde"
+pirna.french_language: "Pirne"
+liebenwerda.french_language: "Liebverdes"
+torgau.french_language: "Torgau"
+annaburg.french_language: "Annabourg"
+
+# Province 'erzgebirge_province' () #
+glauchau.french_language: "Glaucau"
+zwickau.french_language: "Zvicau"
+chemnitz.french_language: "Chemnè"
+freiberg.french_language: "Freibourg"
+sayda.french_language: "Saïde"
+
+# Province 'leipziger_bucht_province' () #
+leipzig.french_language: "Leipzig"
+grimma.french_language: "Grimma"
+rochlitz.french_language: "Roclit"
+wurzen.french_language: "Wourzène"
+altenburg.french_language: "Altenbourg"
+delitzsch.french_language: "Délitse"
+
+# Province 'vogtland_province' () #
+plauen.french_language: "Plauen"
+gera.french_language: "Guéra"
+schleiz.french_language: "Chlaïce"
+hof.french_language: "Hof"
+
+# Province 'thuringer_becken_province' () #
+erfurt.french_language: "Erfourte"
+eisenberg.french_language: "Eisenbourg"
+weimar.french_language: "Weimar"
+apolda.french_language: "Apolda"
+arnstadt.french_language: "Arnstad"
+langensalza.french_language: "Langensalse"
+sondershausen.french_language: "Sondersausen"
+saalfeld.french_language: "Salfel"
+
+# Province 'thuringer_wald_province' () #
+hildburghausen.french_language: "Hildbourgausen"
+schmalkalden.french_language: "Smalkalde"
+eisenach.french_language: "Eisennac"
+meiningen.french_language: "Meiningue"
+gotha.french_language: "Gotha"
+ohrdruf.french_language: "Ordruf"
+schleusingen.french_language: "Cleusingue"
+
+# Province 'saale_province' () #
+halle_an_der_saale.french_language: "Halle-sur-Saale"
+naumburg.french_language: "Naumbourg"
+weissenfels.french_language: "Weissenfels"
+freyburg.french_language: "Freybourg"
+beichlingen.french_language: "Beichlingen"
+merseburg.french_language: "Mersebourg"
+eisleben.french_language: "Eislebène"
+
+
+## Area 'mecklenburg_area' () ##
+# Province 'schwerin_province' () #
+schwerin.french_language: "Sévérine"
+hagenow.french_language: "Hagenau"
+grevesmuhlen.french_language: "Grèvesmule"
+wismar.french_language: "Vismar"
+doberan.french_language: "Doberan"
+grabow.french_language: "Grabau"
+rostock.french_language: "Rostoc"
+butzow.french_language: "Bessaus"
+
+# Province 'seenplatte_province' () #
+gustrow.french_language: "Gustreau"
+parchim.french_language: "Parcime"
+malchin.french_language: "Malchine"
+waren.french_language: "Varenne"
+neubrandenburg.french_language: "Neubrandebourg"
+strelitz.french_language: "Strelitse"
+malchow.french_language: "Malchot"
+lake_muritz.french_language: "lac Muris"
+
+
+## Area 'pomerania_area' () ##
+# Province 'vorpommern_province' () #
+stralsund.french_language: "Stralsonde"
+ribnitz.french_language: "Pêcheurs"
+grimmen.french_language: "Grimmenne"
+rugen.french_language: "Rugène"
+swinousjcie.french_language: "Svinoustie"
+wolgast.french_language: "Voulegaste"
+anklam.french_language: "Anclame"
+demmin.french_language: "Demmine"
+
+# Province 'stettin_province' () #
+stettin.french_language: "Stettine"
+ueckermunde.french_language: "Uckermonde"
+kamien.french_language: "Camienne"
+nowogard.french_language: "Neugarde"
+goleniow.french_language: "Golenau"
+
+# Province 'koslin_province' () #
+koszalin.french_language: "Cossaline"
+bialogard.french_language: "Bialogarde"
+gryfia_gora.french_language: "Grifie-Gore"
+kolobrzeg.french_language: "Colobreg"
+swidwin.french_language: "Svidvine"
+resko.french_language: "Rescaux"
+bobolice.french_language: "Bobolisse"
+nowoszczecin.french_language: "Novossecine"
+
+# Province 'stolp_province' () #
+slupsk.french_language: "Sloupsque"
+lebork.french_language: "Léborgue"
+bytow.french_language: "Bitau"
+miastko.french_language: "Miastoc"
+slawno.french_language: "Slavene"
+lebsko_lake.french_language: "lac Lèbe"
+
+# Province 'pyritz_province' () #
+pyrzyce.french_language: "Pyrzice"
+choszczno.french_language: "Cosno"
+szadzko.french_language: "Sadzque"
+gryfow.french_language: "Grifaud"
+drawsko.french_language: "Dravscot"
+
+
+### Region 'great_britain_region' () ###
+
+## Area 'home_counties_area' () ##
+# Province 'middlesex_province' () #
+london.french_language: "Londres"
+harrow.french_language: "Hareau"
+kingston.french_language: "Ville-du-Roi"
+
+# Province 'surrey_province' () #
+reigate.french_language: "Reigat"
+guildford.french_language: "Gué-d'Or"
+woking.french_language: "Vouquin"
+
+# Province 'hampshire_province' () #
+southampton.french_language: "Port-Sud"
+portsmouth.french_language: "Bouche-du-Port"
+winchester.french_language: "Vente-Belgarde"
+lymington.french_language: "Limenton"
+wight.french_language: "Île-Claire"
+basingstoke.french_language: "Basingcourt"
+
+# Province 'kent_province' () #
+dover.french_language: "Douvres"
+canterbury.french_language: "Cantorbéri"
+rochester.french_language: "Rochestre"
+hythe.french_language: "Haute-Rive"
+tonbridge.french_language: "Pont-Ton"
+
+# Province 'sussex_province' () #
+shoreham.french_language: "Port-Rivage"
+lewes.french_language: "Leuves"
+hastings.french_language: "Astins"
+chichester.french_language: "Chicestre"
+
+# Province 'bedfordshire_province' () #
+dunstable.french_language: "Dunestabl"
+bedford.french_language: "Bèdefort"
+
+# Province 'oxfordshire_province' () #
+oxford.french_language: "Gué-aux-Boeufs"
+henley.french_language: "Henlé"
+banbury.french_language: "Banberi"
+
+# Province 'berkshire_province' () #
+windsor.french_language: "Vinzor"
+reading.french_language: "Rédingue"
+abingdon.french_language: "Abendon"
+
+# Province 'buckinghamshire_province' () #
+buckingham.french_language: "Boucourt"
+aylesbury.french_language: "Ailesbourg"
+wycombe.french_language: "Vicombe"
+
+
+## Area 'midlands_area' () ##
+# Province 'leicestershire_province' () #
+leicester.french_language: "Lestère"
+loughborough.french_language: "Lobourg"
+bosworth.french_language: "Bosouart"
+rutland.french_language: "Rutlande"
+
+# Province 'derbyshire_province' () #
+derby.french_language: "Derbi"
+glossop.french_language: "Glossoppe"
+chesterfield.french_language: "Champcestre"
+
+# Province 'nottinghamshire_province' () #
+nottingham.french_language: "Notingame"
+newark.french_language: "Neufbourg"
+retford.french_language: "Rettefort"
+
+# Province 'lincolnshire_province' () #
+lincoln.french_language: "Lincolne"
+boston.french_language: "Bostonne"
+grimsby.french_language: "Grisport"
+grantham.french_language: "Granthan"
+louth.french_language: "Louthe"
+spalding.french_language: "Spaldin"
+
+# Province 'northamptonshire_province' () #
+northampton.french_language: "Nordhamptone"
+daventry.french_language: "Daventri"
+kettering.french_language: "Queterin"
+
+# Province 'warwickshire_province' () #
+coventry.french_language: "Coventrie"
+birmingham.french_language: "Bermingam"
+stratford.french_language: "Estratfort"
+
+# Province 'shropshire_province' () #
+shrewsbury.french_language: "Salopes"
+oswestry.french_language: "Osuestre"
+ludlow.french_language: "Ludelot"
+
+# Province 'herefordshire_province' () #
+hereford.french_language: "Hérefort"
+ewyas.french_language: "Évias"
+wigmore.french_language: "Vigmore"
+
+# Province 'worcestershire_province' () #
+worcester.french_language: "Vigorne"
+kidderminster.french_language: "Quiderministre"
+
+# Province 'staffordshire_province' () #
+stafford.french_language: "Estafort"
+stoke.french_language: "Estaque"
+tamworth.french_language: "Tamouart"
+
+
+## Area 'northumbria_area' () ##
+# Province 'lancashire_province' () #
+lancaster.french_language: "Lancastre"
+blackburn.french_language: "Noir-Ruisseau"
+liverpool.french_language: "Livrepol"
+preston.french_language: "Prestonne"
+manchester.french_language: "Mancestre"
+pennines_01.french_language: "Monts Pennins I"
+pennines_02.french_language: "Monts Pennins II"
+
+# Province 'north_riding_province' () #
+york.french_language: "Evrac"
+scarborough.french_language: "Escarbourg"
+bedale.french_language: "Bédale"
+richmond.french_language: "Richemont"
+whitby.french_language: "Blancport"
+north_york_moors.french_language: "Landes du Nord-Evrac"
+
+# Province 'east_riding_province' () #
+hull.french_language: "Hulne"
+bridlington.french_language: "Bridelion"
+selby.french_language: "Selbi"
+norton.french_language: "Nordtonne"
+
+# Province 'west_riding_province' () #
+leeds.french_language: "Lides"
+pontefract.french_language: "Pont-Fract"
+skipton.french_language: "Esquiptone"
+wakefield.french_language: "Veillechamp"
+doncaster.french_language: "Doncastre"
+ripon.french_language: "Ripon"
+pennines_04.french_language: "Monts Pennins IV"
+pennines_05.french_language: "Monts Pennins V"
+pennines_06.french_language: "Monts Pennins VI"
+
+# Province 'northumberland_province' () #
+newcastle.french_language: "Nouveau-Château"
+hexham.french_language: "Hesham"
+alnwick.french_language: "Alnevic"
+morpeth.french_language: "Morpette"
+billingham.french_language: "Billancourt"
+
+# Province 'cumberland_province' () #
+carlisle.french_language: "Carlîle"
+cockermouth.french_language: "Bouche-Cocaire"
+penrith.french_language: "Penrite"
+egremont.french_language: "Égremont"
+derwent_water.french_language: "Lac Derwent"
+
+# Province 'westmorland_province' () #
+kendal.french_language: "Cendal"
+appleby.french_language: "Pommebi"
+
+# Province 'durham_province' () #
+durham.french_language: "Duresme"
+darlington.french_language: "Darlinville"
+stockton.french_language: "Estocton"
+pennines_03.french_language: "Monts Pennins III"
+
+# Province 'cheshire_province' () #
+chester.french_language: "Cestre"
+macclesfield.french_language: "Champ-Macle"
+nantwich.french_language: "Nantouiche"
+
+
+## Area 'east_anglia_area' () ##
+# Province 'norfolk_province' () #
+norwich.french_language: "Norouiche"
+lynn.french_language: "Linne"
+yarmouth.french_language: "Yarmoude"
+thetford.french_language: "Tetfort"
+fakenham.french_language: "Facenam"
+
+# Province 'essex_province' () #
+colchester.french_language: "Colcestre"
+chelmsford.french_language: "Chelmesfort"
+prittlewell.french_language: "Pritleville"
+hedingham.french_language: "Hedingan"
+walden.french_language: "Valdon"
+barking.french_language: "Barquin"
+
+# Province 'suffolk_province' () #
+ipswich.french_language: "Ipsouich"
+bury.french_language: "Buri"
+lowestoft.french_language: "Loestofte"
+lavenham.french_language: "Lavenan"
+
+# Province 'cambridgeshire_province' () #
+cambridge.french_language: "Cambrige"
+ely.french_language: "Éli"
+huntingdon.french_language: "Chassedon"
+royston.french_language: "Roiston"
+
+# Province 'hertfordshire_province' () #
+hertford.french_language: "Herfourd"
+st_albans.french_language: "Saint-Alban"
+
+
+## Area 'west_country_area' () ##
+# Province 'cornwall_province' () #
+launceston.french_language: "Launceston"
+truro.french_language: "Truro"
+bodmin.french_language: "Baudmin"
+scilly_isles.french_language: "Îles Scilly"
+
+# Province 'somerset_province' () #
+wells.french_language: "Fontaines"
+taunton.french_language: "Tauntonne"
+bath.french_language: "Les-Bains"
+portishead.french_language: "Tête-du-Port"
+minehead.french_language: "Tête-des-Mines"
+
+# Province 'devon_province' () #
+plymouth.french_language: "Plimoudes"
+exeter.french_language: "Exestre"
+barnstaple.french_language: "Barnestaple"
+bideford.french_language: "Bidefort"
+bampton.french_language: "Bamptone"
+okehampton.french_language: "Ocamtone"
+dartmoor.french_language: "Monts Dart"
+
+# Province 'dorset_province' () #
+poole.french_language: "Pôles"
+weymouth.french_language: "Ouémoudes"
+dorchester.french_language: "Dorcestre"
+shaftesbury.french_language: "Shaftesburi"
+
+# Province 'wiltshire_province' () #
+salisbury.french_language: "Salisbéri"
+trowbridge.french_language: "Pont-Tro"
+chippenham.french_language: "Chipenam"
+amesbury.french_language: "Amesburi"
+
+# Province 'gloucestershire_province' () #
+bristol.french_language: "Brystol"
+gloucester.french_language: "Glocestre"
+cheltenham.french_language: "Cheltanam"
+cirencester.french_language: "Cirencestre"
+
+
+## Area 'scottish_highlands_area' () ##
+# Province 'moray_province' () #
+inverness.french_language: "Invernesse"
+urquhart.french_language: "Ourcart"
+elgin.french_language: "Elguin"
+badenoch.french_language: "Badenoc"
+loch_ness.french_language: "Lac Ness"
+cairngorm.french_language: "Carn-Gorme"
+
+# Province 'ross_province' () #
+dingwall.french_language: "Dingoual"
+gairloch.french_language: "Guerloc"
+ullapool.french_language: "Ullapoul"
+fannichs.french_language: "Monts Fanniques"
+
+# Province 'sutherland_province' () #
+dornoch.french_language: "Dornoc"
+durness.french_language: "Durnesse"
+tongue.french_language: "Tongues"
+thurso.french_language: "Thurso"
+ben_klibreck.french_language: "Mont Clibrech"
+
+# Province 'argyll_province' () #
+inverary.french_language: "Inverarie"
+oban.french_language: "Obane"
+cowal.french_language: "Couale"
+lochaber.french_language: "Lac-Aber"
+ardtornish.french_language: "Ardtornis"
+kintyre.french_language: "Quintire"
+ben_nevis.french_language: "Mont Névis"
+carn_eige.french_language: "Carn-Ègue"
+
+
+## Area 'hebrides_area' () ##
+# Province 'outer_hebrides_province' () #
+lewis.french_language: "Léouis"
+uist.french_language: "Uiste"
+harris.french_language: "Arris"
+skye.french_language: "Scaie"
+
+# Province 'inner_hebrides_province' () #
+arran.french_language: "Arran"
+mull.french_language: "Mulle"
+islay.french_language: "Islaix"
+mann.french_language: "Man"
+
+
+## Area 'scottish_lowlands_area' () ##
+# Province 'lothian_province' () #
+edinburgh.french_language: "Édimbourg"
+dunbar.french_language: "Dunbar"
+linlithgow.french_language: "Linligeau"
+stirling.french_language: "Estirling"
+
+# Province 'galloway_province' () #
+stranraer.french_language: "Estranré"
+ayr.french_language: "Air"
+kirkcudbright.french_language: "Cudbrie"
+irvine.french_language: "Irvin"
+kenmure.french_language: "Quenmure"
+dumfries.french_language: "Dumfris"
+
+# Province 'strathclyde_province' () #
+glasgow.french_language: "Glascou"
+lanark.french_language: "Lanarc"
+paisley.french_language: "Paislé"
+dumbarton.french_language: "Dunbarton"
+loch_lomond.french_language: "Lac Lomond"
+
+# Province 'teviotdale_province' () #
+roxburgh.french_language: "Rocsbourg"
+selkirk.french_language: "Selquirc"
+duns.french_language: "Duns"
+berwick.french_language: "Berouic"
+
+# Province 'fife_province' () #
+dunfermline.french_language: "Dunfermlin"
+st_andrews.french_language: "Saint-André"
+cupar.french_language: "Cupar"
+
+# Province 'perthshire_province' () #
+perth.french_language: "Perth"
+aberfeldy.french_language: "Aberfeldi"
+clackmannan.french_language: "Clacmanan"
+scone.french_language: "Scône"
+strathearn.french_language: "Val-d-Ern"
+ochil_hills.french_language: "Collines Ochil"
+
+# Province 'angus_province' () #
+dundee.french_language: "Dundee"
+forfar.french_language: "Forfar"
+arbroath.french_language: "Arbrôte"
+stonehaven.french_language: "Port-Pierre"
+
+# Province 'aberdeenshire_province' () #
+aberdeen.french_language: "Aberdeen"
+buchan.french_language: "Boucan"
+banff.french_language: "Banff"
+mar.french_language: "Marre"
+inverurie.french_language: "Inverurie"
+
+
+## Area 'wales_area' () ##
+# Province 'deheubarth_province' () #
+carmarthen.french_language: "Carmarden"
+pembroke.french_language: "Penbrouc"
+fishguard.french_language: "Garde-Poisson"
+kidwelly.french_language: "Kidoueli"
+cardigan.french_language: "Cardiguen"
+aberystwyth.french_language: "Aberistouith"
+dyfi_estuary.french_language: "Embouchure Dyfi"
+
+# Province 'gwynedd_province' () #
+carnarvon.french_language: "Carnarfon"
+anglesey.french_language: "Anglesée"
+conwy.french_language: "Conoui"
+harlech.french_language: "Harlec"
+flint.french_language: "Flinte"
+penllyn.french_language: "Penline"
+denbigh.french_language: "Denbigh"
+snowdon.french_language: "Mont Neige"
+
+# Province 'powys_province' () #
+montgomery.french_language: "Montgomeri"
+machynlleth.french_language: "Machinlet"
+llangollen.french_language: "Langolen"
+berwyn_range.french_language: "Chaîne Berwyn"
+
+# Province 'brecon_province' () #
+brecknock.french_language: "Brecnoc"
+builth.french_language: "Built"
+radnor.french_language: "Radnor"
+brecon_beacons.french_language: "Pics de Brecon"
+cambrian_mountains.french_language: "Monts Cambriens"
+
+# Province 'glamorgan_province' () #
+cardiff.french_language: "Cardif"
+monmouth.french_language: "Monmonde"
+newport.french_language: "Portneuf"
+neath.french_language: "Nèthe"
+swansea.french_language: "Swansé"
+caerphilly.french_language: "Carfilly"
+
+
+## Area 'english_channel_area' () ##
+
+### Region 'ireland_region' () ###
+
+## Area 'leinster_area' () ##
+# Province 'dublin_province' () #
+dublin.french_language: "Dublin"
+fingal.french_language: "Fingalle"
+wicklow.french_language: "Ouiclau"
+glendalough.french_language: "Glendaloc"
+wicklow_mountains.french_language: "Monts d'Ouiclau"
+
+# Province 'meath_province' () #
+trim.french_language: "Trime"
+kells.french_language: "Quelles"
+mullingar.french_language: "Mulingar"
+longford.french_language: "Longfort"
+ardagh.french_language: "Ardague"
+ballymore.french_language: "Ville-Grande"
+tullamore.french_language: "Tullamor"
+navan.french_language: "Navanne"
+
+# Province 'wexford_province' () #
+wexford.french_language: "Wexfort"
+new_ross.french_language: "Neuf-Ros"
+ferns.french_language: "Fernes"
+carlow.french_language: "Carlau"
+
+# Province 'kildare_province' () #
+kildare.french_language: "Cildaire"
+naas.french_language: "Nâsse"
+athy.french_language: "Ati"
+dunamase.french_language: "Dunamas"
+daingean.french_language: "Danguen"
+
+# Province 'kilkenny' () #
+kilkenny.french_language: "Quilquenni"
+cullahill.french_language: "Coulahille"
+
+
+## Area 'ulster_area' () ##
+# Province 'antrim_province' () #
+carrickfergus.french_language: "Caricfergus"
+belfast.french_language: "Belfaste"
+ballymena.french_language: "Ballemena"
+ballycastle.french_language: "Ballechastel"
+dunluce.french_language: "Dunluce"
+lough_neagh.french_language: "Lac Néa"
+
+# Province 'down_province' () #
+downpatrick.french_language: "Doun-Patric"
+iveagh.french_language: "Ivê"
+newtownards.french_language: "Neuville-Ardes"
+
+# Province 'tyrone_province' () #
+dungannon.french_language: "Dunganon"
+strabane.french_language: "Estrabane"
+clogher.french_language: "Cloguer"
+enniskillen.french_language: "Ennesquillen"
+belcoo.french_language: "Belcou"
+lough_erne.french_language: "Lac Erne"
+
+# Province 'derry_province' () #
+derry.french_language: "Derri"
+coleraine.french_language: "Colerain"
+magherafelt.french_language: "Magrafelt"
+
+# Province 'donegal_province' () #
+donegal.french_language: "Donegal"
+kilmacrennan.french_language: "Quilmacrenan"
+inishowen.french_language: "Inisouen"
+raphoe.french_language: "Rafot"
+
+# Province 'oriel_province' () #
+monaghan.french_language: "Monagan"
+carrickmacross.french_language: "Caric-Macros"
+armagh.french_language: "Armague"
+oriel.french_language: "Orièle"
+dundalk.french_language: "Dundalc"
+drogheda.french_language: "Drogéda"
+
+
+## Area 'connaught_area' () ##
+# Province 'galway_province' () #
+galway.french_language: "Galoué"
+clifden.french_language: "Clifdène"
+athenry.french_language: "Atenri"
+tuam.french_language: "Touam"
+kilconnell.french_language: "Quilconel"
+lough_corrib.french_language: "Lac Corrib"
+lough_derg.french_language: "Lac Dergue"
+
+# Province 'roscommon_province' () #
+roscommon.french_language: "Roscomon"
+castlereagh.french_language: "Chastelré"
+sligo.french_language: "Sligo"
+athlone.french_language: "Athlone"
+skreen.french_language: "Scrine"
+lough_ree.french_language: "Lac Rí"
+
+# Province 'breifne_province' () #
+dromahair.french_language: "Dromère"
+leitrim.french_language: "Létrime"
+killeshandra.french_language: "Quilechandra"
+cavan.french_language: "Cavane"
+killycolly.french_language: "Quillicole"
+
+# Province 'mayo_province' () #
+castlebar.french_language: "Chastelbar"
+burrishoole.french_language: "Buroul"
+erris.french_language: "Éris"
+ballaghaderreen.french_language: "Baladerin"
+lough_mask.french_language: "Lac Masque"
+lough_conn.french_language: "Lac Conne"
+
+
+## Area 'munster_area' () ##
+# Province 'cork_province' () #
+cork.french_language: "Corque"
+fermoy.french_language: "Fermoix"
+kinsale.french_language: "Quinsale"
+youghal.french_language: "Iogal"
+
+# Province 'desmond_province' () #
+killarney.french_language: "Quilarni"
+carbery.french_language: "Carberi"
+kilbrittain.french_language: "Quilbriten"
+muskerry.french_language: "Musqueri"
+dunhallow.french_language: "Dunhalo"
+
+# Province 'limerick_province' () #
+tralee.french_language: "Trali"
+dingle.french_language: "Dingel"
+limerick.french_language: "Limeric"
+killmallock.french_language: "Quilmalloc"
+adare.french_language: "Adar"
+castleconnell.french_language: "Chastelconel"
+
+# Province 'clare_province' () #
+ennis.french_language: "Énis"
+bunratty.french_language: "Bonraty"
+moyarta.french_language: "Moyarte"
+
+# Province 'tipperary_province' () #
+tipperary.french_language: "Tiperari"
+nenagh.french_language: "Nénag"
+clonmel.french_language: "Clonmel"
+cashel.french_language: "Cachel"
+roscrea.french_language: "Roscrée"
+moycarn.french_language: "Moycarn"
+
+# Province 'waterford_province' () #
+waterford.french_language: "Vaterfort"
+dungarvan.french_language: "Dungarvan"
+carrickbeg.french_language: "Caricbeg"
+### Region 'east_coast_region' () ###
+
+## Area 'massachusetts_area' () ##
+# Province 'massachusetts_province' () #
+shawmut.french_language: "Port-Saint-Louis"
+naumkeag.french_language: "Baie-Saint-Jean"
+assabet.french_language: "Rivière-Claire"
+quinsigamond.french_language: "Lac-Saint-Michel"
+weshacum.french_language: "Mont-des-Pins"
+
+# Province 'nauset_province' () #
+patuxet.french_language: "Port-Sainte-Croix"
+assonet.french_language: "Baie-des-Dauphins"
+nauset.french_language: "Cap-des-Sables"
+nantucket.french_language: "Île-des-Brumes"
+
+# Province 'agawam_province' () #
+agawam.french_language: "Val-d'Argent"
+pocumtuck.french_language: "Fort-du-Castor"
+mahaiwe.french_language: "Saint-Aymar"
+pontoosuck.french_language: "Bois-de-Godefroy"
+
+
+## Area 'southern_new_england_area' () ##
+# Province 'narraganset_province' () #
+seekonk.french_language: "Rivière-des-Hérons"
+woonsocket.french_language: "Chutes-Royales"
+pawcatuck.french_language: "Port-des-Saumons"
+
+# Province 'connecticut_province' () #
+saukiog.french_language: "Nouvelle-Chartres"
+siccanemos.french_language: "Saint-Hugues"
+willimantic.french_language: "Val-des-Tisserands"
+nehantuck.french_language: "Rive-des-Ormes"
+
+# Province 'quinnipiac_province' () #
+quinnipiac.french_language: "Baie-de-la-Lune"
+rippowam.french_language: "Port-Guillaume"
+scatacook.french_language: "Bois-Saint-Blaise"
+
+
+## Area 'vermont_area' () ##
+# Province 'winooski_province' () #
+winooski.french_language: "Rivière-Verte"
+gwenaska.french_language: "Saint-Enguerrand"
+koes.french_language: "Val-Clair"
+nitamibontegw.french_language: "Mont-des-Neiges"
+
+# Province 'pocumtuc_province' () #
+walloomsac.french_language: "Rochefort"
+pecunktuk.french_language: "Pont-du-Nord"
+wantastiquet.french_language: "Bellevallée"
+
+# Province 'cowasuk_province' () #
+ottauquechee.french_language: "Rivière-aux-Rochers"
+ompompanusooc.french_language: "Bois-des-Bruyères"
+passumpsic.french_language: "Val-des-Aigles"
+cowasuck.french_language: "Saint-Géraud"
+
+
+## Area 'new_hampshire_area' () ##
+# Province 'merrimac_province' () #
+amoskeag.french_language: "Chutes-de-l'Aurore"
+nashua.french_language: "Nouvelle-Valence"
+squamscott.french_language: "Saint-Mathurin"
+
+# Province 'pennacook_province' () #
+pennacook.french_language: "Fort-des-Cèdres"
+umbagog.french_language: "Lac-Serein"
+pemigewasset.french_language: "Rivière-Longue"
+ossipee.french_language: "Mont-des-Loups"
+
+# Province 'coos_province' () #
+monadnock.french_language: "Mont-Solitaire"
+sunapee.french_language: "Lac-Clair"
+coos.french_language: "Pays-Haut"
+ammonoosuc.french_language: "Rivière-Blanche"
+
+
+## Area 'maine_area' () ##
+# Province 'casco_province' () #
+casco.french_language: "Baie-Couronne"
+kennebunk.french_language: "Port-des-Boulognes"
+androscoggin.french_language: "Rivière-Saint-Laurent"
+pequawket.french_language: "Bois-de-la-Reine"
+ammoscongon.french_language: "Val-des-Érables"
+anasagunticook.french_language: "Montagnes-Rousses"
+
+# Province 'kennebec_province' () #
+kennebec.french_language: "Rivière-de-France"
+sagadahoc.french_language: "Cap-du-Roi"
+messalonskee.french_language: "Lac-Sainte-Hélène"
+norridgewock.french_language: "Saint-François-sur-la-Rivière"
+
+# Province 'norridgewock_province' () #
+kineo.french_language: "Mont-des-Cimes"
+caratunk.french_language: "Val-Saint-Remy"
+kennebango.french_language: "Roche-des-Vents"
+nanrantsouak.french_language: "Fort-de-l'Aigle"
+mittaywanquam.french_language: "Bois-Profond"
+
+# Province 'penobscot_province' () #
+penobscot.french_language: "Rivière-Pentecôte"
+majabigwaduce.french_language: "Baie-de-Grâces"
+piscataquis.french_language: "Rivière-aux-Saumons"
+passagassawkeag.french_language: "Port-des-Marées"
+pemetic.french_language: "Île-Saint-Clair"
+millinocket.french_language: "Val-du-Moulin"
+katahdin.french_language: "Mont-de-la-Trinité"
+
+# Province 'aroostook_province' () #
+aroostook.french_language: "Pays-des-Bouleaux"
+meduxnekeag.french_language: "Rivière-du-Castor"
+allagash.french_language: "Lac-des-Ombres"
+
+# Province 'passamaquoddy_province' () #
+passamaquoddy.french_language: "Baie-des-Brumes"
+machias.french_language: "Port-Serein"
+nicatous.french_language: "Lac-Tranquille"
+maatawamkeag.french_language: "Saint-Perrot-sur-Rivière"
+
+
+## Area 'hudson_area' () ##
+# Province 'manhattan_province' () #
+manhattan.french_language: "Nouvelle-Angoulême"
+tappan.french_language: "Rive-du-Roi"
+nochpeem.french_language: "Bois-Saint-Georges"
+
+# Province 'montauk_province' () #
+montauk.french_language: "Cap-Longue-Île"
+unquachog.french_language: "Baie-de-Saint-Malo"
+massapequa.french_language: "Port-des-Sables"
+
+# Province 'muhheakantuck_province' () #
+poughkeepsie.french_language: "Val-du-Hudson"
+ponkhockie.french_language: "Saint-Lambert"
+minisink.french_language: "Bois-des-Cerfs"
+kitchawanc.french_language: "Roche-des-Marins"
+
+# Province 'mahicannituck_province' () #
+mahicannituck.french_language: "Fleuve-des-Hurons"
+horicon.french_language: "Lac-Serpent"
+esquatak.french_language: "Fort-de-l'Est"
+lenape.french_language: "Pays-de-Saint-Jehan"
+
+
+## Area 'haudenosaunee_area' () ##
+# Province 'kanienkehaka_province' () #
+canajoharie.french_language: "Val-Saint-Charles"
+saratoga.french_language: "Prairies-Claires"
+schenectady.french_language: "Port-des-Colons"
+teionontatatie.french_language: "Bois-du-Roussillon"
+oneonta.french_language: "Saint-Tristan"
+
+# Province 'adirondacks_province' () #
+ticonderoga.french_language: "Fort-de-la-Couronne"
+itekiatonhniarikon.french_language: "Montagnes-Sauvages"
+oskennonton.french_language: "Val-des-Bisons"
+oronia.french_language: "Saint-Godefroy"
+oneyotdehaga.french_language: "Bois-des-Lynx"
+kawenote.french_language: "Roche-Noire"
+tsiietsenhtha.french_language: "Lac-Émeraude"
+adirondacks.french_language: "Hautes-Terres"
+kanyengehaga.french_language: "Saint-Isabeau"
+
+# Province 'oswegatchie_province' () #
+nikahionhwakowa.french_language: "Lac-des-Esprits"
+oswegatchie.french_language: "Rivière-Saint-Denis"
+ahkwesasne_ny.french_language: "Île-Sainte-Anne"
+kaniatarahontsi.french_language: "Fleuve-Royal"
+ahna_wate.french_language: "Port-Enguerrand"
+
+# Province 'onyotaaka_province' () #
+onenioteke.french_language: "Val-des-Érables"
+niiohehsane.french_language: "Mont-des-Falaises"
+teiehonwahkhkwatha.french_language: "Saint-Bernard"
+oneniote.french_language: "Bois-des-Chênes"
+
+# Province 'onondagega_province' () #
+tsikahiotsisto.french_language: "Rivière-Sainte-Foy"
+oswego.french_language: "Port-Saint-Louis-sur-le-Lac"
+otsiningo.french_language: "Val-des-Colombes"
+
+# Province 'gayogohono_province' () #
+skaniatares.french_language: "Lac-Saint-Clair"
+assorodus.french_language: "Rivière-des-Roses"
+gahato.french_language: "Saint-Guillaume-des-Bois"
+
+# Province 'onondowaga_province' () #
+canadaigua.french_language: "Lac-de-la-Reine"
+irondequoit.french_language: "Baie-de-Fer"
+geneseo.french_language: "Val-Fertile"
+tsonentsiio.french_language: "Saint-Agnès"
+
+# Province 'wenro_province' () #
+tiotoren.french_language: "Fort-des-Rochers"
+kanentaweron.french_language: "Rivière-du-Cèdre"
+thahnawate.french_language: "Bois-Sombre"
+cattaraugus.french_language: "Val-Saint-Laurent"
+ahouenro.french_language: "Port-Perrot"
+
+
+## Area 'new_jersey_area' () ##
+# Province 'raritan_province' () #
+raritan.french_language: "Rivière-des-Rosiers"
+hackensack.french_language: "Marais-Saint-Paul"
+navisink.french_language: "Baie-des-Nefs"
+piscopeek.french_language: "Bois-Saint-Martin"
+
+# Province 'kechemeche_province' () #
+tetamekanch.french_language: "Val-des-Cormorans"
+kechemeche.french_language: "Saint-Étienne"
+cohansey.french_language: "Rivière-du-Sud"
+amintonck.french_language: "Port-Clair"
+
+# Province 'assupink_province' () #
+assunpink.french_language: "Rivière-Rose"
+muscotnetcong.french_language: "Mont-des-Nuages"
+hopatcong.french_language: "Lac-des-Cygnes"
+
+
+## Area 'pennsylvania_area' () ##
+# Province 'shackamaxon_province' () #
+shackamaxon.french_language: "Saint-Denis-sur-Fleuve"
+wawassan.french_language: "Bois-des-Ormes"
+wyomissing.french_language: "Val-de-la-Colombe"
+
+# Province 'paxtang_province' () #
+paxtang.french_language: "Prairies-de-France"
+connatachequa.french_language: "Rivière-des-Loutres"
+conewago.french_language: "Chutes-Saint-Jacques"
+
+# Province 'lehigh_province' () #
+lehigh.french_language: "Val-Clair-sur-Rivière"
+paunacussing.french_language: "Bois-Saint-André"
+tohickon.french_language: "Rivière-aux-Pierres"
+schuylkill.french_language: "Bras-du-Fleuve"
+
+# Province 'tesinigh_province' () #
+tesinigh.french_language: "Fort-du-Val"
+attaock.french_language: "Montagnes-Grises"
+cocalico.french_language: "Saint-Blaise"
+
+# Province 'shamokin_province' () #
+shamokin.french_language: "Rivière-Noire"
+mahoning.french_language: "Bois-de-Fontaine"
+mattawana.french_language: "Val-Saint-Pierre"
+juniata.french_language: "Rivière-Claire-sur-la-Vallée"
+onojutta.french_language: "Saint-Hervé"
+tuckahoe.french_language: "Mont-des-Chasseurs"
+wallenpaupack.french_language: "Lac-des-Rochers"
+massawomeck.french_language: "Pays-de-la-Loutre"
+
+# Province 'wyoming_province' () #
+scahentowanen.french_language: "Grande-Vallée"
+lackawanna.french_language: "Rivière-Saint-Jean"
+atrakwaye.french_language: "Bois-de-l'Ouest"
+wappasening.french_language: "Port-de-la-Vallée"
+lackawaxen.french_language: "Roche-Blanche"
+
+# Province 'delaware_province' () #
+minguannan.french_language: "Port-de-la-Délaware"
+tappahanna.french_language: "Rivière-Saint-Louis"
+assawoman.french_language: "Baie-des-Dunes"
+
+
+## Area 'westsylvania_area' () ##
+# Province 'lycoming_province' () #
+loyalsock.french_language: "Rivière-Loyale"
+lycoming.french_language: "Val-des-Bisons"
+tangasootack.french_language: "Bois-de-Saint-Brice"
+andastoerrhonon.french_language: "Fort-d'Anjou"
+susquehannock.french_language: "Fleuve-Susquehanna"
+
+# Province 'allegheny_province' () #
+allegheny.french_language: "Monts-d'Acier"
+loyalhanna.french_language: "Rivière-de-la-Fidélité"
+youghiogheny.french_language: "Val-des-Cascades"
+quemahoning.french_language: "Bois-de-Saint-Léger"
+conemaugh.french_language: "Gorges-Profondes"
+
+# Province 'erie_province' () #
+erie.french_language: "Lac-Érié"
+saucunk.french_language: "Port-du-Lac"
+shenango.french_language: "Rivière-Sainte-Madeleine"
+tionesta.french_language: "Val-des-Chênes"
+kittaning.french_language: "Bois-de-Saint-Philippe"
+punxsutawney.french_language: "Saint-Géraud-des-Bois"
+
+
+## Area 'maryland_area' () ##
+# Province 'nanticoke_province' () #
+wicomico.french_language: "Rivière-des-Marais"
+chicamacomico.french_language: "Baie-Saint-Ange"
+matapeake.french_language: "Île-Sainte-Marguerite"
+
+# Province 'patapsco_province' () #
+patapsco.french_language: "Port-de-Patapscourt"
+wicontiss.french_language: "Bois-Moussu"
+nentego.french_language: "Rivière-des-Cygnes"
+patuxent.french_language: "Val-Saint-François"
+
+# Province 'potomac_province' () #
+anacostia.french_language: "Rivière-de-l'Ange"
+monocacy.french_language: "Val-Saint-Laurent"
+potapoco.french_language: "Baie-des-Sables"
+catoctin.french_language: "Mont-Catherine"
+
+# Province 'wapocomo_province' () #
+antietam.french_language: "Rivière-du-Sanglier"
+cacapon.french_language: "Val-des-Rochers"
+opequon.french_language: "Bois-Clairs"
+wapocomo.french_language: "Saint-Jehan-sur-Rivière"
+
+
+## Area 'virginia_area' () ##
+# Province 'tsenacommacah_province' () #
+werowocomoco.french_language: "Fort-du-Roi"
+patawomeck.french_language: "Rive-Saint-Michel"
+wicocomico.french_language: "Baie-des-Hérons"
+nanzatico.french_language: "Saint-Guillaume-du-Sud"
+rappahannock.french_language: "Fleuve-de-Rapport"
+
+# Province 'chesapeake_province' () #
+kiskiack.french_language: "Cap-des-Chênes"
+accomac.french_language: "Baie-de-l'Espérance"
+nansemond.french_language: "Port-Sainte-Anne"
+chesapeake.french_language: "Baie-de-Chesepic"
+weyanock.french_language: "Bois-de-la-Reine"
+
+# Province 'powhatan_province' () #
+powhatan.french_language: "Fort-Powetain"
+appamatuck.french_language: "Rivière-Saint-Jacques"
+cheroenhaka.french_language: "Val-des-Cerfs"
+waqua.french_language: "Bois-Sans-Fin"
+pamunkey.french_language: "Saint-Martin-sur-Fleuve"
+
+# Province 'doeg_province' () #
+doeg.french_language: "Val-du-Lièvre"
+manassas.french_language: "Prairies-de-Saint-Paul"
+tegninateo.french_language: "Bois-de-Saint-Antoine"
+
+# Province 'monacan_province' () #
+rassawek.french_language: "Fort-des-Collines"
+mowhemencho.french_language: "Val-des-Sources"
+appomattox.french_language: "Rivière-Appomatte"
+monahassanugh.french_language: "Mont-Saint-Léon"
+massinacak.french_language: "Bois-des-Tilleuls"
+monasukapanough.french_language: "Saint-Hildegarde"
+
+# Province 'saponi_province' () #
+saponi.french_language: "Val-Sapogne"
+nessoneick.french_language: "Bois-du-Ruisseau"
+occaneechi.french_language: "Île-des-Chasseurs"
+pintahae.french_language: "Mont-des-Aigles"
+meherrin.french_language: "Rivière-Mehérin"
+
+# Province 'tutelo_province' () #
+mahock.french_language: "Fort-du-Ravin"
+chiswell.french_language: "Saint-Antoine-des-Bois"
+tutelo.french_language: "Val-Tutel"
+torope.french_language: "Bois-des-Renards"
+mondongachate.french_language: "Mont-des-Grands-Bois"
+
+# Province 'shenandoah_province' () #
+onandagoa.french_language: "Val-de-Saint-Laurent"
+massanutten.french_language: "Mont-de-la-Vallée"
+schinhandowi.french_language: "Rivière-des-Clairs-Échos"
+shenandoah.french_language: "Vallée-des-Brumes"
+
+# Province 'mosopeleacipi_province' () #
+mosopeleacipi.french_language: "Fleuve-des-Plaines"
+tazewell.french_language: "Val-Saint-Remy-sur-Rivière"
+bland.french_language: "Bois-Silencieux"
+kallamuckee.french_language: "Mont-des-Ours"
+
+
+## Area 'west_virginia_area' () ##
+# Province 'wappacoma_province' () #
+wappacoma.french_language: "Val-du-Lac"
+ashby.french_language: "Saint-Perrin"
+conococheague.french_language: "Rivière-Tortueuse"
+patna_us.french_language: "Bois-de-Patena"
+calicuas.french_language: "Mont-des-Chênes-Blancs"
+
+# Province 'kanawha_province' () #
+moneton.french_language: "Fort-des-Roches"
+mohetan.french_language: "Bois-de-la-Fourche"
+kanawha.french_language: "Rivière-Canavaux"
+ouasioto.french_language: "Monts-Brouillards"
+pocatalico.french_language: "Val-des-Pierres"
+chinquetana.french_language: "Saint-Gautier"
+weotowe.french_language: "Prairies-Saint-Jean"
+tsalagi.french_language: "Pays-de-Tsalon"
+anigiduwagi.french_language: "Monts-du-Chercheur"
+
+# Province 'monongahela_province' () #
+wihlink.french_language: "Bois-des-Ramiers"
+monongahela.french_language: "Fleuve-Monongail"
+onimgohow.french_language: "Val-des-Ombres"
+calicua.french_language: "Mont-Saint-Jacques"
+
+
+## Area 'north_carolina_area' () ##
+# Province 'roanoke_province' () #
+roanoke.french_language: "Île-Roanoc"
+croatan.french_language: "Baie-des-Corbeaux"
+hatteras.french_language: "Cap-des-Tempêtes"
+chowanoke.french_language: "Rivière-Saint-Joseph"
+pocosin.french_language: "Marais-Profond"
+wiccacon.french_language: "Bois-de-la-Colombe"
+
+# Province 'pamlico_province' () #
+pamlico.french_language: "Baie-Pamlique"
+coree.french_language: "Île-des-Sables"
+corani.french_language: "Port-Saint-Clair"
+neuse.french_language: "Rivière-Neuve"
+
+# Province 'chicora_province' () #
+chicora.french_language: "Côte-de-Chicorie"
+dawhee.french_language: "Bois-des-Hérons"
+woccon.french_language: "Val-Serein"
+cohari.french_language: "Rivière-des-Ronces"
+sapponah.french_language: "Prairies-Claires"
+necoes.french_language: "Saint-Aimery"
+
+# Province 'gowtano_province' () #
+gowtano.french_language: "Fort-des-Dunes"
+nooherooka.french_language: "Bois-de-la-Rivière"
+kehaukee.french_language: "Val-des-Hêtres"
+cherohenaka_nc.french_language: "Saint-Guillaume-sur-Mer"
+pamticough.french_language: "Rivière-Pantique"
+
+# Province 'waxhaw_province' () #
+adshusheer.french_language: "Monts-du-Sud"
+eno.french_language: "Rivière-Énon"
+sissipahaw.french_language: "Val-des-Saules"
+uwharrie.french_language: "Bois-Rouges"
+waxhaw.french_language: "Prairies-de-Cire"
+
+# Province 'yadkin_province' () #
+saura.french_language: "Val-Saure"
+alamance.french_language: "Bois-d'Alemans"
+yadkin.french_language: "Rivière-Yadine"
+keyauwee.french_language: "Saint-Henri"
+
+# Province 'joara_province' () #
+joara.french_language: "Fort-Joire"
+iswa.french_language: "Rivière-des-Pierres-Claires"
+guaquili.french_language: "Val-des-Moulins"
+eswawpuddenah.french_language: "Mont-des-Étoiles"
+
+# Province 'kituwa_province' () #
+kituwa.french_language: "Val-Quitois"
+nikwasi.french_language: "Bois-Nicois"
+guaxule.french_language: "Rivière-Gausse"
+tahkeeosteh.french_language: "Mont-des-Brises"
+italwa.french_language: "Prairies-Fortes"
+wattogee.french_language: "Bois-de-Watte"
+watauga.french_language: "Rivière-Otage"
+
+
+## Area 'south_carolina_area' () ##
+# Province 'waccamaw_province' () #
+waccamaw.french_language: "Rivière-des-Mares"
+winyah.french_language: "Baie-des-Vents"
+winnee.french_language: "Îles-Claires"
+peedee.french_language: "Fleuve-Pédi"
+pocotaligo.french_language: "Marais-Saint-Jean"
+
+# Province 'santee_province' () #
+etiwan.french_language: "Val-d'Étienne"
+wando.french_language: "Rivière-des-Chênes"
+kiawah.french_language: "Île-des-Grues"
+coosaw.french_language: "Baie-Causse"
+combahee.french_language: "Rivière-Combie"
+wimbee.french_language: "Bois-des-Pins"
+santee.french_language: "Fleuve-Santé"
+
+# Province 'cofitachequi_province' () #
+cofitachequi.french_language: "Fort-de-la-Reine"
+hymahi.french_language: "Val-des-Lys"
+talimeco.french_language: "Rivière-du-Lion"
+ilasi.french_language: "Bois-de-Lasie"
+
+# Province 'catawba_province' () #
+catawba.french_language: "Rivière-Catoire"
+enoree.french_language: "Val-des-Prés"
+pacolate.french_language: "Bois-Pacot"
+amoyescheck.french_language: "Mont-des-Tourbières"
+
+# Province 'keowee_province' () #
+keowee.french_language: "Lac-Quauvé"
+oolenoy.french_language: "Val-des-Bisons"
+generostee.french_language: "Bois-Généreux"
+
+# Province 'congaree_province' () #
+selkehatchie.french_language: "Marais-Salquin"
+saluda.french_language: "Rivière-Salute"
+congaree.french_language: "Fleuve-Congrais"
+kosalu.french_language: "Bois-de-Coselle"
+
+
+## Area 'georgia_us_area' () ##
+# Province 'capachequi_province' () #
+capachequi.french_language: "Fort-de-Capet"
+toa.french_language: "Val-de-Toire"
+kasihta.french_language: "Rivière-Cassine"
+hitchauta.french_language: "Bois-Hauteur"
+pallachacola.french_language: "Baie-de-Palach"
+eufaula.french_language: "Port-Eufale"
+
+# Province 'ocute_province' () #
+ocute.french_language: "Val-d'Occitanie"
+ichisi.french_language: "Bois-Iches"
+altamaha.french_language: "Fleuve-Altamais"
+cofaqui.french_language: "Fort-Confais"
+
+# Province 'coosa_province' () #
+coosa.french_language: "Rivière-Coussa"
+ulibahali.french_language: "Val-Ulibal"
+apica.french_language: "Bois-d'Apices"
+talamachusi.french_language: "Mont-Talmus"
+itaba.french_language: "Prairies-Itab"
+utsutigway.french_language: "Roche-de-Goy"
+quanasee.french_language: "Lac-Canasie"
+
+# Province 'tugaloo_province' () #
+tugaloo.french_language: "Rivière-Tugal"
+nacoochee.french_language: "Val-de-Nacourt"
+estatoe.french_language: "Bois-d'Estat"
+etoho.french_language: "Saint-Gervais"
+
+# Province 'kiokee_province' () #
+kiokee.french_language: "Ruisseau-Quioque"
+wahachee.french_language: "Val-Guachet"
+ogeechee.french_language: "Rivière-Augiche"
+ohoopee.french_language: "Bois-d'Oppy"
+
+# Province 'hitchiti_province' () #
+sawokli.french_language: "Val-de-Saous"
+alapaha.french_language: "Rivière-Alapais"
+mikasuki.french_language: "Bois-de-Micas"
+alapahoochee.french_language: "Rivière-Alapais-sur-Rivière"
+ocmulgee.french_language: "Fleuve-Comluis"
+oconee.french_language: "Rivière-Conée"
+hitchiti.french_language: "Pays-Hitchin"
+
+# Province 'mocama_province' () #
+mocama.french_language: "Côte-Mocame"
+tacatacaru.french_language: "Baie-des-Carrous"
+tamathli.french_language: "Val-Tamère"
+icafui.french_language: "Saint-Fulbert"
+
+# Province 'ossabaw_province' () #
+tybee.french_language: "Île-Tibé"
+ossabaw.french_language: "Île-Ossabaux"
+sapelo.french_language: "Île-Sapelle"
+canoochee.french_language: "Rivière-Canoque"
+
+# Province 'coweta_province' () #
+coweta.french_language: "Val-Coëte"
+kealedji.french_language: "Bois-Calégis"
+pakanahuili.french_language: "Prairies-Pacan"
+tussahaw.french_language: "Rivière-Tussac"
+
+# Province 'tuckabutche_province' () #
+tuckabutche.french_language: "Fort-Tucabouche"
+tescuntee.french_language: "Val-Tescourt"
+chatahoochee.french_language: "Fleuve-Chatauc"
+
+
+## Area 'florida_area' () ##
+# Province 'timucua_province' () #
+timucua.french_language: "Pays-Timouquin"
+malapaz.french_language: "Bon-Repos"
+uriutina.french_language: "Val-des-Palmes"
+napituca.french_language: "Lac-des-Ibis"
+
+# Province 'mayaca_province' () #
+mayaca.french_language: "Marais-Mayac"
+utina.french_language: "Val-Utine"
+itaraholata.french_language: "Bois-des-Palétuviers"
+
+# Province 'jororo_province' () #
+jororo.french_language: "Pays-Jorand"
+acuera.french_language: "Val-Acaire"
+surruque.french_language: "Côte-Surique"
+ho_bay.french_language: "Baie-du-Haut"
+
+# Province 'mayaimi_province' () #
+mayaimi.french_language: "Baie-Miami"
+ais.french_language: "Îles-Aises"
+guacata.french_language: "Val-Guacat"
+tequesta.french_language: "Fort-Tequet"
+guarungube.french_language: "Bois-Garond"
+
+# Province 'okeechobee_province' () #
+tequemapo.french_language: "Port-Téquemap"
+okeechobee.french_language: "Lac-Grand-Eau"
+caloosahatchee.french_language: "Fleuve-Calous"
+uriparacoxi.french_language: "Marais-Coxi"
+
+# Province 'potano_province' () #
+potano.french_language: "Pays-Potan"
+vicela.french_language: "Val-de-Vicelle"
+uqueten.french_language: "Bois-Uquet"
+
+# Province 'tampa_province' () #
+tocaste.french_language: "Fort-Tocast"
+guazoco.french_language: "Baie-Gazoc"
+mocozo.french_language: "Port-Mocoz"
+ozita.french_language: "Île-Ozite"
+
+# Province 'apalachee_province' () #
+apalachee.french_language: "Pays-Apalache"
+anhayca.french_language: "Val-Anac"
+azile.french_language: "Bois-Azille"
+uzachile.french_language: "Fort-Usac"
+
+# Province 'pensacola_province' () #
+pensacola.french_language: "Port-Pensac"
+watappo.french_language: "Baie-Ouattap"
+choctawhatchee.french_language: "Fleuve-Choctas"
+chatot.french_language: "Val-Chatot"
+
+
+## Area 'tennessee_area' () ##
+# Province 'pelisipi_province' () #
+pelisipi.french_language: "Rivière-Pélisie"
+shawnee.french_language: "Pays-Chaunais"
+xualae.french_language: "Val-Xalaire"
+maniatique.french_language: "Mont-Maniaque"
+
+# Province 'hogohega_province' () #
+amoyeli_gunahita.french_language: "Bois-Amoyel"
+canasoga.french_language: "Val-Canas"
+chiaha.french_language: "Fort-Chial"
+coste.french_language: "Côte-de-Coste"
+hogohega.french_language: "Mont-Hogues"
+
+# Province 'tanasi_province' () #
+chalahume.french_language: "Val-de-Chalons"
+satapo.french_language: "Bois-Satape"
+tellico.french_language: "Rivière-Télique"
+hiwasee.french_language: "Fleuve-Ivoise"
+chatanugi.french_language: "Fort-Chatan"
+chestowee.french_language: "Prairie-Chesto"
+
+# Province 'aniyutsi_province' () #
+daguwanalahi.french_language: "Mont-Daguen"
+aniyutsi.french_language: "Val-Aniss"
+shawanoe.french_language: "Pays-Chavonais"
+spithota.french_language: "Bois-Spith"
+
+# Province 'chucalissa_province' () #
+chucalissa.french_language: "Fort-Chucal"
+hatchie.french_language: "Rivière-Hache"
+obion.french_language: "Val-Obion"
+chewalla.french_language: "Bois-Cheval"
+
+# Province 'kaskinampo_province' () #
+tombigby.french_language: "Fleuve-Tombé"
+kaskinampo.french_language: "Val-Casquin"
+cussate.french_language: "Bois-Cussat"
+chuwalee.french_language: "Prairie-Chual"
+tullahoma.french_language: "Mont-Tullon"
+choate.french_language: "Val-Choat"
+tsoyaha.french_language: "Bois-Soïa"
+sequatchie.french_language: "Rivière-Séquat"
+bledsoe.french_language: "Saint-Blaise-sur-Rivière"
+
+
+## Area 'kentucky_area' () ##
+# Province 'chattarawa_province' () #
+eskalapia.french_language: "Val-d'Escal"
+chattarawa.french_language: "Rivière-Chatard"
+nepepimmesipi.french_language: "Fleuve-des-Neppes"
+yuchi.french_language: "Bois-Juchy"
+
+# Province 'kentucky_province' () #
+kentucky.french_language: "Pays-Centoc"
+eskippakaithiki.french_language: "Val-des-Écuyers"
+chenoka.french_language: "Bois-Chenoc"
+adena.french_language: "Mont-Adène"
+
+# Province 'lewekomi_province' () #
+lewekeomi.french_language: "Val-Lecomte"
+cuttawba.french_language: "Rivière-Cotabe"
+tywhapita.french_language: "Bois-Tivape"
+
+# Province 'charquis_province' () #
+charquis.french_language: "Fort-Charquet"
+kuttawa.french_language: "Val-Cutois"
+aaboukingon.french_language: "Pays-Bouquin"
+
+# Province 'cuttaway_province' () #
+pennyrile.french_language: "Prairies-Penny"
+cuttaway.french_language: "Bois-Cutois-sur-Rivière"
+warioto.french_language: "Rivière-Ouarion"
+
+
+## Area 'ohio_area' () ##
+# Province 'cuyahoga_province' () #
+cuyahoga.french_language: "Rivière-Caillaux"
+ashtabula.french_language: "Val-Ashtel"
+mahoning_oh.french_language: "Bois-Mahon"
+tuscarawas.french_language: "Rivière-Tuscar"
+
+# Province 'muskingum_province' () #
+muskingum.french_language: "Fleuve-Mousquin"
+captina.french_language: "Val-Captine"
+conotton.french_language: "Bois-Conoton"
+
+# Province 'scioto_province' () #
+olentangy.french_language: "Rivière-Olent"
+chianouske.french_language: "Val-Chianes"
+scioto.french_language: "Fleuve-Ciotte"
+ethapetha.french_language: "Bois-Étap"
+hocking.french_language: "Gorges-Hocques"
+kokosing.french_language: "Rivière-Cocos"
+
+# Province 'sandusky_province' () #
+sandusky.french_language: "Port-Sandusque"
+maumee.french_language: "Rivière-Momie"
+qusquasrundee.french_language: "Marais-Quasque"
+shapoquate.french_language: "Val-Chapet"
+
+# Province 'mineami_province' () #
+assereniet.french_language: "Bois-Asselin"
+mameiwasipi.french_language: "Rivière-Mamé"
+mineami.french_language: "Pays-Miné"
+pickawillany.french_language: "Fort-Picavin"
+
+
+## Area 'indiana_area' () ##
+# Province 'wapinippi_province' () #
+oheyandewa.french_language: "Val-d'Oyan"
+aankwaahsakwa.french_language: "Bois-Anquas"
+wapinippi.french_language: "Rivière-Wapin"
+
+# Province 'piankeshaw_province' () #
+agouasaque.french_language: "Pays-Agouasse"
+patoka.french_language: "Rivière-Patoc"
+gichthanne.french_language: "Val-Gitan"
+
+# Province 'wea_province' () #
+wapahani.french_language: "Rivière-Wapane"
+quiaghtena.french_language: "Val-Quiaute"
+mississinewa.french_language: "Fleuve-Missine"
+
+# Province 'kankakee_province' () #
+kankakee.french_language: "Rivière-Canquai"
+pakamik.french_language: "Bois-Pacam"
+wabash.french_language: "Fleuve-Ouabas"
+
+# Province 'atchakangouen_province' () #
+kociihsasiipi.french_language: "Rivière-Cocis"
+tippecanoe.french_language: "Fort-Tipécano"
+micewehudehik.french_language: "Bois-Miceux"
+kineepikwameekwa.french_language: "Val-Quinépique"
+
+
+## Area 'michigan_area' () ##
+# Province 'waawiiyaataanong_province' () #
+waawiiyaataanong.french_language: "Pays-Ouillaton"
+giwitatigweiasibi.french_language: "Rivière-Guité"
+osaakiiwaki.french_language: "Bois-Ossac"
+shiawasee.french_language: "Val-Chiavé"
+
+# Province 'saginaw_province' () #
+saginaw.french_language: "Baie-Saginaux"
+shebeon.french_language: "Bois-Chébion"
+tittabawassee.french_language: "Rivière-Titabé"
+saganing.french_language: "Val-Saguenet"
+
+# Province 'cheboygan_province' () #
+cheboygan.french_language: "Port-Chebogne"
+wequetong.french_language: "Baie-Ouéqueton"
+asiniike.french_language: "Bois-Asin"
+manistee.french_language: "Rivière-Manest"
+
+# Province 'muskegon_province' () #
+muskegon.french_language: "Port-Moscogon"
+onekama.french_language: "Baie-Onécame"
+mastigon.french_language: "Val-Mastigon"
+
+# Province 'kalamazoo_province' () #
+wabenasibi.french_language: "Rivière-Ouaban"
+owashtanong.french_language: "Fleuve-Hostan"
+kalamazoo.french_language: "Pays-Calamas"
+sakiwasipi.french_language: "Rivière-Sacouet"
+wapikisko.french_language: "Bois-Ouapics"
+
+# Province 'mackinac_province' () #
+mackinac.french_language: "Détroit-Michilimac"
+tahquamenon.french_language: "Rivière-Taquem"
+manistique.french_language: "Val-Manistique"
+
+# Province 'keweenaw_province' () #
+ishpeming.french_language: "Mont-Ispéming"
+menominee.french_language: "Bois-Ménomé"
+keweenaw.french_language: "Presqu'île-Couina"
+chicagon.french_language: "Lac-Chicagon"
+ontonagon.french_language: "Rivière-Onton"
+
+
+## Area 'illinois_area' () ##
+# Province 'checagou_province' () #
+checagou.french_language: "Checagou"
+tiatiki.french_language: "Val-Tiatique"
+pisticoui.french_language: "Rivière-Pisticourt"
+
+# Province 'kishwaukee_province' () #
+kishwaukee.french_language: "Rivière-Quichouac"
+ahsenisiipi.french_language: "Bois-Assenis"
+pecatonica.french_language: "Val-Pécaton"
+peewareewa.french_language: "Prairie-Pivare"
+
+# Province 'peoria_province' () #
+peoria.french_language: "Peoria"
+theakeiki.french_language: "Bois-Théac"
+waupecan.french_language: "Val-Opecan"
+sangamon.french_language: "Rivière-Sangamon"
+matsigame.french_language: "Pays-Massigam"
+
+# Province 'cahokia_province' () #
+cahokia.french_language: "Cahokia"
+kaskaskia.french_language: "Kaskaskia"
+kaskankaham.french_language: "Val-Cascane"
+amonokoa.french_language: "Bois-Amoncourt"
+macoupin.french_language: "Rivière-Macoupin"
+
+# Province 'mitchigamea_province' () #
+ochechiton.french_language: "Val-Ochéton"
+pawwikamsipi.french_language: "Rivière-Pavican"
+mitchigamea.french_language: "Pays-Mitchigam"
+
+# Province 'mengakonkia_province' () #
+ambraw.french_language: "Rivière-Embrot"
+osanamon.french_language: "Bois-Ossanon"
+okaw.french_language: "Rivière-Okav"
+
+
+## Area 'wisconsin_area' () ##
+# Province 'millioke_province' () #
+millioke.french_language: "Port-Millioc"
+kenosha.french_language: "Baie-Quénoche"
+sheboygan.french_language: "Port-Chebogne-sur-le-Lac"
+koshkonong.french_language: "Lac-Cosconnant"
+
+# Province 'boojwiikwedong_province' () #
+boojwiikwedong.french_language: "Baie-Boujouis"
+manitowoc.french_language: "Port-Manitouac"
+oconto.french_language: "Rivière-Ocanton"
+peshtigo.french_language: "Val-Pestigon"
+muhwaosipi.french_language: "Bois-Mousipe"
+
+# Province 'meskousing_province' () #
+meskousing.french_language: "Fleuve-Meskous"
+aupuhkirakanewe.french_language: "Marais-Kirac"
+whaypaw.french_language: "Val-Ouépau"
+kakaling.french_language: "Bois-Cacalin"
+
+# Province 'mendota_province' () #
+mendota.french_language: "Lac-Mendote"
+pecatonica_wi.french_language: "Rivière-Pécaton"
+kiwigapawa.french_language: "Val-Quiguap"
+
+# Province 'chequamegon_province' () #
+gaamiskwaabikaang.french_language: "Falaises-Grandes-Roches"
+chequamegon.french_language: "Baie-Chequamégon"
+kayeskikan.french_language: "Bois-Caiesque"
+mishkwagokag.french_language: "Val-Miscouac"
+kinnickinnic.french_language: "Rivière-Quiniquin"
+
+# Province 'pokemaga_province' () #
+enookwasaneenah.french_language: "Pays-d'Ennaux"
+waumandee.french_language: "Val-Omandé"
+hahatououadeba.french_language: "Bois-Hatou"
+pokegama.french_language: "Lac-Pokégam"
+odaawaa.french_language: "Port-Ottawa"
+sappah.french_language: "Saint-Godefroy-sur-le-Fleuve"
+
+
+## Area 'alabama_area' () ##
+# Province 'abihka_province' () #
+abihka.french_language: "Pays-Abicourt"
+callamaco.french_language: "Val-Calame"
+ohatchee.french_language: "Rivière-Oache"
+tuasi.french_language: "Bois-Tuasi"
+ishtaboli.french_language: "Mont-Istab"
+hytop.french_language: "Haut-Top"
+
+# Province 'talisi_province' () #
+talisi.french_language: "Val-Talise"
+casiste.french_language: "Bois-Cassist"
+caxa.french_language: "Mont-Caxel"
+humati.french_language: "Prairies-Humate"
+atahachi.french_language: "Rivière-Attache"
+piachi.french_language: "Saint-Piac"
+
+# Province 'mabila_province' () #
+mabila.french_language: "Fort-Mabile"
+taliepacana.french_language: "Val-Talepas"
+zabusta.french_language: "Bois-Zabust"
+apafalaya.french_language: "Marais-Apaflais"
+
+# Province 'pakana_province' () #
+pakana.french_language: "Pays-Pacane"
+wakokai.french_language: "Val-Ouacoque"
+uchee.french_language: "Bois-Uché"
+omusee.french_language: "Rivière-Omusé"
+
+# Province 'mobile_province' () #
+mobile.french_language: "Mobile"
+consha.french_language: "Val-Conchas"
+tombigbee.french_language: "Fleuve-Tombecbé"
+escatawppa.french_language: "Rivière-Escatop"
+tohome.french_language: "Bois-Tohème"
+
+# Province 'conecuh_province' () #
+conecuh.french_language: "Rivière-Conéco"
+patsaliga.french_language: "Val-Passalig"
+chootawatchee.french_language: "Bois-Choutache"
+
+# Province 'cootcla_province' () #
+cootcla.french_language: "Pays-Coutel"
+hogehege.french_language: "Val-Hogège"
+koasati.french_language: "Bois-Coassé"
+apotaka_hacha.french_language: "Rivière-Apotac"
+napochi.french_language: "Mont-Napoux"
+buddahatchie.french_language: "Rivière-Budache"
+
+
+## Area 'mississippi_area' () ##
+# Province 'oklafalaya_province' () #
+capino.french_language: "Val-Capine"
+chicksawhe.french_language: "Pays-Chicsa"
+biloxi.french_language: "Biloxi"
+
+# Province 'oklahannali_province' () #
+okeloussa.french_language: "Rivière-Oquelousse"
+eiowane.french_language: "Val-Évannes"
+pascagoula.french_language: "Pascagoula"
+
+# Province 'oklatannap_province' () #
+mosco.french_language: "Bois-Moscou"
+caftacha.french_language: "Val-Caftache"
+eianamogola.french_language: "Rivière-Énamol"
+
+# Province 'chickasaw_province' () #
+yaneka.french_language: "Val-Yanec"
+tchoukafala.french_language: "Bois-Choucafale"
+chatata.french_language: "Mont-Chatat"
+ongoulastoga.french_language: "Pays-Longost"
+sacchuma.french_language: "Rivière-Sacum"
+quizquiz.french_language: "Val-Quiscourt"
+
+# Province 'yazoo_province' () #
+yazoo.french_language: "Rivière-Yazou"
+tiou.french_language: "Val-Tiou"
+taposa.french_language: "Bois-Tapos"
+quigualtam.french_language: "Pays-Quigault"
+koroa.french_language: "Val-Corot"
+
+# Province 'natchez_province' () #
+natchez.french_language: "Natchez"
+chittaloosa.french_language: "Rivière-Chitalous"
+houma.french_language: "Houma"
+
+
+## Area 'east_coast_sea_zones_area' () ##

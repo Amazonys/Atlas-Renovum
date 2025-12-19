@@ -1,0 +1,252 @@
+﻿l_english:
+### Region 'caucasus_region' () ###
+
+## Area 'armenian_highlands_area' () ##
+# Province 'amadiya_province' () #
+amadiya.circassian_language: "Mədaqale"
+baskale.circassian_language: "Basxaqale"
+hakkari.circassian_language: "Haqarey"
+semdinli.circassian_language: "Šemdilə"
+zakho.circassian_language: "Zaqo"
+
+# Province 'bitlis_province' () #
+bitlis.circassian_language: "Bətlihabl"
+bahcesaray.circassian_language: "Žənəqale"
+catak.circassian_language: "Čadək"
+hizan.circassian_language: "Xəzan"
+mus.circassian_language: "Mısəpsə"
+
+# Province 'erzurum_province' () #
+erzurum.circassian_language: "Qaržem"
+bayburt.circassian_language: "Baybərtəq"
+erzincan.circassian_language: "Arzəqan"
+ilic.circassian_language: "Iljiqale"
+kelkit.circassian_language: "Kelqət"
+kemah.circassian_language: "Kəməx"
+sebinkarahisar.circassian_language: "Šandəqale"
+siran.circassian_language: "Sıran"
+tercan.circassian_language: "Teržan"
+
+# Province 'harput_province' () #
+harput.circassian_language: "Xarpat"
+adakli.circassian_language: "Adaxlə"
+bingol.circassian_language: "Binəgol"
+cemisgezek.circassian_language: "Žemzek"
+genc.circassian_language: "Genčqale"
+keban.circassian_language: "Qebən"
+kuzucan.circassian_language: "Kuzujan"
+palu.circassian_language: "Paluxabl"
+pertek.circassian_language: "Pərtek"
+sivrice.circassian_language: "Sivričey"
+
+# Province 'kars_province' () #
+kars.circassian_language: "Qarəz"
+kagizman.circassian_language: "Qagizman"
+surmali.circassian_language: "Surmal"
+
+# Province 'malazgirt_province' () #
+malazgirt.circassian_language: "Məlazqale"
+hinis.circassian_language: "Hinəs"
+karakilise.circassian_language: "Šemxale"
+hasankale.circassian_language: "Hasanqale"
+tekman.circassian_language: "Teqman"
+tutak.circassian_language: "Tutax"
+varto.circassian_language: "Wartə"
+
+# Province 'van_province' () #
+van.circassian_language: "Wanəpsə"
+ahlat.circassian_language: "Axlatqale"
+bargiri.circassian_language: "Bargeri"
+ercis.circassian_language: "Erčis"
+hosap.circassian_language: "Xosap"
+tatvan.circassian_language: "Tatwan"
+
+
+## Area 'armenia_area' () ##
+# Province 'ani_province' () #
+ani.circassian_language: "Anıqale"
+amberd.circassian_language: "Ambarqale"
+artashavan.circassian_language: "Artežan"
+kumayri.circassian_language: "Qumərey"
+
+# Province 'kachen_province' () #
+gandzasar.circassian_language: "Gənzəqor"
+goroz.circassian_language: "Gorož"
+haterk.circassian_language: "Xatərk"
+kashatagh.circassian_language: "Kašata"
+shusha.circassian_language: "Šəšəqale"
+
+# Province 'syunik_province' () #
+kapan_armenia.circassian_language: "Qapanhabl"
+gladzor.circassian_language: "Gladžor"
+goris.circassian_language: "Gorıs"
+julfa.circassian_language: "Žulfa"
+nakhchivan.circassian_language: "Naxwən"
+tatev.circassian_language: "Tatew"
+
+# Province 'tashir_province' () #
+lori.circassian_language: "Loripsə"
+gagi.circassian_language: "Gagiy"
+kayen.circassian_language: "Qayen"
+khunani.circassian_language: "Xunani"
+spitak.circassian_language: "Spitax"
+
+# Province 'yerevan_province' () #
+yerevan.circassian_language: "Yewran"
+bjni.circassian_language: "Bəjni"
+igdir.circassian_language: "Idər"
+khor_virap.circassian_language: "Xurwirap"
+sotk.circassian_language: "Sotəq"
+
+
+## Area 'georgia_area' () ##
+# Province 'abkhazia_province' () #
+sukhumi.circassian_language: "Səxumqale"
+anacopia.circassian_language: "Anakupqale"
+lata_georgia.circassian_language: "Latapsə"
+pitsunda.circassian_language: "Pitsənda"
+
+# Province 'hereti_province' () #
+hereti.circassian_language: "Xeret"
+balakan.circassian_language: "Balakan"
+bodbe.circassian_language: "Bodəb"
+khornabuji.circassian_language: "Xornabuj"
+qakh.circassian_language: "Qaxəb"
+
+# Province 'imereti_province' () #
+kutaisi.circassian_language: "Kutayš"
+lentekhi.circassian_language: "Lentexi"
+skande.circassian_language: "Skandə"
+shorapani.circassian_language: "Šorapan"
+tsageri.circassian_language: "Cagər"
+tsesi.circassian_language: "Cesey"
+ushguli.circassian_language: "Ušgule"
+vartsikhe.circassian_language: "Vartsəxqale"
+
+# Province 'kakheti_province' () #
+telavi.circassian_language: "Telaw"
+alaverdi.circassian_language: "Alawərd"
+dusheti.circassian_language: "Dušet"
+gremi.circassian_language: "Gremiqale"
+rustavi.circassian_language: "Rustawpsə"
+shatili.circassian_language: "Šatilhabl"
+
+# Province 'kartli_province' () #
+tbilisi.circassian_language: "Təblisqale"
+dmanisi.circassian_language: "Dmanis"
+gori.circassian_language: "Gorə"
+kasriskari.circassian_language: "Kasrəkar"
+kldekari.circassian_language: "Kəldəkar"
+kvenipnevi.circassian_language: "Kwenəpnev"
+mtskheta.circassian_language: "Misket"
+tsagvli.circassian_language: "Cagvəl"
+
+# Province 'meskheti_province' () #
+artanuji.circassian_language: "Artanuq"
+ispir.circassian_language: "Ispir"
+khikhani.circassian_language: "Xixan"
+oltu.circassian_language: "Oltu"
+panaskerti.circassian_language: "Panaskert"
+parkhali.circassian_language: "Parkxal"
+savsat.circassian_language: "Sawsat"
+tortum.circassian_language: "Tortum"
+
+# Province 'samegrelo_province' () #
+bedia.circassian_language: "Bedya"
+anaklia.circassian_language: "Anaklə"
+batumi.circassian_language: "Batumpsə"
+ozurgeti.circassian_language: "Ozurgət"
+poti_caucasus.circassian_language: "Potipsə"
+tsalenjikha.circassian_language: "Cələžix"
+
+# Province 'samtskhe_province' () #
+akhaltsikhe.circassian_language: "Axaltsik"
+akhalkalaki.circassian_language: "Axalkal"
+ardahan.circassian_language: "Ardan"
+tmogvi.circassian_language: "Təmogv"
+
+
+## Area 'northern_caucasus_area' () ##
+# Province 'alania_province' () #
+dzhulat.circassian_language: "Julat"
+chegem.circassian_language: "Čegem"
+jariekhi.circassian_language: "Jarekhi"
+karcha_kala.circassian_language: "Karčaqale"
+koban.circassian_language: "Koban"
+tatartup.circassian_language: "Tatartup"
+
+# Province 'avaria_province' () #
+khunzakh.circassian_language: "Xunzax"
+kumukh.circassian_language: "Qumux"
+omalo.circassian_language: "Omal"
+tindi.circassian_language: "Tindihabl"
+
+# Province 'lezgistan_province' () #
+kubachi.circassian_language: "Kubač"
+khuchni.circassian_language: "Xučni"
+kurakh.circassian_language: "Kurax"
+rutul.circassian_language: "Rutul"
+tpig.circassian_language: "Təpik"
+
+# Province 'north_caucasus_province' () #
+khumar.circassian_language: "Xumar"
+arkhyz.circassian_language: "Arxiz"
+mamiya_kala.circassian_language: "Mamiyqale"
+rim_gora.circassian_language: "Rimgora"
+
+# Province 'simsir_province' () #
+simsir.circassian_language: "Simsir"
+alkhan_kala.circassian_language: "Alxanqale"
+argun.circassian_language: "Argun"
+nazran.circassian_language: "Nazran"
+targim.circassian_language: "Targim"
+tsontaroy_kala.circassian_language: "Contaroyqale"
+
+# Province 'tarki_province' () #
+tarki.circassian_language: "Tarkiqale"
+boynak.circassian_language: "Boynaq"
+endirey.circassian_language: "Endirey"
+temirkhan_shura.circassian_language: "Temirxanqale"
+terek.circassian_language: "Terəpsə"
+
+
+## Area 'shirvan_area' () ##
+# Province 'arran_province' () #
+ganja.circassian_language: "Gancaqale"
+barda.circassian_language: "Bardəpsə"
+beylagan.circassian_language: "Beylaqan"
+gardman.circassian_language: "Gardman"
+lemberan.circassian_language: "Lemberan"
+shamkir.circassian_language: "Šamkir"
+
+# Province 'baku_province' () #
+baku.circassian_language: "Baqwə"
+javad.circassian_language: "Javad"
+mahmudabad.circassian_language: "Maxmudqale"
+maraza.circassian_language: "Marazə"
+qobustan.circassian_language: "Qobustən"
+shamakhi.circassian_language: "Šamax"
+
+# Province 'mughan_province' () #
+mughan.circassian_language: "Mugan"
+baciravan.circassian_language: "Bačirawan"
+bilasuvar.circassian_language: "Bilaswər"
+germi.circassian_language: "Germiqale"
+salyan.circassian_language: "Salyanpsə"
+varsan.circassian_language: "Varsan"
+
+# Province 'shaki_province' () #
+shaki.circassian_language: "Šaqi"
+agsu.circassian_language: "Agsupse"
+aresh.circassian_language: "Areš"
+goychay.circassian_language: "Gojčaypsə"
+qabala.circassian_language: "Qabala"
+vartashen.circassian_language: "Vartašen"
+zardab.circassian_language: "Zardab"
+
+# Province 'shirvan_province' () #
+shirvan.circassian_language: "Širwan"
+derbent.circassian_language: "Derbentqale"
+niyazabad.circassian_language: "Niyazhabl"
+quba.circassian_language: "Qubapsə"
+shabran.circassian_language: "Šabran"

@@ -1,0 +1,4502 @@
+﻿l_english:
+### Region 'balkan_region' () ###
+
+### Region 'baltic_region' () ###
+
+## Area 'baltic_area' () ##
+# Province 'courland_province' () #
+kuldiga.german_language: "Goldingen"
+dundaga.german_language: "Dondagen"
+durbe.german_language: "Durben"
+grobina.german_language: "Grobin"
+kandava.german_language: "Kandau"
+piltene.german_language: "Pilten"
+saldus.german_language: "Frauenburg"
+ventspils.german_language: "Windau"
+
+# Province 'estonia_province' () #
+tallinn.german_language: "Reval"
+narva.german_language: "Narwa"
+padise.german_language: "Paddis"
+paide.german_language: "Weißenstein"
+rakvere.german_language: "Wesenberg"
+rapla.german_language: "Reppel"
+toolse.german_language: "Tolsburg"
+vasknarva.german_language: "Neuschloss"
+
+# Province 'inner_livonia_province' () #
+cesis.german_language: "Wenden"
+aluksne.german_language: "Marienburg"
+gulbene.german_language: "Schwanburg"
+rauna.german_language: "Ronneburg"
+valmiera.german_language: "Wolmar"
+
+# Province 'latgalia_province' () #
+vilaka.german_language: "Marienhausen"
+jekabpils.german_language: "Jakobstadt"
+kraslava.german_language: "Kraslau"
+makonkalns.german_language: "Wolkenberg"
+pietalava.german_language: "Pittelau"
+rezekne.german_language: "Rositten"
+lake_lubans.german_language: "Luban-See"
+lake_razna.german_language: "Rasnasee"
+
+# Province 'north_livonia_province' () #
+parnu.german_language: "Pernau"
+karksi.german_language: "Karkus"
+poltsamaa.german_language: "Oberpahlen"
+saarde.german_language: "Saarten"
+suure_jaani.german_language: "Groß St. Johannis"
+viljandi.german_language: "Fellin"
+lake_vorts.german_language: "Wirzsee"
+
+# Province 'rotalia_province' () #
+hapsal.german_language: "Hapsal"
+kaina.german_language: "Keinis"
+kuressaare.german_language: "Arensburg"
+lihula.german_language: "Leal"
+st_martin.german_language: "Sankt Martin"
+valjala.german_language: "Wallial"
+
+# Province 'selonia_province' () #
+daugavpils.german_language: "Dünaburg"
+aizkraukle.german_language: "Ascheraden"
+selpils.german_language: "Selburg"
+
+# Province 'semigalia_province' () #
+jelgava.german_language: "Mitau"
+bauska.german_language: "Bauske"
+dobele.german_language: "Doblen"
+tukums.german_language: "Tukkum"
+
+# Province 'south_livonia_province' () #
+riga.german_language: "Riga"
+koknese.german_language: "Kokenhusen"
+limbazi.german_language: "Lemsal"
+salaspils.german_language: "Kirchholm"
+sigulda.german_language: "Segewold"
+straupe.german_language: "Groß-Roop"
+
+# Province 'tartu_province' () #
+tartu.german_language: "Dorpat"
+valka.german_language: "Walk"
+vastseliina.german_language: "Neuhausen"
+vonnu.german_language: "Wenden"
+
+
+## Area 'central_poland_area' () ##
+# Province 'dobrzyn_province' () #
+dobrzyn.german_language: "Dobrin"
+lipno.german_language: "Lindenau"
+rypin.german_language: "Rippin"
+
+# Province 'kuyavia_province' () #
+wloclawek.german_language: "Wlotzlau"
+bydgoszcz.german_language: "Bromberg"
+inowroclaw.german_language: "Salzbruck"
+kowal.german_language: "Schmiedau"
+radziejow.german_language: "Radehof"
+
+# Province 'leczyca_province' () #
+leczyca.german_language: "Lentschütz"
+lodz.german_language: "Bootsstadt"
+orlow.german_language: "Adlersdorf"
+zgierz.german_language: "Segershausen"
+
+# Province 'sieradz_province' () #
+sieradz.german_language: "Schieratz"
+brzeznica.german_language: "Birkdorf"
+piotrkow_trybunalski.german_language: "Petrikau"
+radomsko.german_language: "Rademau"
+szadek.german_language: "Schadeck"
+turek.german_language: "Turkenau"
+tuszyn.german_language: "Tuschen"
+uniejow.german_language: "Uneburg"
+
+# Province 'wielun_province' () #
+wielun.german_language: "Welungen"
+ostrzeszow.german_language: "Schildberg"
+wieruszow.german_language: "Weruschau"
+
+
+## Area 'greater_poland_area' () ##
+# Province 'gniezno_province' () #
+gniezno.german_language: "Gnesen"
+mogilno.german_language: "Mogiln"
+trzemeszno.german_language: "Tremessen"
+
+# Province 'kalisz_province' () #
+kalisz.german_language: "Kalisch"
+ostrow_wielkopolski.german_language: "Ostrowo"
+pleszew.german_language: "Pleschen"
+
+# Province 'konin_province' () #
+konin.german_language: "Kunin"
+kolo.german_language: "Kollau"
+lad_konin.german_language: "Landen an der Warthe"
+
+# Province 'koscian_province' () #
+koscian.german_language: "Kosten"
+babimost.german_language: "Bomst"
+grodzisk_wielkopolski.german_language: "Grätz"
+rawicz.german_language: "Rawitsch"
+srem.german_language: "Schrimm"
+wschowa.german_language: "Fraustadt"
+
+# Province 'naklo_province' () #
+naklo.german_language: "Nakel"
+wyrzysk.german_language: "Wirsitz"
+zlotow.german_language: "Flatow"
+
+# Province 'poznan_province' () #
+poznan.german_language: "Posen"
+buk.german_language: "Buchenstadt"
+czarnkow.german_language: "Czarnikau"
+miedzyrzecz.german_language: "Meseritz"
+oborniki.german_language: "Obornik"
+skwierzyna.german_language: "Schwerin an der Warthe"
+szamotuly.german_language: "Samter"
+wielen.german_language: "Filehne"
+
+# Province 'pyzdry_province' () #
+pyzdry.german_language: "Peisern"
+kozmin.german_language: "Koschmin"
+sroda_wielkopolska.german_language: "Schroda"
+
+# Province 'arnskrone_province' () #
+walcz.german_language: "Deutsch Krone"
+czaplinek.german_language: "Tempelburg"
+czlopa.german_language: "Schloppe"
+
+# Province 'znin_province' () #
+znin.german_language: "Dietfurt"
+chodziez.german_language: "Kolmar"
+szubin.german_language: "Schubin"
+
+
+## Area 'lesser_poland_area' () ##
+# Province 'checiny_province' () #
+kielce.german_language: "Kelzen"
+opoczno.german_language: "Opotschno"
+przedborz.german_language: "Vorburg"
+zarnow.german_language: "Zarnau"
+
+# Province 'czestochowa_province' () #
+czestochowa.german_language: "Tschenstochau"
+lelow.german_language: "Löhlau"
+mstow.german_language: "Mestau"
+
+# Province 'krakow_province' () #
+krakow.german_language: "Krakau"
+chrzanow.german_language: "Krenau"
+ksiaz_wielki.german_language: "Groß Kschonz"
+proszowice.german_language: "Proszowitz"
+
+# Province 'lublin_province' () #
+lublin.german_language: "Lublin"
+janow_lubelski.german_language: "Johannisdorf"
+kazimierz.german_language: "Kasimir"
+lukow.german_language: "Lukau"
+lubartow.german_language: "Lubartau"
+urzedow.german_language: "Amtstadt"
+
+# Province 'nowy_sacz_province' () #
+nowy_sacz.german_language: "Neu Sandez"
+biecz.german_language: "Beitsch"
+czchow.german_language: "Tschechow"
+jaslo.german_language: "Jasslau"
+nowy_targ.german_language: "Neumarkt"
+
+# Province 'pilzno_province' () #
+pilzno.german_language: "Pilzen"
+busko_zdroj.german_language: "Bad Busko"
+debica.german_language: "Dembitz"
+tarnow.german_language: "Tarnow"
+wislica.german_language: "Wislitz"
+
+# Province 'radom_province' () #
+radom.german_language: "Radom"
+ilza.german_language: "Ilsen"
+stezyca.german_language: "Stensitz"
+szydlowiec.german_language: "Schidlowitz"
+zwolen.german_language: "Zwollen"
+
+# Province 'sandomierz_province' () #
+sandomierz.german_language: "Sandomir"
+kunow.german_language: "Kunau"
+opatow.german_language: "Opathau"
+rudnik_poland.german_language: "Rudnik"
+
+# Province 'szczyrzyc_province' () #
+wieliczka.german_language: "Großsalz"
+myslenice.german_language: "Myslenitz"
+oswiecim.german_language: "Oswitz"
+zywiec.german_language: "Siewitz"
+
+
+## Area 'lithuania_area' () ##
+# Province 'ashmyany_province' () #
+ashmyany.german_language: "Oschmian"
+halshany.german_language: "Holschan"
+hieraniony.german_language: "Hieranen"
+kreva.german_language: "Krewo"
+
+# Province 'breslauja_province' () #
+braslaw.german_language: "Braslau"
+drysvyaty.german_language: "Driswitz"
+ezerenai.german_language: "Seedorf"
+miory.german_language: "Mioren"
+
+# Province 'kaunas_province' () #
+kaunas.german_language: "Kauen"
+alytus.german_language: "Olita"
+punia.german_language: "Punien"
+vilkaviskis.german_language: "Wilkowischken"
+
+# Province 'lida_province' () #
+lida.german_language: "Lidda"
+astrina.german_language: "Astern"
+eisiskes.german_language: "Eyschysken"
+shchuchyn.german_language: "Schutschin"
+
+# Province 'suwalki_province' () #
+suwalki.german_language: "Suwalken"
+lipsk.german_language: "Lipsken"
+veisiejai.german_language: "Weisheim"
+
+# Province 'trakai_province' () #
+trakai.german_language: "Traken"
+lazdijai.german_language: "Lazden"
+onushkis.german_language: "Onusken"
+merkine.german_language: "Merken"
+
+# Province 'svir_province' () #
+svir.german_language: "Swir"
+dokshytsy.german_language: "Dokschizy"
+hlybokaye.german_language: "Glubok"
+myadzyel.german_language: "Medell"
+svencionys.german_language: "Schwenzian"
+vileyka.german_language: "Wilejka"
+lake_narach.german_language: "Narotschsee"
+
+# Province 'upyte_province' () #
+upyte.german_language: "Upit"
+birzai.german_language: "Birsen"
+linkava.german_language: "Linkau"
+panevezys.german_language: "Ponewesch"
+pasvalys.german_language: "Poswol"
+
+# Province 'vilkmerge_province' () #
+vilkmerge.german_language: "Wilkomir"
+anyksciai.german_language: "Onix"
+maleisiai.german_language: "Malleisch"
+rokiskis.german_language: "Rokischken"
+utena.german_language: "Utten"
+
+# Province 'vilnius_province' () #
+vilnius.german_language: "Wilna"
+giedraiciai.german_language: "Giedraitschen"
+kernave.german_language: "Kernowen"
+medininkai_vilna.german_language: "Medniken"
+
+
+## Area 'mazovia_area' () ##
+# Province 'ciechanow_province' () #
+ciechanow.german_language: "Zichenau"
+przasnysz.german_language: "Praschnitz"
+rozan.german_language: "Rosan"
+zakroczym.german_language: "Zakroschin"
+
+# Province 'czersk_province' () #
+czersk.german_language: "Zersk"
+garwolin.german_language: "Garwoln"
+grojec.german_language: "Groitz"
+liw.german_language: "Liwen"
+
+# Province 'lomza_province' () #
+lomza.german_language: "Lomscha"
+kolno.german_language: "Kolnau"
+ostroleka.german_language: "Ostrolenka"
+wizna.german_language: "Wisna"
+zambrow.german_language: "Sambrow"
+
+# Province 'plock_province' () #
+plock.german_language: "Plotzk"
+plonsk.german_language: "Plönsk"
+sierpc.german_language: "Sierpitz"
+szrensk.german_language: "Schrensk"
+
+# Province 'podlasie_province' () #
+drohiczyn.german_language: "Drohitschyn"
+bielsk_podlaski.german_language: "Bielsk"
+goniadz.german_language: "Gonien"
+mielnik.german_language: "Mielnig"
+sokolow.german_language: "Falkenberg"
+suraz.german_language: "Surasch"
+tykocin.german_language: "Tykotzin"
+
+# Province 'rawa_province' () #
+rawa.german_language: "Rawenstadt"
+biala_rawska.german_language: "Weißraw"
+gabin.german_language: "Gombin"
+gostynin.german_language: "Gostingen"
+sochaczew.german_language: "Sohatschew"
+
+# Province 'warsaw_province' () #
+warsaw.german_language: "Warschau"
+kamieniec.german_language: "Steinburg"
+nur.german_language: "Nurau"
+tarczyn.german_language: "Tartschin"
+
+
+## Area 'prussia_area' () ##
+# Province 'chelmno_province' () #
+chelmno.german_language: "Kulm"
+brodnica.german_language: "Strasburg"
+grudziadz.german_language: "Graudenz"
+lubawa.german_language: "Löbau"
+torun.german_language: "Thorn"
+
+# Province 'danzig_province' () #
+gdansk.german_language: "Danzig"
+gniew.german_language: "Mewe"
+koscierzyna.german_language: "Berent"
+mirochowo.german_language: "Mirchau"
+puck.german_language: "Putzig"
+tczew.german_language: "Dirschau"
+
+# Province 'lithuania_minor_province' () #
+tilsit.german_language: "Tilsit"
+gumbinnen.german_language: "Gumbinnen"
+labiau.german_language: "Labiau"
+memel.german_language: "Memel"
+ragnit.german_language: "Ragnit"
+windenburg.german_language: "Windenburg"
+curonian_lagoon.german_language: "Kurische Haff"
+
+# Province 'lower_prussia_province' () #
+konigsberg.german_language: "Königsberg"
+balga.german_language: "Balga"
+brandenburg_prussia.german_language: "Brandenburg"
+fischhausen.german_language: "Fischhausen"
+gerdauen.german_language: "Gerdauen"
+insterburg.german_language: "Insterburg"
+wehlau.german_language: "Wehlau"
+
+# Province 'masuria_province' () #
+elk.german_language: "Lyck"
+barten.german_language: "Barten"
+nibork.german_language: "Neidenburg"
+ostroda.german_language: "Osterode"
+ryn_poland.german_language: "Rhein"
+szczytno.german_language: "Ortelsburg"
+wegorzewo.german_language: "Angerburg"
+lake_mamry.german_language: "Mauersee"
+lake_sniardwy.german_language: "Spirdingsee"
+
+# Province 'tuchola_province' () #
+tuchola.german_language: "Tuchel"
+bialobork.german_language: "Weissburg"
+czluchow.german_language: "Schlochau"
+nowe.german_language: "Neuenburg"
+swiecie.german_language: "Schwetz"
+
+# Province 'upper_prussia_province' () #
+malbork.german_language: "Marienburg"
+dzierzgon.german_language: "Christburg"
+elblag.german_language: "Elbing"
+kwidzyn.german_language: "Marienwerder"
+morag.german_language: "Mohrungen"
+
+# Province 'warmia_province' () #
+lidzbark.german_language: "Heilsberg"
+frombork.german_language: "Frauenburg"
+olsztyn.german_language: "Allenstein"
+
+
+## Area 'samogitia_area' () ##
+# Province 'medininkai_province' () #
+medininkai.german_language: "Waldhausen"
+palanga.german_language: "Polangen"
+rietavas.german_language: "Rettewen"
+silale.german_language: "Schillalen"
+skuodas.german_language: "Schoden"
+taurage.german_language: "Tauroggen"
+
+# Province 'raseiniai_province' () #
+raseiniai.german_language: "Rossingen"
+jurbarkas.german_language: "Georgenburg"
+kedainiai.german_language: "Kedahnen"
+panemune.german_language: "Uferthal"
+tendziogala.german_language: "Tendagallen"
+
+# Province 'siauliai_province' () #
+siauliai.german_language: "Schaulen"
+kraziai.german_language: "Krothen"
+mazeikiai.german_language: "Maßeik"
+papile.german_language: "Paplauken"
+zagare.german_language: "Schagarren"
+
+
+## Area 'silesia_area' () ##
+# Province 'glogow_province' () #
+glogow.german_language: "Glogau"
+gora.german_language: "Guhrau"
+kozuchow.german_language: "Freystadt"
+szprotawa.german_language: "Sprottau"
+zielona_gora.german_language: "Grünberg"
+
+# Province 'legnica_province' () #
+legnica.german_language: "Liegnitz"
+boleslawiec.german_language: "Bunzlau"
+jawor.german_language: "Jauer"
+wolow.german_language: "Wohlau"
+zlotoryja.german_language: "Goldberg"
+
+# Province 'olesnica_province' () #
+olesnica.german_language: "Oels"
+milicz.german_language: "Militsch"
+namyslow.german_language: "Namslau"
+sycow.german_language: "Groß Wartenberg"
+trzebnica.german_language: "Trebnitz"
+
+# Province 'opavsko_province' () #
+opava.german_language: "Troppau"
+fryvaldov.german_language: "Freiwaldau"
+glubczyce.german_language: "Leobschütz"
+hlucin.german_language: "Hultschin"
+krnov.german_language: "Jägerndorf"
+
+# Province 'opole_province' () #
+opole.german_language: "Oppeln"
+kluczbork.german_language: "Kreuzburg"
+lubliniec.german_language: "Lublinitz"
+olesno.german_language: "Rosenberg"
+prudnik.german_language: "Neustadt"
+strzelce_opolskie.german_language: "Groß Strehlitz"
+
+# Province 'swidnica_province' () #
+swidnica.german_language: "Schweidnitz"
+kamienna_gora.german_language: "Landeshut"
+rychbach.german_language: "Reichenbach"
+niemcza.german_language: "Nimptsch"
+ziebice.german_language: "Münsterberg"
+
+# Province 'tesin_province' () #
+tesin.german_language: "Teschen"
+bielsko.german_language: "Bielitz"
+bytom.german_language: "Beuthen"
+kozle.german_language: "Kosel"
+pszczyna.german_language: "Pless"
+raciborz.german_language: "Ratibor"
+siewierz.german_language: "Severien"
+toszek.german_language: "Tost"
+
+# Province 'wroclaw_province' () #
+wroclaw.german_language: "Breslau"
+brzeg.german_language: "Brieg"
+grodkow.german_language: "Grottkau"
+nysa.german_language: "Neisse"
+niemodlin.german_language: "Falkenberg"
+olawa.german_language: "Ohlau"
+sroda_slaska.german_language: "Neumarkt in Schlesien"
+
+# Province 'zagan_province' () #
+zagan.german_language: "Sagan"
+krosno_odrzanskie.german_language: "Crossen an der Oder"
+sulechow.german_language: "Züllichau"
+zary.german_language: "Sorau"
+
+### Region 'balkan_region' () ###
+
+## Area 'slovenia_area' () ##
+# Province 'gorizia_province' () #
+gorizia.german_language: "Görz"
+tolmin.german_language: "Tolmein"
+trieste.german_language: "Triest"
+
+# Province 'lower_carniola_province' () #
+novo_mesto.german_language: "Rudolfswerth"
+ilirska_bistrica.german_language: "Illyrisch-Feistritz"
+kocevje.german_language: "Gottschee"
+metlika.german_language: "Möttling"
+postojna.german_language: "Adelsberg"
+
+# Province 'upper_carniola_province' () #
+ljubljana.german_language: "Laibach"
+bled.german_language: "Veldes"
+kranj.german_language: "Krainburg"
+skofja_loka.german_language: "Bischoflack"
+
+
+## Area 'slavonia_area' () ##
+# Province 'bjelovar_province' () #
+bjelovar.german_language: "Weißenburg"
+koprivnica.german_language: "Nesseldorf"
+kutina.german_language: "Kuttenheim"
+pakrac.german_language: "Pakratz"
+vaska.german_language: "Waskau"
+virovitica.german_language: "Wirovititz"
+
+# Province 'vukovar_syrmia_province' () #
+vukovar.german_language: "Wolfsufer"
+ilok.german_language: "Illenstein"
+osijek.german_language: "Esseg"
+petrovaradin.german_language: "Peterwardein"
+pozega.german_language: "Poschega"
+sremska_mitrovica.german_language: "Sirmium"
+
+# Province 'zagreb_province' () #
+zagreb.german_language: "Agram"
+karlovac.german_language: "Karlstadt"
+petrinja.german_language: "Petersheim"
+sisak.german_language: "Sissek"
+slunj.german_language: "Slunau"
+varazdin.german_language: "Warasdin"
+
+
+## Area 'croatia_area' () ##
+# Province 'istria_province' () #
+pola.german_language: "Pola"
+buzet.german_language: "Busetz"
+pazin.german_language: "Mitterburg"
+rovinj.german_language: "Rauingen"
+
+# Province 'lika_province' () #
+senj.german_language: "Zengg"
+crikvenica.german_language: "Kirchstadt"
+kaseg.german_language: "Kasegg"
+krk.german_language: "Veglau"
+otocac.german_language: "Ottendorf"
+pag.german_language: "Pagen"
+rijeka.german_language: "Fiume"
+
+# Province 'north_dalmatia_province' () #
+knin.german_language: "Kninburg"
+novigrad.german_language: "Neustadt am Meer"
+sibenik.german_language: "Sebenico"
+sinj.german_language: "Sinningen"
+zadar.german_language: "Zara"
+
+# Province 'south_dalmatia_province' () #
+dubrovnik.german_language: "Ragusa"
+brac.german_language: "Brazza"
+makarska.german_language: "Makarscha"
+metkovic.german_language: "Metkow"
+slano.german_language: "Salzhafen"
+split.german_language: "Spalato"
+
+
+## Area 'bosnia_area' () ##
+# Province 'bosnia_province' () #
+vrhbosna.german_language: "Oberbosnau"
+borac.german_language: "Borenfels"
+konjic.german_language: "Rosshain"
+olovo.german_language: "Bleiberg"
+srebrenica.german_language: "Silbergrad"
+zenica.german_language: "Senitza"
+
+# Province 'donji_kraji_province' () #
+jajce.german_language: "Jaitzen"
+glamoc.german_language: "Glamau"
+kljuc.german_language: "Schlüsselburg"
+livno.german_language: "Liebau"
+
+# Province 'hum_province' () #
+trebinje.german_language: "Treben"
+drijeva.german_language: "Driewen"
+gacko.german_language: "Gatzen"
+mostar.german_language: "Brückenstadt"
+nevesinje.german_language: "Neusing"
+
+# Province 'podrinje_province' () #
+ustikolina.german_language: "Ustthal"
+pljevlja.german_language: "Plewel"
+soko_grad.german_language: "Falkenburg"
+
+# Province 'una_sana_province' () #
+bihac.german_language: "Bichatsch"
+dubica.german_language: "Dubitz"
+gradiski_brod.german_language: "Gradisfurt"
+kozara.german_language: "Koserau"
+srb.german_language: "Serbenau"
+
+# Province 'usora_and_soli_province' () #
+doboj.german_language: "Dobau"
+glaz.german_language: "Glasberg"
+soli.german_language: "Salzmark"
+srebrenik.german_language: "Silbernau"
+teocak.german_language: "Theotschak"
+
+
+## Area 'serbia_area' () ##
+# Province 'branicevo_province' () #
+branicevo.german_language: "Branitz"
+kucevo.german_language: "Hausdorf"
+ravno.german_language: "Ebenfeld"
+
+# Province 'kosovo_province' () #
+peja.german_language: "Petsch"
+gjakova.german_language: "Jakobsfeld"
+mitrovica.german_language: "Demetristadt"
+novo_brdo.german_language: "Neuberg"
+pristina.german_language: "Priesten"
+prizren.german_language: "Priesern"
+
+# Province 'macva_province' () #
+debrc.german_language: "Debritz"
+krupanj.german_language: "Kruppan"
+sabac.german_language: "Schabatz"
+valjevo.german_language: "Wallstadt"
+
+# Province 'nis_province' () #
+nis.german_language: "Nisch"
+glubocica.german_language: "Tiefenbach"
+medveda.german_language: "Bärenhof"
+prokuplje.german_language: "Prokupel"
+vranje.german_language: "Wranau"
+
+# Province 'raska_province' () #
+trgoviste_SER.german_language: "Marktstadt"
+brskovo.german_language: "Breskau"
+brvenik.german_language: "Berwenau"
+budimlja.german_language: "Budimlitz"
+sjenica.german_language: "Schenitz"
+
+# Province 'sumadija_province' () #
+belgrad.german_language: "Belgrad"
+smederevo.german_language: "Semendria"
+rudnik.german_language: "Bergstadt"
+
+# Province 'toplica_province' () #
+krusevac.german_language: "Krusewitz"
+jagodina.german_language: "Beerenstadt"
+stalac.german_language: "Stallitz"
+zica.german_language: "Seidenau"
+
+# Province 'zeta_province' () #
+podgorica.german_language: "Unterberg"
+bar_cg.german_language: "Antivari"
+gradina.german_language: "Gradinburg"
+kotor.german_language: "Cattaro"
+onogost.german_language: "Onogast"
+
+# Province 'zlatibor_province' () #
+uzice.german_language: "Uschitz"
+arilje.german_language: "Arlien"
+gradac.german_language: "Gradatz"
+prijepolje.german_language: "Pripol"
+visegrad.german_language: "Wyssegrad"
+
+
+## Area 'bulgaria_area' () ##
+# Province 'north_dobruja_province' () #
+babadag.german_language: "Altvaterberg"
+cernavoda.german_language: "Schwarzbrunn"
+constanta.german_language: "Konstanza"
+enisala.german_language: "Enisburg"
+isaccea.german_language: "Issatscha"
+tulcea.german_language: "Tuldscha"
+harsova.german_language: "Harsow"
+
+# Province 'pleven_province' () #
+pleven.german_language: "Plevna"
+bozhenitsa.german_language: "Boschenitz"
+dobrolak.german_language: "Gutfeld"
+gigen.german_language: "Gigau"
+hotalich.german_language: "Hottlitz"
+lovech.german_language: "Lowetsch"
+oryahovo.german_language: "Orechow"
+
+# Province 'preslav_province' () #
+veliki_preslav.german_language: "Großpreslaw"
+ktenia.german_language: "Ktenau"
+ovech.german_language: "Owetsch"
+razgrad.german_language: "Rasgrad"
+shumen.german_language: "Schumla"
+targoviste_BUL.german_language: "Marktwall"
+varna.german_language: "Warna"
+
+# Province 'sredets_province' () #
+sredets.german_language: "Mittelstadt"
+dupnitsa.german_language: "Duppnitz"
+pirot.german_language: "Pirotburg"
+tsaribrod.german_language: "Königsfurt"
+velbuzd.german_language: "Welbuzd"
+samokov.german_language: "Hammerau"
+svoge.german_language: "Zwogau"
+zemlungrad.german_language: "Semling"
+
+# Province 'south_dobruja_province' () #
+karvuna.german_language: "Karwunen"
+drastar.german_language: "Drasterburg"
+kaliakra.german_language: "Kallikra"
+kladentsi.german_language: "Brunnstadt"
+pangalia.german_language: "Pangalien"
+tutrakan.german_language: "Tutrakau"
+
+# Province 'tarnovo_province' () #
+tarnovo.german_language: "Tirnowa"
+cherven.german_language: "Rotburg"
+lyaskovets.german_language: "Laskowitz"
+nikopol.german_language: "Nikopel"
+ruse.german_language: "Rustschuk"
+tryavna.german_language: "Trawenau"
+
+# Province 'vidin_province' () #
+vidin.german_language: "Widin"
+archar.german_language: "Arkar"
+kozelj.german_language: "Kossel"
+kutlovitsa.german_language: "Kuttlowitz"
+lom.german_language: "Lommen"
+svrljig.german_language: "Swerlig"
+visesav.german_language: "Wischelsau"
+vratsa.german_language: "Wratzen"
+
+
+## Area 'macedonia_area' () ##
+# Province 'central_macedonia_province' () #
+edessa.german_language: "Edessa"
+giannitsa.german_language: "Jannitza"
+gynaikokastro.german_language: "Frauenburg"
+hatera.german_language: "Hatern"
+kilkis.german_language: "Kilkiss"
+veria.german_language: "Beröa"
+
+# Province 'chalkidiki_province' () #
+thessaloniki.german_language: "Saloniki"
+kassandreia.german_language: "Kassandria"
+polygyros.german_language: "Poliger"
+
+# Province 'lower_macedonia_province' () #
+serres.german_language: "Serres"
+drama.german_language: "Drama"
+kavala.german_language: "Kawala"
+rentina.german_language: "Rentinen"
+thasos.german_language: "Thasos"
+
+# Province 'pirin_province' () #
+melnik.german_language: "Melnick"
+bansko.german_language: "Banskau"
+krupnik.german_language: "Krupnick"
+dospat.german_language: "Dospat"
+nevrokop.german_language: "Neurokop"
+
+# Province 'prilep_province' () #
+prilep.german_language: "Prileb"
+bitola.german_language: "Monastiritz"
+florina.german_language: "Florina"
+kicevo.german_language: "Kitschau"
+ohrid.german_language: "Ochrid"
+tetovo.german_language: "Tetowa"
+
+# Province 'upper_macedonia_province' () #
+grevena.german_language: "Grebenau"
+kastoria.german_language: "Kastorien"
+servia.german_language: "Servien"
+siatista.german_language: "Siatisten"
+ostrovo.german_language: "Ostrow"
+
+# Province 'vardar_province' () #
+skopje.german_language: "Escheb"
+prosek.german_language: "Prossack"
+kocani.german_language: "Kotschan"
+kratovo.german_language: "Kratowa"
+kumanovo.german_language: "Kumanau"
+shtip.german_language: "Stip"
+strumica.german_language: "Strumitza"
+veles.german_language: "Weles"
+
+
+## Area 'thrace_area' () ##
+# Province 'burgas_province' () #
+burgas.german_language: "Burgas"
+anhialo.german_language: "Anchial"
+aytos.german_language: "Aitos"
+lardeja.german_language: "Larden"
+rusokastro.german_language: "Russokastell"
+sozopol.german_language: "Sosopol"
+
+# Province 'constantinople_province' () #
+constantinople.german_language: "Konstantinopel"
+vize.german_language: "Wize"
+catalca.german_language: "Tschataldja"
+silivri.german_language: "Silivri"
+corlu.german_language: "Tschorlu"
+
+# Province 'dardanelles_province' () #
+gallipoli.german_language: "Kallipolis"
+enez.german_language: "Enos"
+hayrabolu.german_language: "Heirabolu"
+malgara.german_language: "Malgara"
+rodoscuk.german_language: "Rodostschuk"
+kesan.german_language: "Kesan"
+
+# Province 'edirne_province' () #
+edirne.german_language: "Adrianopel"
+ahtopol.german_language: "Achtopol"
+luleburgaz.german_language: "Lüleburgas"
+kiyikoy.german_language: "Kiköy"
+kirklareli.german_language: "Vierzigkirchen"
+
+# Province 'evros_province' () #
+demotica.german_language: "Demotika"
+traianopolis.german_language: "Traianopolis"
+komotini.german_language: "Komotin"
+xanthia.german_language: "Xanthi"
+
+# Province 'rhodopes_province' () #
+stanimaka.german_language: "Stanimach"
+beden.german_language: "Beden"
+haskovo.german_language: "Chaskow"
+ormenio.german_language: "Ormen"
+perperek.german_language: "Perperik"
+smolyan.german_language: "Smoljan"
+ustra.german_language: "Ustrum"
+
+# Province 'sliven_province' () #
+sliven.german_language: "Sliwen"
+boruy.german_language: "Boruj"
+bukelon.german_language: "Bukelon"
+constantia_bul.german_language: "Konstantia"
+elhovo.german_language: "Elchow"
+hiambouli.german_language: "Jambol"
+
+# Province 'zagore_province' () #
+plovdiv.german_language: "Philippopel"
+kostenets.german_language: "Kostenetz"
+kran.german_language: "Kranau"
+stipon.german_language: "Stipon"
+strelcha.german_language: "Strelscha"
+tsepina.german_language: "Zepin"
+
+
+## Area 'albania_area' () ##
+# Province 'albania_province' () #
+durres.german_language: "Durazzo"
+ballsh.german_language: "Balasch"
+berat.german_language: "Berat"
+debar.german_language: "Debar"
+devol.german_language: "Devol"
+elbasan.german_language: "Elbasan"
+kavaje.german_language: "Kawaja"
+kruje.german_language: "Kruja"
+tirana.german_language: "Tirana"
+
+# Province 'illyria_province' () #
+shkoder.german_language: "Skutari"
+dukagjini.german_language: "Ducaggin"
+has.german_language: "Hasstal"
+koman.german_language: "Koman"
+lezha.german_language: "Alessio"
+
+# Province 'north_epirus_province' () #
+avlonya.german_language: "Valona"
+argyrokastro.german_language: "Silberkastell"
+butrint.german_language: "Butrint"
+kleisoura_epirus.german_language: "Engpass"
+konitsa.german_language: "Konitza"
+
+
+## Area 'northern_greece_area' () ##
+# Province 'aetolia_province' () #
+angelokastron.german_language: "Engelburg"
+karpenisi.german_language: "Karpenis"
+loidoriki.german_language: "Ledorich"
+nafpaktos.german_language: "Lepanto"
+salona.german_language: "Salona"
+vonitsa.german_language: "Vonitza"
+
+# Province 'attica_province' () #
+athens.german_language: "Athen"
+atalanti.german_language: "Atalant"
+livadeia.german_language: "Livadea"
+megara.german_language: "Megara"
+thebes.german_language: "Theben"
+
+# Province 'ionian_islands_province' () #
+corfu.german_language: "Korfu"
+cephalonia.german_language: "Kefalonia"
+leukas.german_language: "Leukas"
+zakynthos.german_language: "Zante"
+
+# Province 'neopatras_province' () #
+neopatras.german_language: "Neopatras"
+bodonitsa.german_language: "Bodonitza"
+gravia.german_language: "Gravien"
+zetounion.german_language: "Zetun"
+
+# Province 'south_epirus_province' () #
+arta.german_language: "Arta"
+ioannina.german_language: "Janina"
+parga.german_language: "Parga"
+preveza.german_language: "Prewesa"
+pyli.german_language: "Pylion"
+
+# Province 'thessaly_province' () #
+larissa.german_language: "Larissa"
+demetrias.german_language: "Demetrias"
+elassona.german_language: "Elassona"
+farsala.german_language: "Pharsalos"
+karditsa.german_language: "Karditza"
+stomio.german_language: "Stomion"
+trikala.german_language: "Trikkala"
+tyrnavos.german_language: "Tyrnavos"
+
+
+## Area 'morea_area' () ##
+# Province 'achaea_province' () #
+patras.german_language: "Patras"
+chalandritsa.german_language: "Chalandritz"
+kalavryta.german_language: "Kalavrita"
+vostitsa.german_language: "Vostitza"
+
+# Province 'arcadia_province' () #
+tripolitsa.german_language: "Tripolis"
+karytaina.german_language: "Karitena"
+veligosti.german_language: "Veligost"
+
+# Province 'argolis_province' () #
+argos.german_language: "Argos"
+astros.german_language: "Astros"
+ermioni.german_language: "Hermion"
+nafplio.german_language: "Nauplia"
+
+# Province 'corinthia_province' () #
+corinth.german_language: "Korinth"
+damala.german_language: "Damala"
+xylokastro.german_language: "Holzburg"
+
+# Province 'ilia_province' () #
+andravida.german_language: "Andravida"
+andritsaina.german_language: "Andritsena"
+pontikokastro.german_language: "Pontikokastell"
+
+# Province 'laconia_province' () #
+mystras.german_language: "Mistra"
+kythira.german_language: "Cerigo"
+monemvasia.german_language: "Monemvasia"
+oitylo.german_language: "Oitylon"
+
+# Province 'messenia_province' () #
+kalamata.german_language: "Kalamata"
+kyparissia.german_language: "Kyparissia"
+leuktron.german_language: "Leuktron"
+modon.german_language: "Modon"
+
+
+## Area 'aegean_archipelago_area' () ##
+# Province 'chios_province' () #
+chios.german_language: "Chios"
+ikaria.german_language: "Ikaria"
+samos.german_language: "Samos"
+
+# Province 'crete_province' () #
+candia.german_language: "Candia"
+chania.german_language: "Canea"
+elounda.german_language: "Elunda"
+gergeri.german_language: "Gerger"
+hagios_pavlos.german_language: "Sankt Paulus"
+rethymno.german_language: "Rethymno"
+siteia.german_language: "Sitia"
+viannos.german_language: "Viannen"
+
+# Province 'euboea_province' () #
+negroponte.german_language: "Negroponte"
+eretreia.german_language: "Eretria"
+karystos.german_language: "Karystos"
+kleisoura.german_language: "Kleisura"
+kymi.german_language: "Kymi"
+oreos.german_language: "Oreos"
+
+# Province 'lemnos_province' () #
+mitilene.german_language: "Mytilene"
+molyvos.german_language: "Molivos"
+imbros.german_language: "Imbros"
+lemnos.german_language: "Lemnos"
+sporades.german_language: "Sporaden"
+
+# Province 'naxos_province' () #
+naxos.german_language: "Naxos"
+amorgos.german_language: "Amorgos"
+andros.german_language: "Andros"
+kythnos.german_language: "Kythnos"
+milos.german_language: "Milos"
+mykonos.german_language: "Mykonos"
+
+# Province 'rodos_province' () #
+rodos.german_language: "Rhodos"
+karpathos.german_language: "Karpathos"
+kos.german_language: "Kos"
+### Region 'carpathia_region' () ###
+
+## Area 'moldavia_area' () ##
+# Province 'bacau_province' () #
+bacau.german_language: "Bachau"
+hangu_romania.german_language: "Hangendorf"
+piatra_lui_craciun.german_language: "Weihnachtsstein"
+roman.german_language: "Romanstadt"
+targu_neamt.german_language: "Deutschmarkt"
+targu_trotus.german_language: "Trotuschmarkt"
+
+# Province 'balti_moldova_province' () #
+balti.german_language: "Sumpfhausen"
+hotin.german_language: "Kottenburg"
+lipnic.german_language: "Lindenau"
+soroca.german_language: "Dnjestrburg"
+viadineti.german_language: "Wiedenitz"
+
+# Province 'barlad_province' () #
+barlad.german_language: "Berlenau"
+adjud.german_language: "Serethbrück"
+cudalbi.german_language: "Schwarzfeld"
+focsani.german_language: "Feuerstadt"
+galati.german_language: "Galatz"
+oancea.german_language: "Johannsdorf"
+tecuci.german_language: "Tekutsch"
+tulnici.german_language: "Tulnigau"
+
+# Province 'basarabia_province' () #
+cetatea_alba.german_language: "Weißenburg"
+cahul.german_language: "Kagul"
+chilia.german_language: "Kilienburg"
+ismail.german_language: "Ismailsburg"
+palada.german_language: "Pallendorf"
+reni.german_language: "Rennhafen"
+sarata.german_language: "Salzbrunn"
+
+# Province 'dorohei_province' () #
+dorohoi.german_language: "Doringen"
+cernauti.german_language: "Czernowitz"
+cetatea_tetina.german_language: "Tettenburg"
+cotnari.german_language: "Kottenheim"
+harlau.german_language: "Harlach"
+stefanesti.german_language: "Stephansstadt"
+
+# Province 'iasi_province' () #
+iasi.german_language: "Jassy"
+husi.german_language: "Husch"
+targul_saratii.german_language: "Salzmarkt"
+tutova.german_language: "Tuttau"
+ungheni.german_language: "Ungenheim"
+vaslui.german_language: "Wasselau"
+
+# Province 'orhei_province' () #
+orhei.german_language: "Orgeheim"
+chisinau.german_language: "Kischinau"
+gura_galbenei.german_language: "Gelbmünde"
+targu_lapusnei.german_language: "Laposchmarkt"
+tighina.german_language: "Bender"
+tuzara.german_language: "Tuzern"
+
+# Province 'suceava_province' () #
+suceava.german_language: "Sutschawa"
+campulung_moldovenesc.german_language: "Langenfeld"
+putna.german_language: "Putnau"
+siret.german_language: "Sereth"
+storozhynets.german_language: "Wachhausen"
+vatra_dornei.german_language: "Dornbad"
+
+
+## Area 'north_alfold_area' () ##
+# Province 'bihar_province' () #
+bihar.german_language: "Bichrain"
+beius.german_language: "Belenz"
+cheresig.german_language: "Kirschenau"
+debrecen.german_language: "Debrezin"
+oradea.german_language: "Großwardein"
+
+# Province 'heves_province' () #
+eger.german_language: "Erlau"
+heves.german_language: "Hevingen"
+miskolc.german_language: "Mischkolz"
+borsod.german_language: "Borschau"
+
+# Province 'kraszna_province' () #
+crasna.german_language: "Schönau"
+hodod.german_language: "Haddorf"
+zalau.german_language: "Zillenmarkt"
+
+# Province 'pest_province' () #
+pest.german_language: "Pesth"
+abrahamtelke.german_language: "Abrahamdorf"
+jaszbereny.german_language: "Jasberg"
+kecskemet.german_language: "Ziegenmarkt"
+
+# Province 'szabolcs_province' () #
+szabolcs.german_language: "Seboldau"
+hajduszoboszlo.german_language: "Heiduschbad"
+nagyboszormeny.german_language: "Großbösingen"
+nagykallo.german_language: "Großkallau"
+varda.german_language: "Wardenau"
+
+# Province 'szatmar_province' () #
+szatmar.german_language: "Sathmar"
+baia_mare.german_language: "Frauenbach"
+carei.german_language: "Großkarlburg"
+nagyecsed.german_language: "Großetschel"
+syvlyush.german_language: "Sewlusch"
+
+# Province 'szolnok_province' () #
+szolnok.german_language: "Zolnock"
+bekes.german_language: "Bekesch"
+karcag.german_language: "Kartschag"
+szarvas.german_language: "Hirschfeld"
+
+
+## Area 'slovakia_area' () ##
+# Province 'hont_province' () #
+hont.german_language: "Honth"
+banska_bystrica.german_language: "Neusohl"
+kremnica.german_language: "Kremnitz"
+krupina.german_language: "Kruppenau"
+stary_tekov.german_language: "Alttekau"
+zvolen.german_language: "Sohl"
+
+# Province 'maramaros_province' () #
+khust.german_language: "Hust"
+mezhorje.german_language: "Zwischenberg"
+sighet.german_language: "Marmaroschsigeth"
+cuhea.german_language: "Kuhdorf"
+rakhiv.german_language: "Rachau"
+
+# Province 'nograd_province' () #
+nograd.german_language: "Neugrad"
+balassagyarmat.german_language: "Balassamarkt"
+gemer.german_language: "Gemerland"
+podmuran.german_language: "Untermuran"
+rimavska_sobota.german_language: "Rimstadt"
+roznava.german_language: "Rosenau"
+salgotarjan.german_language: "Salgenstein"
+
+# Province 'pozsony_province' () #
+bratislava.german_language: "Pressburg"
+hlohovec.german_language: "Lohhofen"
+holic.german_language: "Holitsch"
+nitra.german_language: "Neutra"
+prievidza.german_language: "Priwitz"
+samorin.german_language: "Sommerein"
+trnava.german_language: "Tyrnau"
+
+# Province 'szepes_province' () #
+levoca.german_language: "Leutschau"
+bardejov.german_language: "Bartfeld"
+gonc.german_language: "Gönz"
+kosice.german_language: "Kaschau"
+lubica.german_language: "Leibitz"
+presov.german_language: "Eperies"
+turna.german_language: "Turnau"
+
+# Province 'trencsen_province' () #
+trencin.german_language: "Trentschin"
+povazska_bystrica.german_language: "Waagbistritz"
+zilina.german_language: "Sillein"
+oravsky_podzamok.german_language: "Arwaburg"
+turciansky_svaty_martin.german_language: "Turz-Sankt Martin"
+liptovsky_mikulas.german_language: "Liptau-Sankt Nikolaus"
+
+# Province 'zemplen_province' () #
+zemplin.german_language: "Semplin"
+beregovo.german_language: "Bergsaß"
+humenne.german_language: "Homonna"
+mukachevo.german_language: "Munkatsch"
+satoraljaujhely.german_language: "Neustadt am Zeltberg"
+uzhorod.german_language: "Ungwar"
+velikyi_bereznyi.german_language: "Großberesau"
+
+
+## Area 'south_alfold_area' () ##
+# Province 'csanad_province' () #
+csanad.german_language: "Tschanad"
+kikinda.german_language: "Großkikinda"
+mako.german_language: "Makowa"
+
+# Province 'csongrad_province' () #
+szeged.german_language: "Szegedin"
+halas.german_language: "Fischerstadt"
+felegyhaza.german_language: "Halbkirchen"
+zenta.german_language: "Senta"
+
+# Province 'east_banat_province' () #
+timisoara.german_language: "Temeswar"
+caransebes.german_language: "Karansebesch"
+lugoj.german_language: "Lugosch"
+mihalt.german_language: "Michaelstadt"
+recas.german_language: "Rekasch"
+
+# Province 'zarand_hun_province' () #
+zarand.german_language: "Scharand"
+arad.german_language: "Aradburg"
+baia_crisului.german_language: "Kreischbad"
+ineu.german_language: "Neustein"
+lipova.german_language: "Lippa"
+
+# Province 'west_banat_province' () #
+kovin.german_language: "Kubin"
+carasova.german_language: "Karaschdorf"
+modos.german_language: "Modosch"
+pancevo.german_language: "Pantschowa"
+semlacu_mare.german_language: "Großsemlak"
+veliky_beckerek.german_language: "Großbetschkerek"
+
+# Province 'bacs_province' () #
+bacs.german_language: "Batsch"
+baja_hungary.german_language: "Frankenstadt"
+bodrog.german_language: "Bodroghof"
+titel.german_language: "Titelburg"
+
+
+## Area 'transdanubia_area' () ##
+# Province 'baranya_province' () #
+siklos.german_language: "Siklósch"
+mohacs.german_language: "Mohatsch"
+pecs.german_language: "Fünfkirchen"
+simontornya.german_language: "Simonsturm"
+tolna.german_language: "Tolnau"
+
+# Province 'buda_province' () #
+buda.german_language: "Ofen"
+esztergom.german_language: "Gran"
+komarom.german_language: "Komorn"
+tata.german_language: "Totis"
+
+# Province 'fejer_province' () #
+fehervar.german_language: "Stuhlweißenburg"
+adony.german_language: "Adonstadt"
+kalocsa.german_language: "Kalotsch"
+papa.german_language: "Bischofstadt"
+solt.german_language: "Solthof"
+veszprem.german_language: "Wesprim"
+
+# Province 'somogy_province' () #
+somogyvar.german_language: "Schomodeburg"
+csurgo.german_language: "Tschurgo"
+kaposvar.german_language: "Kaposwar"
+segesd.german_language: "Segesth"
+
+# Province 'sopron_province' () #
+sopron.german_language: "Ödenburg"
+gyor.german_language: "Raab"
+kapuvar.german_language: "Kapuwarth"
+magyarovar.german_language: "Ungarisch-Altenburg"
+
+# Province 'vas_province' () #
+vasvar.german_language: "Eisenburg"
+kormend.german_language: "Kroisbach"
+olsnica.german_language: "Olsnitz"
+szombathely.german_language: "Steinamanger"
+
+# Province 'zala_province' () #
+zalavar.german_language: "Sallaburg"
+cakovec.german_language: "Tschakathorn"
+nagykanizsa.german_language: "Großkanischa"
+zalaegerszeg.german_language: "Egersee"
+
+
+## Area 'transylvania_area' () ##
+# Province 'doboka_province' () #
+dabaca.german_language: "Dobach"
+baita.german_language: "Goldbad"
+bistrita.german_language: "Bistritz"
+dej.german_language: "Desch"
+sic.german_language: "Seck"
+
+# Province 'feher_province' () #
+alba_iulia.german_language: "Karlsburg"
+aiud.german_language: "Straßburg am Mieresch"
+cetatea_balta.german_language: "Sumpffeste"
+deva.german_language: "Diemrich"
+felvint.german_language: "Felwinsdorf"
+hateg.german_language: "Hatzeg"
+hunedoara.german_language: "Eisenmarkt"
+
+# Province 'kiralyfold_province' () #
+sibiu.german_language: "Hermannstadt"
+brasov.german_language: "Kronstadt"
+cincu.german_language: "Schenk"
+fagaras.german_language: "Fogarasch"
+medias.german_language: "Mediasch"
+sebes.german_language: "Mühlbach"
+sighisoara.german_language: "Schäßburg"
+
+# Province 'szekelyfold_province' () #
+targu_mures.german_language: "Neumarkt am Mieresch"
+chezdi_osorheiu.german_language: "Schössdorf"
+covasna.german_language: "Schmiedfeld"
+cristuru_secuiesc.german_language: "Szeklerkreuz"
+gheorgheni.german_language: "Georgental"
+gurghiu.german_language: "Gurgendorf"
+odorhei.german_language: "Szeklerhof"
+sfantu_gheorghe.german_language: "Sankt Georgen am Alt"
+miercurea_cluc.german_language: "Szeklerburg"
+
+# Province 'torda_province' () #
+turda.german_language: "Thorenburg"
+baia_de_aries.german_language: "Goldbachbad"
+cluj.german_language: "Klausenburg"
+huedin.german_language: "Hüdenmarkt"
+reghin.german_language: "Sächsisch-Regen"
+
+
+## Area 'wallachia_area' () ##
+# Province 'east_muntenia_province' () #
+buzau.german_language: "Busau"
+braila.german_language: "Brallstadt"
+bukov.german_language: "Buchenfeld"
+parscov.german_language: "Barskau"
+ramnicu_sarat.german_language: "Salzremnik"
+valenii_de_munte.german_language: "Bergtal"
+viziru.german_language: "Wiserau"
+
+# Province 'north_muntenia_province' () #
+targoviste.german_language: "Fürstenmarkt"
+arges.german_language: "Argesch"
+campulung_muscel.german_language: "Langfeld am Argesch"
+cetateni.german_language: "Burgdorf"
+pitesti.german_language: "Pitesth"
+ploesti.german_language: "Plojescht"
+poenari.german_language: "Obstburg"
+slanic.german_language: "Salzbad"
+
+# Province 'north_oltenia_province' () #
+craiova.german_language: "Krajowa"
+cozia.german_language: "Koslau"
+dragasani.german_language: "Dragaschan"
+ramnicu_valcea.german_language: "Waltschremnik"
+stramba.german_language: "Krummdorf"
+targu_jiu.german_language: "Jiumarkt"
+targu_bengai.german_language: "Bengumarkt"
+
+# Province 'south_muntenia_province' () #
+bucharest.german_language: "Bukarest"
+cegani.german_language: "Zegau"
+gaiseni.german_language: "Gäuschen"
+lichiresti.german_language: "Lichersdorf"
+meteleu.german_language: "Mettlau"
+orasul_de_floci.german_language: "Wollstadt"
+slobozia.german_language: "Freihausen"
+
+# Province 'south_oltenia_province' () #
+calafat.german_language: "Kalafathafen"
+caracal.german_language: "Karackel"
+corabia.german_language: "Schiffstadt"
+plenita.german_language: "Plenitz"
+radovanu.german_language: "Freudenau"
+severin.german_language: "Severinstadt"
+strehaia.german_language: "Strechau"
+
+# Province 'west_muntenia_province' () #
+turnu_magurele.german_language: "Turmberg"
+comana.german_language: "Kommern"
+glavacioc.german_language: "Hauptau"
+gratia.german_language: "Gnadenfeld"
+giurgiu.german_language: "Georgenburg"
+rusii_de_vede.german_language: "Russenfeld"
+slatina.german_language: "Salzborn"
+zimnicea.german_language: "Simnitz"
+
+### Region 'ruthenia_region' () ###
+
+## Area 'black_ruthenia_area' () ##
+# Province 'grodno_province' () #
+grodno.german_language: "Hardenburg"
+bershty.german_language: "Berstadt"
+grodek.german_language: "Kleinburg"
+masty.german_language: "Brückendorf"
+sokolka.german_language: "Falkenburg"
+
+# Province 'kletsk_province' () #
+kletsk.german_language: "Hüttenstadt"
+bolshie_krugovichi.german_language: "Grosskrugau"
+kapyl.german_language: "Kapellen"
+lakhva.german_language: "Lachenau"
+luninets.german_language: "Mondnitz"
+
+# Province 'mazyr_province' () #
+mazyr.german_language: "Moosburg"
+buinovichi.german_language: "Buchenfeld"
+lelchytsy.german_language: "Lelstedt"
+kalinkavichy.german_language: "Kalenburg"
+pietrykaw.german_language: "Petersdorf"
+rudobelka.german_language: "Eichberg"
+zhytkavichy.german_language: "Roggenau"
+
+# Province 'novogrudok_province' () #
+novogrudok.german_language: "Neuburg"
+lyakhavichy.german_language: "Polendorf"
+lyubcha.german_language: "Liebau"
+nyasvizh.german_language: "Neswisch"
+turets.german_language: "Türkheim"
+
+# Province 'rechytsa_province' () #
+rechytsa.german_language: "Flussstadt"
+babruysk.german_language: "Biberburg"
+luchin.german_language: "Auenfeld"
+rahachow.german_language: "Ragenau"
+streshyn.german_language: "Kornheim"
+svietlahorsk.german_language: "Lichtberg"
+
+# Province 'slonin_province' () #
+slonim.german_language: "Elefantenburg"
+dzyatlava.german_language: "Spechtdorf"
+vyada.german_language: "Weidenau"
+zdzitov.german_language: "Zedau"
+
+# Province 'slutsk_province' () #
+slutsk.german_language: "Hohenbrück"
+hlusk.german_language: "Holzau"
+starobin.german_language: "Altenbronn"
+staryya_darohi.german_language: "Altenwegen"
+
+# Province 'vawkavysk_province' () #
+vawkavysk.german_language: "Wolfenburg"
+porazava.german_language: "Frohnau"
+vowpa.german_language: "Wopau"
+
+
+## Area 'left_bank_ukraine_area' () ##
+# Province 'ichnia_province' () #
+ichnia.german_language: "Eichenheim"
+hadiach.german_language: "Schlangenfeld"
+romen.german_language: "Rommenstadt"
+pryluky.german_language: "Prallingen"
+chornukhy.german_language: "Schwarzau"
+lypova_dolyna.german_language: "Lindenthal"
+
+# Province 'lubny_province' () #
+lubny.german_language: "Liebenau"
+pyriatyn.german_language: "Birkenfeld"
+horodyshche.german_language: "Wallstadt"
+horoshino.german_language: "Gutenfeld"
+zolotonosha.german_language: "Goldfluss"
+yahotyn.german_language: "Beerheim"
+
+# Province 'pereiaslav_province' () #
+pereiaslav.german_language: "Ehrenburg"
+boryspil.german_language: "Borisfeld"
+oster.german_language: "Osterstadt"
+kozelets.german_language: "Ziegenfeld"
+yaroslavka.german_language: "Jarosau"
+
+# Province 'poltava_province' () #
+poltava.german_language: "Waldhofen"
+kremenchuk.german_language: "Feuerstein"
+myrhorod.german_language: "Friedstadt"
+velyki_sorochyntsi.german_language: "Grosssoran"
+hovtva.german_language: "Hopfingen"
+opishnya.german_language: "Töpferau"
+
+
+## Area 'podolia_area' () ##
+# Province 'bratslav_province' () #
+bratslav.german_language: "Bratzlau"
+balta.german_language: "Baltental"
+bershad.german_language: "Berschau"
+drahushiv.german_language: "Dragendorf"
+karabul.german_language: "Karbrunn"
+savran.german_language: "Sauerau"
+
+# Province 'eastern_podolia_province' () #
+ushytsia.german_language: "Uschitzthal"
+khmilnyk.german_language: "Hopfenau"
+letychiv.german_language: "Lettin"
+mezhybozhe.german_language: "Zwischenburg"
+mohyliv_podilskyi.german_language: "Hügelstadt"
+rov.german_language: "Grabendorf"
+
+# Province 'torgovytsia_province' () #
+torhovytsia.german_language: "Marktstadt"
+teplyk.german_language: "Warmbrunn"
+tsybuliv.german_language: "Zwiebeldorf"
+uman.german_language: "Rosenhain"
+zavallia.german_language: "Hinterwald"
+
+# Province 'vinnytsia_province' () #
+vinnytsia.german_language: "Weinstadt"
+buzhskyi.german_language: "Bugstadt"
+pohrebyshche.german_language: "Kellern"
+sokilets.german_language: "Falkenruh"
+
+# Province 'western_podolia_province' () #
+bakota.german_language: "Bachauen"
+horodok.german_language: "Städtlein"
+kamianets_podilskyi.german_language: "Kamenez-Podolski"
+zalishchyky.german_language: "Salisau"
+
+
+## Area 'polesia_area' () ##
+# Province 'bresta_province' () #
+brest_litowsk.german_language: "Brest-Litowsk"
+biala_podlaska.german_language: "Weissfelde"
+chernyany.german_language: "Schwarzort"
+malaryta.german_language: "Mühlritten"
+wlodawa.german_language: "Wladau"
+
+# Province 'kobryn_province' () #
+kobryn.german_language: "Kobrinhof"
+dabuchyn.german_language: "Eichdorf"
+hajnowka.german_language: "Hainau"
+kamyenyets.german_language: "Steinau"
+
+# Province 'pinsk_province' () #
+pinsk.german_language: "Pinsken"
+drahichyn.german_language: "Drachenau"
+liubeshiv.german_language: "Liebenheim"
+motal.german_language: "Mottel"
+nobel.german_language: "Nobeldorf"
+
+# Province 'turov_province' () #
+turov.german_language: "Ochsenfurt"
+davyd_haradok.german_language: "Davidsstadt"
+dubrovytsia.german_language: "Eichenwalde"
+hlynne.german_language: "Lehmfeld"
+stolin.german_language: "Stollen"
+
+
+## Area 'red_ruthenia_area' () ##
+# Province 'belz_province' () #
+belz.german_language: "Belzig"
+busk.german_language: "Buskau"
+grabowiec.german_language: "Hainbach"
+lubaczow.german_language: "Lubenau"
+sokal.german_language: "Falkenstein"
+
+# Province 'drohobych_province' () #
+drohobych.german_language: "Drohobytsch"
+sambir.german_language: "Sambor"
+stryi.german_language: "Streim"
+turka.german_language: "Turkau"
+
+# Province 'halych_province' () #
+halych.german_language: "Halytsch"
+bohorodchany.german_language: "Marienfeld"
+buchach.german_language: "Butschatsch"
+rohatyn.german_language: "Rohlingen"
+
+# Province 'pocutia_province' () #
+kolomyia.german_language: "Kolomea"
+kosiv.german_language: "Kossau"
+sniatyn.german_language: "Schnetau"
+tysmenytsia.german_language: "Tysmenitz"
+
+# Province 'lviv_province' () #
+lviv.german_language: "Lemberg"
+bereschany.german_language: "Berschan"
+brody.german_language: "Brodau"
+zhovkva.german_language: "Gelbau"
+yavoriv.german_language: "Ahornau"
+zvenyhorod.german_language: "Klingstadt"
+
+# Province 'przemysl_province' () #
+przemysl.german_language: "Premissel"
+piskorowice.german_language: "Sandwitz"
+rzeszow.german_language: "Reschau"
+yaroslav_poland.german_language: "Jaroslau"
+
+# Province 'sanok_province' () #
+sanok.german_language: "Saanburg"
+krosno.german_language: "Krossen"
+lesko.german_language: "Waldheim"
+
+# Province 'terebovlia_province' () #
+terebovlia.german_language: "Terebingen"
+khorostkiv.german_language: "Reisigfeld"
+ternopil.german_language: "Tarnopol"
+
+# Province 'zhydachiv_province' () #
+zhydachiv.german_language: "Judendorf"
+bolekhiv.german_language: "Bolechau"
+dolyna.german_language: "Thalheim"
+
+
+## Area 'severia_area' () ##
+# Province 'bryansk_province' () #
+bryansk.german_language: "Brunswald"
+foshnya.german_language: "Foschen"
+knyazhichi.german_language: "Fürstendorf"
+pochep.german_language: "Potschebau"
+revny.german_language: "Rewenau"
+vshchizh.german_language: "Wischitz"
+
+# Province 'chernihiv_province' () #
+chernihiv.german_language: "Schwarzburg"
+horodnia.german_language: "Städtchen"
+liubech.german_language: "Liebau"
+lutava.german_language: "Lutau"
+sosnytsia.german_language: "Kiefernheim"
+snovsk.german_language: "Schnowen"
+
+# Province 'gomel_province' () #
+gomel.german_language: "Hummelstadt"
+chachersk.german_language: "Tschachau"
+dobrush.german_language: "Gutental"
+tereshkovichy.german_language: "Tereshof"
+volosovichy.german_language: "Wolfsdorf"
+
+# Province 'nizhyn_province' () #
+nizhyn.german_language: "Niederhagen"
+buryn.german_language: "Brunnenau"
+bakhmach.german_language: "Bachmarkt"
+melnya.german_language: "Mühlau"
+putyvl.german_language: "Wegefeld"
+
+# Province 'novhorod_siverskyi_province' () #
+novhorod_siverskyi.german_language: "Neustadt-Sewer"
+hlukhiv.german_language: "Luchau"
+verba.german_language: "Weiden"
+voronizh_chernihiv.german_language: "Rabenfeld"
+znobov.german_language: "Schnoben"
+
+# Province 'starodub_siverskyi_province' () #
+starodub_siverskyi.german_language: "Alteneich"
+drokov.german_language: "Drockau"
+klintsy.german_language: "Klinzau"
+mglin.german_language: "Nebelburg"
+popowa_gora.german_language: "Pfaffenberg"
+ropsk.german_language: "Ropskau"
+radogosch.german_language: "Radegast"
+
+# Province 'trubchevsk_province' () #
+trubchevsk.german_language: "Trompetenstadt"
+boldyzh.german_language: "Bollendorf"
+dmitriyev.german_language: "Demetern"
+rylsk.german_language: "Rillingen"
+sevsk.german_language: "Sewenburg"
+
+
+## Area 'volhynia_area' () ##
+# Province 'chelm_province' () #
+chelm.german_language: "Cholmen"
+krasnystaw.german_language: "Rotenhof"
+liuboml.german_language: "Liebemühl"
+ratne.german_language: "Kriegsau"
+shatsk.german_language: "Schatzheim"
+ugrovesk.german_language: "Ungarstadt"
+
+# Province 'kremenets_province' () #
+kremenets.german_language: "Feuerstein"
+dubno.german_language: "Eichingen"
+zbarazh.german_language: "Sbarau"
+tykhomel.german_language: "Stillbrunn"
+
+# Province 'lutsk_province' () #
+lutsk.german_language: "Laustadt"
+chortoryisk.german_language: "Teufelsburg"
+peremyl.german_language: "Peremühl"
+rozhyshche.german_language: "Rosenau"
+stepan.german_language: "Stephansdorf"
+volodymyrets.german_language: "Waldau"
+
+# Province 'rivne_province' () #
+rivne.german_language: "Ebenstadt"
+kostopil.german_language: "Kostthal"
+ostroh.german_language: "Spitzburg"
+peresopnytsya.german_language: "Pergau"
+
+# Province 'volodymyr_province' () #
+volodymyr.german_language: "Wladimir"
+kamin.german_language: "Steinberg"
+kovel.german_language: "Kowel"
+melnytsya.german_language: "Mühlstadt"
+turiisk.german_language: "Stierau"
+
+# Province 'zviahel_province' () #
+novohrad_volynskyi.german_language: "Neustadt-Wolhynien"
+iziaslav.german_language: "Isenburg"
+korets.german_language: "Coretz"
+liubar.german_language: "Liebau"
+polonne.german_language: "Polenfeld"
+
+
+## Area 'right_bank_ukraine_area' () ##
+# Province 'porossia_province' () #
+bila_tserkva.german_language: "Weisskirchen"
+bohuslav.german_language: "Gottesruh"
+kaharlyk.german_language: "Karnitz"
+kaniv.german_language: "Kanau"
+sherbiv.german_language: "Scherbenau"
+skvyra.german_language: "Schwehren"
+
+# Province 'cherkasy_province' () #
+cherkasy.german_language: "Tscherkassenstadt"
+chyhyryn.german_language: "Schigern"
+korsun.german_language: "Korsenhain"
+lebedyn.german_language: "Schwanstadt"
+rozkishna.german_language: "Prachtau"
+smila.german_language: "Tapferfeld"
+zvenyhorodka.german_language: "Klingstädtchen"
+
+# Province 'chornobyl_province' () #
+chornobyl.german_language: "Wermutthal"
+belaya_soroka.german_language: "Weisselster"
+brahin.german_language: "Bragen"
+khoiniki.german_language: "Fichtenberg"
+kholmyech.german_language: "Hügelau"
+
+# Province 'kyiv_province' () #
+kyiv.german_language: "Kiew"
+desnyanskyi_horodok.german_language: "Dessnau"
+dymer.german_language: "Dümern"
+fastiv.german_language: "Fastow"
+zdvizhen.german_language: "Schwigen"
+
+# Province 'olevsk_province' () #
+olevsk.german_language: "Olben"
+kopyshche.german_language: "Brandau"
+viry.german_language: "Glauben"
+yemilchyne.german_language: "Emilingen"
+
+# Province 'ovruch_province' () #
+ovruch.german_language: "Owrutsch"
+bilokorovychi.german_language: "Weisskuh"
+korosten.german_language: "Korstein"
+malyn.german_language: "Himbeerau"
+narodychi.german_language: "Leuten"
+stodolichi.german_language: "Scheuningen"
+
+# Province 'zhytomyr_province' () #
+zhytomyr.german_language: "Roggenstadt"
+berdychiv.german_language: "Berditschew"
+chudniv.german_language: "Wunderthal"
+chortolisy.german_language: "Teufelswald"
+korostyshiv.german_language: "Korsteinshof"
+mychesk.german_language: "Michelsburg"
+
+
+## Area 'white_ruthenia_area' () ##
+# Province 'barysaw_province' () #
+barysaw.german_language: "Borisow"
+bobr.german_language: "Biberau"
+krupki.german_language: "Krumkau"
+lukolm.german_language: "Luchholm"
+lyubashany.german_language: "Liebendorf"
+
+# Province 'dzisna_province' () #
+dzisna.german_language: "Disna"
+asvieja.german_language: "Aswig"
+nevel.german_language: "Nebel"
+nekloch.german_language: "Neckelau"
+rasony.german_language: "Raschau"
+vydritsa.german_language: "Otterbach"
+
+# Province 'lahoysk_province' () #
+lahoysk.german_language: "Lahosken"
+begoml.german_language: "Begomel"
+byerazino.german_language: "Birkau"
+ilya.german_language: "Eliasdorf"
+krasnoe.german_language: "Rothagen"
+smalyavichy.german_language: "Harzdorf"
+
+# Province 'minsk_province' () #
+minsk.german_language: "Minsk"
+chervyen.german_language: "Rotburg"
+koidanova.german_language: "Koidanow"
+marjina_horka.german_language: "Marienberg"
+rakau.german_language: "Krebsau"
+stowbtsy.german_language: "Pfeilerstadt"
+svislach.german_language: "Schwislau"
+
+# Province 'mogilev_province' () #
+mogilev.german_language: "Mogilew"
+bykhaw.german_language: "Bychow"
+chavusy.german_language: "Schawusen"
+klichaw.german_language: "Rufstadt"
+novy_bykhaw.german_language: "Neu-Bychow"
+slawharad.german_language: "Ruhmesstadt"
+
+# Province 'mstsislaw_province' () #
+mstsislaw.german_language: "Stislau"
+kastsyukovichy.german_language: "Kastendorf"
+khotsimsk.german_language: "Chotzen"
+krychaw.german_language: "Kritschau"
+monastyrshchina.german_language: "Klosterdorf"
+shumyachi.german_language: "Lärmsfeld"
+
+# Province 'orsha_province' () #
+orsha.german_language: "Orscha"
+drutsk.german_language: "Drutten"
+horki.german_language: "Höringen"
+kopys.german_language: "Koppitz"
+rudnya.german_language: "Schmelzau"
+tyatseryn.german_language: "Zezeren"
+
+# Province 'polotsk_province' () #
+polotsk.german_language: "Polotzk"
+bocheikovo.german_language: "Botschegau"
+lyepyel.german_language: "Lepel"
+ulla.german_language: "Ullen"
+ushachy.german_language: "Uschach"
+zabore.german_language: "Zaunau"
+
+# Province 'vitebsk_province' () #
+vitebsk.german_language: "Witebsk"
+haradok.german_language: "Städtel"
+jeziarysca.german_language: "Seedorf"
+mikulino.german_language: "Michelsdorf"
+syanno.german_language: "Heuen"
+usvyaty.german_language: "Uswatt"
+velizh.german_language: "Welisch"
+vydreya.german_language: "Ottre"
+
+### Region 'france_region' () ###
+
+## Area 'anjou_area' () ##
+# Province 'anjou_province' () #
+angers.german_language: "Engers an der Maine"
+bauge.german_language: "Bauschingen"
+beaupreau.german_language: "Schonwiesen"
+chateau_gontier.german_language: "Gunthersburg"
+le_lude.german_language: "Ludenheim"
+loudun.german_language: "Laudingen"
+passavant.german_language: "Passwangen"
+saumur.german_language: "Saumerstein an der Loire"
+
+# Province 'lower_maine_province' () #
+mayenne.german_language: "Maienburg an der Mayenne"
+laval.german_language: "Lauenfels"
+sainte_suzanne.german_language: "Sankt Susannen"
+villaines.german_language: "Villingen am Maine"
+
+# Province 'upper_maine_province' () #
+le_mans.german_language: "Mansstadt an der Sarthe"
+beaumont_au_maine.german_language: "Schonberg am Maine"
+chateau_du_loir.german_language: "Lohrburg"
+sable.german_language: "Sandfurt"
+st_calais.german_language: "Sankt Kalden"
+
+# Province 'perche_province' () #
+mortagne.german_language: "Morthain"
+alluyes.german_language: "Allingen"
+belleme.german_language: "Belheim"
+senonches.german_language: "Senningen"
+
+
+## Area 'auvergne_area' () ##
+# Province 'lower_auvergne_province' () #
+clermont.german_language: "Klarberg"
+allegre.german_language: "Frohburg"
+brioude.german_language: "Briodheim"
+riom.german_language: "Riham"
+thiers.german_language: "Tierstatt"
+vic_le_comte.german_language: "Grafenwick"
+vodable.german_language: "Eberhardsruh"
+
+# Province 'bourbon_province' () #
+bourbon.german_language: "Burben"
+huriel.german_language: "Huriestal"
+jaligny.german_language: "Gallingen"
+molins.german_language: "Muhlstadt an der Allier"
+montlucon.german_language: "Lugstein"
+st_gerand.german_language: "Sankt Gerans"
+vichy.german_language: "Wichingen an der Allier"
+
+# Province 'combraille_province' () #
+chambon.german_language: "Kamborn"
+herment.german_language: "Hermingen"
+montaigut.german_language: "Hochhugel"
+tour_auvergne.german_language: "Turmau"
+
+# Province 'upper_auvergne_province' () #
+aurillac.german_language: "Orlach"
+mauriac.german_language: "Mauringen"
+saint_flour.german_language: "Sankt Floriansberg"
+
+
+## Area 'brittany_area' () ##
+# Province 'cornouaille_province' () #
+quimper.german_language: "Kimper an der Odet"
+carhaix.german_language: "Karhagen"
+chateaulin.german_language: "Leinburg"
+le_faou.german_language: "Fauenhafen"
+quimperle.german_language: "Kimperle an der Elle"
+
+# Province 'nantais_province' () #
+nantes.german_language: "Nanten an der Loire"
+blain.german_language: "Blaingen"
+chateaubriant.german_language: "Briangenburg"
+guerande.german_language: "Gerand"
+machecoul.german_language: "Maschul"
+
+# Province 'ploermel_province' () #
+ploermel.german_language: "Plormel"
+josselin.german_language: "Josselburg"
+monfort_sur_meu.german_language: "Meuenberg"
+rohan.german_language: "Rohen"
+
+# Province 'rennais_province' () #
+rennes.german_language: "Rehnestadt an der Vilaine"
+dol.german_language: "Dolheim"
+fougeres.german_language: "Farnburg"
+saint_malo.german_language: "Sankt Malohafen"
+vitre.german_language: "Glassburg"
+
+# Province 'tregor_province' () #
+saint_brieuc.german_language: "Sankt Briuk"
+brest.german_language: "Brestenhafen"
+chatelaudren.german_language: "Laudernburg"
+st_pol_de_leon.german_language: "Sankt Paul Leon"
+treguier.german_language: "Tregau"
+
+# Province 'vannetais_province' () #
+vannes.german_language: "Wannen"
+hennebont.german_language: "Hennenbronn"
+redon.german_language: "Redungen an der Vilaine"
+
+
+## Area 'burgundy_area' () ##
+# Province 'auxerrois_province' () #
+auxerre.german_language: "Aussern an der Yonne"
+aignay.german_language: "Egen"
+arnay.german_language: "Arningen"
+avallon.german_language: "Avalburg"
+chatillon_sur_seine.german_language: "Scheinau an der Seine"
+semur_en_auxois.german_language: "Semersheim"
+
+# Province 'autunnais_province' () #
+autun.german_language: "Augustenstein"
+charolles.german_language: "Karolsheim"
+macon.german_language: "Makon an der Saone"
+montcenis.german_language: "Zinnberg"
+semur_en_brionnais.german_language: "Brionheim"
+
+# Province 'dijonnais_province' () #
+dijon.german_language: "Diesen an der Ouche"
+auxonne.german_language: "Ochsenfurt an der Saone"
+beaune.german_language: "Baunheim"
+chalon_sur_saone.german_language: "Kallstadt an der Saone"
+louhans.german_language: "Luhingen"
+
+# Province 'nevernais_province' () #
+nevers.german_language: "Niewers an der Loire"
+cercy.german_language: "Zerzingen"
+chateau_chinon.german_language: "Kinnburg"
+donzy.german_language: "Donzach"
+montreuillon.german_language: "Trauenberg"
+st_pierre_de_moutier.german_language: "Sankt Peter Munt"
+
+
+## Area 'champagne_area' () ##
+# Province 'bassigny_province' () #
+chaumont.german_language: "Kahlenberg"
+choiseul.german_language: "Schausel"
+grancey.german_language: "Grenzach"
+la_mothe_en_bassigny.german_language: "Mottenburg"
+langres.german_language: "Langreim"
+vaucouleurs.german_language: "Farbental"
+
+# Province 'brie_champenois_province' () #
+meaux.german_language: "Malz an der Marne"
+broyes.german_language: "Breuheim"
+chateau_thierry.german_language: "Dietrichsburg"
+nogent_sur_seine.german_language: "Nogau an der Seine"
+provins.german_language: "Provinzstadt"
+
+# Province 'champagne_province' () #
+troyes.german_language: "Dreistadt an der Seine"
+brienne.german_language: "Brienen"
+villemaur.german_language: "Maurstadt"
+
+# Province 'perthois_province' () #
+vitry_en_pertois.german_language: "Wittrich"
+joinville.german_language: "Joiningen"
+bar_sur_aube.german_language: "Aubenbar"
+rosnay.german_language: "Rosnau"
+
+# Province 'remois_province' () #
+reims.german_language: "Rhems"
+chalons_champagne.german_language: "Kallungen an der Marne"
+epernay.german_language: "Ebernau an der Marne"
+menehould.german_language: "Mannenwald"
+vertus.german_language: "Tugendstadt"
+
+# Province 'rethelois_province' () #
+rethel.german_language: "Retel"
+chateau_porcien.german_language: "Schweinsburg"
+grandpre.german_language: "Grossfeld"
+mouzon.german_language: "Musen"
+
+# Province 'senonais_province' () #
+sens.german_language: "Sennstadt an der Yonne"
+bar_sur_seine.german_language: "Seinenfels"
+joigny.german_language: "Jungen"
+saint_florentin.german_language: "Sankt Florentin"
+tonnerre.german_language: "Donnerstadt"
+
+
+## Area 'franche_comte_area' () ##
+# Province 'amont_province' () #
+vesoul.german_language: "Weseln"
+baume.german_language: "Baumfels"
+gray.german_language: "Grauenfurt an der Saone"
+luxeuil.german_language: "Luchsweiler"
+montbeliard.german_language: "Mompelgard"
+montbozon.german_language: "Bozenberg"
+
+# Province 'aval_province' () #
+salins_les_bains.german_language: "Salzbad"
+orgelet.german_language: "Gerstenheim"
+poligny.german_language: "Polingen"
+pontarlier.german_language: "Bruckenstadt"
+saint_claude.german_language: "Sankt Klausen"
+
+# Province 'millieu_province' () #
+besancon.german_language: "Bisanz"
+dole.german_language: "Dolingen"
+ornans.german_language: "Ornheim"
+
+
+## Area 'gascony_area' () ##
+# Province 'armagnac_province' () #
+auch.german_language: "Auschstadt"
+lectoure.german_language: "Lekturm"
+lisle_jourdain.german_language: "Jordansinsel"
+mirande.german_language: "Mirandsfeld"
+nogaro.german_language: "Gerhardsfeld"
+
+# Province 'bearn_bigorre_province' () #
+pau.german_language: "Pfahl am Gave"
+oloron.german_language: "Olerheim"
+orthez.german_language: "Ortes"
+tarbes.german_language: "Tarben"
+
+# Province 'comminges_province' () #
+muret.german_language: "Muren"
+aspet.german_language: "Aspach"
+saint_lizier.german_language: "Sankt Lisar"
+saint_gaudens.german_language: "Sankt Gautin"
+
+# Province 'tursan_province' () #
+dax.german_language: "Dachsen am Adur"
+aire.german_language: "Auern"
+labrit.german_language: "Labricht"
+mimizan.german_language: "Kunigundendorf"
+mont_de_marsan.german_language: "Marshugel"
+tartas.german_language: "Tartau"
+tosse.german_language: "Tossingen"
+
+# Province 'bayonne_province' () #
+bayonne.german_language: "Bajonburg"
+mauleon.german_language: "Maulingen"
+saint_jean_pied_de_port.german_language: "Sankt Johann am Pass"
+
+
+## Area 'guyenne_area' () ##
+# Province 'agenais_province' () #
+agen.german_language: "Agental an der Garonne"
+marmande.german_language: "Marmund"
+montflanquin.german_language: "Falkenberg"
+
+# Province 'bazadais_province' () #
+bazas.german_language: "Bassaz"
+belin.german_language: "Belin"
+condom.german_language: "Gondingen"
+nerac.german_language: "Nerach"
+sauveterre_de_guyenne.german_language: "Sicherland"
+
+# Province 'bordelais_province' () #
+bordeaux.german_language: "Burgdingen an der Garonne"
+benauges.german_language: "Benaugen"
+castelnau_de_medoc.german_language: "Neuburg im Medok"
+la_teste_de_buch.german_language: "Buchenhaube"
+lesparre_medoc.german_language: "Sparrenheim im Medok"
+libourne.german_language: "Liburg an der Dordogne"
+
+# Province 'perigord_province' () #
+perigueux.german_language: "Perig an der Isle"
+bergerac.german_language: "Bergenach an der Dordogne"
+limeuil.german_language: "Limel"
+riberac.german_language: "Riberg"
+sarlat.german_language: "Sarlach"
+
+# Province 'quercy_province' () #
+cahors.german_language: "Kadorf an der Lot"
+figeac.german_language: "Fischach"
+gourdon.german_language: "Gurdingen"
+montauban.german_language: "Weisshugel an der Tarn"
+
+# Province 'rouergue_province' () #
+rodez.german_language: "Rodes"
+entraigues.german_language: "Zwischenauen"
+millau.german_language: "Miliansheim"
+peyrusse.german_language: "Peirach"
+st_affrique.german_language: "Sankt Africh"
+villefranche.german_language: "Freiburg im Rouerg"
+
+
+## Area 'ile_de_france_area' () ##
+# Province 'beauvaisis_province' () #
+beauvais.german_language: "Schonental"
+chaumont_vexin.german_language: "Kahlenberg im Vexin"
+clermont_en_beauvaisis.german_language: "Klarberg im Beauvais"
+crepy.german_language: "Krepach"
+senlis.german_language: "Sennlitz"
+
+# Province 'gatinais_province' () #
+nemours.german_language: "Nemern an der Loing"
+brie_comte_robert.german_language: "Grafenbrie"
+melun.german_language: "Mellheim an der Seine"
+
+# Province 'pays_france_province' () #
+paris.german_language: "Seinenstadt"
+corbeil.german_language: "Rabenfels an der Seine"
+mantes.german_language: "Manthafen an der Seine"
+monfort_lamaury.german_language: "Mauritzburg"
+montmorency.german_language: "Morenberg"
+
+# Province 'soissonais_province' () #
+soissons.german_language: "Sessingen an der Aisne"
+braine.german_language: "Branen"
+coucy.german_language: "Kutzingen"
+laon.german_language: "Launen"
+noyon.german_language: "Neuen"
+roucy.german_language: "Rutzingen"
+
+
+## Area 'languedoc_area' () ##
+# Province 'castres_province' () #
+castres.german_language: "Kaster"
+albi.german_language: "Albingen an der Tarn"
+lautrec.german_language: "Lauterich"
+
+# Province 'foix_province' () #
+foix.german_language: "Fuchsburg"
+pamiers.german_language: "Pammers"
+mirepoix.german_language: "Spiegelbach"
+
+# Province 'gevaudan_province' () #
+chateauneuf_de_randon.german_language: "Neuburg Randon"
+florac.german_language: "Florach"
+mende.german_language: "Menden"
+peyre.german_language: "Steinau"
+
+# Province 'narbonnais_province' () #
+narbonne.german_language: "Narbenhafen"
+agde.german_language: "Agden"
+beziers.german_language: "Besiern"
+lodeve.german_language: "Lodau"
+saint_pons.german_language: "Sankt Ponsen"
+
+# Province 'nimois_province' () #
+nimes.german_language: "Nemsen"
+french_ales.german_language: "Aless"
+melgueil.german_language: "Melgols"
+montpellier.german_language: "Pellerberg"
+st_ambroix.german_language: "Sankt Ambros"
+uzes.german_language: "Usen"
+
+# Province 'razes_province' () #
+carcassonne.german_language: "Karkassburg"
+fenouillet.german_language: "Fenchelheim"
+limoux.german_language: "Limms"
+
+# Province 'toulousain_province' () #
+toulouse.german_language: "Tulhausen an der Garonne"
+castelnaudary.german_language: "Neuburg an der Aude"
+lavaur.german_language: "Lauwehr"
+verdun_sur_garonne.german_language: "Grunfurt an der Garonne"
+villemur.german_language: "Murmstadt an der Tarn"
+
+# Province 'vivarais_province' () #
+viviers.german_language: "Wieweiler"
+chalancon.german_language: "Schalkenstein"
+le_puy.german_language: "Pfeilburg"
+montlaur.german_language: "Lorenberg"
+privas.german_language: "Pribach"
+tournon.german_language: "Turndorf an der Rhone"
+
+
+## Area 'limousin_province' () ##
+# Province 'limousin_province' () #
+limoges.german_language: "Liming"
+aixe.german_language: "Eichs"
+nontron.german_language: "Nontrum"
+segur.german_language: "Segers"
+st_leonard.german_language: "Sankt Leonhard im Tal"
+thiviers.german_language: "Tivi"
+
+# Province 'la_marche_province' () #
+gueret.german_language: "Gereit"
+aubusson.german_language: "Aubussen"
+bellac.german_language: "Bellach"
+bourganeuf.german_language: "Neuburg im Marschland"
+brosse.german_language: "Brossen"
+charroux.german_language: "Karrich"
+rochechouart.german_language: "Felswart"
+
+# Province 'turenne_province' () #
+turenne.german_language: "Thurstein"
+tulle.german_language: "Tull an der Correze"
+ussel.german_language: "Usseln"
+ventadour.german_language: "Windau"
+
+
+## Area 'lorraine_area' () ##
+# Province 'barrois_province' () #
+bar_le_duc.german_language: "Bar am Herzogswald"
+clermont_en_argonne.german_language: "Ottmarsberg"
+ligny.german_language: "Lingen"
+saint_mihiel.german_language: "Sankt Michael an der Maas"
+
+# Province 'pays_messin_province' () #
+metz.german_language: "Metz"
+morhange.german_language: "Morhangen"
+saint_avold.german_language: "Sankt Avold"
+vic_sur_seille.german_language: "Wicken an der Seille"
+wallerfangen.german_language: "Wallerfangen"
+
+# Province 'pays_nancy_province' () #
+nancy.german_language: "Nanzig"
+luneville.german_language: "Lowenstadt"
+salm.german_language: "Salmenfels"
+toul.german_language: "Tull"
+
+# Province 'sarregueminois_province' () #
+sarreguemines.german_language: "Saargemund"
+bitche.german_language: "Bitsch"
+saarwerden.german_language: "Saarwerden"
+sarrebourg.german_language: "Saarburg"
+
+# Province 'verdunois_province' () #
+verdun.german_language: "Verdun"
+longwy.german_language: "Langich"
+etain.german_language: "Zinnstadt"
+fresnes.german_language: "Fresen"
+
+# Province 'vosges_province' () #
+epinal.german_language: "Spinal"
+arches.german_language: "Bogenstadt"
+darney.german_language: "Darnach"
+mirecourt.german_language: "Spiegelhof"
+neufchateau_des_vosges.german_language: "Neuburg im Wasgau"
+saint_die.german_language: "Sankt Didel"
+
+
+## Area 'lyonnais_area' () ##
+# Province 'bresse_province' () #
+bourg_en_bresse.german_language: "Burg im Bressegau"
+belley.german_language: "Bellach am Rhoneknie"
+gex.german_language: "Geks"
+bage.german_language: "Bachen"
+thoire.german_language: "Dorach"
+
+# Province 'beaujolais_province' () #
+beaujeu.german_language: "Schonspiel"
+perreux.german_language: "Steinau"
+trevoux.german_language: "Treuen"
+villars.german_language: "Wilhelmsdorf"
+
+# Province 'lyonnais_province' () #
+lyon.german_language: "Leunstadt am Rhone"
+feurs.german_language: "Furen"
+montbrison.german_language: "Brisberg"
+riverie.german_language: "Ruferau"
+roanne.german_language: "Ronen an der Loire"
+saint_etienne.german_language: "Sankt Stephan am Pilat"
+
+
+## Area 'normandy_area' () ##
+# Province 'caennais_province' () #
+caen.german_language: "Kahn an der Orne"
+bayeux.german_language: "Bajau"
+domfront.german_language: "Domfront"
+falaise.german_language: "Felsenburg"
+pont_douilly.german_language: "Douillenbrucke"
+vire.german_language: "Wirren"
+
+# Province 'caux_province' () #
+fecamp.german_language: "Fekamp"
+arques.german_language: "Arken"
+aumale.german_language: "Aumel"
+longueville.german_language: "Langdorf"
+tancarville.german_language: "Tankerwitz"
+
+# Province 'cotentin_province' () #
+coutances.german_language: "Kutzingen am Meer"
+cherbourg.german_language: "Scherburg"
+avranches.german_language: "Avranken"
+jersey.german_language: "Jersinsel"
+mortain.german_language: "Mortingen"
+st_sauveur.german_language: "Sankt Souver"
+
+# Province 'ebroicien_province' () #
+evreux.german_language: "Eberich"
+alencon.german_language: "Alenkern"
+argentan.german_language: "Silberstadt"
+bernay.german_language: "Bernach"
+harcourt.german_language: "Harkort"
+laigle.german_language: "Adlerburg"
+
+# Province 'rouennais_province' () #
+rouen.german_language: "Rauen an der Seine"
+gisors.german_language: "Gisers"
+lisieux.german_language: "Lisau"
+louviers.german_language: "Lauwers"
+pont_audemer.german_language: "Audembrucke"
+
+
+## Area 'orleanais_area' () ##
+# Province 'lower_berry_province' () #
+chateauroux.german_language: "Rauchsburg"
+boussac.german_language: "Busach"
+issoudun.german_language: "Issingen"
+lignieres.german_language: "Lignern"
+
+# Province 'blois_province' () #
+blois.german_language: "Blaus an der Loire"
+chateaudun.german_language: "Dunenburg"
+romorantin.german_language: "Romerant"
+st_aignan.german_language: "Sankt Agen"
+vendome.german_language: "Vendheim"
+
+# Province 'chartrain_province' () #
+chartres.german_language: "Kerzenstadt"
+auneau.german_language: "Aunau"
+dreux.german_language: "Druch"
+etampes.german_language: "Stempeln"
+
+# Province 'upper_berry_province' () #
+bourges.german_language: "Burgas an der Yevre"
+gien.german_language: "Gien an der Loire"
+sancerre.german_language: "Sankt Serre"
+sancoins.german_language: "Sankon"
+vierzon.german_language: "Wierzen"
+
+# Province 'orleanais_province' () #
+orleans.german_language: "Aurelien an der Loire"
+beaugency.german_language: "Schonfurt"
+montargis.german_language: "Targenberg"
+sully.german_language: "Sullingen"
+vitry_aux_loges.german_language: "Wittrich im Holz"
+
+# Province 'touraine_province' () #
+tours.german_language: "Turmstadt an der Loire"
+amboise.german_language: "Ambuss"
+chatillon_sur_indre.german_language: "Schattenburg an der Indre"
+chinon.german_language: "Scheinon"
+loches.german_language: "Lochstadt"
+
+
+## Area 'picardy_area' () ##
+# Province 'amienois_province' () #
+amiens.german_language: "Ammingen an der Somme"
+breteuil.german_language: "Bretteln"
+corbie.german_language: "Rabenau"
+
+# Province 'lower_artois_province' () #
+arras.german_language: "Arrasch"
+bapaume.german_language: "Pommberg"
+cambrai.german_language: "Kambrich"
+lens.german_language: "Lenzen"
+
+# Province 'upper_artois_province' () #
+saint_omer.german_language: "Sankt Omer"
+bethune.german_language: "Bethingen"
+hesdin.german_language: "Hesden"
+saint_pol.german_language: "Sankt Paul im Artois"
+
+# Province 'ponthieu_province' () #
+abbeville.german_language: "Abtsdorf"
+calais.german_language: "Kaleshafen"
+boulogne_sur_mer.german_language: "Bollingen am Meer"
+montreuil.german_language: "Montrich"
+
+# Province 'thierache_province' () #
+guise.german_language: "Gis"
+hirson.german_language: "Hirschen"
+marle.german_language: "Marlach"
+ribemont.german_language: "Rippenberg"
+
+# Province 'vermandois_province' () #
+saint_quentin.german_language: "Sankt Quentin an der Somme"
+nesle.german_language: "Nesseln"
+peronne.german_language: "Perunen"
+
+
+## Area 'poitou_area' () ##
+# Province 'angouleme_province' () #
+angouleme.german_language: "Angelnheim"
+cognac.german_language: "Konjaksburg"
+chabanais.german_language: "Schabern"
+
+# Province 'lower_poitou_province' () #
+thouars.german_language: "Thuren"
+beauvoir.german_language: "Schonblick"
+fontenay.german_language: "Brunnenau"
+la_roche_sur_yon.german_language: "Felsen an der Yon"
+mauleon_poitou.german_language: "Maulingen im Poitou"
+montaigu.german_language: "Eichenberg"
+parthenay.german_language: "Parteim"
+talmont.german_language: "Talhugel"
+
+# Province 'upper_poitou_province' () #
+poitiers.german_language: "Pultz an der Clain"
+aulnay.german_language: "Aulnau"
+chatellerault.german_language: "Rautenburg"
+lusignan.german_language: "Lusingen"
+montmorillon.german_language: "Hartwigsberg"
+niort.german_language: "Niort"
+
+# Province 'saintonge_province' () #
+saintes.german_language: "Sanktstadt an der Charente"
+montendre.german_language: "Hinterberg"
+la_rochelle.german_language: "Kleinhafen"
+oleron.german_language: "Olron"
+royan.german_language: "Rojan"
+st_jean_dangely.german_language: "Sankt Johann Angeli"
+rochefort.german_language: "Felsenfurt"
+jonzac.german_language: "Jonzach"
+
+
+## Area 'provence_area' () ##
+# Province 'aquisextain_province' () #
+aix_en_provence.german_language: "Sechsenbad"
+arles.german_language: "Arlen am Rhone"
+marseille.german_language: "Marschhafen"
+tarascon.german_language: "Taraskon"
+
+# Province 'avignonnais_province' () #
+avignon.german_language: "Avenheim am Rhone"
+apt.german_language: "Abt"
+forcalquier.german_language: "Forkel"
+orange.german_language: "Oranien"
+
+# Province 'dignois_province' () #
+digne.german_language: "Dingen"
+barcelonnette.german_language: "Kleinbarzel"
+castellane.german_language: "Kastellen"
+sisteron.german_language: "Schwestern"
+
+# Province 'dracenois_province' () #
+draguignan.german_language: "Drachenau"
+barjols.german_language: "Barcholz"
+brignoles.german_language: "Bringen"
+frejus.german_language: "Frigus"
+toulon.german_language: "Tullhafen"
+
+# Province 'nice_province' () #
+nice.german_language: "Nizza"
+grasse.german_language: "Grasstadt"
+puget_theniers.german_language: "Buchenstedt"
+
+
+## Area 'savoy_area' () ##
+# Province 'gresivaudan_province' () #
+grenoble.german_language: "Grainau im Tal"
+briancon.german_language: "Brianken"
+gap.german_language: "Gappen"
+la_mure.german_language: "Murenstadt"
+pragelato.german_language: "Pragel"
+
+# Province 'savoy_province' () #
+chambery.german_language: "Kammerburg"
+annecy.german_language: "Annsee"
+evian.german_language: "Evingen am See"
+faucigny.german_language: "Falkingen"
+la_roche_sur_foron.german_language: "Felsen am Foron"
+moutiers.german_language: "Klosterstift"
+saint_jean_de_maurienne.german_language: "Sankt Johann im Mauriennetal"
+sallanches.german_language: "Sallingen"
+
+# Province 'valentinois_province' () #
+valence.german_language: "Valenz am Rhone"
+condorcet.german_language: "Kondorsett"
+die.german_language: "Diem"
+mevouillon.german_language: "Mewil"
+
+# Province 'viennois_province' () #
+vienne.german_language: "Wienn am Rhone"
+romans.german_language: "Romerstadt"
+saint_marceilin.german_language: "Sankt Marzellin"
+la_tour_du_pin.german_language: "Turm im Fichtgau"
+
+
+### Region 'italy_region' () ###
+
+## Area 'abruzzo_area' () ##
+# Province 'abruzzo_citra_province' () #
+chieti.german_language: "Kettau"
+lanciano.german_language: "Lanzingen"
+vasto.german_language: "Weitstadt an der Adria"
+
+# Province 'abruzzo_ultra_province' () #
+aquila.german_language: "Adlerstadt"
+atri.german_language: "Haderau"
+celano.german_language: "Zellau"
+cittaducale.german_language: "Herzogstadt"
+csantangelo.german_language: "Engelstadt"
+sulmona.german_language: "Sulmingen"
+teramo.german_language: "Zwischenbrück"
+
+# Province 'molise_province' () #
+bojano.german_language: "Bojingen"
+isernia.german_language: "Eisern"
+larino.german_language: "Larheim"
+trivento.german_language: "Dreiwinden"
+
+
+## Area 'apulia_area' () ##
+# Province 'bari_province' () #
+bari.german_language: "Bahrenhafen an der Adria"
+altamura.german_language: "Hochmauer"
+andria.german_language: "Andersheim"
+barletta.german_language: "Barlitz am Meer"
+monopoli.german_language: "Einzburg"
+
+# Province 'capitanata_province' () #
+foggia.german_language: "Grubenstadt"
+bovino.german_language: "Rindertal"
+lucera.german_language: "Lichtenhain"
+manfredonia.german_language: "Manfredshafen"
+rotondo.german_language: "Rundfels"
+sansevero.german_language: "Sankt Severin"
+
+# Province 'otranto_province' () #
+lecce.german_language: "Letzingen"
+brindisi.german_language: "Brundshafen"
+francavilla.german_language: "Frankenstadt"
+gallipoliita.german_language: "Schönstadt am Meer"
+martinafr.german_language: "Martinsfranken"
+taranto.german_language: "Tarent"
+
+
+## Area 'basilicata_area' () ##
+# Province 'basilicata_province' () #
+potenza.german_language: "Machtfels"
+acerenza.german_language: "Ahornburg"
+lagonegro.german_language: "Schwarzental"
+matera.german_language: "Mutterfels"
+melfi.german_language: "Melfingen"
+montepeloso.german_language: "Buschberg"
+santarcangelo.german_language: "Engelsberg"
+
+# Province 'calabria_ultra_province' () #
+catanzaro.german_language: "Katzenburg"
+cotrone.german_language: "Kroton"
+gerace.german_language: "Habichtfels"
+monteleone.german_language: "Löwenberg"
+nicastro.german_language: "Neulager"
+palmi.german_language: "Palmenstadt am Meer"
+reggiocal.german_language: "Reghafen"
+
+# Province 'calabria_citra_province' () #
+cosenza.german_language: "Konsenz"
+cassano.german_language: "Kasselbach"
+castrovillari.german_language: "Burgweiler"
+scalea.german_language: "Staffelstadt am Meer"
+paola.german_language: "Paulingen am Meer"
+rossano.german_language: "Rothenstadt"
+
+
+## Area 'campania_area' () ##
+# Province 'lavoro_province' () #
+naples.german_language: "Neapel"
+caserta.german_language: "Hochheim"
+gaeta.german_language: "Kajetenhafen"
+nola.german_language: "Nohl"
+piedimonte.german_language: "Bergfuß"
+sora.german_language: "Suren"
+venafro.german_language: "Weinau"
+
+# Province 'principato_citra_province' () #
+salerno.german_language: "Salzbrunn am Meer"
+campagna.german_language: "Feldmark"
+salacon.german_language: "Salach"
+vallo.german_language: "Talfurt"
+
+# Province 'principato_ultra_province' () #
+avellino.german_language: "Abellen"
+ariano.german_language: "Arianau"
+benevento.german_language: "Benevent"
+santangelo.german_language: "Engelbrück"
+
+
+## Area 'emilia_area' () ##
+# Province 'bologna_province' () #
+bologna.german_language: "Bonnen"
+medicina.german_language: "Arzthausen"
+vergato.german_language: "Stabheim"
+
+# Province 'ferrara_province' () #
+ferrara.german_language: "Eisenstadt"
+argenta.german_language: "Silberau"
+comacchio.german_language: "Schilfhaven"
+ficarolo.german_language: "Feigenau"
+rovigo.german_language: "Röwingen"
+
+# Province 'modena_province' () #
+modena.german_language: "Muten"
+frassinoro.german_language: "Eschenberg"
+nonantola.german_language: "Nonntal"
+mirandola.german_language: "Schauburg"
+
+# Province 'parma_province' () #
+parma.german_language: "Parmen"
+berceto.german_language: "Birkhain"
+sandonnino.german_language: "Sankt Donnin"
+
+# Province 'piacenza_province' () #
+piacenza.german_language: "Liebental"
+bardi.german_language: "Bardenfels"
+bobbio.german_language: "Kuhbrück"
+fiorenzuola.german_language: "Blumenfelde"
+
+# Province 'reggioem_province' () #
+reggioem.german_language: "Reggheim"
+canossa.german_language: "Kanusen"
+guastalla.german_language: "Bruchstadt"
+
+# Province 'romagna_province' () #
+rimini.german_language: "Arminhafen"
+cesena.german_language: "Zesena"
+faenza.german_language: "Fayenz"
+imola.german_language: "Imeln"
+modigliana.german_language: "Modlingen"
+ravenna.german_language: "Rabenstadt"
+
+# Province 'urbino_province' () #
+urbino.german_language: "Stadtburg"
+gubbio.german_language: "Iggau"
+montefeltro.german_language: "Filzberg"
+pesaro.german_language: "Fischhafen"
+
+
+## Area 'lazio_area' () ##
+# Province 'campagna_province' () #
+anagni.german_language: "Annheim"
+palestrina.german_language: "Praunest"
+sabina.german_language: "Sabinmark"
+tivoli.german_language: "Tibur"
+
+# Province 'marittima_province' () #
+rome.german_language: "Rom"
+terracina.german_language: "Klippenstadt"
+velletri.german_language: "Vellern"
+
+# Province 'patrimonio_province' () #
+bracciano.german_language: "Bracksheim"
+civitavecchia.german_language: "Altstadt am Meer"
+corneto.german_language: "Hornau"
+orte.german_language: "Orth am Tiber"
+orvietano.german_language: "Altenburg"
+viterbo.german_language: "Witterbach"
+
+
+## Area 'liguria_area' () ##
+# Province 'cismonte_province' () #
+bastia.german_language: "Bastion"
+aleria.german_language: "Alarien"
+calvi.german_language: "Kalwen"
+corte.german_language: "Hofstadt"
+
+# Province 'levante_province' () #
+genoa.german_language: "Genua"
+lavagna.german_language: "Schieferhafen"
+sarzana.german_language: "Sersheim"
+
+# Province 'pumonte_province' () #
+ajaccio.german_language: "Ajaksburg"
+bonifacio.german_language: "Bonifazklippe"
+sartene.german_language: "Sartin"
+vico.german_language: "Wikau"
+
+# Province 'punente_province' () #
+albenga.german_language: "Albingen"
+cairo_montenotte.german_language: "Kairnberg"
+finalborgo.german_language: "Endenburg"
+savona.german_language: "Savonhafen"
+ventimiglia.german_language: "Zwanzigmilen"
+
+
+## Area 'lombardy_area' () ##
+# Province 'bergamo_province' () #
+bergamo.german_language: "Bergheim"
+cortenuova.german_language: "Neuhof"
+clusone.german_language: "Klausenwald"
+zogno.german_language: "Zoggental"
+
+# Province 'brescia_province' () #
+brescia.german_language: "Bresten"
+asola.german_language: "Aselhof"
+palazzolo.german_language: "Schlösschen"
+salo_ita.german_language: "Salau am See"
+breno.german_language: "Brenau"
+nozza.german_language: "Nußdorf"
+
+# Province 'cremona_province' () #
+cremona.german_language: "Geigenstadt"
+casalmaggiore.german_language: "Grosshofen"
+soncino.german_language: "Sunkers"
+lodi.german_language: "Lausheim"
+
+# Province 'mantua_province' () #
+mantova.german_language: "Mantua"
+goito.german_language: "Geisthal"
+ostiglia.german_language: "Hostelheim"
+
+# Province 'milano_province' () #
+milano.german_language: "Mailand"
+legnano.german_language: "Holzhain"
+rho.german_language: "Rohnfeld"
+varese.german_language: "Varisheim"
+
+# Province 'monza_province' () #
+monza.german_language: "Munzenburg"
+lecco.german_language: "Lechingen"
+treviglio.german_language: "Treblings"
+como.german_language: "Kummen"
+
+# Province 'pavia_province' () #
+pavia.german_language: "Papenstadt"
+lomello.german_language: "Lomeln"
+voghera.german_language: "Irrgau"
+
+# Province 'valtellina_province' () #
+tresivio.german_language: "Dresau"
+bormio.german_language: "Warmbad"
+chiavenna.german_language: "Schlüsselstein"
+
+# Province 'ticino_province' () #
+lugano.german_language: "Lugund"
+bellinzona.german_language: "Schönfels"
+locarno.german_language: "Lokarn am See"
+
+
+## Area 'marche_area' () ##
+# Province 'marche_province' () #
+ancona.german_language: "Ellenbogenhafen"
+ascolipiceno.german_language: "Aschel"
+camerino.german_language: "Kammerau"
+fabriano.german_language: "Schmieden"
+fermo.german_language: "Festung"
+macerata.german_language: "Ruinheim"
+
+# Province 'perugia_province' () #
+perugia.german_language: "Perus"
+cittacastello.german_language: "Burgstadt"
+marsciano.german_language: "Marschingen"
+
+# Province 'spoleto_province' () #
+spoleto.german_language: "Splezen"
+assisi.german_language: "Assen"
+narni.german_language: "Narn"
+rieti.german_language: "Rehten"
+todi.german_language: "Tuder"
+
+
+## Area 'piemonte_area' () ##
+# Province 'alessandria_province' () #
+alessandria.german_language: "Alexanderstadt"
+novi.german_language: "Neudorf"
+rovegno.german_language: "Rauwen"
+tortona.german_language: "Derton"
+
+# Province 'aosta_province' () #
+aosta.german_language: "Augstal"
+chatillonaos.german_language: "Schatteln"
+morgex.german_language: "Morigen"
+
+# Province 'mondovi_province' () #
+mondovi.german_language: "Königsfels"
+alba.german_language: "Weißburg"
+ceva.german_language: "Zeben"
+
+# Province 'monferrato_province' () #
+casale.german_language: "Kaseln"
+acqui.german_language: "Talbaden"
+asti.german_language: "Speerburg"
+
+# Province 'novara_province' () #
+novara.german_language: "Neuen"
+arona.german_language: "Aronau am See"
+biella.german_language: "Bügell"
+domodossola.german_language: "Dossenhaus"
+varallo.german_language: "Varal"
+vercelli.german_language: "Werzeln"
+
+# Province 'torino_province' () #
+turin.german_language: "Stierburg"
+ivrea.german_language: "Rosshof"
+lanzo.german_language: "Lanzau"
+pinerolo.german_language: "Fichtenfels"
+susa.german_language: "Segsen"
+
+# Province 'saluzzo_province' () #
+saluzzo.german_language: "Weidenburg"
+carmagnola.german_language: "Karmelhof"
+chieri.german_language: "Kersheim"
+cuneo.german_language: "Keilstadt"
+
+
+## Area 'sardinia_area' () ##
+# Province 'arborea_province' () #
+oristano.german_language: "Oristenhafen"
+ales.german_language: "Alersdorf"
+sorgono.german_language: "Quellberg"
+terralba.german_language: "Weißland"
+
+# Province 'cagliari_province' () #
+cagliari.german_language: "Kastellstadt am Meer"
+tratalias.german_language: "Trattal"
+villa_di_chiesa.german_language: "Kirchheim am Meer"
+isili.german_language: "Iselingen"
+muravera.german_language: "Murenfeld"
+seddori.german_language: "Seddorf"
+tortoli.german_language: "Tortel am Meer"
+
+# Province 'gallura_province' () #
+terranova_pausania.german_language: "Neuland Pausau"
+orosei.german_language: "Orosheim am Meer"
+posada.german_language: "Ruhburg am Meer"
+tempiopausania.german_language: "Tempelpaus"
+
+# Province 'logudoro_province' () #
+sassari.german_language: "Steinburg"
+alghero.german_language: "Algarnhafen"
+bosa.german_language: "Bosau am Fluss"
+castelsardo.german_language: "Sardenburg"
+macomer.german_language: "Mackenfeld"
+bitti.german_language: "Bittingen"
+ozieri.german_language: "Otzing"
+thiesi.german_language: "Thiesen"
+
+
+## Area 'sicily_area' () ##
+# Province 'demena_province' () #
+messina.german_language: "Messhafen"
+catania.german_language: "Katanstadt"
+mistretta.german_language: "Sturmberg"
+nicosiasic.german_language: "Niklausheim"
+patti.german_language: "Pattihafen"
+piazza.german_language: "Platzburg"
+
+# Province 'girgenti_province' () #
+girgenti.german_language: "Ackersfels"
+bivona.german_language: "Biwen"
+caltanisetta.german_language: "Frauenburg"
+cefalu.german_language: "Kopffels am Meer"
+sciacca.german_language: "Schiachsbad"
+termini.german_language: "Warmquell"
+
+# Province 'mazara_province' () #
+palermo.german_language: "Palmenburg"
+corleone.german_language: "Löwenherz"
+mazara.german_language: "Masarhafen"
+salemi.german_language: "Salmen"
+trapani.german_language: "Sichelnhafen"
+pantelleria.german_language: "Windinsel"
+lampedusa.german_language: "Felseneiland"
+
+# Province 'noto_province' () #
+syracuse.german_language: "Syrakus"
+caltagirone.german_language: "Töpferburg"
+malta.german_language: "Malten"
+modica.german_language: "Modik"
+noto.german_language: "Notenburg"
+terranovasic.german_language: "Neuland Süd"
+
+
+## Area 'tuscany_area' () ##
+# Province 'arezzo_province' () #
+arezzo.german_language: "Arret"
+cortona.german_language: "Kurten"
+sansepolcro.german_language: "Heiligengrab"
+
+# Province 'florence_province' () #
+florence.german_language: "Florenz"
+mangona.german_language: "Mangau"
+poggibonsi.german_language: "Bonsberg"
+prato.german_language: "Wiesenstadt"
+sanlorenzo.german_language: "Sankt Lorenz"
+pistoia.german_language: "Pistorien"
+
+# Province 'grosseto_province' () #
+grosseto.german_language: "Grossen"
+massamar.german_language: "Meershausen"
+pitigliano.german_language: "Grabenstein"
+piombino.german_language: "Bleihafen"
+
+# Province 'lucca_province' () #
+lucca.german_language: "Lukken"
+massa.german_language: "Massau"
+fosdinovo.german_language: "Neuengraben"
+pescia.german_language: "Fischthal"
+
+# Province 'pisa_province' () #
+pisa.german_language: "Pise"
+livorno.german_language: "Leghafen"
+pontedera.german_language: "Erabrück"
+volterra.german_language: "Hochfels"
+
+# Province 'siena_province' () #
+siena.german_language: "Sienen"
+chiusi.german_language: "Klausenstadt"
+montalcino.german_language: "Eichenberg"
+
+
+## Area 'veneto_area' () ##
+# Province 'belluno_province' () #
+belluno.german_language: "Schönwald"
+pieve.german_language: "Pfarrdorf"
+feltre.german_language: "Filzstadt"
+
+# Province 'friuli_province' () #
+aquileia.german_language: "Adlerdorf"
+cividale.german_language: "Neustadt im Tal"
+gemona.german_language: "Zwilling"
+tolmezzo.german_language: "Halbhöhen"
+pordenone.german_language: "Naubrück"
+spilimbergo.german_language: "Spielberg"
+udine.german_language: "Udingen"
+
+# Province 'padua_province' () #
+padova.german_language: "Padua"
+este.german_language: "Estenburg"
+monselice.german_language: "Zellenberg"
+
+# Province 'venice_province' () #
+venice.german_language: "Venedig"
+mestre.german_language: "Meisterstadt"
+treviso.german_language: "Trevis"
+castelfranco.german_language: "Freiburg"
+ceneda.german_language: "Zenndorf"
+chioggia.german_language: "Klodienhafen"
+conegliano.german_language: "Königsberg im Weinland"
+
+# Province 'verona_province' () #
+verona.german_language: "Wernstadt"
+legnago.german_language: "Holzmarkt"
+peschiera.german_language: "Fischburg am See"
+
+# Province 'vicenza_province' () #
+vicenza.german_language: "Vizenz"
+bassano.german_language: "Bassingen"
+schio.german_language: "Schiau"
+
+
+### Region 'east_coast_region' () ###
+
+## Area 'massachusetts_area' () ##
+# Province 'massachusetts_province' () #
+shawmut.german_language: "Schauhafen"
+naumkeag.german_language: "Naumtal am Fluss"
+assabet.german_language: "Assabach"
+quinsigamond.german_language: "Quinsigtal"
+weshacum.german_language: "Gerhardsburg"
+
+# Province 'nauset_province' () #
+patuxet.german_language: "Patersfurt"
+assonet.german_language: "Assenheim"
+nauset.german_language: "Naußfeld"
+nantucket.german_language: "Nantinsel"
+
+# Province 'agawam_province' () #
+agawam.german_language: "Agawald"
+pocumtuck.german_language: "Pockental"
+mahaiwe.german_language: "Maiheim"
+pontoosuck.german_language: "Ponthausen"
+
+
+## Area 'southern_new_england_area' () ##
+# Province 'narraganset_province' () #
+seekonk.german_language: "Seekonkau"
+woonsocket.german_language: "Wunsockettal"
+pawcatuck.german_language: "Pfauenkirch"
+
+# Province 'connecticut_province' () #
+saukiog.german_language: "Saukingen"
+siccanemos.german_language: "Sickenau"
+willimantic.german_language: "Willemsfurt"
+nehantuck.german_language: "Nehenbrück am Fluss"
+
+# Province 'quinnipiac_province' () #
+quinnipiac.german_language: "Quiniberg"
+rippowam.german_language: "Rippenau"
+scatacook.german_language: "Schattkuchen"
+
+
+## Area 'vermont_area' () ##
+# Province 'winooski_province' () #
+winooski.german_language: "Winusau"
+gwenaska.german_language: "Gwennersruh"
+koes.german_language: "Kößdorf"
+nitamibontegw.german_language: "Nittenberg"
+
+# Province 'pocumtuc_province' () #
+walloomsac.german_language: "Wallersach"
+pecunktuk.german_language: "Pekental"
+wantastiquet.german_language: "Wantenstedt"
+
+# Province 'cowasuk_province' () #
+ottauquechee.german_language: "Ottaukirchen am Fluss"
+ompompanusooc.german_language: "Pommerbruch"
+passumpsic.german_language: "Passaubach"
+cowasuck.german_language: "Kowasdorf"
+
+
+## Area 'new_hampshire_area' () ##
+# Province 'merrimac_province' () #
+amoskeag.german_language: "Amerskag"
+nashua.german_language: "Nassauwald"
+squamscott.german_language: "Schwammshof"
+
+# Province 'pennacook_province' () #
+pennacook.german_language: "Pennigau"
+umbagog.german_language: "Umbachsee"
+pemigewasset.german_language: "Pemigau am Strom"
+ossipee.german_language: "Oßsee"
+
+# Province 'coos_province' () #
+monadnock.german_language: "Mondfels"
+sunapee.german_language: "Sonnsee"
+coos.german_language: "Kohsau"
+ammonoosuc.german_language: "Ammenau"
+
+
+## Area 'maine_area' () ##
+# Province 'casco_province' () #
+casco.german_language: "Kaskau"
+kennebunk.german_language: "Kennenbucht"
+androscoggin.german_language: "Andersgau"
+pequawket.german_language: "Pekauweid"
+ammoscongon.german_language: "Ammerstetten"
+anasagunticook.german_language: "Annsgundtal"
+
+# Province 'kennebec_province' () #
+kennebec.german_language: "Kennenbeck"
+sagadahoc.german_language: "Sagertal"
+messalonskee.german_language: "Meßlensee"
+norridgewock.german_language: "Norigsburg"
+
+# Province 'norridgewock_province' () #
+kineo.german_language: "Kienau"
+caratunk.german_language: "Karentann"
+kennebango.german_language: "Kennenbangen"
+nanrantsouak.german_language: "Narrenau"
+mittaywanquam.german_language: "Mittenquamm"
+
+# Province 'penobscot_province' () #
+penobscot.german_language: "Pennobucht"
+majabigwaduce.german_language: "Magdebach"
+piscataquis.german_language: "Pißkathau"
+passagassawkeag.german_language: "Passgau"
+pemetic.german_language: "Pfemmtal"
+millinocket.german_language: "Mühlennock"
+katahdin.german_language: "Kattstein"
+
+# Province 'aroostook_province' () #
+aroostook.german_language: "Arostal"
+meduxnekeag.german_language: "Medershag"
+allagash.german_language: "Allergau"
+ 
+# Province 'passamaquoddy_province' () #
+passamaquoddy.german_language: "Passauquell"
+machias.german_language: "Machau"
+nicatous.german_language: "Nikastadt"
+maatawamkeag.german_language: "Matenhag"
+
+
+## Area 'hudson_area' () ##
+# Province 'manhattan_province' () #
+manhattan.german_language: "Hügelstadt"
+tappan.german_language: "Tappenheim"
+nochpeem.german_language: "Nochenbrunn"
+
+# Province 'montauk_province' () #
+montauk.german_language: "Mondenhaken"
+unquachog.german_language: "Unkenhag"
+massapequa.german_language: "Massbach"
+
+# Province 'muhheakantuck_province' () #
+poughkeepsie.german_language: "Puchkirchen am Strom"
+ponkhockie.german_language: "Ponnhof"
+minisink.german_language: "Minzings"
+kitchawanc.german_language: "Kitschwang"
+
+# Province 'mahicannituck_province' () #
+mahicannituck.german_language: "Mahkenbruch"
+horicon.german_language: "Horikau"
+esquatak.german_language: "Eskatal"
+lenape.german_language: "Lennsdorf"
+
+
+## Area 'haudenosaunee_area' () ##
+# Province 'kanienkehaka_province' () #
+canajoharie.german_language: "Kannenau"
+saratoga.german_language: "Saarthagen"
+schenectady.german_language: "Schneckstedt"
+teionontatatie.german_language: "Teinental"
+oneonta.german_language: "Ohnenau"
+
+# Province 'adirondacks_province' () #
+ticonderoga.german_language: "Tichendorf"
+itekiatonhniarikon.german_language: "Ittenhagen"
+oskennonton.german_language: "Oskendorf"
+oronia.german_language: "Oronien"
+oneyotdehaga.german_language: "Onedhagen"
+kawenote.german_language: "Kavenau"
+tsiietsenhtha.german_language: "Ziethensteg"
+adirondacks.german_language: "Adlerberge"
+kanyengehaga.german_language: "Kannenhagen"
+
+# Province 'oswegatchie_province' () #
+nikahionhwakowa.german_language: "Nikahof"
+oswegatchie.german_language: "Oswegtal"
+ahkwesasne_ny.german_language: "Achsessen"
+kaniatarahontsi.german_language: "Kantersruh"
+ahna_wate.german_language: "Annawatt"
+
+# Province 'onyotaaka_province' () #
+onenioteke.german_language: "Onenstädt"
+niiohehsane.german_language: "Niesenau"
+teiehonwahkhkwatha.german_language: "Teihenfurt"
+oneniote.german_language: "Onenhain"
+
+# Province 'onondagega_province' () #
+tsikahiotsisto.german_language: "Zickhain"
+oswego.german_language: "Osweghafen"
+otsiningo.german_language: "Otzingen"
+
+# Province 'gayogohono_province' () #
+skaniatares.german_language: "Schannetau"
+assorodus.german_language: "Aßrothausen"
+gahato.german_language: "Gahathal"
+
+# Province 'onondowaga_province' () #
+canadaigua.german_language: "Kanadatal"
+irondequoit.german_language: "Eisendeich"
+geneseo.german_language: "Genesau"
+tsonentsiio.german_language: "Zonntzau"
+
+# Province 'wenro_province' () #
+tiotoren.german_language: "Dietersruh"
+kanentaweron.german_language: "Kanntenwerth"
+thahnawate.german_language: "Thanau"
+cattaraugus.german_language: "Kattaugen"
+ahouenro.german_language: "Ahrenroth"
+
+
+## Area 'new_jersey_area' () ##
+# Province 'raritan_province' () #
+raritan.german_language: "Rarental"
+hackensack.german_language: "Hackensau"
+navisink.german_language: "Hafensink"
+piscopeek.german_language: "Pfiskau"
+
+# Province 'kechemeche_province' () #
+tetamekanch.german_language: "Tettenwinkel"
+kechemeche.german_language: "Ketschen"
+cohansey.german_language: "Kohansau"
+amintonck.german_language: "Amendsheim"
+
+# Province 'assupink_province' () #
+assunpink.german_language: "Assenbrück"
+muscotnetcong.german_language: "Mosgau"
+hopatcong.german_language: "Hofattingen"
+
+
+## Area 'pennsylvania_area' () ##
+# Province 'shackamaxon_province' () #
+shackamaxon.german_language: "Schackenau"
+wawassan.german_language: "Wawersheim"
+wyomissing.german_language: "Wäumshain"
+
+# Province 'paxtang_province' () #
+paxtang.german_language: "Pachsberg"
+connatachequa.german_language: "Konntachau"
+conewago.german_language: "Konnewag"
+
+# Province 'lehigh_province' () #
+lehigh.german_language: "Lechthal"
+paunacussing.german_language: "Pauschingen"
+tohickon.german_language: "Tuchikon"
+schuylkill.german_language: "Schulgau am Fluss"
+
+# Province 'tesinigh_province' () #
+tesinigh.german_language: "Tesingen"
+attaock.german_language: "Attenau"
+cocalico.german_language: "Kokelau"
+
+# Province 'shamokin_province' () #
+shamokin.german_language: "Schamgau"
+mahoning.german_language: "Mahnungstal"
+mattawana.german_language: "Matthausen"
+juniata.german_language: "Junital"
+onojutta.german_language: "Onobrunn"
+tuckahoe.german_language: "Tucherhöh"
+wallenpaupack.german_language: "Wallenbach"
+massawomeck.german_language: "Mooswinkel"
+
+# Province 'wyoming_province' () #
+scahentowanen.german_language: "Schahental"
+lackawanna.german_language: "Lackenau"
+atrakwaye.german_language: "Atrachau"
+wappasening.german_language: "Wappenfels"
+lackawaxen.german_language: "Lackenfels"
+
+# Province 'delaware_province' () #
+minguannan.german_language: "Mingau"
+tappahanna.german_language: "Tappenhain"
+assawoman.german_language: "Assenfurt"
+
+
+## Area 'westsylvania_area' () ##
+# Province 'lycoming_province' () #
+loyalsock.german_language: "Treutal"
+lycoming.german_language: "Leukingen"
+tangasootack.german_language: "Tangastetten"
+andastoerrhonon.german_language: "Andersheim"
+susquehannock.german_language: "Suskauen"
+
+# Province 'allegheny_province' () #
+allegheny.german_language: "Allerhahn"
+loyalhanna.german_language: "Treuhain"
+youghiogheny.german_language: "Jochingen am Fluss"
+quemahoning.german_language: "Quemenhain"
+conemaugh.german_language: "Konenbach"
+
+# Province 'erie_province' () #
+erie.german_language: "Erlenhafen"
+saucunk.german_language: "Saukern"
+shenango.german_language: "Schönhagen"
+tionesta.german_language: "Thunestadt"
+kittaning.german_language: "Kittingen"
+punxsutawney.german_language: "Pankstetten"
+
+
+## Area 'maryland_area' () ##
+# Province 'nanticoke_province' () #
+wicomico.german_language: "Wikomau"
+chicamacomico.german_language: "Schickamark"
+matapeake.german_language: "Matenbeck"
+
+# Province 'patapsco_province' () #
+patapsco.german_language: "Pattabach"
+wicontiss.german_language: "Wikentiss"
+nentego.german_language: "Nentgau"
+patuxent.german_language: "Patersfluß"
+
+# Province 'potomac_province' () #
+anacostia.german_language: "Annenkuste"
+monocacy.german_language: "Monnigau"
+potapoco.german_language: "Pottbach"
+catoctin.german_language: "Katzenstein"
+
+# Province 'wapocomo_province' () #
+antietam.german_language: "Antheim"
+cacapon.german_language: "Kakaberg"
+opequon.german_language: "Oppenbrunn"
+wapocomo.german_language: "Wapaum"
+
+
+## Area 'virginia_area' () ##
+# Province 'tsenacommacah_province' () #
+werowocomoco.german_language: "Werowik"
+patawomeck.german_language: "Pattomeck"
+wicocomico.german_language: "Wikmark"
+nanzatico.german_language: "Nanztal"
+rappahannock.german_language: "Rappenau am Strom"
+
+# Province 'chesapeake_province' () #
+kiskiack.german_language: "Kisgau"
+accomac.german_language: "Achenmark"
+nansemond.german_language: "Nannsmund"
+chesapeake.german_language: "Kronbucht"
+weyanock.german_language: "Weinau"
+
+# Province 'powhatan_province' () #
+powhatan.german_language: "Pausthal"
+appamatuck.german_language: "Appenmark"
+cheroenhaka.german_language: "Scherhagen"
+waqua.german_language: "Wackenau"
+pamunkey.german_language: "Pfaminken"
+
+# Province 'doeg_province' () #
+doeg.german_language: "Tögau"
+manassas.german_language: "Manßtal"
+tegninateo.german_language: "Tegningen"
+
+# Province 'monacan_province' () #
+rassawek.german_language: "Rassau"
+mowhemencho.german_language: "Mommenau"
+appomattox.german_language: "Appenstadt"
+monahassanugh.german_language: "Monshausen"
+massinacak.german_language: "Massenegk"
+monasukapanough.german_language: "Monshagen"
+
+# Province 'saponi_province' () #
+saponi.german_language: "Saponstadt"
+nessoneick.german_language: "Nesseneck"
+occaneechi.german_language: "Ockenau"
+pintahae.german_language: "Pinderhöh"
+meherrin.german_language: "Mehrenau"
+
+# Province 'tutelo_province' () #
+mahock.german_language: "Mahockau"
+chiswell.german_language: "Giswelle"
+tutelo.german_language: "Tuttelau"
+torope.german_language: "Torpstedt"
+mondongachate.german_language: "Mondachau"
+
+# Province 'shenandoah_province' () #
+onandagoa.german_language: "Annental"
+massanutten.german_language: "Massenhöhen"
+schinhandowi.german_language: "Schinnenau"
+shenandoah.german_language: "Schönental"
+
+# Province 'mosopeleacipi_province' () #
+mosopeleacipi.german_language: "Moosfelssipp"
+tazewell.german_language: "Tatzweil"
+bland.german_language: "Blandenau"
+kallamuckee.german_language: "Kallermark"
+
+
+## Area 'west_virginia_area' () ##
+# Province 'wappacoma_province' () #
+wappacoma.german_language: "Wappkum"
+ashby.german_language: "Aschberg"
+conococheague.german_language: "Königsjag"
+patna_us.german_language: "Pattenau"
+calicuas.german_language: "Kallikau"
+
+# Province 'kanawha_province' () #
+moneton.german_language: "Monnertal"
+mohetan.german_language: "Mohental"
+kanawha.german_language: "Kannau am Fluss"
+ouasioto.german_language: "Wasthöhe"
+pocatalico.german_language: "Pockertal"
+chinquetana.german_language: "Schinkental"
+weotowe.german_language: "Weitau"
+tsalagi.german_language: "Salichau"
+anigiduwagi.german_language: "Annigerau"
+
+# Province 'monongahela_province' () #
+wihlink.german_language: "Willings"
+monongahela.german_language: "Mönchstal"
+onimgohow.german_language: "Ohmengau"
+calicua.german_language: "Kaligau"
+
+
+## Area 'north_carolina_area' () ##
+# Province 'roanoke_province' () #
+roanoke.german_language: "Rohneck"
+croatan.german_language: "Krohnen"
+hatteras.german_language: "Haderhafen"
+chowanoke.german_language: "Schowanau"
+pocosin.german_language: "Pocksen"
+wiccacon.german_language: "Wickikon"
+
+# Province 'pamlico_province' () #
+pamlico.german_language: "Pamlitz"
+coree.german_language: "Korenheim"
+corani.german_language: "Koranau"
+neuse.german_language: "Neusfluß"
+
+# Province 'chicora_province' () #
+chicora.german_language: "Schickau"
+dawhee.german_language: "Dauweid"
+woccon.german_language: "Wockheim"
+cohari.german_language: "Kohrau"
+sapponah.german_language: "Sappena"
+necoes.german_language: "Nekausen"
+
+# Province 'gowtano_province' () #
+gowtano.german_language: "Gautal"
+nooherooka.german_language: "Norenau"
+kehaukee.german_language: "Keckau"
+cherohenaka_nc.german_language: "Scherhagen"
+pamticough.german_language: "Pamthagen"
+
+# Province 'waxhaw_province' () #
+adshusheer.german_language: "Albrechtsruh"
+eno.german_language: "Ehnautal"
+sissipahaw.german_language: "Sissbach"
+uwharrie.german_language: "Uwharen"
+waxhaw.german_language: "Wachshain"
+
+# Province 'yadkin_province' () #
+saura.german_language: "Sauerau"
+alamance.german_language: "Almingen"
+yadkin.german_language: "Jadkendorf"
+keyauwee.german_language: "Kiauweid"
+
+# Province 'joara_province' () #
+joara.german_language: "Johrtal"
+iswa.german_language: "Isenfluß"
+guaquili.german_language: "Gaukelau"
+eswawpuddenah.german_language: "Eßweiden"
+
+# Province 'kituwa_province' () #
+kituwa.german_language: "Kittau"
+nikwasi.german_language: "Nickwiesen"
+guaxule.german_language: "Gaußtal"
+tahkeeosteh.german_language: "Tachstein"
+italwa.german_language: "Itelau"
+wattogee.german_language: "Wattgau"
+watauga.german_language: "Wattaugen"
+
+
+## Area 'south_carolina_area' () ##
+# Province 'waccamaw_province' () #
+waccamaw.german_language: "Wackenau"
+winyah.german_language: "Winau"
+winnee.german_language: "Winnau"
+peedee.german_language: "Pedeebach"
+pocotaligo.german_language: "Pocktalingen"
+
+# Province 'santee_province' () #
+etiwan.german_language: "Ettersheim"
+wando.german_language: "Wandau"
+kiawah.german_language: "Kiewerhafen"
+coosaw.german_language: "Kosau"
+combahee.german_language: "Kombach"
+wimbee.german_language: "Wimbach"
+santee.german_language: "Sandau"
+
+# Province 'cofitachequi_province' () #
+cofitachequi.german_language: "Koftergau"
+hymahi.german_language: "Hymau"
+talimeco.german_language: "Tallmark"
+ilasi.german_language: "Illersheim"
+
+# Province 'catawba_province' () #
+catawba.german_language: "Kattau"
+enoree.german_language: "Ennerau"
+pacolate.german_language: "Packelau"
+amoyescheck.german_language: "Amtscheck"
+
+# Province 'keowee_province' () #
+keowee.german_language: "Keowald"
+oolenoy.german_language: "Ohlenau"
+generostee.german_language: "Genersteg"
+
+# Province 'congaree_province' () #
+selkehatchie.german_language: "Selkenau"
+saluda.german_language: "Salauen"
+congaree.german_language: "Kongern"
+kosalu.german_language: "Koslau"
+
+
+## Area 'georgia_us_area' () ##
+# Province 'capachequi_province' () #
+capachequi.german_language: "Kapachau"
+toa.german_language: "Thau"
+kasihta.german_language: "Kassicht"
+hitchauta.german_language: "Hitzau"
+pallachacola.german_language: "Pallerkau"
+eufaula.german_language: "Eufelden"
+
+# Province 'ocute_province' () #
+ocute.german_language: "Ockau"
+ichisi.german_language: "Ichsen"
+altamaha.german_language: "Altenach am Strom"
+cofaqui.german_language: "Kofwig"
+
+# Province 'coosa_province' () #
+coosa.german_language: "Kosenau"
+ulibahali.german_language: "Ulberhall"
+apica.german_language: "Apiken"
+talimachusi.german_language: "Tallmassen"
+itaba.german_language: "Ittaubach"
+utsutigway.german_language: "Utzenweg"
+quanasee.german_language: "Kwannsee"
+
+# Province 'tugaloo_province' () #
+tugaloo.german_language: "Tuglau"
+nacoochee.german_language: "Nacktsche"
+estatoe.german_language: "Estatal"
+etoho.german_language: "Etthof"
+
+# Province 'kiokee_province' () #
+kiokee.german_language: "Kieckau"
+wahachee.german_language: "Wachau"
+ogeechee.german_language: "Ogersche"
+ohoopee.german_language: "Ohofen"
+
+# Province 'hitchiti_province' () #
+sawokli.german_language: "Saugklau"
+alapaha.german_language: "Alpenbach"
+mikasuki.german_language: "Mickskrug"
+alapahoochee.german_language: "Alpenhusch"
+ocmulgee.german_language: "Ockmulgen"
+oconee.german_language: "Ockonen"
+hitchiti.german_language: "Hitzstadt"
+
+# Province 'mocama_province' () #
+mocama.german_language: "Mockau"
+tacatacaru.german_language: "Tackerdorf"
+tamathli.german_language: "Tammthal"
+icafui.german_language: "Ikafurt"
+
+# Province 'ossabaw_province' () #
+tybee.german_language: "Tübingenhafen"
+ossabaw.german_language: "Oßbau"
+sapelo.german_language: "Sappelau"
+canoochee.german_language: "Kanuschen"
+
+# Province 'coweta_province' () #
+coweta.german_language: "Kowetal"
+kealedji.german_language: "Kehlitz"
+pakanahuili.german_language: "Pakenhügel"
+tussahaw.german_language: "Tussenau"
+
+# Province 'tuckabutche_province' () #
+tuckabutche.german_language: "Tuckenbrück"
+tescuntee.german_language: "Teskenau"
+chatahoochee.german_language: "Schathuschen am Fluss"
+
+
+## Area 'florida_area' () ##
+# Province 'timucua_province' () #
+timucua.german_language: "Timkau"
+malapaz.german_language: "Malpaß"
+uriutina.german_language: "Urietal"
+napituca.german_language: "Nepptal"
+
+# Province 'mayaca_province' () #
+mayaca.german_language: "Maykau"
+utina.german_language: "Uttenau"
+itaraholata.german_language: "Itterholz"
+
+# Province 'jororo_province' () #
+jororo.german_language: "Jorrau"
+acuera.german_language: "Achern"
+surruque.german_language: "Surrick"
+ho_bay.german_language: "Hobucht"
+
+# Province 'mayaimi_province' () #
+mayaimi.german_language: "Maimingen"
+ais.german_language: "Eißdorf"
+guacata.german_language: "Gaukau"
+tequesta.german_language: "Tekesten"
+guarungube.german_language: "Garungen"
+
+# Province 'okeechobee_province' () #
+tequemapo.german_language: "Teckenau"
+okeechobee.german_language: "Okersee"
+caloosahatchee.german_language: "Kalosbach"
+uriparacoxi.german_language: "Urichswald"
+
+# Province 'potano_province' () #
+potano.german_language: "Pothagen"
+vicela.german_language: "Wieselau"
+uqueten.german_language: "Ukkental"
+
+# Province 'tampa_province' () #
+tocaste.german_language: "Tockau"
+guazoco.german_language: "Gaußhafen"
+mocozo.german_language: "Mocksen"
+ozita.german_language: "Oßtal"
+
+# Province 'apalachee_province' () #
+apalachee.german_language: "Appelach"
+anhayca.german_language: "Annhaig"
+azile.german_language: "Asel"
+uzachile.german_language: "Utzigen"
+
+# Province 'pensacola_province' () #
+pensacola.german_language: "Penzhafen"
+watappo.german_language: "Wattapp"
+choctawhatchee.german_language: "Schocktal"
+chatot.german_language: "Schattau"
+
+
+## Area 'tennessee_area' () ##
+# Province 'pelisipi_province' () #
+pelisipi.german_language: "Thal Pellissipp"
+shawnee.german_language: "Schonau"
+xualae.german_language: "Sualach"
+maniatique.german_language: "Maningau"
+
+# Province 'hogohega_province' () #
+amoyeli_gunahita.german_language: "Amelgau"
+canasoga.german_language: "Kannasau"
+chiaha.german_language: "Kiachen"
+coste.german_language: "Kosttal"
+hogohega.german_language: "Hochhagen"
+
+# Province 'tanasi_province' () #
+chalahume.german_language: "Kallheim"
+satapo.german_language: "Satthof"
+tellico.german_language: "Tellgau"
+hiwasee.german_language: "Hiwassee"
+chatanugi.german_language: "Chatenau"
+chestowee.german_language: "Kestenau"
+
+# Province 'aniyutsi_province' () #
+daguwanalahi.german_language: "Daggenlach"
+aniyutsi.german_language: "Annjütz"
+shawanoe.german_language: "Schwanau"
+spithota.german_language: "Spitalhof"
+
+# Province 'chucalissa_province' () #
+chucalissa.german_language: "Schucklitz"
+hatchie.german_language: "Hatzen"
+obion.german_language: "Obenau"
+chewalla.german_language: "Scheuwald"
+
+# Province 'kaskinampo_province' () #
+tombigby.german_language: "Thalbach"
+kaskinampo.german_language: "Kaskenau"
+cussate.german_language: "Kußtal"
+chuwalee.german_language: "Schuwellen"
+tullahoma.german_language: "Tullheim"
+choate.german_language: "Schottau"
+tsoyaha.german_language: "Zojach"
+sequatchie.german_language: "Seckwetsch"
+bledsoe.german_language: "Bledsau"
+
+
+## Area 'kentucky_area' () ##
+# Province 'chattarawa_province' () #
+eskalapia.german_language: "Eskalau"
+chattarawa.german_language: "Schattau"
+nepepimmesipi.german_language: "Neppsipp"
+yuchi.german_language: "Juchau"
+
+# Province 'kentucky_province' () #
+kentucky.german_language: "Kentenau"
+eskippakaithiki.german_language: "Eskippenfeld"
+chenoka.german_language: "Schenau"
+adena.german_language: "Adelstetten"
+
+# Province 'lewekomi_province' () #
+lewekeomi.german_language: "Lewekau"
+cuttawba.german_language: "Kuttau"
+tywhapita.german_language: "Teupfingen"
+
+# Province 'charquis_province' () #
+charquis.german_language: "Scharkau"
+kuttawa.german_language: "Kuttauen"
+aaboukingon.german_language: "Abkingau"
+
+# Province 'cuttaway_province' () #
+pennyrile.german_language: "Pfennertal"
+cuttaway.german_language: "Kuttweg"
+warioto.german_language: "Waritter"
+
+
+## Area 'ohio_area' () ##
+# Province 'cuyahoga_province' () #
+cuyahoga.german_language: "Kujachau"
+ashtabula.german_language: "Aschthal"
+mahoning_oh.german_language: "Mahnunggau"
+tuscarawas.german_language: "Tuskau"
+
+# Province 'muskingum_province' () #
+muskingum.german_language: "Meskingen"
+captina.german_language: "Kaptenau"
+conotton.german_language: "Konntal"
+
+# Province 'scioto_province' () #
+olentangy.german_language: "Ollental"
+chianouske.german_language: "Schianau"
+scioto.german_language: "Schiotal"
+ethapetha.german_language: "Ettbeth"
+hocking.german_language: "Hockingen"
+kokosing.german_language: "Kokßingen"
+
+# Province 'sandusky_province' () #
+sandusky.german_language: "Sandauß"
+maumee.german_language: "Maumark"
+qusquasrundee.german_language: "Kusgrund"
+shapoquate.german_language: "Schappquell"
+
+# Province 'mineami_province' () #
+assereniet.german_language: "Greves"
+mameiwasipi.german_language: "Mameißsipp"
+mineami.german_language: "Minheim"
+pickawillany.german_language: "Pickewald"
+
+
+## Area 'indiana_area' () ##
+# Province 'wapinippi_province' () #
+oheyandewa.german_language: "Ohlenau"
+aankwaahsakwa.german_language: "Ankenau"
+wapinippi.german_language: "Wappensipp"
+
+# Province 'piankeshaw_province' () #
+agouasaque.german_language: "Agersack"
+patoka.german_language: "Pattenach"
+gichthanne.german_language: "Gichtau"
+
+# Province 'wea_province' () #
+wapahani.german_language: "Wappenhain"
+quiaghtena.german_language: "Küchtenau"
+mississinewa.german_language: "Mißenau"
+
+# Province 'kankakee_province' () #
+kankakee.german_language: "Kankau"
+pakamik.german_language: "Packermark"
+wabash.german_language: "Wabach"
+
+# Province 'atchakangouen_province' () #
+kociihsasiipi.german_language: "Kozisipp"
+tippecanoe.german_language: "Tippkanau"
+micewehudehik.german_language: "Mitzewig"
+kineepikwameekwa.german_language: "Kienpfau"
+
+
+## Area 'michigan_area' () ##
+# Province 'waawiiyaataanong_province' () #
+waawiiyaataanong.german_language: "Weidenhang"
+giwitatigweiasibi.german_language: "Gettel"
+osaakiiwaki.german_language: "Oßwaken"
+shiawasee.german_language: "Schiawassee"
+
+# Province 'saginaw_province' () #
+saginaw.german_language: "Säggenau"
+shebeon.german_language: "Scheben"
+tittabawassee.german_language: "Tittenwassee"
+saganing.german_language: "Sagingen"
+
+# Province 'cheboygan_province' () #
+cheboygan.german_language: "Scheubergen"
+wequetong.german_language: "Weckental"
+asiniike.german_language: "Assenick"
+manistee.german_language: "Mannsteg"
+
+# Province 'muskegon_province' () #
+muskegon.german_language: "Muskegen"
+onekama.german_language: "Onckerm"
+mastigon.german_language: "Mastingen"
+
+# Province 'kalamazoo_province' () #
+wabenasibi.german_language: "Wabensipp"
+owashtanong.german_language: "Waschthang"
+kalamazoo.german_language: "Kallamüß"
+sakiwasipi.german_language: "Säckersipp"
+wapikisko.german_language: "Wappkiskau"
+
+# Province 'mackinac_province' () #
+mackinac.german_language: "Mackenau"
+tahquamenon.german_language: "Tackmenn"
+manistique.german_language: "Manßtig"
+
+# Province 'keweenaw_province' () #
+ishpeming.german_language: "Ösberming"
+menominee.german_language: "Mennomark"
+keweenaw.german_language: "Kewenau"
+chicagon.german_language: "Schickhafen"
+ontonagon.german_language: "Ontenau"
+
+
+## Area 'illinois_area' () ##
+# Province 'checagou_province' () #
+checagou.german_language: "Schackgau"
+tiatiki.german_language: "Tätikau"
+pisticoui.german_language: "Pfistikau"
+
+# Province 'kishwaukee_province' () #
+kishwaukee.german_language: "Buchholz"
+ahsenisiipi.german_language: "Asensipp"
+pecatonica.german_language: "Pekatnick"
+peewareewa.german_language: "Peweren"
+
+# Province 'peoria_province' () #
+peoria.german_language: "Peorien"
+theakeiki.german_language: "Theikick"
+waupecan.german_language: "Waupken"
+sangamon.german_language: "Sangenau"
+matsigame.german_language: "Matzigau"
+
+# Province 'cahokia_province' () #
+cahokia.german_language: "Kahken"
+kaskaskia.german_language: "Kaskenstadt"
+kaskankaham.german_language: "Kaskenheim"
+amonokoa.german_language: "Ammenkau"
+macoupin.german_language: "Markupin"
+
+# Province 'mitchigamea_province' () #
+ochechiton.german_language: "Oschstedt"
+pawwikamsipi.german_language: "Pfauensipp"
+mitchigamea.german_language: "Mitschgau"
+
+# Province 'mengakonkia_province' () #
+ambraw.german_language: "Ambrunn"
+osanamon.german_language: "Oßnam"
+okaw.german_language: "Okauen"
+
+
+## Area 'wisconsin_area' () ##
+# Province 'millioke_province' () #
+millioke.german_language: "Milligau"
+kenosha.german_language: "Kenoschen"
+sheboygan.german_language: "Scheubug"
+koshkonong.german_language: "Koschnang"
+
+# Province 'boojwiikwedong_province' () #
+boojwiikwedong.german_language: "Buschweid"
+manitowoc.german_language: "Manntau"
+oconto.german_language: "Ockendorf"
+peshtigo.german_language: "Pestigau"
+muhwaosipi.german_language: "Muhßsipp"
+
+# Province 'meskousing_province' () #
+meskousing.german_language: "Meskau"
+aupuhkirakanewe.german_language: "Aupkirch"
+whaypaw.german_language: "Weipau"
+kakaling.german_language: "Kacklingen"
+
+# Province 'mendota_province' () #
+mendota.german_language: "Mendau"
+pecatonica_wi.german_language: "Ebstorf"
+kiwigapawa.german_language: "Kiwigau"
+
+# Province 'chequamegon_province' () #
+gaamiskwaabikaang.german_language: "Gamßbick"
+chequamegon.german_language: "Schekum"
+kayeskikan.german_language: "Winsen"
+mishkwagokag.german_language: "Mischgau"
+kinnickinnic.german_language: "Königbach"
+
+# Province 'pokemaga_province' () #
+enookwasaneenah.german_language: "Ennhaus"
+waumandee.german_language: "Waußtal"
+hahatououadeba.german_language: "Hahersbach"
+pokegama.german_language: "Pockegam"
+odaawaa.german_language: "Odauen"
+sappah.german_language: "Sappgau"
+
+
+## Area 'alabama_area' () ##
+# Province 'abihka_province' () #
+abihka.german_language: "Abichau"
+callamaco.german_language: "Kallmark"
+ohatchee.german_language: "Ohatschen"
+tuasi.german_language: "Twastel"
+ishtaboli.german_language: "Istbol"
+hytop.german_language: "Hochkuppe"
+
+# Province 'talisi_province' () #
+talisi.german_language: "Tallsee"
+casiste.german_language: "Kasssteg"
+caxa.german_language: "Kachsheim"
+humati.german_language: "Humtal"
+atahachi.german_language: "Attachau"
+piachi.german_language: "Piachstal"
+
+# Province 'mabila_province' () #
+mabila.german_language: "Mablen"
+taliepacana.german_language: "Tallpach"
+zabusta.german_language: "Sabusten"
+apafalaya.german_language: "Apfelau"
+
+# Province 'pakana_province' () #
+pakana.german_language: "Pakanau"
+wakokai.german_language: "Wackheim"
+uchee.german_language: "Uchen"
+omusee.german_language: "Ohmsee"
+
+# Province 'mobile_province' () #
+mobile.german_language: "Müblen"
+consha.german_language: "Konschau"
+tombigbee.german_language: "Tummbach"
+escatawppa.german_language: "Esketapp"
+tohome.german_language: "Thohmen"
+
+# Province 'conecuh_province' () #
+conecuh.german_language: "Konekau"
+patsaliga.german_language: "Pfalzthal"
+chootawatchee.german_language: "Schottbach"
+
+# Province 'cootcla_province' () #
+cootcla.german_language: "Kottlach"
+hogehege.german_language: "Hochhegen"
+koasati.german_language: "Koßtal"
+apotaka_hacha.german_language: "Apotach"
+napochi.german_language: "Napchen"
+buddahatchie.german_language: "Budenhatz"
+
+
+## Area 'mississippi_area' () ##
+# Province 'oklafalaya_province' () #
+capino.german_language: "Kapingen"
+chicksawhe.german_language: "Schicksau"
+biloxi.german_language: "Biloch"
+
+# Province 'oklahannali_province' () #
+okeloussa.german_language: "Okelau"
+eiowane.german_language: "Eywen"
+pascagoula.german_language: "Paskau"
+
+# Province 'oklatannap_province' () #
+mosco.german_language: "Neu Schwerin"
+caftacha.german_language: "Kavtach"
+eianamogola.german_language: "Eyenau"
+
+# Province 'chickasaw_province' () #
+yaneka.german_language: "Janick"
+tchoukafala.german_language: "Schukfel"
+chatata.german_language: "Schattau"
+ongoulastoga.german_language: "Unglast"
+sacchuma.german_language: "Sackaum"
+quizquiz.german_language: "Quißgau"
+
+# Province 'yazoo_province' () #
+yazoo.german_language: "Jassau"
+tiou.german_language: "Tiew"
+taposa.german_language: "Tapfau"
+quigualtam.german_language: "Kwigeltal"
+koroa.german_language: "Korrau"
+
+# Province 'natchez_province' () #
+natchez.german_language: "Natzstedt"
+chittaloosa.german_language: "Schittlau"
+houma.german_language: "Haumgau"
+
+
+## Area 'east_coast_sea_zones_area' () ##
+### Region 'great_plains_region' () ###
+
+## Area 'louisiana_area' () ##
+# Province 'bulbancha_province' () #
+bulbancha.german_language: "Albrechtsstadt"
+bogue_chitto.german_language: "Klarbach"
+tangipahoa.german_language: "Tannenbruch"
+itihumma.german_language: "Eibenfurt"
+
+# Province 'chawasha_province' () #
+chawasha.german_language: "Schilfmoor"
+atchafalaya.german_language: "Großsumpfstrom"
+opelousa.german_language: "Pappeldorf"
+
+# Province 'ciwat_province' () #
+ciwat.german_language: "Biberstadt"
+otse.german_language: "Ottersee"
+tsikip.german_language: "Spitzfels"
+
+# Province 'natchitoches_province' () #
+ya_ttaish.german_language: "Jagdweide"
+calcasieu.german_language: "Kalksee"
+doustioni.german_language: "Dornstein"
+ouachita.german_language: "Eichenstrom"
+kisatchie.german_language: "Kieselbruch"
+
+# Province 'catahoula_province' () #
+catahoula.german_language: "Katzenried"
+tensas.german_language: "Tannenau"
+tunica.german_language: "Turmfeld"
+
+
+## Area 'arkansas_area' () ##
+# Province 'anilco_province' () #
+anilco.german_language: "Heinrichshafen"
+guachoyo.german_language: "Quellgrund"
+ayays.german_language: "Eisfeld"
+tutilpinco.german_language: "Taufental"
+
+# Province 'pacaha_province' () #
+pacaha.german_language: "Eberhardsfurt"
+quigate.german_language: "Quellenstadt"
+casqui.german_language: "Kastengau"
+
+# Province 'coligua_province' () #
+coligua.german_language: "Kolbenau"
+calpista.german_language: "Kalkfelsen"
+palisema.german_language: "Palisadenfeld"
+
+# Province 'ouachita_province' () #
+nanatsoho.german_language: "Nadelwald"
+naguatex.german_language: "Nagelfels"
+catalte.german_language: "Kattental"
+aguacay.german_language: "Auenquell"
+amaye.german_language: "Ammenhain"
+chaguate.german_language: "Schafweide"
+
+# Province 'tanico_province' () #
+tanico.german_language: "Tannenwinkel"
+quipana.german_language: "Kupferhafen"
+tula_ark.german_language: "Tulauen"
+
+# Province 'utiangue_province' () #
+utiangue.german_language: "Uferingen"
+tutilcoya.german_language: "Tuttelgrund"
+anoixi.german_language: "Eichenfurt"
+
+# Province 'cayas_province' () #
+cayas.german_language: "Kaisertal"
+satsukhdin.german_language: "Salzquellen"
+wahzhazhe.german_language: "Wascherfeld"
+unica.german_language: "Einigau"
+
+
+## Area 'missouri_area' () ##
+# Province 'tamaroa_province' () #
+tamaroa.german_language: "Tannenrain"
+wyaconda.german_language: "Weidenbach"
+oahaha.german_language: "Auenfurt"
+emasulia.german_language: "Emsaue"
+chariton.german_language: "Kornstadt"
+
+# Province 'meramec_province' () #
+meramec.german_language: "Ludwigstal"
+pahatsi.german_language: "Pfahldorf"
+tanwakanwakaghe.german_language: "Tannenwache"
+utsehta.german_language: "Uhsfeld"
+nikhdhintanwan.german_language: "Nickenhain"
+intapushe.german_language: "Innerbusch"
+ni_okaska.german_language: "Niederkassel"
+
+# Province 'towosaghy_province' () #
+towosaghy.german_language: "Turmsaag"
+chepoussa.german_language: "Schieferau"
+cholohollay.german_language: "Hollenhof"
+st_francois_mts.german_language: "Sankt-Franziskus-Berge"
+
+# Province 'nodaway_province' () #
+nodaway.german_language: "Nadelweg"
+nudarcha.german_language: "Nordach"
+wimihsoorita.german_language: "Wimmelried"
+
+
+## Area 'iowa_area' () ##
+# Province 'hokah_province' () #
+hokah.german_language: "Hochach"
+wapkawazioju.german_language: "Weidenstrom"
+owatonna.german_language: "Ottingen"
+hahawakpa.german_language: "Hahndorf am Fluss"
+lahontan.german_language: "Lachental"
+
+# Province 'minnetonka_province' () #
+minnetonka.german_language: "Minnensee"
+wabezi.german_language: "Weißbirk"
+kagiwigwan.german_language: "Kragenhain"
+shingwako.german_language: "Schinkau"
+winnibigoshish.german_language: "Weitsee"
+bemidji.german_language: "Bärenmoos"
+
+# Province 'mahkato_province' () #
+mahkato.german_language: "Ulrichsfeld"
+watonwan.german_language: "Wartenau"
+shetek.german_language: "Scheideck"
+chanshayapi.german_language: "Schanzenau"
+tipsinah.german_language: "Tiefenau"
+kandiyohi.german_language: "Kandauhof"
+
+# Province 'kiyuska_province' () #
+tchan_sansan.german_language: "Schanzenfeld"
+kiyuska.german_language: "Kiesacker"
+pabaska.german_language: "Pfaffenbusch"
+
+# Province 'chagu_province' () #
+chagu.german_language: "Schachtau"
+oyate_shisha.german_language: "Heerfeld"
+wakmua_oin.german_language: "Wachmuren"
+
+# Province 'igmu_province' () #
+igmu.german_language: "Eichmoos"
+kampeska.german_language: "Kampensee"
+mnihaha.german_language: "Mühlenfall"
+
+# Province 'okobojo_province' () #
+okobojo.german_language: "Eichbogen"
+pocasse.german_language: "Pockau"
+unkpatina.german_language: "Uhlenstein"
+
+# Province 'manatara_province' () #
+manatara.german_language: "Mahnertal"
+maanaagi_iixodagish.german_language: "Mahnheide"
+ruhptare.german_language: "Ruppertal"
+
+# Province 'moingwena_province' () #
+moingwena.german_language: "Müngewiesen"
+coiracoentanon.german_language: "Kornkandern"
+wapsipinicon.german_language: "Weißpinienfluss"
+
+# Province 'ocheyedan_province' () #
+ocheyedan.german_language: "Eicheneden"
+penaca.german_language: "Pfennich"
+moskwawakwa.german_language: "Moschweide"
+
+# Province 'iowa_province' () #
+iowa.german_language: "Eibenau"
+kiosaquay.german_language: "Kiesquell"
+inyanshashawatpa.german_language: "Steinflussfurt"
+pahotcha.german_language: "Pfadschau"
+
+# Province 'nishnabotna_province' () #
+nishnabotna.german_language: "Neuschabach"
+monona.german_language: "Mohnau"
+tchankasndata.german_language: "Schanzenstadt"
+
+
+## Area 'superior_area' () ##
+# Province 'mathoskabde_province' () #
+mathoskabde.german_language: "Mooskap"
+ginebig.german_language: "Ginsterberg"
+misi_zaaga_igan.german_language: "Großseeland am See"
+minnewawa.german_language: "Minneruhe"
+
+# Province 'nemadji_province' () #
+nemadji.german_language: "Nadelmatt"
+wissakode.german_language: "Wiesenrode"
+makoua.german_language: "Markau"
+kitchigumi.german_language: "Großmeer"
+
+# Province 'koochiching_province' () #
+koochiching.german_language: "Kutschenau"
+miskwaagamiiwi.german_language: "Rotwassersee"
+mesabi.german_language: "Messberg"
+neemannee.german_language: "Niemenau"
+kawishiwi.german_language: "Kiesweide"
+
+
+## Area 'badlands_area' () ##
+# Province 'marapa_province' () #
+marapa.german_language: "Magerpfad"
+cerwecerna.german_language: "Zerwerth"
+shichah.german_language: "Schieferach"
+
+# Province 'kaya_paha_province' () #
+kaya_paha.german_language: "Kalkhügel"
+sicangu.german_language: "Sickergrund"
+waziblo.german_language: "Wasenblau"
+
+# Province 'wetarhoo_province' () #
+wetarhoo.german_language: "Wetterau"
+hinyankaga.german_language: "Hinterhang"
+
+# Province 'shanha_province' () #
+shanha.german_language: "Scharrenau"
+mistaiyohe.german_language: "Mistelhöh"
+he_sapa.german_language: "Schwarzberge"
+awaxaawi_ishiibisha.german_language: "Aschewiesental"
+
+# Province 'histayaho_province' () #
+histahayo.german_language: "Hartwigshöhe"
+neesihushaanu.german_language: "Nesselhusen"
+skahuukaawiat.german_language: "Schafweiden"
+iyawakagapi.german_language: "Jägerfeld"
+matootonha.german_language: "Mattenhain"
+
+# Province 'chakadee_wakpa_province' () #
+chakadee_wakpa.german_language: "Jägersruh am Fluss"
+wahasah.german_language: "Weißharsch"
+waahukaahaanu.german_language: "Wacholderhain"
+wit_anowi_yohe.german_language: "Weidenhöhe am Fluss"
+moehe_yoe.german_language: "Mooshöhe"
+
+# Province 'ihkowom_iyo_he_province' () #
+ihkowom_iyo_he.german_language: "Eichenhöhe"
+ksai_yohe.german_language: "Kieselhöhe"
+mitsiadazi.german_language: "Mützental"
+skaapirox.german_language: "Schafbruch"
+buaxaxxaashe.german_language: "Buchenrisse"
+aahkawirahkata.german_language: "Eichenwurz"
+aashbiliihkupe.german_language: "Eschenkupp"
+iichiilikaaashaashe.german_language: "Eichlach"
+
+# Province 'itkanaahtuusu_province' () #
+itkanaahtuusu.german_language: "Eichenhausen"
+e_ometaeso.german_language: "Obermetzau"
+heviksnipahis.german_language: "Heuwiesen"
+mo_ohta_vo_honaaeva.german_language: "Maultertal"
+notameohmeshehse.german_language: "Notanger"
+
+# Province 'iisaxpuatahcheeaashe_province' () #
+iisaxpuatahcheeaashe.german_language: "Eselsfeld"
+aashbikkaashee.german_language: "Aschberge"
+ishpiialawaache.german_language: "Espenbruch"
+
+
+## Area 'upper_missouri_area' () ##
+# Province 'awatixa_province' () #
+awatixa.german_language: "Ottosau"
+adixoodagoorahareesh.german_language: "Dornanger"
+koostaaka.german_language: "Kuhstetten"
+amahami.german_language: "Ammenheim"
+
+# Province 'suktogeja_o_ipa_province' () #
+suktogeja_o_ipa.german_language: "Sukkertal"
+patgasa_wakpa.german_language: "Patersdorf am Fluss"
+baliisshe_aashe.german_language: "Ballenau"
+minisose.german_language: "Trübwasserstadt am Strom"
+
+# Province 'ski_iyo_he_province' () #
+ski_iyo_he.german_language: "Schieferhöhe"
+hoskitaga.german_language: "Hosgau"
+kinuhsisuht.german_language: "Kienforst"
+wase_wakpa.german_language: "Wieselort am Fluss"
+caba_wakpa.german_language: "Kappenau am Fluss"
+
+# Province 'e_omita_i_province' () #
+e_omita_i.german_language: "Obermündung"
+xuahceesh_annappiio.german_language: "Luchswiesen"
+huupalikooche.german_language: "Huppelau"
+aluutashe.german_language: "Altenaschen"
+baashalapache.german_language: "Baselbach"
+
+# Province 'aashise_province' () #
+aashise.german_language: "Aschenfeld"
+binmatshua.german_language: "Bienenmatten"
+cuthuhogwa.german_language: "Kütschgau"
+
+# Province 'kinaksisahtai_province' () #
+kinaksisahtai.german_language: "Kienachstal"
+kyaiyesisahtai.german_language: "Kaiersfeld"
+onnikisisaahtaayi.german_language: "Onnenried"
+mahpahpahazhhah.german_language: "Moorpfad"
+nataeosueti.german_language: "Natternsruh"
+
+# Province 'poyiitahtai_province' () #
+poyiitahtai.german_language: "Beutefeld"
+wakpa_juk_ana.german_language: "Gabelstadt am Fluss"
+etzikom.german_language: "Ettingsheim"
+
+# Province 'kwaskwuti_province' () #
+kwaskwuti.german_language: "Quastwinkel"
+cahe.german_language: "Kahau"
+canhewincasta.german_language: "Kahnwiesen"
+
+
+## Area 'central_plains_area' () ##
+# Province 'shuntaneshnanga_province' () #
+shuntaneshnanga.german_language: "Schunterweide"
+kansas.german_language: "Dietrichstal"
+monecato.german_language: "Mönchsfeld"
+kirarutah.german_language: "Kirchroda"
+nepahalla.german_language: "Nebeltal"
+
+# Province 'neosho_province' () #
+neosho.german_language: "Neuschau"
+manhukdhintanwan.german_language: "Mannhügelsfeld"
+nanzewaspe.german_language: "Neinsbach"
+wasetihoge.german_language: "Wesethof"
+
+# Province 'etzanoa_province' () #
+etzanoa.german_language: "Eichenau"
+quivira.german_language: "Quellfurt"
+harahey.german_language: "Haderau"
+ninescah.german_language: "Niedersach"
+ayadaldapa.german_language: "Eierdal"
+ne_shuta.german_language: "Neuschutt"
+
+# Province 'aahkawiraahkata' () #
+ne_miskua.german_language: "Neumoor"
+kaw.german_language: "Kahnau"
+aahkawiraahkata.german_language: "Eichenwacht"
+panenetah.german_language: "Pfannenfeld"
+kaiurskuta.german_language: "Krähenstetten"
+
+# Province 'headdhetanwan_province' () #
+headdhetanwan.german_language: "Heidenwinden"
+wakhakukdhin.german_language: "Wachaugrund"
+pasukhdin.german_language: "Passfeld"
+
+# Province 'tulsa_province' () #
+tulsa.german_language: "Tulsen"
+tawehash.german_language: "Taufwiese"
+chikaskia.german_language: "Schickau"
+
+# Province 'wewoka_province' () #
+guichita.german_language: "Gertrudensfeld"
+wewoka.german_language: "Weidenwinkel"
+washita.german_language: "Waschstein"
+kiamichi.german_language: "Kienschanze"
+
+# Province 'hawaastatkiicu_province' () #
+hawaastatkiicu.german_language: "Haberstetten"
+nigitai.german_language: "Nickental"
+kicpahat.german_language: "Kiepenhardt"
+gulvau.german_language: "Guldenau"
+oktahutchee.german_language: "Ochtau"
+nixgu.german_language: "Nixgrund"
+
+# Province 'niobrara_province' () #
+niobrara.german_language: "Nebelfluss"
+aowa.german_language: "Auwald"
+waha_tunga.german_language: "Weithang"
+kits_ixta.german_language: "Kitzau"
+
+# Province 'kickatari_province' () #
+kickatari.german_language: "Kickersdorf"
+mnitanka.german_language: "Münstetten"
+minatare.german_language: "Mindenthal"
+
+# Province 'omaha_province' () #
+omaha.german_language: "Omehringen"
+nemaha.german_language: "Nemmershain"
+nebraska.german_language: "Flachwasserland"
+ni_haunchi_to.german_language: "Niederhafen"
+
+# Province 'kanpeska_province' () #
+kanpeska.german_language: "Kampesken"
+kus_lecha.german_language: "Kusleben"
+kickatus.german_language: "Kickern"
+ickari_kitsu.german_language: "Eichkar"
+nutanke.german_language: "Neutann"
+pitahauerat.german_language: "Petershafen"
+
+
+## Area 'high_plains_area' () ##
+# Province 'hehvaitaneo_province' () #
+hehvaitaneo.german_language: "Friedrichsweiten"
+meneeohe.german_language: "Mähnenhöhe"
+medicine_bow.german_language: "Heilbogenpass"
+
+# Province 'wotapio_province' () #
+wotapio.german_language: "Wotterfeld"
+so_taeo_o.german_language: "Sodau"
+oevemanaho.german_language: "Öhminenhof"
+ohktouna.german_language: "Ochtendorf"
+hisse_yoyi_yoe.german_language: "Hirschhöhe"
+hisiometaneo.german_language: "Hochmetzau"
+paiyo_he.german_language: "Pfahlhöhe"
+
+# Province 'niineniiniicie_province' () #
+niineniiniicie.german_language: "Niederwiesen"
+neenowuxoote_i.german_language: "Nonnwiesen"
+ce_eiinox.german_language: "Zehnau"
+nih_iitkotousi_l.german_language: "Niedertal"
+
+# Province 'phankeska_wakpa_province' () #
+phankeska_wakpa.german_language: "Panzerfluss"
+ononio_he.german_language: "Onnenhöhe"
+wasin_wakpa.german_language: "Wiesenfluss"
+veoneohe.german_language: "Föhrenhöhe"
+mano_iyo_he.german_language: "Mahnshöhe"
+
+# Province 'heeyoteeyo_province' () #
+mutsisooni_yohe.german_language: "Mutshausen"
+heeyoteyoo.german_language: "Heidenhöhe"
+ponoeohe.german_language: "Ponnenhöhe"
+
+# Province 'wishkahuunu_province' () #
+wishkahuunu.german_language: "Wischhagen"
+mahohevahoe.german_language: "Mahnhofen"
+beesowuunenno.german_language: "Bienenau"
+minii_yohe.german_language: "Minenhöhe"
+
+# Province 'wiskapella_province' () #
+wiskapella.german_language: "Wieskapell"
+chitolah.german_language: "Schüttlach"
+nanwacinahaana.german_language: "Nannenhain"
+
+
+## Area 'saskatchewan_area' () ##
+# Province 'winnipegosis_province' () #
+opaskwayak.german_language: "Osterquell"
+wapisiw_sipihk.german_language: "Weißbrück am Fluss"
+winnipegosis.german_language: "Schlammsee am Ufer"
+
+# Province 'wazihe_province' () #
+wazihe.german_language: "Wieshagen"
+minizuahe.german_language: "Minzau"
+wibazoka_wakpa.german_language: "Biberfurt am Fluss"
+minichinas.german_language: "Mündchena"
+tugaske.german_language: "Tuchau"
+notukeu.german_language: "Notkauf"
+
+# Province 'miksiw_sipisis_province' () #
+miksiw_sipisis.german_language: "Mischbach"
+kiyiu.german_language: "Kienau"
+manitowi_sakahikanihk.german_language: "Geistersee"
+ye_ya_xabine.german_language: "Jägerhain"
+
+# Province 'ogiciza_wakpa_province' () #
+ogiciza_wakpa.german_language: "Osterfurt am Fluss"
+pimicaskewyashik.german_language: "Pfingstwiesen"
+ceepee.german_language: "Siefen"
+
+# Province 'saskatchewan_province' () #
+saskatchewan.german_language: "Konradsstrom"
+kistapinan.german_language: "Kiesstapf"
+petaigan.german_language: "Petaugen"
+
+# Province 'notinito_sipiy_province' () #
+notinito_sipiy.german_language: "Nordwehr am Fluss"
+wetaskiwin.german_language: "Wetterwiesen"
+amisk.german_language: "Biberfeld"
+kisiskaciwani_sipiy.german_language: "Schnellfurt am Strom"
+amiskwaciwiy.german_language: "Biberwiesen"
+titaga.german_language: "Tittau"
+wabamun.german_language: "Wabingen"
+
+# Province 'apahtoksipisskan_province' () #
+apahtoksipisskan.german_language: "Apfelstocksfeld"
+mokowan.german_language: "Moorkamp"
+ijathibe_wapta.german_language: "Jagdpass"
+kananaskis.german_language: "Kannenfelsen"
+okotoks.german_language: "Bruchsteine"
+
+# Province 'inotoniicaah_province' () #
+inotonniicaah.german_language: "Innerthann"
+saamis.german_language: "Saumfeld"
+insaombi.german_language: "Sommersaum"
+makhabn.german_language: "Maggerben"
+
+# Province 'waskasoo_province' () #
+waskasoo.german_language: "Wasgau"
+netook.german_language: "Nettgau"
+keoma.german_language: "Kehrenau"
+
+# Province 'michichi_province' () #
+michichi.german_language: "Michelsruh"
+wawaskesiw_sipiy.german_language: "Elchfurt am Fluss"
+wastina.german_language: "Wüsteneck"
+
+# Province 'pembina_province' () #
+shunda.german_language: "Schuntertal"
+pembina_ab.german_language: "Pappelbach am Fluss"
+ya_kti_ki.german_language: "Jagdkuppe"
+apetowun.german_language: "Apenau"
+
+
+## Area 'red_river_area' () ##
+# Province 'onabeesh_province' () #
+onabeesh.german_language: "Ohnewiesen"
+tootinaowaziibeeng.german_language: "Tottenwiesen"
+kinosota.german_language: "Kienfurt"
+
+# Province 'sihabi_province' () #
+kihi.german_language: "Kieferhöh"
+sihabi.german_language: "Sichelhain"
+sipiweske.german_language: "Siedelbach"
+waskada.german_language: "Waschried"
+
+# Province 'winnipeg_province' () #
+winnipeg.german_language: "Johannswasserstadt"
+mnisaton.german_language: "Minnesatten"
+mihkwakamiwi_sipiy.german_language: "Rotsee am Fluss"
+pikwedina_sagaomam.german_language: "Spitzwinkel"
+maskwa.german_language: "Bärenfeld"
+
+# Province 'osukyuze_province' () #
+osukyuze.german_language: "Osterkuse"
+hepa.german_language: "Heubach"
+canuba_wakpa.german_language: "Kanufluss"
+
+# Province 'muskiki_province' () #
+muskiki.german_language: "Mooswinkel"
+kinistino.german_language: "Kinnstetten"
+etomami.german_language: "Eckhardsruh"
+kamsack.german_language: "Kamsau"
+
+# Province 'iskwao_province' () #
+iskwao.german_language: "Isenau"
+tacehubana.german_language: "Tannenhuben"
+wascana.german_language: "Waschensee"
+posakanaciwiy.german_language: "Postwiesen"
+katepwewi.german_language: "Kendepfuhl"
+assapasca.german_language: "Espenwies"
+
+# Province 'pikwedina_province' () #
+pikwedina.german_language: "Pickwinkel"
+kimodakiwi.german_language: "Kimmendorf"
+ajawewesitagun.german_language: "Eibenweide"
+manomin.german_language: "Haferfeld"
+gawakomitigweia.german_language: "Gaukomtal"
+mustinka.german_language: "Musterau"
+
+# Province 'tewaukon_province' () #
+tewaukon.german_language: "Taufwinkel"
+maitomoni_ohe.german_language: "Maidtalhöhe"
+mekinock.german_language: "Meckendorf"
+pembina.german_language: "Pappelbach"
+minnewaukan.german_language: "Geistersee am Ufer"
+mirixubaash.german_language: "Märzbruch"
+
+# Province 'saakak_hukaahaanu_province' () #
+saakak_hukaahaanu.german_language: "Sackhagen"
+metigoshe.german_language: "Mettigau"
+itscheabine.german_language: "Etschabinnen"

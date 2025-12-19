@@ -1,0 +1,1208 @@
+﻿l_english:
+### Region 'iberia_region' () ###
+
+## Area 'galicia_area' () ##
+# Province 'coruna_province' () #
+coruna.castilian_dialect: "La Coruña"
+betanzos.castilian_dialect: "Betanzos"
+ferrol.castilian_dialect: "El Ferrol"
+mondonedo.castilian_dialect: "Mondoñedo"
+vivero.castilian_dialect: "Vivero"
+
+# Province 'lugo_province' () #
+lugo.castilian_dialect: "Lugo"
+monforte_de_lemos.castilian_dialect: "Monforte de Lemos"
+navia_de_suarna.castilian_dialect: "Navia de Suarna"
+sarria.castilian_dialect: "Sarria"
+villalba.castilian_dialect: "Villalba"
+
+# Province 'ourense_province' () #
+ourense.castilian_dialect: "Orense"
+barco_de_valdeorras.castilian_dialect: "El Barco de Valdeorras"
+ginzo_de_limia.castilian_dialect: "Ginzo de Limia"
+monterrey.castilian_dialect: "Monterrey"
+ribadavia.castilian_dialect: "Ribadavia"
+viana_bolo.castilian_dialect: "Viana del Bollo"
+
+# Province 'santiago_province' () #
+santiago_compostela.castilian_dialect: "Santiago de Compostela"
+finisterre.castilian_dialect: "Finisterre"
+lalin.castilian_dialect: "Lalín"
+mellid.castilian_dialect: "Mellid"
+noya.castilian_dialect: "Noya"
+pontevedra.castilian_dialect: "Pontevedra"
+tuy.castilian_dialect: "Tuy"
+
+
+## Area 'leon_area' () ##
+# Province 'astorga_province' () #
+astorga.castilian_dialect: "Astorga"
+castrocalbon.castilian_dialect: "Castrocalbón"
+ponferrada.castilian_dialect: "Ponferrada"
+villablino.castilian_dialect: "Villablino"
+villafranca_bierzo.castilian_dialect: "Villafranca del Bierzo"
+
+# Province 'benavente_province' () #
+benavente.castilian_dialect: "Benavente"
+alcanices.castilian_dialect: "Alcañices"
+puebla_de_sanabria.castilian_dialect: "Puebla de Sanabria"
+villalpando.castilian_dialect: "Villalpando"
+
+# Province 'ciudad_rodrigo_province' () #
+ciudad_rodrigo.castilian_dialect: "Ciudad Rodrigo"
+coria.castilian_dialect: "Coria"
+ledesma.castilian_dialect: "Ledesma"
+san_felices.castilian_dialect: "San Felices"
+yecla_de_yeltes.castilian_dialect: "Yecla de Yeltes"
+
+# Province 'east_asturias_province' () #
+villaviciosa.castilian_dialect: "Villaviciosa"
+cangas.castilian_dialect: "Cangas de Onís"
+llanes.castilian_dialect: "Llanes"
+mieres.castilian_dialect: "Mieres"
+
+# Province 'leon_province' () #
+leon.castilian_dialect: "León"
+mansilla.castilian_dialect: "Mansilla"
+riano.castilian_dialect: "Riaño"
+sahagun.castilian_dialect: "Sahagún"
+
+# Province 'salamanca_province' () #
+salamanca.castilian_dialect: "Salamanca"
+alba_de_tormes.castilian_dialect: "Alba de Tormes"
+bejar.castilian_dialect: "Béjar"
+matilla_de_canos.castilian_dialect: "Matilla de los Caños"
+piedrahita.castilian_dialect: "Piedrahíta"
+
+# Province 'west_asturias_province' () #
+oviedo.castilian_dialect: "Oviedo"
+aviles.castilian_dialect: "Avilés"
+castropol.castilian_dialect: "Castropol"
+tineo.castilian_dialect: "Tineo"
+
+# Province 'zamora_province' () #
+zamora.castilian_dialect: "Zamora"
+alba_de_aliste.castilian_dialect: "Alba de Aliste"
+fermoselle.castilian_dialect: "Fermoselle"
+toro.castilian_dialect: "Toro"
+
+
+## Area 'castile_area' () ##
+# Province 'avila_province' () #
+avila.castilian_dialect: "Ávila"
+adrada.castilian_dialect: "La Adrada"
+arevalo.castilian_dialect: "Arévalo"
+las_navas.castilian_dialect: "Las Navas"
+oropesa.castilian_dialect: "Oropesa"
+villatoro.castilian_dialect: "Villatoro"
+
+# Province 'burgos_province' () #
+burgos.castilian_dialect: "Burgos"
+briviesca.castilian_dialect: "Briviesca"
+logrono.castilian_dialect: "Logroño"
+miranda_de_ebro.castilian_dialect: "Miranda de Ebro"
+najera.castilian_dialect: "Nájera"
+villarcayo.castilian_dialect: "Villarcayo"
+
+# Province 'lerma_province' () #
+lerma.castilian_dialect: "Lerma"
+aranda_de_duero.castilian_dialect: "Aranda de Duero"
+castrojeriz.castilian_dialect: "Castrojeriz"
+sto_domingo_silos.castilian_dialect: "Santo Domingo de Silos"
+villadiego.castilian_dialect: "Villadiego"
+
+# Province 'palencia_province' () #
+palencia.castilian_dialect: "Palencia"
+aguilar_de_campoo.castilian_dialect: "Aguilar de Campoo"
+carrion_de_los_condes.castilian_dialect: "Carrión de los Condes"
+monzon_campos.castilian_dialect: "Monzón de Campos"
+palenzuela.castilian_dialect: "Palenzuela"
+saldana.castilian_dialect: "Saldaña"
+reinosa.castilian_dialect: "Reinosa"
+
+# Province 'segovia_province' () #
+segovia.castilian_dialect: "Segovia"
+cuellar.castilian_dialect: "Cuéllar"
+fuentiduena.castilian_dialect: "Fuentidueña"
+pedraza.castilian_dialect: "Pedraza"
+sepulveda.castilian_dialect: "Sepúlveda"
+
+# Province 'soria_province' () #
+soria.castilian_dialect: "Soria"
+agreda.castilian_dialect: "Ágreda"
+almazan.castilian_dialect: "Almazán"
+arnedo.castilian_dialect: "Arnedo"
+berlanga.castilian_dialect: "Berlanga"
+burgo_de_osma.castilian_dialect: "El Burgo de Osma"
+calahorra.castilian_dialect: "Calahorra"
+calatanazor.castilian_dialect: "Calatañazor"
+medinaceli.castilian_dialect: "Medinaceli"
+
+# Province 'montana_province' () #
+santander.castilian_dialect: "Santander"
+laredo.castilian_dialect: "Laredo"
+potes.castilian_dialect: "Potes"
+san_vicente_barquera.castilian_dialect: "San Vicente de la Barquera"
+
+# Province 'valladolid_province' () #
+valladolid.castilian_dialect: "Valladolid"
+medina_de_rioseco.castilian_dialect: "Medina de Rioseco"
+medina_del_campo.castilian_dialect: "Medina del Campo"
+penafiel.castilian_dialect: "Peñafiel"
+tordesillas.castilian_dialect: "Tordesillas"
+
+
+## Area 'extremadura_area' () ##
+# Province 'badajoz_province' () #
+badajoz.castilian_dialect: "Badajoz"
+albuquerque.castilian_dialect: "Alburquerque"
+barcarrota.castilian_dialect: "Barcarrota"
+jerez_de_los_caballeros.castilian_dialect: "Jerez de los Caballeros"
+villanueva_del_fresno.castilian_dialect: "Villanueva del Fresno"
+
+# Province 'caceres_province' () #
+caceres.castilian_dialect: "Cáceres"
+alcantara.castilian_dialect: "Alcántara"
+arroyo.castilian_dialect: "Arroyo"
+brozas.castilian_dialect: "Brozas"
+valencia_de_alcantara.castilian_dialect: "Valencia de Alcántara"
+
+# Province 'merida_province' () #
+merida.castilian_dialect: "Mérida"
+azuaga.castilian_dialect: "Azuaga"
+llerena.castilian_dialect: "Llerena"
+monesterio.castilian_dialect: "Monesterio"
+montanchez.castilian_dialect: "Montánchez"
+zafra.castilian_dialect: "Zafra"
+
+# Province 'plasencia_province' () #
+plasencia.castilian_dialect: "Plasencia"
+galisteo.castilian_dialect: "Galisteo"
+granadilla.castilian_dialect: "Granadilla"
+jaraicejo.castilian_dialect: "Jaraicejo"
+valverde.castilian_dialect: "Valverde"
+
+# Province 'trujillo_province' () #
+trujillo.castilian_dialect: "Trujillo"
+escurial.castilian_dialect: "Escurial"
+herrera.castilian_dialect: "Herrera"
+puebla_de_alcocer.castilian_dialect: "Puebla de Alcocer"
+
+# Province 'villanueva_de_la_serena_province' () #
+villanueva_de_la_serena.castilian_dialect: "Villanueva de la Serena"
+belalcazar.castilian_dialect: "Belalcázar"
+medellin.castilian_dialect: "Medellín"
+zalamea.castilian_dialect: "Zalamea"
+
+
+## Area 'navarre_area' () ##
+# Province 'alava_province' () #
+vitoria.castilian_dialect: "Vitoria"
+anana.castilian_dialect: "Añana"
+laguardia.castilian_dialect: "Laguardia"
+salvatierra.castilian_dialect: "Salvatierra"
+
+# Province 'biscay_province' () #
+bilbao.castilian_dialect: "Bilbao"
+durango.castilian_dialect: "Durango"
+valmaseda.castilian_dialect: "Valmaseda"
+
+# Province 'gipuzkoa_province' () #
+san_sebastian.castilian_dialect: "San Sebastián"
+onate.castilian_dialect: "Oñate"
+tolosa.castilian_dialect: "Tolosa"
+
+# Province 'navarre_province' () #
+pamplona.castilian_dialect: "Pamplona"
+elizondo.castilian_dialect: "Elizondo"
+estella.castilian_dialect: "Estella"
+olite.castilian_dialect: "Olite"
+roncesvalles.castilian_dialect: "Roncesvalles"
+sanguesa.castilian_dialect: "Sangüesa"
+tudela.castilian_dialect: "Tudela"
+viana.castilian_dialect: "Viana"
+
+
+## Area 'aragon_area' () ##
+# Province 'alcaniz_province' () #
+alcaniz.castilian_dialect: "Alcañiz"
+cantavieja.castilian_dialect: "Cantavieja"
+caspe.castilian_dialect: "Caspe"
+montalban.castilian_dialect: "Montalbán"
+valderrobres.castilian_dialect: "Valderrobres"
+
+# Province 'barbastro_province' () #
+barbastro.castilian_dialect: "Barbastro"
+ainsa.castilian_dialect: "Aínsa"
+benabarre.castilian_dialect: "Benabarre"
+fraga.castilian_dialect: "Fraga"
+monzon.castilian_dialect: "Monzón"
+sarinena.castilian_dialect: "Sariñena"
+
+# Province 'calatayud_province' () #
+calatayud.castilian_dialect: "Calatayud"
+ariza.castilian_dialect: "Ariza"
+carinena.castilian_dialect: "Cariñena"
+daroca.castilian_dialect: "Daroca"
+
+# Province 'huesca_province' () #
+huesca.castilian_dialect: "Huesca"
+almudevar.castilian_dialect: "Almudévar"
+anso.castilian_dialect: "Ansó"
+ejea_de_los_caballeros.castilian_dialect: "Ejea de los Caballeros"
+jaca.castilian_dialect: "Jaca"
+sos.castilian_dialect: "Sos"
+
+# Province 'teruel_province' () #
+teruel.castilian_dialect: "Teruel"
+albarracin.castilian_dialect: "Albarracín"
+alfambra.castilian_dialect: "Alfambra"
+mora_de_rubielos.castilian_dialect: "Mora de Rubielos"
+
+# Province 'zaragoza_province' () #
+zaragoza.castilian_dialect: "Zaragoza"
+belchite.castilian_dialect: "Belchite"
+pina_de_ebro.castilian_dialect: "Pina de Ebro"
+tarazona.castilian_dialect: "Tarazona"
+zuera.castilian_dialect: "Zuera"
+
+
+## Area 'catalonia_area' () ##
+# Province 'barcelona_province' () #
+barcelona.castilian_dialect: "Barcelona"
+sitges.castilian_dialect: "Sitges"
+terrassa.castilian_dialect: "Tarrasa"
+villafranca_del_penedes.castilian_dialect: "Villafranca del Panadés"
+
+# Province 'girona_province' () #
+girona.castilian_dialect: "Gerona"
+besalu.castilian_dialect: "Besalú"
+castellon_ampurias.castilian_dialect: "Castellón de Ampurias"
+ripoll.castilian_dialect: "Ripoll"
+sant_feliu.castilian_dialect: "San Feliú de Guíxols"
+
+# Province 'new_catalonia_province' () #
+tarragona.castilian_dialect: "Tarragona"
+flix.castilian_dialect: "Flix"
+lleida.castilian_dialect: "Lérida"
+montblanc.castilian_dialect: "Montblanch"
+tarrega.castilian_dialect: "Tárrega"
+tortosa.castilian_dialect: "Tortosa"
+
+# Province 'osona_province' () #
+vic.castilian_dialect: "Vic"
+berga.castilian_dialect: "Berga"
+cardona.castilian_dialect: "Cardona"
+cervera.castilian_dialect: "Cervera"
+manresa.castilian_dialect: "Manresa"
+
+# Province 'rosello_province' () #
+perpignan.castilian_dialect: "Perpiñán"
+prades.castilian_dialect: "Prades"
+puigcerda.castilian_dialect: "Puigcerdá"
+
+# Province 'urgell_province' () #
+seu_durgell.castilian_dialect: "Seo de Urgel"
+agramunt.castilian_dialect: "Agramunt"
+andorra_la_vella.castilian_dialect: "Andorra la Vieja"
+balaguer.castilian_dialect: "Balaguer"
+talarn.castilian_dialect: "Talarn"
+vielha.castilian_dialect: "Viella"
+
+
+## Area 'valencia_area' () ##
+# Province 'castellon_province' () #
+castellon_de_la_plana.castilian_dialect: "Castellón de la Plana"
+ares_del_maestre.castilian_dialect: "Ares del Maestre"
+llucena.castilian_dialect: "Lucena del Cid"
+morella.castilian_dialect: "Morella"
+peniscola.castilian_dialect: "Peñíscola"
+
+# Province 'jativa_province' () #
+jativa.castilian_dialect: "Játiva"
+alcoy.castilian_dialect: "Alcoy"
+ayora.castilian_dialect: "Ayora"
+denia.castilian_dialect: "Dénia"
+gandia.castilian_dialect: "Gandía"
+
+# Province 'orihuela_province' () #
+orihuela.castilian_dialect: "Orihuela"
+alicante.castilian_dialect: "Alicante"
+elche.castilian_dialect: "Elche"
+
+# Province 'valencia_province' () #
+valencia.castilian_dialect: "Valencia"
+bunol.castilian_dialect: "Buñol"
+chelva.castilian_dialect: "Chelva"
+lliria.castilian_dialect: "Liria"
+
+
+## Area 'balearics_area' () ##
+# Province 'mallorca_province' () #
+palma.castilian_dialect: "Palma de Mallorca"
+ciudadela_de_menorca.castilian_dialect: "Ciudadela de Menorca"
+ibiza.castilian_dialect: "Ibiza"
+manacor.castilian_dialect: "Manacor"
+pollensa.castilian_dialect: "Pollensa"
+
+
+## Area 'north_portugal_area' () ##
+# Province 'beira_alta_province' () #
+viseu.castilian_dialect: "Viseo"
+besteiros.castilian_dialect: "Villa Pelayo"
+guarda.castilian_dialect: "La Guardia"
+lamego.castilian_dialect: "Lamego"
+meda.castilian_dialect: "Peña Meda"
+pinhel.castilian_dialect: "Pinel"
+seia.castilian_dialect: "Seia"
+trancoso.castilian_dialect: "Trancoso"
+
+# Province 'beira_baixa_province' () #
+castelo_branco.castilian_dialect: "Castillo Blanco"
+covilha.castilian_dialect: "Covillá"
+idanha.castilian_dialect: "Ideña"
+proenca_nova.castilian_dialect: "Villa Álvaro"
+sabugal.castilian_dialect: "Sabugal"
+
+# Province 'beira_litoral_province' () #
+coimbra.castilian_dialect: "Coímbra del Mondego"
+chao_de_couce.castilian_dialect: "Llano de Couce"
+esgueira.castilian_dialect: "Esguera"
+feira.castilian_dialect: "Feria"
+figueira.castilian_dialect: "Higuera"
+leiria.castilian_dialect: "Leyria"
+
+# Province 'minho_province' () #
+porto.castilian_dialect: "Oporto"
+barcelos.castilian_dialect: "Barcelos"
+braga.castilian_dialect: "Braga"
+guimaraes.castilian_dialect: "Guimarás"
+valenca.castilian_dialect: "Valencia del Miño"
+viana_do_castelo.castilian_dialect: "Viana del Castillo"
+
+# Province 'tras_os_montes' () #
+braganca.castilian_dialect: "Braganza"
+aguiar.castilian_dialect: "Aguilar"
+chaves.castilian_dialect: "Chaves del Támega"
+macedo.castilian_dialect: "Maceda"
+miranda_de_i_douro.castilian_dialect: "Miranda de Duero"
+mirandela.castilian_dialect: "Mirandela"
+moncorvo.castilian_dialect: "Moncorvo"
+montalegre.castilian_dialect: "Montalegre"
+vila_real.castilian_dialect: "Villarreal de Trasmonte"
+
+
+## Area 'south_portugal_area' () ##
+# Province 'algarve_province' () #
+lagos.castilian_dialect: "Lagos"
+faro.castilian_dialect: "Faro"
+silves.castilian_dialect: "Silves"
+tavira.castilian_dialect: "Tavira"
+
+# Province 'alto_alentejo_province' () #
+evora.castilian_dialect: "Évora"
+avis.castilian_dialect: "Avis"
+crato.castilian_dialect: "Crato"
+elvas.castilian_dialect: "Elvas"
+estremoz.castilian_dialect: "Estremoz"
+montemor.castilian_dialect: "Montemór"
+portalegre.castilian_dialect: "Portalegre"
+portel.castilian_dialect: "Portel"
+vila_vicosa.castilian_dialect: "Villaviciosa"
+
+# Province 'baixo_alentejo_province' () #
+beja.castilian_dialect: "Beja"
+alvalade.castilian_dialect: "Villa Lope"
+alvito.castilian_dialect: "Alvito"
+mertola.castilian_dialect: "Mértola"
+moura.castilian_dialect: "Mora"
+odemira.castilian_dialect: "Odemira"
+ourique.castilian_dialect: "Órique"
+serpa.castilian_dialect: "Serpa"
+sines.castilian_dialect: "Sines"
+
+# Province 'estremadura_province' () #
+lisbon.castilian_dialect: "Lisboa del Tajo"
+alcacer_do_sal.castilian_dialect: "Alcácer del Sal"
+alcobaca.castilian_dialect: "Alcobaza"
+setubal.castilian_dialect: "Setúbal"
+torres_vedras.castilian_dialect: "Torres Vedras"
+
+# Province 'ribatejo_province' () #
+santarem.castilian_dialect: "Santarén del Tajo"
+mora_portugal.castilian_dialect: "Villa Nuño"
+ponte_sor.castilian_dialect: "Puente de Sor"
+salvaterra.castilian_dialect: "Salvatierra"
+tomar.castilian_dialect: "Tomar del Nabón"
+torres_novas.castilian_dialect: "Torres Nuevas"
+
+
+## Area 'toledo_area' () ##
+# Province 'alarcon_province' () #
+alarcon.castilian_dialect: "Alarcón"
+belmonte.castilian_dialect: "Belmonte"
+iniesta.castilian_dialect: "Iniesta"
+jorquera.castilian_dialect: "Jorquera"
+moya.castilian_dialect: "Moya"
+san_clemente.castilian_dialect: "San Clemente"
+requena.castilian_dialect: "Requena"
+
+# Province 'east_mancha_province' () #
+alcaraz.castilian_dialect: "Alcaraz"
+lezuza.castilian_dialect: "Lezuza"
+alhambra_location.castilian_dialect: "Alhambra"
+montiel.castilian_dialect: "Montiel"
+villapalacios.castilian_dialect: "Villapalacios"
+villarobledo.castilian_dialect: "Villarrobledo"
+
+# Province 'guadalajara_province' () #
+guadalajara.castilian_dialect: "Guadalajara"
+brihuega.castilian_dialect: "Brihuega"
+buitrago_de_lozoya.castilian_dialect: "Buitrago de Lozoya"
+cobeta.castilian_dialect: "Cobeta"
+siguenza.castilian_dialect: "Sigüenza"
+zorita.castilian_dialect: "Zorita"
+
+# Province 'cuenca_province' () #
+cuenca.castilian_dialect: "Cuenca"
+beteta.castilian_dialect: "Beteta"
+canete.castilian_dialect: "Cañete"
+huete.castilian_dialect: "Huete"
+molina_de_aragon.castilian_dialect: "Molina de Aragón"
+pareja.castilian_dialect: "Pareja"
+torralba.castilian_dialect: "Torralba"
+
+# Province 'madrid_province' () #
+madrid.castilian_dialect: "Madrid"
+alcala_de_henares.castilian_dialect: "Alcalá de Henares"
+colmenar.castilian_dialect: "Colmenar"
+el_escorial.castilian_dialect: "El Escorial"
+maqueda.castilian_dialect: "Maqueda"
+
+# Province 'ocana_province' () #
+ocana.castilian_dialect: "Ocaña"
+alcazar_de_san_juan.castilian_dialect: "Alcázar de San Juan"
+chinchon.castilian_dialect: "Chinchón"
+consuegra.castilian_dialect: "Consuegra"
+tomelloso.castilian_dialect: "Tomelloso"
+ucles.castilian_dialect: "Uclés"
+
+# Province 'toledo_province' () #
+toledo.castilian_dialect: "Toledo"
+guadalupe.castilian_dialect: "Guadalupe"
+illescas.castilian_dialect: "Illescas"
+los_yebenes.castilian_dialect: "Los Yébenes"
+navalucillos.castilian_dialect: "Los Navalucillos"
+puebla_de_montalban.castilian_dialect: "Puebla de Montalbán"
+puente_arzobispo.castilian_dialect: "Puente del Arzobispo"
+talavera_de_la_reina.castilian_dialect: "Talavera de la Reina"
+
+# Province 'west_mancha_province' () #
+ciudad_real.castilian_dialect: "Ciudad Real"
+almaden.castilian_dialect: "Almadén"
+almodovar_del_campo.castilian_dialect: "Almodóvar del Campo"
+calatrava.castilian_dialect: "Calatrava"
+malagon.castilian_dialect: "Malagón"
+manzanares.castilian_dialect: "Manzanares"
+puertollano.castilian_dialect: "Puertollano"
+
+
+## Area 'andalusia_area' () ##
+# Province 'cadiz_province' () #
+cadiz.castilian_dialect: "Cádiz"
+algeciras.castilian_dialect: "Algeciras"
+arcos_de_la_frontera.castilian_dialect: "Arcos de la Frontera"
+gibraltar.castilian_dialect: "Gibraltar"
+jerez_de_la_frontera.castilian_dialect: "Jerez de la Frontera"
+medina_sidonia.castilian_dialect: "Medina Sidonia"
+sanlucar.castilian_dialect: "Sanlúcar"
+tarifa.castilian_dialect: "Tarifa"
+
+# Province 'cordoba_province' () #
+cordoba.castilian_dialect: "Córdoba"
+baena.castilian_dialect: "Baena"
+carpio.castilian_dialect: "El Carpio"
+espiel.castilian_dialect: "Espiel"
+fuenteovejuna.castilian_dialect: "Fuente Ovejuna"
+lucena.castilian_dialect: "Lucena"
+palma_del_rio.castilian_dialect: "Palma del Río"
+pedroche.castilian_dialect: "Pedroche"
+santa_eufemia.castilian_dialect: "Santa Eufemia"
+
+# Province 'huelva_province' () #
+huelva.castilian_dialect: "Huelva"
+almonaster_la_real.castilian_dialect: "Almonaster la Real"
+aracena.castilian_dialect: "Aracena"
+aroche.castilian_dialect: "Aroche"
+ayamonte.castilian_dialect: "Ayamonte"
+niebla.castilian_dialect: "Niebla"
+puebla_de_guzman.castilian_dialect: "Puebla de Guzmán"
+
+# Province 'jaen_province' () #
+jaen.castilian_dialect: "Jaén"
+andujar.castilian_dialect: "Andújar"
+baeza.castilian_dialect: "Baeza"
+cazorla.castilian_dialect: "Cazorla"
+jodar.castilian_dialect: "Jódar"
+martos.castilian_dialect: "Martos"
+ubeda.castilian_dialect: "Úbeda"
+
+# Province 'sevilla_province' () #
+sevilla.castilian_dialect: "Sevilla"
+carmona.castilian_dialect: "Carmona"
+constantina.castilian_dialect: "Constantina"
+coria_del_rio.castilian_dialect: "Coria del Río"
+ecija.castilian_dialect: "Écija"
+moron.castilian_dialect: "Morón"
+olvera.castilian_dialect: "Olvera"
+osuna.castilian_dialect: "Osuna"
+sanlucar_la_mayor.castilian_dialect: "Sanlúcar la Mayor"
+
+
+## Area 'granada_area' () ##
+# Province 'almeria_province' () #
+almeria.castilian_dialect: "Almería"
+almanzora.castilian_dialect: "Almanzora"
+baza.castilian_dialect: "Baza"
+gergal.castilian_dialect: "Gérgal"
+huescar.castilian_dialect: "Huéscar"
+mojacar.castilian_dialect: "Mojácar"
+velez_rubio.castilian_dialect: "Vélez-Rubio"
+
+# Province 'granada_province' () #
+granada.castilian_dialect: "Granada"
+adra.castilian_dialect: "Adra"
+almunecar.castilian_dialect: "Almuñécar"
+guadix.castilian_dialect: "Guadix"
+illora.castilian_dialect: "Íllora"
+loja.castilian_dialect: "Loja"
+pinar.castilian_dialect: "Pinar"
+orgiva.castilian_dialect: "Órgiva"
+
+# Province 'malaga_province' () #
+malaga.castilian_dialect: "Málaga"
+antequera.castilian_dialect: "Antequera"
+marbella.castilian_dialect: "Marbella"
+ronda.castilian_dialect: "Ronda"
+velez_malaga.castilian_dialect: "Vélez-Málaga"
+
+
+## Area 'murcia_area' () ##
+# Province 'albacete_province' () #
+albacete.castilian_dialect: "Albacete"
+chinchilla.castilian_dialect: "Chinchilla"
+jumilla.castilian_dialect: "Jumilla"
+villena.castilian_dialect: "Villena"
+
+# Province 'hellin_province' () #
+hellin.castilian_dialect: "Hellín"
+caravaca.castilian_dialect: "Caravaca"
+cieza.castilian_dialect: "Cieza"
+segura_de_la_sierra.castilian_dialect: "Segura de la Sierra"
+
+# Province 'murcia_province' () #
+murcia.castilian_dialect: "Murcia"
+cartagena.castilian_dialect: "Cartagena"
+lorca.castilian_dialect: "Lorca"
+mula.castilian_dialect: "Mula"
+
+
+## Area 'iberian_west_coast_area' () ##
+
+
+## Area 'western_mediterranean_sea_area' () ##
+### Region 'maghreb_region' () ###
+
+## Area 'sus_area' () ##
+# Province 'guzzula_province' () #
+tamdoult.castilian_dialect: "Castillo de Tamdul"
+assa.castilian_dialect: "Asa del Río Seco"
+beni_sabih.castilian_dialect: "Beni Sabí"
+foum_zguid.castilian_dialect: "Boca de Zguid"
+igiliz.castilian_dialect: "Iguíliz"
+taghjijt.castilian_dialect: "Tagijit"
+tata_MOR.castilian_dialect: "Tata del Sus"
+tiout.castilian_dialect: "Villa Hernando"
+tissint.castilian_dialect: "Tisín"
+tizounine.castilian_dialect: "Tizunín"
+
+# Province 'hascora_province' () #
+ouarzazate.castilian_dialect: "Uarzazate del Uadi"
+agdez.castilian_dialect: "Agdez del Valle"
+ait_benhaddou.castilian_dialect: "Alcázar de Benhaddú"
+skoura.castilian_dialect: "Escura de las Palmas"
+tagmadert.castilian_dialect: "Tagmadar"
+taznakht.castilian_dialect: "Taznaque"
+
+# Province 'sus_province' () #
+taroudant.castilian_dialect: "Tarudante del Sus"
+agadir.castilian_dialect: "Agadir del Mar"
+aouint_yghomane.castilian_dialect: "Avente Gomán"
+ifni.castilian_dialect: "Ifni"
+ifrane.castilian_dialect: "Ifrán del Sus"
+massa_MOR.castilian_dialect: "Masa del Río"
+noul_lamta.castilian_dialect: "Villa Gonzalo de Lamta"
+tafraout.castilian_dialect: "Tafraute"
+tidsi.castilian_dialect: "Tidsi"
+tiznit.castilian_dialect: "Tiznita"
+
+# Province 'tafilalt_province' () #
+sijilmasa.castilian_dialect: "Sigilmassa"
+boumalne_dades.castilian_dialect: "Bumal del Dadés"
+er_rich.castilian_dialect: "San Rodrigo del Rich"
+ksar_es_souk.castilian_dialect: "Alcázar del Zoco"
+tazzarine.castilian_dialect: "Tazarina"
+todgha.castilian_dialect: "Todga del Río"
+
+
+## Area 'morocco_area' () ##
+# Province 'azghar_province' () #
+ksar_el_kebir.castilian_dialect: "Alcazarquivir"
+larache.castilian_dialect: "Larache"
+ouezzane.castilian_dialect: "Santa Mencía de Uezán"
+
+# Province 'dukkala_province' () #
+asfi.castilian_dialect: "Safí"
+aguz.castilian_dialect: "Aguz de la Marisma"
+boulaouane.castilian_dialect: "Bulauán"
+echemmaia.castilian_dialect: "Chemaya"
+mazaghan.castilian_dialect: "Mazagán"
+miatbir.castilian_dialect: "Villa Nuño"
+sidi_bennour.castilian_dialect: "Sidi Benur"
+tit.castilian_dialect: "San Tito"
+
+# Province 'errif_province' () #
+badis.castilian_dialect: "Vélez de Badis"
+al_mazamma.castilian_dialect: "Almazama"
+taunat.castilian_dialect: "Taunate"
+tizgane.castilian_dialect: "Tizgán"
+
+# Province 'fez_province' () #
+fez.castilian_dialect: "Fez"
+azrou.castilian_dialect: "Azrú del Cedro"
+baht.castilian_dialect: "Valle del Beht"
+la_mamora.castilian_dialect: "La Mamora"
+meknes.castilian_dialect: "Mequinez"
+sale.castilian_dialect: "Salé"
+tefelfelt.castilian_dialect: "Tefelfel"
+volubilis.castilian_dialect: "Volúbilis"
+
+# Province 'kert_province' () #
+melilla.castilian_dialect: "Melilla"
+afso.castilian_dialect: "Afso del Río"
+ghassasa.castilian_dialect: "Gasasa"
+temsamane.castilian_dialect: "Temsamán"
+ras_kebdana.castilian_dialect: "Cabo Kebdana"
+
+# Province 'habat_province' () #
+tangier.castilian_dialect: "Tánger"
+amergo.castilian_dialect: "San Íñigo de Amergo"
+asilah.castilian_dialect: "Arcila"
+basra_al_hamra.castilian_dialect: "Basora Roja"
+ceuta.castilian_dialect: "Ceuta"
+tazroute.castilian_dialect: "Tazruta"
+tetouan.castilian_dialect: "Tetuán"
+
+# Province 'haha_province' () #
+tednest.castilian_dialect: "Tednés"
+ait_daoud.castilian_dialect: "San Dáud"
+chichaoua.castilian_dialect: "Chichaúa"
+mogador.castilian_dialect: "Mogador"
+tafedna.castilian_dialect: "Tafedna"
+
+# Province 'haouz_province' () #
+taza.castilian_dialect: "Taza del Paso"
+ameskour.castilian_dialect: "Amescur"
+debdou.castilian_dialect: "Debdú"
+guercif.castilian_dialect: "Guerzif"
+midelt.castilian_dialect: "Midelta"
+namalata.castilian_dialect: "Santa Elvira de Namalata"
+sefrou.castilian_dialect: "Sefrú del Río"
+tabarida.castilian_dialect: "Tabárida"
+terrest.castilian_dialect: "Terreste"
+tezerghe.castilian_dialect: "Tezerje"
+
+# Province 'marrakesh_province' () #
+marrakesh.castilian_dialect: "Marrakech"
+aghmat.castilian_dialect: "Agmat"
+hanimmei.castilian_dialect: "Hanimey"
+naffis.castilian_dialect: "Nafes del Río"
+tamdegost.castilian_dialect: "Tamedegos"
+tinmel.castilian_dialect: "Tinmel de la Montaña"
+
+# Province 'tadla_province' () #
+tadla.castilian_dialect: "Tadla Verde"
+azilal.castilian_dialect: "Azilal del Atlas"
+bzou.castilian_dialect: "Buzú del Río"
+demnate.castilian_dialect: "Demnat"
+kalaat_sraghna.castilian_dialect: "Alcalá de Sragna"
+khenifra.castilian_dialect: "Jenifra"
+
+# Province 'tamasna_province' () #
+anfa.castilian_dialect: "Anfa del Mar"
+azemmour.castilian_dialect: "Azamor"
+bejaad.castilian_dialect: "Bejad"
+mrirah.castilian_dialect: "Villa Fernán"
+rabat.castilian_dialect: "Rabat del Río"
+settat.castilian_dialect: "Settat"
+tegeget.castilian_dialect: "Tegeguet"
+thagia.castilian_dialect: "Zagia"
+
+
+## Area 'atlas_high_plateau' () ##
+# Province 'aures_province' () #
+biskra.castilian_dialect: "Biscra del Ziban"
+bades.castilian_dialect: "Bades"
+bir_el_alter.castilian_dialect: "Pozo de Alter"
+sidi_okba.castilian_dialect: "Sidi Ocba"
+madila.castilian_dialect: "Villa Lope"
+tolga.castilian_dialect: "Tolga de las Palmeras"
+
+# Province 'hodna_province' () #
+msila.castilian_dialect: "Mesila"
+amdoukal.castilian_dialect: "Amducal"
+bou_saada.castilian_dialect: "Busada"
+el_kantara.castilian_dialect: "Alcántara del Ziban"
+maqqara.castilian_dialect: "Macara"
+
+# Province 'ksour_province' () #
+el_bayadh.castilian_dialect: "Castillo Blanco"
+ain_sefra.castilian_dialect: "Aín Sefra"
+brezina.castilian_dialect: "Brezina"
+el_abiodh_sidi_cheikh.castilian_dialect: "Cei el Blanco"
+medrissa.castilian_dialect: "Villa Pedro"
+naama.castilian_dialect: "Naama"
+qal_at_ibn_salama.castilian_dialect: "Alcalá de Ibn Salama"
+qutb.castilian_dialect: "Coto del Desierto"
+
+# Province 'laghouat_province' () #
+laghouat.castilian_dialect: "Lagüat"
+ain_madhi.castilian_dialect: "Aín Madí"
+messaad.castilian_dialect: "Mesad"
+ouled_djellal.castilian_dialect: "Uled Yelal"
+
+# Province 'titteri_province' () #
+tahert.castilian_dialect: "Tiarte"
+asir_ALG.castilian_dialect: "Asir"
+charef.castilian_dialect: "Charef"
+djelfa.castilian_dialect: "Yelfa"
+ksar_el_boukhari.castilian_dialect: "Alcázar de Bucar"
+tissemsilt.castilian_dialect: "Tisemsel"
+zenina.castilian_dialect: "Santa Marina"
+
+
+## Area 'algiers_area' () ##
+# Province 'dahra_province' () #
+mostaganem.castilian_dialect: "Mostagán"
+brashk.castilian_dialect: "Brasque"
+cherchell.castilian_dialect: "Cherchel"
+tenes.castilian_dialect: "Tenés"
+
+# Province 'mitidja_province' () #
+algiers.castilian_dialect: "Argel"
+medea.castilian_dialect: "Medea"
+tablat.castilian_dialect: "San Bartolomé de Tablat"
+tamentfoust.castilian_dialect: "Tamentuz"
+
+# Province 'oran_province' () #
+oran.castilian_dialect: "Orán"
+arshgul.castilian_dialect: "Arsegul"
+arzew.castilian_dialect: "Arzeu"
+ksar_ibn_senane.castilian_dialect: "Alcázar de Senán"
+nedroma.castilian_dialect: "Nedroma"
+tamazaghrane.castilian_dialect: "Tamazagrán"
+
+# Province 'ouarsenis_province' () #
+miliana.castilian_dialect: "Miliana"
+al_khadra_ALG.castilian_dialect: "Alcádra"
+chlef.castilian_dialect: "Chelif"
+ksar_el_kaoua.castilian_dialect: "Alcázar de Caua"
+mazouna.castilian_dialect: "Mazuna"
+yellel.castilian_dialect: "Yelel del Río"
+
+# Province 'oujda_province' () #
+oujda.castilian_dialect: "Uxda"
+jarawah_abu_al_aysh.castilian_dialect: "Jaraua de Aixa"
+jerada.castilian_dialect: "Yerada"
+ras_al_ain.castilian_dialect: "Cabo de la Fuente"
+taourirt.castilian_dialect: "Taorir"
+
+# Province 'tlemcen_province' () #
+tlemcen.castilian_dialect: "Tremecén"
+madinat_alawiyyin.castilian_dialect: "Ciudad de los Alauíes"
+mascara.castilian_dialect: "Máscara"
+saida.castilian_dialect: "Saida del Río"
+tessala.castilian_dialect: "Tesala"
+
+
+## Area 'tunis_area' () ##
+# Province 'annaba_province' () #
+annaba.castilian_dialect: "Bona"
+cheffia.castilian_dialect: "Chefía"
+collo.castilian_dialect: "Colo"
+el_kala.castilian_dialect: "El Cala"
+el_milia.castilian_dialect: "Milia"
+guelma.castilian_dialect: "Cálama"
+jijel.castilian_dialect: "Gigeli"
+skikda.castilian_dialect: "Rusicada"
+tekouch.castilian_dialect: "Tecuche"
+
+# Province 'baghai_province' () #
+baghai.castilian_dialect: "Bagay"
+dufanat.castilian_dialect: "Dufanat"
+meskiana.castilian_dialect: "Mesquiana"
+tebessa.castilian_dialect: "Teveste"
+tiffech.castilian_dialect: "Tifech"
+
+# Province 'bizerte_province' () #
+bizerte.castilian_dialect: "Bizerta"
+mateur.castilian_dialect: "San Gil"
+sejnane.castilian_dialect: "Sejnán"
+tabarka.castilian_dialect: "Tabarca"
+tebourba.castilian_dialect: "Teburba"
+
+# Province 'constantine_province' () #
+constantine_ALG.castilian_dialect: "Constantina"
+bazer_sakhra.castilian_dialect: "Bazer Sacra"
+ikjan.castilian_dialect: "Iján"
+mila.castilian_dialect: "Mila"
+ngaous.castilian_dialect: "Engaus"
+tijis.castilian_dialect: "Tijis"
+
+# Province 'djerid_province' () #
+gafsa.castilian_dialect: "Capsa"
+douz.castilian_dialect: "Duz del Oasis"
+kebili.castilian_dialect: "Quebili"
+madas.castilian_dialect: "Madas"
+nefta.castilian_dialect: "Nefta del Oasis"
+tozeur.castilian_dialect: "Tuzur"
+
+# Province 'kabylia_province' () #
+bejaia.castilian_dialect: "Bugía"
+azeffoun.castilian_dialect: "Azefún"
+bordj_bou_arreridj.castilian_dialect: "Burj Arredí"
+bouira.castilian_dialect: "Buira"
+el_kseur.castilian_dialect: "El Cheur"
+kalaa_of_ait_abbas.castilian_dialect: "Alcalá de Abás"
+kuku.castilian_dialect: "Cucu"
+mansouria.castilian_dialect: "Mansuria"
+setif.castilian_dialect: "Setifis"
+tedelles.castilian_dialect: "Tedeles"
+
+# Province 'kairouan_province' () #
+kairouan.castilian_dialect: "Kairuán"
+kesra.castilian_dialect: "Kesra"
+sbikha.castilian_dialect: "Esbija"
+
+# Province 'medjerda_province' () #
+beja_TUN.castilian_dialect: "Beja"
+el_kef.castilian_dialect: "El Quef"
+el_ksour.castilian_dialect: "Los Alcázares"
+jama_TUN.castilian_dialect: "Yama"
+medjez_el_bab.castilian_dialect: "Puente del Bab"
+souk_el_arba.castilian_dialect: "Zoco del Miércoles"
+thagaste.castilian_dialect: "Tagaste"
+
+# Province 'qabisa_province' () #
+gabes.castilian_dialect: "Gábes"
+bou_hajla.castilian_dialect: "Bujaila"
+madjul.castilian_dialect: "Madjul"
+mahres.castilian_dialect: "Mahres del Golfo"
+sfaqes.castilian_dialect: "Esfax"
+sidi_fredj.castilian_dialect: "Sidi Fred"
+
+# Province 'qamuda_province' () #
+feriana.castilian_dialect: "Feriana"
+kasserine.castilian_dialect: "Casrina"
+sbiba.castilian_dialect: "Esbiba"
+subaytila.castilian_dialect: "Sufetula"
+thala.castilian_dialect: "Zala"
+
+# Province 'sahel_TUN_province' () #
+mahdia.castilian_dialect: "Mehdia"
+sousse.castilian_dialect: "Susa"
+el_jem.castilian_dialect: "El Yem"
+monastir.castilian_dialect: "Monastir"
+chebba.castilian_dialect: "Cheba"
+
+# Province 'tunis_province' () #
+tunis.castilian_dialect: "Túnez"
+el_fahs.castilian_dialect: "El Fas"
+hammamet.castilian_dialect: "Ahemía de la Costa"
+kelibia.castilian_dialect: "Quelibia"
+nabeul.castilian_dialect: "Nabul"
+zaghouan.castilian_dialect: "Zaguán"
+
+
+## Area 'tripolitania_area' () ##
+# Province 'djafara_province' () #
+zuwarah.castilian_dialect: "Zuara"
+ajim.castilian_dialect: "Ajín"
+chenini.castilian_dialect: "Chenina"
+matmata.castilian_dialect: "Matmata"
+medenine.castilian_dialect: "Medenín"
+tataouine.castilian_dialect: "Tatahuín"
+zarzis.castilian_dialect: "Zarzis del Golfo"
+
+# Province 'misratah_province' () #
+misratah.castilian_dialect: "Misrata"
+bani_walid.castilian_dialect: "Beni Ualid"
+ras_lanuf.castilian_dialect: "Cabo Lanuf"
+sirte.castilian_dialect: "Sirte"
+tarhuna.castilian_dialect: "Tarnuna"
+tawurgha.castilian_dialect: "Tauurga"
+
+# Province 'nafusa_province' () #
+nalut.castilian_dialect: "Nalut"
+ghariyan.castilian_dialect: "Garían"
+jadu.castilian_dialect: "Yadu"
+mizda.castilian_dialect: "Mizda"
+yafran.castilian_dialect: "Yafrán"
+zintan.castilian_dialect: "Zintán"
+
+# Province 'tripolitania_province' () #
+tripoli.castilian_dialect: "Trípoli"
+al_kadwa.castilian_dialect: "Al Cadoa"
+al_khums.castilian_dialect: "Aljums"
+zawiya.castilian_dialect: "Zauia del Mar"
+zliten.castilian_dialect: "Zlitén"
+
+
+## Area 'desert_area' () ##
+# Province 'central_sahara' () #
+abalessa.castilian_dialect: "Abalesa"
+djanet.castilian_dialect: "Yanet"
+ghadames.castilian_dialect: "Gadamés"
+in_amenas.castilian_dialect: "Amenas"
+sinawin.castilian_dialect: "Sinauin"
+
+# Province 'east_fezzan_province' () #
+al_jawf.castilian_dialect: "Aljof"
+tazirbu.castilian_dialect: "Tazirbo"
+awjila.castilian_dialect: "Augila"
+maradah.castilian_dialect: "Marada"
+zella.castilian_dialect: "Zela"
+
+# Province 'fezzan_province' () #
+sabha.castilian_dialect: "Sebha"
+brak.castilian_dialect: "Brac del Desierto"
+ghat.castilian_dialect: "Gat"
+murzuk.castilian_dialect: "Murzuc"
+sokna.castilian_dialect: "Socna"
+ubari.castilian_dialect: "Ubarri"
+zawila.castilian_dialect: "Zauila"
+
+# Province 'gourara_province' () #
+timimoun.castilian_dialect: "Timimún"
+adrar.castilian_dialect: "Adrar"
+ain_salah.castilian_dialect: "Aín Salah del Pozo"
+charouine.castilian_dialect: "Charuín"
+
+# Province 'mzab_province' () #
+ghardaia.castilian_dialect: "Gardaya"
+berriane.castilian_dialect: "Berrian"
+el_guerrara.castilian_dialect: "El Guerrara"
+guettara.castilian_dialect: "Guetara"
+
+# Province 'ouargla_province' () #
+ouargla.castilian_dialect: "Uargla"
+el_golea.castilian_dialect: "El Golea"
+ngoussa.castilian_dialect: "Engusa"
+
+# Province 'saoura_province' () #
+figuig.castilian_dialect: "Figuig del Río"
+bechar.castilian_dialect: "Bechar"
+igli.castilian_dialect: "Igli"
+tabelbala.castilian_dialect: "Tabelbala"
+taghit.castilian_dialect: "Taghit de las Dunas"
+
+# Province 'touggourt_province' () #
+touggourt.castilian_dialect: "Tugur"
+asuf.castilian_dialect: "Asuf"
+debila.castilian_dialect: "Debila"
+tamacine.castilian_dialect: "Tamasín"
+
+
+## Area 'western_sahara_area' () ##
+# Province 'oued_edhahab_province' () #
+laayoune.castilian_dialect: "El Aaiún"
+smara.castilian_dialect: "Smara"
+tantan.castilian_dialect: "Tan Tan"
+tindouf.castilian_dialect: "Tinduf"
+
+# Province 'saguia_el_hamra_province' () #
+dakhla.castilian_dialect: "Villa Cisneros"
+al_kuwayra.castilian_dialect: "La Güera"
+aousserd.castilian_dialect: "Ausert"
+bojador.castilian_dialect: "Cabo Bojador"
+
+
+## Area 'nw_africa_coast_area' () ##
+
+
+## Area 'central_mediterranean_sea_area' () ##
+
+
+## Area 'alboran_sea_area' () ##
+### Region 'caribbean_region' () ###
+
+## Area 'cuba_area' () ##
+# Province 'baracoa_province' () #
+yateras.castilian_dialect: "Santa María de Yateras"
+bayaquitiri.castilian_dialect: "Bahía de las Palmas"
+mayari.castilian_dialect: "Valle del Río Mayarí"
+guantanamo.castilian_dialect: "Bahía de Guantánamo"
+baracoa.castilian_dialect: "Nuestra Señora de la Asunción de Baracoa"
+sagua.castilian_dialect: "Sagua de Tánamo"
+barajagua.castilian_dialect: "Santa Cruz de Barajagua"
+
+# Province 'bayamo_province' () #
+bayamo.castilian_dialect: "San Salvador de Bayamo"
+macaca.castilian_dialect: "Santa Lucía de Macaca"
+jiguani.castilian_dialect: "San Juan de Jiguaní"
+cueiba.castilian_dialect: "La Ceiba Grande"
+maguanes.castilian_dialect: "Maguanes del Monte"
+bani_cuba.castilian_dialect: "San Benito de Baní"
+lora.castilian_dialect: "Villa de Lope"
+cayaguayo.castilian_dialect: "Cayaguayo del Río Claro"
+
+# Province 'camaguey_province' () #
+south_camaguey.castilian_dialect: "Llanos del Príncipe"
+camaguey.castilian_dialect: "Puerto del Príncipe"
+mabuya.castilian_dialect: "San Miguel de Mabuyal"
+guaimaro.castilian_dialect: "Villa de Guáimaro"
+
+# Province 'moron_province' () #
+cubanacan.castilian_dialect: "Nueva Segovia de Cubanacán"
+east_cubanacan.castilian_dialect: "Puerto de Nuño"
+magon.castilian_dialect: "Magón de las Lomas"
+ornofay.castilian_dialect: "Ornofay del Río Largo"
+guamuhaya.castilian_dialect: "Sierra de Guamuhaya"
+east_sabaneque.castilian_dialect: "Sabaneque del Este"
+central_sabaneque.castilian_dialect: "Sabaneque de la Vega"
+sabana.castilian_dialect: "La Sabana Real"
+
+# Province 'havana_province' () #
+habana.castilian_dialect: "San Cristóbal de La Habana"
+batanabo.castilian_dialect: "Santa Mencía de Batanabo"
+guanimar.castilian_dialect: "San Juan de Guanimar"
+marien_cuba.castilian_dialect: "Bahía de Maríen"
+siguanea.castilian_dialect: "Isla de Siguanea"
+guaniguanico.castilian_dialect: "Sierra del Guaniguanico"
+guanamacabibes.castilian_dialect: "Cabo de San Antonio"
+macoriges.castilian_dialect: "San Lorenzo de Macorígez"
+west_sabaneneque.castilian_dialect: "Sabaneque de Occidente"
+hanabana.castilian_dialect: "Hanabaña del Río"
+jagua.castilian_dialect: "Bahía de Jagua"
+
+# Province 'xaymaca_province' () #
+maynoa.castilian_dialect: "Santa María de Maynoa"
+yaguabo.castilian_dialect: "San Yaguabo del Río"
+aguacadiba.castilian_dialect: "Valle de los Aguacates"
+guaygata.castilian_dialect: "Valle de Gonzalo"
+anaya.castilian_dialect: "Puerto de Anaya"
+oristan.castilian_dialect: "San Oristán"
+
+# Province 'bahamas_province' () #
+abacoa.castilian_dialect: "Isla de Abacoa"
+exuma.castilian_dialect: "Islas de Exuma"
+guanima.castilian_dialect: "Santa Catalina"
+eleuthera.castilian_dialect: "Isla de la Libertad"
+guanahani.castilian_dialect: "San Salvador"
+inagua.castilian_dialect: "Nuestra Señora de Inagua"
+jumento.castilian_dialect: "Puerto Álvar"
+caycos.castilian_dialect: "Los Cayos Altos"
+lucayoneque.castilian_dialect: "Islas Lucayas"
+bahama.castilian_dialect: "Gran Bahama"
+
+
+## Area 'hispaniola_area' () ##
+# Province 'higuey_province' () #
+bavaro.castilian_dialect: "Costa del Bávaro"
+yuma.castilian_dialect: "Valle del Río Yuma"
+hicayagua.castilian_dialect: "San Nicolás de Hicayagua"
+cayacoa.castilian_dialect: "Puerto de Cayacoa"
+yamasa.castilian_dialect: "Sierra de Yamasa"
+boya.castilian_dialect: "Santa Ana de Boyá"
+
+# Province 'maguana_province' () #
+maguana.castilian_dialect: "Llanos de Maguana"
+jarabacoa.castilian_dialect: "Valle de Jarabacoa"
+cibao.castilian_dialect: "Santiago del Cibao"
+azua.castilian_dialect: "Azua de Compostela"
+bani.castilian_dialect: "San Juan de Baní"
+banique.castilian_dialect: "Banique de las Lomas"
+
+# Province 'magua_province' () #
+yaqui.castilian_dialect: "Ribera del Yaque"
+magorix.castilian_dialect: "San Miguel de Magorís"
+bohio.castilian_dialect: "Valle del Bohío"
+moca.castilian_dialect: "Moca de la Sierra"
+samana.castilian_dialect: "Santa Bárbara de Samaná"
+cubao.castilian_dialect: "Cubao del Monte"
+ciguayo.castilian_dialect: "Bahía de Ciguayo"
+cotui.castilian_dialect: "Santa Cruz de Cotuí"
+
+# Province 'marien_province' () #
+marien.castilian_dialect: "Maríen de la Costa"
+iguamuco.castilian_dialect: "San Íñigo de Iguamuco"
+guahaba.castilian_dialect: "Guahaba del Puerto"
+tortuga.castilian_dialect: "Isla Tortuga"
+baynoa.castilian_dialect: "Puerto de Baynoa"
+
+# Province 'jaragua_province' () #
+jaragua.castilian_dialect: "Señorío de Jaragua"
+cayguani.castilian_dialect: "Cayguani del Río Verde"
+baoruco.castilian_dialect: "Sierra de Baoruco"
+guanabo.castilian_dialect: "San Pedro de Guanabo"
+cahay.castilian_dialect: "Valle de Cahay"
+guacayakima.castilian_dialect: "Guacayacima del Monte"
+haniguayagua.castilian_dialect: "Haniguayagua de las Aguas"
+yaquimo.castilian_dialect: "San Marcos de Yaquimo"
+yaguana.castilian_dialect: "Nuestra Señora de Yaguana"
+
+# Province 'boriken_province' () #
+guaynabo.castilian_dialect: "Guaynabo del Puerto"
+guaraca.castilian_dialect: "Santa Clara de Guaraca"
+guaynia.castilian_dialect: "San Germán de Guaynia"
+guama.castilian_dialect: "Valle de Guamá"
+arasibo.castilian_dialect: "San Felipe de Arecibo"
+ayamaco.castilian_dialect: "Ayamaco de las Palmas"
+
+
+## Area 'gulf_of_mexico_area' () ##
+
+
+## Area 'west_caribbean_sea_area' () ##
+
+
+## Area 'east_caribbean_sea_area' () ##
+
+
+## Area 'bahamas_sea_area' () ##
+
+
+## Area 'lesser_antilles_area' () ##
+# Province 'leeward_islands_province' () #
+wadadli.castilian_dialect: "Santa María la Antigua"
+liamuiga.castilian_dialect: "San Cristóbal"
+walichi.castilian_dialect: "Santa Eulalia"
+anegada.castilian_dialect: "Isla Anegada"
+ayay.castilian_dialect: "Isla de Ayay"
+
+# Province 'windward_islands_province' () #
+carucairi.castilian_dialect: "Isla de Curazao"
+waitu_kubuli.castilian_dialect: "La Domínica"
+iguanacaera.castilian_dialect: "Isla de las Iguanas"
+hewanorra.castilian_dialect: "Santa Lucía"
+cairiani.castilian_dialect: "San Cayetano"
+ichirouganaim.castilian_dialect: "Isla de Barbados"
+alubera.castilian_dialect: "Santa Olvera"
+kamahuya.castilian_dialect: "San Camilo de Kamahuya"
+youloumain.castilian_dialect: "San Vicente"
+buriari.castilian_dialect: "Buriari del Mar"
+curacaute.castilian_dialect: "Puerto Curacaute"
+arubeira.castilian_dialect: "Isla de Aruba"
+
+
+## Area 'antilles_sea_area' () ##

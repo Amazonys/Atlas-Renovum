@@ -1,0 +1,1399 @@
+﻿l_english:
+### Region 'baltic_region' () ###
+
+## Area 'baltic_area' () ##
+# Province 'courland_province' () #
+kuldiga.lithuanian_language: "Aukspilis"
+dundaga.lithuanian_language: "Dundaga"
+durbe.lithuanian_language: "Durbė"
+grobina.lithuanian_language: "Grobinė"
+kandava.lithuanian_language: "Kandava"
+piltene.lithuanian_language: "Piltinė"
+saldus.lithuanian_language: "Saldus"
+ventspils.lithuanian_language: "Ventspilis"
+
+# Province 'estonia_province' () #
+tallinn.lithuanian_language: "Talinas"
+narva.lithuanian_language: "Narva"
+padise.lithuanian_language: "Padisė"
+paide.lithuanian_language: "Paidė"
+rakvere.lithuanian_language: "Rakverė"
+rapla.lithuanian_language: "Rapla"
+toolse.lithuanian_language: "Tulsė"
+vasknarva.lithuanian_language: "Vasknarva"
+
+# Province 'inner_livonia_province' () #
+cesis.lithuanian_language: "Vendenas"
+aluksne.lithuanian_language: "Marijapilis"
+gulbene.lithuanian_language: "Gulbinai"
+rauna.lithuanian_language: "Rauna"
+valmiera.lithuanian_language: "Volmaras"
+
+# Province 'latgalia_province' () #
+vilaka.lithuanian_language: "Marijava"
+jekabpils.lithuanian_language: "Jokūbpilis"
+kraslava.lithuanian_language: "Kraslava"
+makonkalns.lithuanian_language: "Debeskalnis"
+pietalava.lithuanian_language: "Pietalava"
+rezekne.lithuanian_language: "Rezegnė"
+
+# Province 'north_livonia_province' () #
+parnu.lithuanian_language: "Pernu"
+karksi.lithuanian_language: "Karksis"
+poltsamaa.lithuanian_language: "Pilsama"
+saarde.lithuanian_language: "Sardė"
+suure_jaani.lithuanian_language: "Didjonys"
+viljandi.lithuanian_language: "Viliandis"
+
+# Province 'rotalia_province' () #
+hapsal.lithuanian_language: "Hapsalis"
+kaina.lithuanian_language: "Kaina"
+kuressaare.lithuanian_language: "Kurėsarė"
+lihula.lithuanian_language: "Lihula"
+st_martin.lithuanian_language: "Martynava"
+valjala.lithuanian_language: "Valjala"
+
+# Province 'selonia_province' () #
+daugavpils.lithuanian_language: "Daugpilis"
+aizkraukle.lithuanian_language: "Aizkrauklė"
+selpils.lithuanian_language: "Sėlupilis"
+
+# Province 'semigalia_province' () #
+jelgava.lithuanian_language: "Jelgava"
+bauska.lithuanian_language: "Bauskė"
+dobele.lithuanian_language: "Dobelė"
+tukums.lithuanian_language: "Tukumas"
+
+# Province 'south_livonia_province' () #
+riga.lithuanian_language: "Ryga"
+koknese.lithuanian_language: "Koknesė"
+limbazi.lithuanian_language: "Limbažiai"
+salaspils.lithuanian_language: "Salaspilis"
+sigulda.lithuanian_language: "Sigulda"
+straupe.lithuanian_language: "Straupė"
+
+# Province 'tartu_province' () #
+tartu.lithuanian_language: "Tartu"
+valka.lithuanian_language: "Valkė"
+vastseliina.lithuanian_language: "Vastselina"
+vonnu.lithuanian_language: "Veniu"
+
+
+## Area 'central_poland_area' () ##
+# Province 'dobrzyn_province' () #
+dobrzyn.lithuanian_language: "Dobrinas"
+lipno.lithuanian_language: "Liepnas"
+rypin.lithuanian_language: "Rypinas"
+
+# Province 'kuyavia_province' () #
+wloclawek.lithuanian_language: "Vloclavekas"
+bydgoszcz.lithuanian_language: "Bidgoščius"
+inowroclaw.lithuanian_language: "Inovroclavas"
+kowal.lithuanian_language: "Kalvis"
+radziejow.lithuanian_language: "Radževas"
+
+# Province 'leczyca_province' () #
+leczyca.lithuanian_language: "Lenčica"
+lodz.lithuanian_language: "Laivynas"
+orlow.lithuanian_language: "Ereliava"
+zgierz.lithuanian_language: "Zgeržas"
+
+# Province 'sieradz_province' () #
+sieradz.lithuanian_language: "Seradžas"
+brzeznica.lithuanian_language: "Beržynė"
+piotrkow_trybunalski.lithuanian_language: "Petrapilis"
+radomsko.lithuanian_language: "Radomskas"
+szadek.lithuanian_language: "Šadekas"
+turek.lithuanian_language: "Turekas"
+tuszyn.lithuanian_language: "Tušinas"
+uniejow.lithuanian_language: "Unejavas"
+
+# Province 'wielun_province' () #
+wielun.lithuanian_language: "Veliūnas"
+ostrzeszow.lithuanian_language: "Ostžešavas"
+wieruszow.lithuanian_language: "Verušavas"
+
+
+## Area 'greater_poland_area' () ##
+# Province 'gniezno_province' () #
+gniezno.lithuanian_language: "Lizdava"
+mogilno.lithuanian_language: "Mogilnas"
+trzemeszno.lithuanian_language: "Tremežnas"
+
+# Province 'kalisz_province' () #
+kalisz.lithuanian_language: "Kalisas"
+ostrow_wielkopolski.lithuanian_language: "Ostruvas"
+pleszew.lithuanian_language: "Pleževas"
+
+# Province 'konin_province' () #
+konin.lithuanian_language: "Koninas"
+kolo.lithuanian_language: "Kolas"
+lad_konin.lithuanian_language: "Landavas"
+
+# Province 'koscian_province' () #
+koscian.lithuanian_language: "Kosčianas"
+babimost.lithuanian_language: "Babimostas"
+grodzisk_wielkopolski.lithuanian_language: "Grodiskas"
+rawicz.lithuanian_language: "Ravičas"
+srem.lithuanian_language: "Šremas"
+wschowa.lithuanian_language: "Višuva"
+
+# Province 'naklo_province' () #
+naklo.lithuanian_language: "Naklas"
+wyrzysk.lithuanian_language: "Viržiskas"
+zlotow.lithuanian_language: "Auksavas"
+
+# Province 'poznan_province' () #
+poznan.lithuanian_language: "Poznanė"
+buk.lithuanian_language: "Bukas"
+czarnkow.lithuanian_language: "Juodavas"
+miedzyrzecz.lithuanian_language: "Tarpupis"
+oborniki.lithuanian_language: "Obornikai"
+skwierzyna.lithuanian_language: "Skvierina"
+szamotuly.lithuanian_language: "Šamotuliai"
+wielen.lithuanian_language: "Veliainis"
+
+# Province 'pyzdry_province' () #
+pyzdry.lithuanian_language: "Pyzdras"
+kozmin.lithuanian_language: "Kožminas"
+sroda_wielkopolska.lithuanian_language: "Šrodava"
+
+# Province 'arnskrone_province' () #
+walcz.lithuanian_language: "Valčas"
+czaplinek.lithuanian_language: "Čaplinekas"
+czlopa.lithuanian_language: "Člopė"
+
+# Province 'znin_province' () #
+znin.lithuanian_language: "Žninas"
+chodziez.lithuanian_language: "Hodžežas"
+szubin.lithuanian_language: "Šubinas"
+
+
+## Area 'lesser_poland_area' () ##
+# Province 'checiny_province' () #
+kielce.lithuanian_language: "Kelcai"
+opoczno.lithuanian_language: "Opočnas"
+przedborz.lithuanian_language: "Pšedboras"
+zarnow.lithuanian_language: "Žarnavas"
+
+# Province 'czestochowa_province' () #
+czestochowa.lithuanian_language: "Čenstakava"
+lelow.lithuanian_language: "Lelavas"
+mstow.lithuanian_language: "Mstavas"
+
+# Province 'krakow_province' () #
+krakow.lithuanian_language: "Krokuva"
+chrzanow.lithuanian_language: "Krienava"
+ksiaz_wielki.lithuanian_language: "Kunigava"
+proszowice.lithuanian_language: "Prošoviciai"
+
+# Province 'lublin_province' () #
+lublin.lithuanian_language: "Liublinas"
+janow_lubelski.lithuanian_language: "Janavas"
+kazimierz.lithuanian_language: "Kazimieris"
+lukow.lithuanian_language: "Lankava"
+lubartow.lithuanian_language: "Lubartavas"
+urzedow.lithuanian_language: "Uržendavas"
+
+# Province 'nowy_sacz_province' () #
+nowy_sacz.lithuanian_language: "Naujisandžas"
+biecz.lithuanian_language: "Bečas"
+czchow.lithuanian_language: "Čavas"
+jaslo.lithuanian_language: "Jaslas"
+nowy_targ.lithuanian_language: "Naujoturgis"
+
+# Province 'pilzno_province' () #
+pilzno.lithuanian_language: "Pilznas"
+busko_zdroj.lithuanian_language: "Buskas"
+debica.lithuanian_language: "Ąžuolava"
+tarnow.lithuanian_language: "Tarnavas"
+wislica.lithuanian_language: "Višlica"
+
+# Province 'radom_province' () #
+radom.lithuanian_language: "Radomas"
+ilza.lithuanian_language: "Ilža"
+stezyca.lithuanian_language: "Stežica"
+szydlowiec.lithuanian_language: "Šydlavecas"
+zwolen.lithuanian_language: "Zvolenis"
+
+# Province 'sandomierz_province' () #
+sandomierz.lithuanian_language: "Sandomierzas"
+kunow.lithuanian_language: "Kunavas"
+opatow.lithuanian_language: "Abatavas"
+rudnik_poland.lithuanian_language: "Rūdava"
+
+# Province 'szczyrzyc_province' () #
+wieliczka.lithuanian_language: "Veličkė"
+myslenice.lithuanian_language: "Mišlenicai"
+oswiecim.lithuanian_language: "Aušvicas"
+zywiec.lithuanian_language: "Žyviecas"
+
+
+## Area 'lithuania_area' () ##
+# Province 'ashmyany_province' () #
+ashmyany.lithuanian_language: "Ašmena"
+halshany.lithuanian_language: "Alšėnai"
+hieraniony.lithuanian_language: "Geranainiai"
+kreva.lithuanian_language: "Krėva"
+
+# Province 'breslauja_province' () #
+braslaw.lithuanian_language: "Breslauja"
+drysvyaty.lithuanian_language: "Drisvėtai"
+ezerenai.lithuanian_language: "Ežerėnai"
+miory.lithuanian_language: "Mioros"
+
+# Province 'kaunas_province' () #
+kaunas.lithuanian_language: "Kaunas"
+alytus.lithuanian_language: "Alytus"
+punia.lithuanian_language: "Punia"
+vilkaviskis.lithuanian_language: "Vilkaviškis"
+
+# Province 'lida_province' () #
+lida.lithuanian_language: "Lyda"
+astrina.lithuanian_language: "Astryna"
+eisiskes.lithuanian_language: "Eišiškės"
+shchuchyn.lithuanian_language: "Ščiūtinas"
+
+# Province 'suwalki_province' () #
+suwalki.lithuanian_language: "Suvalkai"
+lipsk.lithuanian_language: "Lipskas"
+veisiejai.lithuanian_language: "Veisiejai"
+
+# Province 'trakai_province' () #
+trakai.lithuanian_language: "Trakai"
+lazdijai.lithuanian_language: "Lazdijai"
+onushkis.lithuanian_language: "Onuškis"
+merkine.lithuanian_language: "Merkinė"
+
+# Province 'svir_province' () #
+svir.lithuanian_language: "Svyrius"
+dokshytsy.lithuanian_language: "Dokšicai"
+hlybokaye.lithuanian_language: "Glybokas"
+myadzyel.lithuanian_language: "Medelis"
+svencionys.lithuanian_language: "Švenčionys"
+vileyka.lithuanian_language: "Vileika"
+
+# Province 'upyte_province' () #
+upyte.lithuanian_language: "Upytė"
+birzai.lithuanian_language: "Biržai"
+linkava.lithuanian_language: "Linkuva"
+panevezys.lithuanian_language: "Panevėžys"
+pasvalys.lithuanian_language: "Pasvalys"
+
+# Province 'vilkmerge_province' () #
+vilkmerge.lithuanian_language: "Vilkmergė"
+anyksciai.lithuanian_language: "Anykščiai"
+maleisiai.lithuanian_language: "Maleišiai"
+rokiskis.lithuanian_language: "Rokiškis"
+utena.lithuanian_language: "Utena"
+
+# Province 'vilnius_province' () #
+vilnius.lithuanian_language: "Vilnius"
+giedraiciai.lithuanian_language: "Giedraičiai"
+kernave.lithuanian_language: "Kernavė"
+medininkai_vilna.lithuanian_language: "Vilniaus Medininkai"
+
+
+## Area 'mazovia_area' () ##
+# Province 'ciechanow_province' () #
+ciechanow.lithuanian_language: "Cehanavas"
+przasnysz.lithuanian_language: "Pžasnysas"
+rozan.lithuanian_language: "Rožanas"
+zakroczym.lithuanian_language: "Zakročimas"
+
+# Province 'czersk_province' () #
+czersk.lithuanian_language: "Čerskas"
+garwolin.lithuanian_language: "Garvolinas"
+grojec.lithuanian_language: "Grojecas"
+liw.lithuanian_language: "Livas"
+
+# Province 'lomza_province' () #
+lomza.lithuanian_language: "Lomža"
+kolno.lithuanian_language: "Kolnas"
+ostroleka.lithuanian_language: "Ostrolėka"
+wizna.lithuanian_language: "Vizna"
+zambrow.lithuanian_language: "Zambrovas"
+
+# Province 'plock_province' () #
+plock.lithuanian_language: "Plockas"
+plonsk.lithuanian_language: "Plonskas"
+sierpc.lithuanian_language: "Serpcas"
+szrensk.lithuanian_language: "Šrenskas"
+
+# Province 'podlasie_province' () #
+drohiczyn.lithuanian_language: "Drohičinas"
+bielsk_podlaski.lithuanian_language: "Bielska"
+goniadz.lithuanian_language: "Goniancas"
+mielnik.lithuanian_language: "Mielnikas"
+sokolow.lithuanian_language: "Sokolavas"
+suraz.lithuanian_language: "Suražas"
+tykocin.lithuanian_language: "Tykocinas"
+
+# Province 'rawa_province' () #
+rawa.lithuanian_language: "Rava"
+biala_rawska.lithuanian_language: "Balorava"
+gabin.lithuanian_language: "Gabinas"
+gostynin.lithuanian_language: "Gostyninas"
+sochaczew.lithuanian_language: "Sochačevas"
+
+# Province 'warsaw_province' () #
+warsaw.lithuanian_language: "Varšuva"
+kamieniec.lithuanian_language: "Akmenininkai"
+nur.lithuanian_language: "Nuras"
+tarczyn.lithuanian_language: "Tarčinas"
+
+
+## Area 'prussia_area' () ##
+# Province 'chelmno_province' () #
+chelmno.lithuanian_language: "Kulmas"
+brodnica.lithuanian_language: "Brodnicė"
+grudziadz.lithuanian_language: "Graudenzas"
+lubawa.lithuanian_language: "Liubava"
+torun.lithuanian_language: "Torunė"
+
+# Province 'danzig_province' () #
+gdansk.lithuanian_language: "Gdanskas"
+gniew.lithuanian_language: "Gnevas"
+koscierzyna.lithuanian_language: "Koščerina"
+mirochowo.lithuanian_language: "Mirochavas"
+puck.lithuanian_language: "Puckas"
+tczew.lithuanian_language: "Tčevas"
+
+# Province 'lithuania_minor_province' () #
+tilsit.lithuanian_language: "Tilžė"
+gumbinnen.lithuanian_language: "Gumbinė"
+labiau.lithuanian_language: "Labguva"
+memel.lithuanian_language: "Klaipėda"
+ragnit.lithuanian_language: "Ragainė"
+windenburg.lithuanian_language: "Vėjapilis"
+
+# Province 'lower_prussia_province' () #
+konigsberg.lithuanian_language: "Karaliaučius"
+balga.lithuanian_language: "Balga"
+brandenburg_prussia.lithuanian_language: "Brandenburgo"
+fischhausen.lithuanian_language: "Žuvininkai"
+gerdauen.lithuanian_language: "Gerdava"
+insterburg.lithuanian_language: "Įsrutis"
+wehlau.lithuanian_language: "Vėluva"
+
+# Province 'masuria_province' () #
+elk.lithuanian_language: "Elkas"
+barten.lithuanian_language: "Bartai"
+nibork.lithuanian_language: "Nida"
+ostroda.lithuanian_language: "Osterodė"
+ryn_poland.lithuanian_language: "Rynas"
+szczytno.lithuanian_language: "Sedonė"
+wegorzewo.lithuanian_language: "Ungura"
+
+# Province 'tuchola_province' () #
+tuchola.lithuanian_language: "Tucholė"
+bialobork.lithuanian_language: "Balbarkas"
+czluchow.lithuanian_language: "Čluhavas"
+nowe.lithuanian_language: "Naujburgas"
+swiecie.lithuanian_language: "Švece"
+
+# Province 'upper_prussia_province' () #
+malbork.lithuanian_language: "Marienburgas"
+dzierzgon.lithuanian_language: "Kristapilė"
+elblag.lithuanian_language: "Elbingas"
+kwidzyn.lithuanian_language: "Marienverderis"
+morag.lithuanian_language: "Maurungėnai"
+
+# Province 'warmia_province' () #
+lidzbark.lithuanian_language: "Šventkalnis"
+frombork.lithuanian_language: "Baudai"
+olsztyn.lithuanian_language: "Alenštainas"
+
+
+## Area 'samogitia_area' () ##
+# Province 'medininkai_province' () #
+medininkai.lithuanian_language: "Medininkai"
+palanga.lithuanian_language: "Palanga"
+rietavas.lithuanian_language: "Rietavas"
+silale.lithuanian_language: "Šilalė"
+skuodas.lithuanian_language: "Skuodas"
+taurage.lithuanian_language: "Tauragė"
+
+# Province 'raseiniai_province' () #
+raseiniai.lithuanian_language: "Raseiniai"
+jurbarkas.lithuanian_language: "Jurbarkas"
+kedainiai.lithuanian_language: "Kėdainiai"
+panemune.lithuanian_language: "Panemunė"
+tendziogala.lithuanian_language: "Tėdžiogala"
+
+# Province 'siauliai_province' () #
+siauliai.lithuanian_language: "Šiauliai"
+kraziai.lithuanian_language: "Kražiai"
+mazeikiai.lithuanian_language: "Mažeikiai"
+papile.lithuanian_language: "Papilė"
+zagare.lithuanian_language: "Žagarė"
+
+
+## Area 'silesia_area' () ##
+# Province 'glogow_province' () #
+glogow.lithuanian_language: "Glogavas"
+gora.lithuanian_language: "Gūra"
+kozuchow.lithuanian_language: "Kožuhavas"
+szprotawa.lithuanian_language: "Šprotava"
+zielona_gora.lithuanian_language: "Žaliakalnis"
+
+# Province 'legnica_province' () #
+legnica.lithuanian_language: "Legnica"
+boleslawiec.lithuanian_language: "Boleslavas"
+jawor.lithuanian_language: "Javoras"
+wolow.lithuanian_language: "Volavas"
+zlotoryja.lithuanian_language: "Auksorija"
+
+# Province 'olesnica_province' () #
+olesnica.lithuanian_language: "Olešnica"
+milicz.lithuanian_language: "Miličas"
+namyslow.lithuanian_language: "Namyslavas"
+sycow.lithuanian_language: "Syčavas"
+trzebnica.lithuanian_language: "Trebnica"
+
+# Province 'opavsko_province' () #
+opava.lithuanian_language: "Opava"
+fryvaldov.lithuanian_language: "Frivaldovas"
+glubczyce.lithuanian_language: "Glubčicai"
+hlucin.lithuanian_language: "Hlučinas"
+krnov.lithuanian_language: "Krnova"
+
+# Province 'opole_province' () #
+opole.lithuanian_language: "Opolė"
+kluczbork.lithuanian_language: "Klucbarkas"
+lubliniec.lithuanian_language: "Lubliniecas"
+olesno.lithuanian_language: "Olesnas"
+prudnik.lithuanian_language: "Prudnikas"
+strzelce_opolskie.lithuanian_language: "Strelcai"
+
+# Province 'swidnica_province' () #
+swidnica.lithuanian_language: "Švidnica"
+kamienna_gora.lithuanian_language: "Akmenkalnis"
+rychbach.lithuanian_language: "Turtingupis"
+niemcza.lithuanian_language: "Nemča"
+ziebice.lithuanian_language: "Zembicai"
+
+# Province 'tesin_province' () #
+tesin.lithuanian_language: "Tešinas"
+bielsko.lithuanian_language: "Belskas"
+bytom.lithuanian_language: "Bitomas"
+kozle.lithuanian_language: "Kozlė"
+pszczyna.lithuanian_language: "Pščina"
+raciborz.lithuanian_language: "Raceboras"
+siewierz.lithuanian_language: "Severis"
+toszek.lithuanian_language: "Tošekas"
+
+# Province 'wroclaw_province' () #
+wroclaw.lithuanian_language: "Vroclavas"
+brzeg.lithuanian_language: "Bžegas"
+grodkow.lithuanian_language: "Grodkovas"
+nysa.lithuanian_language: "Nisa"
+niemodlin.lithuanian_language: "Nemodlinas"
+olawa.lithuanian_language: "Olava"
+sroda_slaska.lithuanian_language: "Šrodaslaska"
+
+# Province 'zagan_province' () #
+zagan.lithuanian_language: "Žaganas"
+krosno_odrzanskie.lithuanian_language: "Krosnas"
+sulechow.lithuanian_language: "Sulechavas"
+zary.lithuanian_language: "Žarai"
+
+
+## Area 'eastern_baltic_sea' () ##
+# Province 'eastern_baltic_sea' () #
+
+# Province 'southeast_baltic_sea' () #
+
+# Province 'arkona_sea_province' () #
+
+### Region 'ruthenia_region' () ###
+
+## Area 'black_ruthenia_area' () ##
+# Province 'grodno_province' () #
+grodno.lithuanian_language: "Gardinas"
+bershty.lithuanian_language: "Berštai"
+grodek.lithuanian_language: "Pilaitė"
+masty.lithuanian_language: "Tiltai"
+sokolka.lithuanian_language: "Sakalinė"
+
+# Province 'kletsk_province' () #
+kletsk.lithuanian_language: "Kleckas"
+bolshie_krugovichi.lithuanian_language: "Didieji Krugavičiai"
+kapyl.lithuanian_language: "Kapilis"
+lakhva.lithuanian_language: "Lachva"
+luninets.lithuanian_language: "Luninecas"
+
+# Province 'mazyr_province' () #
+mazyr.lithuanian_language: "Mazyras"
+buinovichi.lithuanian_language: "Buinavičiai"
+lelchytsy.lithuanian_language: "Lelčyčiai"
+kalinkavichy.lithuanian_language: "Kalinkavičiai"
+pietrykaw.lithuanian_language: "Petrykavas"
+rudobelka.lithuanian_language: "Rudabelka"
+zhytkavichy.lithuanian_language: "Žytkavičiai"
+
+# Province 'novogrudok_province' () #
+novogrudok.lithuanian_language: "Naugardukas"
+lyakhavichy.lithuanian_language: "Liachavičiai"
+lyubcha.lithuanian_language: "Liubčia"
+nyasvizh.lithuanian_language: "Nesvyžius"
+turets.lithuanian_language: "Turecas"
+
+# Province 'rechytsa_province' () #
+rechytsa.lithuanian_language: "Rečica"
+babruysk.lithuanian_language: "Babruiskas"
+luchin.lithuanian_language: "Lučinas"
+rahachow.lithuanian_language: "Rahačiavas"
+streshyn.lithuanian_language: "Strešynas"
+svietlahorsk.lithuanian_language: "Svietlahorskas"
+
+# Province 'slonin_province' () #
+slonim.lithuanian_language: "Slonimas"
+dzyatlava.lithuanian_language: "Dziatlava"
+vyada.lithuanian_language: "Vieda"
+zdzitov.lithuanian_language: "Ždyčovas"
+
+# Province 'slutsk_province' () #
+slutsk.lithuanian_language: "Sluckas"
+hlusk.lithuanian_language: "Hluskas"
+starobin.lithuanian_language: "Starobinas"
+staryya_darohi.lithuanian_language: "Seni Keliai"
+
+# Province 'vawkavysk_province' () #
+vawkavysk.lithuanian_language: "Valkaviskas"
+porazava.lithuanian_language: "Porazava"
+vowpa.lithuanian_language: "Volpa"
+
+
+## Area 'left_bank_ukraine_area' () ##
+# Province 'ichnia_province' () #
+ichnia.lithuanian_language: "Ichnė"
+hadiach.lithuanian_language: "Hadiačas"
+romen.lithuanian_language: "Romenas"
+pryluky.lithuanian_language: "Pievos"
+chornukhy.lithuanian_language: "Čornuchai"
+lypova_dolyna.lithuanian_language: "Liepos Slėnis"
+
+# Province 'lubny_province' () #
+lubny.lithuanian_language: "Lubnai"
+pyriatyn.lithuanian_language: "Piriatynas"
+horodyshche.lithuanian_language: "Piliakalnis"
+horoshino.lithuanian_language: "Horošynas"
+zolotonosha.lithuanian_language: "Auksupis"
+yahotyn.lithuanian_language: "Uogynas"
+
+# Province 'pereiaslav_province' () #
+pereiaslav.lithuanian_language: "Pereslavas"
+boryspil.lithuanian_language: "Borispilis"
+oster.lithuanian_language: "Osteris"
+kozelets.lithuanian_language: "Oželis"
+yaroslavka.lithuanian_language: "Jaroslava"
+
+# Province 'poltava_province' () #
+poltava.lithuanian_language: "Poltava"
+kremenchuk.lithuanian_language: "Kremenčiukas"
+myrhorod.lithuanian_language: "Taikmiestis"
+velyki_sorochyntsi.lithuanian_language: "Didieji Soročincai"
+hovtva.lithuanian_language: "Hovtva"
+opishnya.lithuanian_language: "Opišnė"
+
+
+## Area 'podolia_area' () ##
+# Province 'bratslav_province' () #
+bratslav.lithuanian_language: "Bračlavas"
+balta.lithuanian_language: "Baltava"
+bershad.lithuanian_language: "Beršadis"
+drahushiv.lithuanian_language: "Drahūšas"
+karabul.lithuanian_language: "Karabulas"
+savran.lithuanian_language: "Savranė"
+
+# Province 'eastern_podolia_province' () #
+ushytsia.lithuanian_language: "Ušyčia"
+khmilnyk.lithuanian_language: "Chmilninkas"
+letychiv.lithuanian_language: "Letičivas"
+mezhybozhe.lithuanian_language: "Tarpbugis"
+mohyliv_podilskyi.lithuanian_language: "Mohyliavas"
+rov.lithuanian_language: "Griovys"
+
+# Province 'torgovytsia_province' () #
+torhovytsia.lithuanian_language: "Turgavietė"
+teplyk.lithuanian_language: "Šilainiai"
+tsybuliv.lithuanian_language: "Svogūnai"
+uman.lithuanian_language: "Umanė"
+zavallia.lithuanian_language: "Zavalė"
+
+# Province 'vinnytsia_province' () #
+vinnytsia.lithuanian_language: "Vinica"
+buzhskyi.lithuanian_language: "Bužynas"
+pohrebyshche.lithuanian_language: "Rūsynai"
+sokilets.lithuanian_language: "Sakalėliai"
+
+# Province 'western_podolia_province' () #
+bakota.lithuanian_language: "Bakota"
+horodok.lithuanian_language: "Gardelis"
+kamianets_podilskyi.lithuanian_language: "Kamenečas"
+zalishchyky.lithuanian_language: "Zališčykai"
+
+
+## Area 'polesia_area' () ##
+# Province 'bresta_province' () #
+brest_litowsk.lithuanian_language: "Brasta"
+biala_podlaska.lithuanian_language: "Baltoji Podlaska"
+chernyany.lithuanian_language: "Juodėnai"
+malaryta.lithuanian_language: "Malaryta"
+wlodawa.lithuanian_language: "Vladava"
+
+# Province 'kobryn_province' () #
+kobryn.lithuanian_language: "Kobrinas"
+dabuchyn.lithuanian_language: "Dabučynas"
+hajnowka.lithuanian_language: "Hainuvka"
+kamyenyets.lithuanian_language: "Kamenecas"
+
+# Province 'pinsk_province' () #
+pinsk.lithuanian_language: "Pinskas"
+drahichyn.lithuanian_language: "Drahicinas"
+liubeshiv.lithuanian_language: "Liubeševas"
+motal.lithuanian_language: "Motalis"
+nobel.lithuanian_language: "Nobelis"
+
+# Province 'turov_province' () #
+turov.lithuanian_language: "Turovas"
+davyd_haradok.lithuanian_language: "Dovydo Gardelis"
+dubrovytsia.lithuanian_language: "Ąžuolynas"
+hlynne.lithuanian_language: "Molynė"
+stolin.lithuanian_language: "Stolinas"
+
+
+## Area 'red_ruthenia_area' () ##
+# Province 'belz_province' () #
+belz.lithuanian_language: "Belzas"
+busk.lithuanian_language: "Buskas"
+grabowiec.lithuanian_language: "Skroblava"
+lubaczow.lithuanian_language: "Lubacovas"
+sokal.lithuanian_language: "Sakalynas"
+
+# Province 'drohobych_province' () #
+drohobych.lithuanian_language: "Drohobyčas"
+sambir.lithuanian_language: "Sambyras"
+stryi.lithuanian_language: "Strijus"
+turka.lithuanian_language: "Turka"
+
+# Province 'halych_province' () #
+halych.lithuanian_language: "Haličas"
+bohorodchany.lithuanian_language: "Bohorodčanai"
+buchach.lithuanian_language: "Buhačas"
+rohatyn.lithuanian_language: "Rohatynas"
+
+# Province 'pocutia_province' () #
+kolomyia.lithuanian_language: "Kolomyja"
+kosiv.lithuanian_language: "Kosivas"
+sniatyn.lithuanian_language: "Sniatynas"
+tysmenytsia.lithuanian_language: "Tysmenyčia"
+
+# Province 'lviv_province' () #
+lviv.lithuanian_language: "Lvivas"
+bereschany.lithuanian_language: "Berežanai"
+brody.lithuanian_language: "Brodai"
+zhovkva.lithuanian_language: "Žovkva"
+yavoriv.lithuanian_language: "Javorivas"
+zvenyhorod.lithuanian_language: "Skambmiestis"
+
+# Province 'przemysl_province' () #
+przemysl.lithuanian_language: "Peremyšlis"
+piskorowice.lithuanian_language: "Piskorovicai"
+rzeszow.lithuanian_language: "Žešovas"
+yaroslav_poland.lithuanian_language: "Jaroslavas"
+
+# Province 'sanok_province' () #
+sanok.lithuanian_language: "Sanokas"
+krosno.lithuanian_language: "Krosnas"
+lesko.lithuanian_language: "Leskas"
+
+# Province 'terebovlia_province' () #
+terebovlia.lithuanian_language: "Terebovlė"
+khorostkiv.lithuanian_language: "Chorostkivas"
+ternopil.lithuanian_language: "Ternopilis"
+
+# Province 'zhydachiv_province' () #
+zhydachiv.lithuanian_language: "Žydačivas"
+bolekhiv.lithuanian_language: "Bolechivas"
+dolyna.lithuanian_language: "Slėnis"
+
+
+## Area 'severia_area' () ##
+# Province 'bryansk_province' () #
+bryansk.lithuanian_language: "Brianskas"
+foshnya.lithuanian_language: "Fošnė"
+knyazhichi.lithuanian_language: "Kunigaikščiai"
+pochep.lithuanian_language: "Počepas"
+revny.lithuanian_language: "Revniai"
+vshchizh.lithuanian_language: "Viščyžas"
+
+# Province 'chernihiv_province' () #
+chernihiv.lithuanian_language: "Černihivas"
+horodnia.lithuanian_language: "Miestynė"
+liubech.lithuanian_language: "Liubečas"
+lutava.lithuanian_language: "Lutava"
+sosnytsia.lithuanian_language: "Pušynė"
+snovsk.lithuanian_language: "Snovskas"
+
+# Province 'gomel_province' () #
+gomel.lithuanian_language: "Gomelis"
+chachersk.lithuanian_language: "Čačerskas"
+dobrush.lithuanian_language: "Dobrušas"
+tereshkovichy.lithuanian_language: "Tereškovičiai"
+volosovichy.lithuanian_language: "Volosovičiai"
+
+# Province 'nizhyn_province' () #
+nizhyn.lithuanian_language: "Nižynas"
+buryn.lithuanian_language: "Burynas"
+bakhmach.lithuanian_language: "Bachmačas"
+melnya.lithuanian_language: "Melna"
+putyvl.lithuanian_language: "Putyvlis"
+
+# Province 'novhorod_siverskyi_province' () #
+novhorod_siverskyi.lithuanian_language: "Naujasis Siverskas"
+hlukhiv.lithuanian_language: "Hluchyvas"
+verba.lithuanian_language: "Gluosniai"
+voronizh_chernihiv.lithuanian_language: "Varnynas"
+znobov.lithuanian_language: "Znobovas"
+
+# Province 'starodub_siverskyi_province' () #
+starodub_siverskyi.lithuanian_language: "Senasis Ąžuolas"
+drokov.lithuanian_language: "Drokovas"
+klintsy.lithuanian_language: "Klincai"
+mglin.lithuanian_language: "Mglinas"
+popowa_gora.lithuanian_language: "Klebonkalnis"
+ropsk.lithuanian_language: "Ropskas"
+radogosch.lithuanian_language: "Radogoščius"
+
+# Province 'trubchevsk_province' () #
+trubchevsk.lithuanian_language: "Trubčevskas"
+boldyzh.lithuanian_language: "Boldyžas"
+dmitriyev.lithuanian_language: "Dmitravas"
+rylsk.lithuanian_language: "Rylskas"
+sevsk.lithuanian_language: "Sevskas"
+
+
+## Area 'volhynia_area' () ##
+# Province 'chelm_province' () #
+chelm.lithuanian_language: "Chelmas"
+krasnystaw.lithuanian_language: "Graži Bala"
+liuboml.lithuanian_language: "Liubomlis"
+ratne.lithuanian_language: "Ratnė"
+shatsk.lithuanian_language: "Šackas"
+ugrovesk.lithuanian_language: "Ugrovas"
+
+# Province 'kremenets_province' () #
+kremenets.lithuanian_language: "Kremenecas"
+dubno.lithuanian_language: "Dubnas"
+zbarazh.lithuanian_language: "Zbaražas"
+tykhomel.lithuanian_language: "Tychomelis"
+
+# Province 'lutsk_province' () #
+lutsk.lithuanian_language: "Luckas"
+chortoryisk.lithuanian_language: "Čartoriskas"
+peremyl.lithuanian_language: "Peremilas"
+rozhyshche.lithuanian_language: "Rožyščiai"
+stepan.lithuanian_language: "Stepanas"
+volodymyrets.lithuanian_language: "Volodymyrėtas"
+
+# Province 'rivne_province' () #
+rivne.lithuanian_language: "Rivnė"
+kostopil.lithuanian_language: "Kostopolis"
+ostroh.lithuanian_language: "Ostrohas"
+peresopnytsya.lithuanian_language: "Peresopnyčia"
+
+# Province 'volodymyr_province' () #
+volodymyr.lithuanian_language: "Volodymyras"
+kamin.lithuanian_language: "Kaminas"
+kovel.lithuanian_language: "Kovelis"
+melnytsya.lithuanian_language: "Malūnai"
+turiisk.lithuanian_language: "Turiiskas"
+
+# Province 'zviahel_province' () #
+novohrad_volynskyi.lithuanian_language: "Naujoji Voluinė"
+iziaslav.lithuanian_language: "Izaslavas"
+korets.lithuanian_language: "Korecas"
+liubar.lithuanian_language: "Liubaras"
+polonne.lithuanian_language: "Polonė"
+
+
+## Area 'right_bank_ukraine_area' () ##
+# Province 'porossia_province' () #
+bila_tserkva.lithuanian_language: "Baltoji Cerkvė"
+bohuslav.lithuanian_language: "Bohuslavas"
+kaharlyk.lithuanian_language: "Kaharlykas"
+kaniv.lithuanian_language: "Kanivas"
+sherbiv.lithuanian_language: "Šerbyvas"
+skvyra.lithuanian_language: "Skvyra"
+
+# Province 'cherkasy_province' () #
+cherkasy.lithuanian_language: "Čerkasai"
+chyhyryn.lithuanian_language: "Čyhyrynas"
+korsun.lithuanian_language: "Korsūnas"
+lebedyn.lithuanian_language: "Gulbinas"
+rozkishna.lithuanian_language: "Prabanga"
+smila.lithuanian_language: "Smila"
+zvenyhorodka.lithuanian_language: "Skambmiestė"
+
+# Province 'chornobyl_province' () #
+chornobyl.lithuanian_language: "Černobylis"
+belaya_soroka.lithuanian_language: "Baltoji Šarka"
+brahin.lithuanian_language: "Brachinas"
+khoiniki.lithuanian_language: "Choinikai"
+kholmyech.lithuanian_language: "Kalnelis"
+
+# Province 'kyiv_province' () #
+kyiv.lithuanian_language: "Kyjivas"
+desnyanskyi_horodok.lithuanian_language: "Desnos Miestelis"
+dymer.lithuanian_language: "Dymeras"
+fastiv.lithuanian_language: "Fastivas"
+zdvizhen.lithuanian_language: "Zdvydžas"
+
+# Province 'olevsk_province' () #
+olevsk.lithuanian_language: "Olevskas"
+kopyshche.lithuanian_language: "Kopiščiai"
+viry.lithuanian_language: "Viriai"
+yemilchyne.lithuanian_language: "Jemilčynė"
+
+# Province 'ovruch_province' () #
+ovruch.lithuanian_language: "Ovručas"
+bilokorovychi.lithuanian_language: "Baltagalviai"
+korosten.lithuanian_language: "Korostenas"
+malyn.lithuanian_language: "Malynas"
+narodychi.lithuanian_language: "Žmoniškiai"
+stodolichi.lithuanian_language: "Stodoličiai"
+
+# Province 'zhytomyr_province' () #
+zhytomyr.lithuanian_language: "Žytomyras"
+berdychiv.lithuanian_language: "Berdyčivas"
+chudniv.lithuanian_language: "Stebuklas"
+chortolisy.lithuanian_language: "Velniamiškis"
+korostyshiv.lithuanian_language: "Korostyšivas"
+mychesk.lithuanian_language: "Myčeskas"
+
+
+## Area 'white_ruthenia_area' () ##
+# Province 'barysaw_province' () #
+barysaw.lithuanian_language: "Borisovas"
+bobr.lithuanian_language: "Bebras"
+krupki.lithuanian_language: "Krupkės"
+lukolm.lithuanian_language: "Lukolmas"
+lyubashany.lithuanian_language: "Liubašaniai"
+
+# Province 'dzisna_province' () #
+dzisna.lithuanian_language: "Dzisna"
+asvieja.lithuanian_language: "Asvieja"
+nevel.lithuanian_language: "Nevėlis"
+nekloch.lithuanian_language: "Nekločas"
+rasony.lithuanian_language: "Rasonys"
+vydritsa.lithuanian_language: "Ūdrupis"
+
+# Province 'lahoysk_province' () #
+lahoysk.lithuanian_language: "Lahojskas"
+begoml.lithuanian_language: "Begomlis"
+byerazino.lithuanian_language: "Beržynas"
+ilya.lithuanian_language: "Ilja"
+krasnoe.lithuanian_language: "Raudonė"
+smalyavichy.lithuanian_language: "Smaliavičiai"
+
+# Province 'minsk_province' () #
+minsk.lithuanian_language: "Minskas"
+chervyen.lithuanian_language: "Červenas"
+koidanova.lithuanian_language: "Koidanavas"
+marjina_horka.lithuanian_language: "Marijos Kalnas"
+rakau.lithuanian_language: "Rakai"
+stowbtsy.lithuanian_language: "Stulpai"
+svislach.lithuanian_language: "Svisločius"
+
+# Province 'mogilev_province' () #
+mogilev.lithuanian_language: "Mogiliavas"
+bykhaw.lithuanian_language: "Bychavas"
+chavusy.lithuanian_language: "Čavusai"
+klichaw.lithuanian_language: "Kličavas"
+novy_bykhaw.lithuanian_language: "Naujoji Bychava"
+slawharad.lithuanian_language: "Slavgardas"
+
+# Province 'mstsislaw_province' () #
+mstsislaw.lithuanian_language: "Mstislavas"
+kastsyukovichy.lithuanian_language: "Kastsiukovičiai"
+khotsimsk.lithuanian_language: "Chocimskas"
+krychaw.lithuanian_language: "Kryčavas"
+monastyrshchina.lithuanian_language: "Vienuolynas"
+shumyachi.lithuanian_language: "Triukšmai"
+
+# Province 'orsha_province' () #
+orsha.lithuanian_language: "Orša"
+drutsk.lithuanian_language: "Drutskas"
+horki.lithuanian_language: "Gorkiai"
+kopys.lithuanian_language: "Kopis"
+rudnya.lithuanian_language: "Rudynė"
+tyatseryn.lithuanian_language: "Tiatserinas"
+
+# Province 'polotsk_province' () #
+polotsk.lithuanian_language: "Polockas"
+bocheikovo.lithuanian_language: "Bočeikovas"
+lyepyel.lithuanian_language: "Lepelis"
+ulla.lithuanian_language: "Ula"
+ushachy.lithuanian_language: "Ušačiai"
+zabore.lithuanian_language: "Užtvorė"
+
+# Province 'vitebsk_province' () #
+vitebsk.lithuanian_language: "Vitebskas"
+haradok.lithuanian_language: "Mažasis Gardas"
+jeziarysca.lithuanian_language: "Ežerynas"
+mikulino.lithuanian_language: "Mikulinė"
+syanno.lithuanian_language: "Šienava"
+usvyaty.lithuanian_language: "Usviatai"
+velizh.lithuanian_language: "Veližas"
+vydreya.lithuanian_language: "Ūdriava"
+### Region 'steppes_region' () ###
+
+## Area 'crimea_area' () ##
+# Province 'gothia_province' () #
+theodoro.lithuanian_language: "Teodorava"
+qirq_yer.lithuanian_language: "Keturdešimiai"
+lusta.lithuanian_language: "Lustava"
+qarasuvbazar.lithuanian_language: "Juodvandenė"
+
+# Province 'cafa_province' () #
+kaffa.lithuanian_language: "Kafa"
+soldaia.lithuanian_language: "Soldaja"
+vosporo.lithuanian_language: "Vospuras"
+seyitler.lithuanian_language: "Seitava"
+solkhat.lithuanian_language: "Solkatas"
+
+# Province 'or_qapi_province' () #
+kalay.lithuanian_language: "Kalajus"
+kezlev.lithuanian_language: "Kezlėvas"
+aqmecit.lithuanian_language: "Baltmečetė"
+jurchi.lithuanian_language: "Jurčis"
+or_qapi.lithuanian_language: "Griovvartai"
+
+
+## Area 'matrega_area' () ##
+# Province 'taman_province' () #
+taman.lithuanian_language: "Tamanas"
+mapa.lithuanian_language: "Mapė"
+susaco.lithuanian_language: "Susakas"
+shanjir.lithuanian_language: "Šandžiras"
+copa.lithuanian_language: "Kopa"
+siba_circassia.lithuanian_language: "Siba"
+
+# Province 'tuapse_province' () #
+tuapse.lithuanian_language: "Tuapsė"
+costa.lithuanian_language: "Kosta"
+khadyzhi.lithuanian_language: "Chadyžė"
+kuzhyb.lithuanian_language: "Kužybas"
+maykop.lithuanian_language: "Maikopas"
+moschevo.lithuanian_language: "Moševas"
+
+# Province 'akhtar_province' () #
+akhtar.lithuanian_language: "Achtara"
+kalininskaya.lithuanian_language: "Kalininava"
+bryukhovetskaya.lithuanian_language: "Briukovečiai"
+bzhedygu_kal.lithuanian_language: "Bžedugkalnis"
+ust_labinsk.lithuanian_language: "Ustlabinskas"
+pavlovskaya.lithuanian_language: "Pavlavė"
+tbilisskaya.lithuanian_language: "Tbiliskai"
+romanovsky_khutor.lithuanian_language: "Romanavas"
+
+# Province 'labinsk_province' () #
+chatyun.lithuanian_language: "Čatynas"
+adyukh.lithuanian_language: "Adiukas"
+armavir.lithuanian_language: "Armaviras"
+shkhancheriekhabl.lithuanian_language: "Šančeravas"
+belorechensk.lithuanian_language: "Baltupis"
+
+
+## Area 'yedisan_area' () ##
+# Province 'khadjibey_province' () #
+khadjibey.lithuanian_language: "Hadžibėjus"
+teligol.lithuanian_language: "Tiligolas"
+kuyanlik.lithuanian_language: "Kujanykas"
+ananiv.lithuanian_language: "Ananyvas"
+iagorlic.lithuanian_language: "Jagorlikas"
+
+# Province 'boh_province' () #
+dashev.lithuanian_language: "Daševas"
+balikley.lithuanian_language: "Balaklėja"
+aqmecit_prybuzhzhya.lithuanian_language: "Akmiečytas"
+argamakli_sarai.lithuanian_language: "Argamaklis"
+vithold_hammami.lithuanian_language: "Vitoldavas"
+harbuzynka.lithuanian_language: "Moliūgynė"
+
+# Province 'oleshia_province' () #
+oleshia.lithuanian_language: "Oleškai"
+bereznehuvate.lithuanian_language: "Beržnava"
+bashtanka.lithuanian_language: "Melionynė"
+tavan.lithuanian_language: "Tavanas"
+velyka_oleksandrivka.lithuanian_language: "Didžioji Aleksandravė"
+
+# Province 'qalancak_province' () #
+qalancaq.lithuanian_language: "Kalančakas"
+aslan_horod.lithuanian_language: "Liūnava"
+ordu_bazar.lithuanian_language: "Kariaturgis"
+rohat_kermen.lithuanian_language: "Rahatpilis"
+enice.lithuanian_language: "Eničė"
+velyka_lepetykha.lithuanian_language: "Didžioji Lepetika"
+
+
+## Area 'zaporizhzhia_area' () ##
+# Province 'zaporizhzhia_province' () #
+kichkas.lithuanian_language: "Kičkas"
+rozdory.lithuanian_language: "Rozdoriai"
+hryshyne.lithuanian_language: "Grišynė"
+pavlohrad.lithuanian_language: "Pavlogradas"
+
+# Province 'yelanets_province' () #
+yelanets.lithuanian_language: "Jelaneckas"
+usivka.lithuanian_language: "Usivka"
+mala_vyska.lithuanian_language: "Mažoji Vyska"
+umanske.lithuanian_language: "Umanskė"
+ingul.lithuanian_language: "Ingulas"
+petrove.lithuanian_language: "Petrovas"
+
+# Province 'karlivka_province' () #
+karlivka.lithuanian_language: "Karliava"
+kolomak.lithuanian_language: "Kolomakas"
+berestyn.lithuanian_language: "Berestynas"
+samarchyk.lithuanian_language: "Samarčikas"
+oril.lithuanian_language: "Orilis"
+ternivka.lithuanian_language: "Ternivkė"
+
+# Province 'kodaky_province' () #
+kodak.lithuanian_language: "Kodakas"
+myshuryn_rih.lithuanian_language: "Mišurinas"
+sofiivka.lithuanian_language: "Sofijava"
+kryvyi_rih.lithuanian_language: "Kreivaragis"
+tomakivka.lithuanian_language: "Tomakava"
+mykytyn_rih.lithuanian_language: "Mykytaragis"
+
+
+## Area 'kursk_area' () ##
+# Province 'kursk_province' () #
+kursk.lithuanian_language: "Kurskas"
+fatezh.lithuanian_language: "Fatežas"
+opalkova.lithuanian_language: "Opalkava"
+kosozhichi.lithuanian_language: "Kosožičiai"
+manturovo_kursk.lithuanian_language: "Manturovas"
+olgov.lithuanian_language: "Olgovas"
+oskol.lithuanian_language: "Oskolas"
+troitskoye_na_shchigrakh.lithuanian_language: "Trinyčia"
+
+# Province 'belgorod_province' () #
+belgorod.lithuanian_language: "Belgorodas"
+korocha.lithuanian_language: "Koročia"
+oboyan.lithuanian_language: "Obojanas"
+muzhech.lithuanian_language: "Mužečkas"
+rakitnoye.lithuanian_language: "Žilvičiai"
+sudzha.lithuanian_language: "Sudža"
+
+# Province 'yelets_province' () #
+yelets.lithuanian_language: "Jeletas"
+gogol.lithuanian_language: "Gogolis"
+talitsa_yelets.lithuanian_language: "Talica"
+terbuny.lithuanian_language: "Terbunai"
+ust_livny.lithuanian_language: "Žiotlivnas"
+zemlyansk.lithuanian_language: "Žemynskas"
+
+# Province 'alexeyevka_province' () #
+alexeyevka.lithuanian_language: "Aleksėjevka"
+rovenki.lithuanian_language: "Rovenkai"
+valuyki.lithuanian_language: "Valujkai"
+chernyanka.lithuanian_language: "Černjanka"
+kastornoye.lithuanian_language: "Bebrava"
+
+# Province 'voronezh_province' () #
+voronezh.lithuanian_language: "Voronežas"
+anna_russia.lithuanian_language: "Anava"
+novaya_pokrovka.lithuanian_language: "Naujoji Pakrovė"
+semidesyatnoye.lithuanian_language: "Septdešimtai"
+ostrogozhsk.lithuanian_language: "Ostrogožskas"
+rossosh.lithuanian_language: "Rosošas"
+
+
+## Area 'sloboda_ukraine_area' () ##
+# Province 'bielska_sloboda_province' () #
+bielska_sloboda.lithuanian_language: "Baltoji Sloboda"
+bilovodsk.lithuanian_language: "Baltavandenis"
+novopskov.lithuanian_language: "Novopskovas"
+kalnivka.lithuanian_language: "Kalnynė"
+nyzhnia_duvanka.lithuanian_language: "Žemutinė Duvanka"
+konstantinovka.lithuanian_language: "Konstantinovka"
+
+# Province 'izium_province' () #
+izium.lithuanian_language: "Razynai"
+adalaga.lithuanian_language: "Adalaga"
+barvinkove.lithuanian_language: "Barvinkava"
+kupiansk.lithuanian_language: "Kupjanskas"
+sloviansk.lithuanian_language: "Slovjanskas"
+vovchansk.lithuanian_language: "Vilkiškiai"
+
+# Province 'sumy_province' () #
+sumy.lithuanian_language: "Sumai"
+glushkovo.lithuanian_language: "Gluškavas"
+krasnopillia.lithuanian_language: "Raudonlaukis"
+vilshana.lithuanian_language: "Alksnynė"
+
+# Province 'donetsk_province' () #
+donets_kharkiv.lithuanian_language: "Doncas"
+chuhuiv.lithuanian_language: "Čuhujivas"
+khotmyzh.lithuanian_language: "Chotmyžas"
+kotelva.lithuanian_language: "Katilava"
+okhtyrka.lithuanian_language: "Achtirka"
+zmiiv.lithuanian_language: "Gyvatynas"
+
+
+## Area 'pryazovia_area' () ##
+# Province 'berda_province' () #
+melitopol.lithuanian_language: "Melitopolis"
+kyrylivka.lithuanian_language: "Kirilava"
+tokmak.lithuanian_language: "Tokmakas"
+konski_vody.lithuanian_language: "Žirguvandeniai"
+kuchugur.lithuanian_language: "Kučūgurai"
+berdiansk.lithuanian_language: "Berdianskas"
+
+# Province 'kalmius_province' () #
+taganrog.lithuanian_language: "Taganrogas"
+velyka_novosilka.lithuanian_language: "Didžioji Novosilka"
+domakha.lithuanian_language: "Domacha"
+huliaipole.lithuanian_language: "Guliaipolė"
+shyrokyne.lithuanian_language: "Platyne"
+vasylivka.lithuanian_language: "Vasylava"
+
+# Province 'bakhmut_province' () #
+bakhmut.lithuanian_language: "Bachmutas"
+lysychansk.lithuanian_language: "Lysyčanskas"
+kreminna.lithuanian_language: "Kreminė"
+oleksandrivka.lithuanian_language: "Aleksandravė"
+posad.lithuanian_language: "Posadas"
+
+
+## Area 'azov_area' () ##
+# Province 'azov_province' () #
+azok.lithuanian_language: "Azakas"
+bagayevskaya.lithuanian_language: "Bagajevska"
+shcherbinovka.lithuanian_language: "Šerbinava"
+balzimachi.lithuanian_language: "Balzimačiai"
+kanevskaya.lithuanian_language: "Kanevskai"
+starominskaya.lithuanian_language: "Starominskas"
+yegorlykskaya.lithuanian_language: "Jegorlykas"
+
+# Province 'tana_province' () #
+tana.lithuanian_language: "Tana"
+krasny_sulin.lithuanian_language: "Raudonsulinas"
+shakhty.lithuanian_language: "Šachtai"
+rovenky.lithuanian_language: "Rovenkai"
+kalmius.lithuanian_language: "Kalmiusas"
+kamenskaya.lithuanian_language: "Kamenskas"
+
+# Province 'semikarakorsk_province' () #
+semikarakorsk.lithuanian_language: "Semikarakorskas"
+bol_shaya_martynovka.lithuanian_language: "Didžioji Martynavka"
+cheplak.lithuanian_language: "Čeplakas"
+bolshoy_gashun.lithuanian_language: "Didysis Gašūnas"
+dubovskoye.lithuanian_language: "Ąžuolynas"
+yundin.lithuanian_language: "Jundinas"
+
+# Province 'ust_tsimla_province' () #
+ust_tsimla.lithuanian_language: "Ustcimla"
+konstantinovsk.lithuanian_language: "Konstantinovskas"
+tatsinskaya.lithuanian_language: "Tatsinska"
+tormosin.lithuanian_language: "Tormosinas"
+
+# Province 'luhan_province' () #
+luhansk.lithuanian_language: "Luhanskas"
+mityakinskaya.lithuanian_language: "Mitjakinskai"
+novoaidar.lithuanian_language: "Novoaidaras"
+belaya_kalitva.lithuanian_language: "Baltoji Kalytva"
+millerovo.lithuanian_language: "Mileravas"
+
+
+## Area 'lower_don_area' () ##
+# Province 'kremenskaya_province' () #
+kremenskaya.lithuanian_language: "Kremenskai"
+kletskaya.lithuanian_language: "Kleckas"
+ust_medveditskaya.lithuanian_language: "Ustmedvedica"
+oblivskaya.lithuanian_language: "Oblivskai"
+nizhny_chir.lithuanian_language: "Žemutinis Čyras"
+
+# Province 'kashary_province' () #
+kashary.lithuanian_language: "Kašarai"
+chertkovo.lithuanian_language: "Čertkovas"
+bokovskaya.lithuanian_language: "Bokovskai"
+milyutinskaya.lithuanian_language: "Miljutinskai"
+boguchar.lithuanian_language: "Bogučaras"
+
+# Province 'borisoglebsk_province' () #
+borisoglebsk.lithuanian_language: "Borisoglebskas"
+bannoye.lithuanian_language: "Bainava"
+kalach.lithuanian_language: "Kalačas"
+sadovoye.lithuanian_language: "Sodynas"
+bolshaya_gribanovka.lithuanian_language: "Didžioji Gribanavka"
+buturlinovka.lithuanian_language: "Buturlinava"
+verkhny_mamon.lithuanian_language: "Aukštutinis Mamonas"
+uryupin.lithuanian_language: "Uriupinas"
+
+# Province 'mikhaylovka_province' () #
+mikhaylovka.lithuanian_language: "Michailovka"
+novoanninsky.lithuanian_language: "Naujasis Aninas"
+alexeyevskaya.lithuanian_language: "Aleksėjevskai"
+veesky.lithuanian_language: "Vieskiai"
+kumylzhenskaya.lithuanian_language: "Kumylženskai"
+zimnyatsky.lithuanian_language: "Žiemiškis"
+malodelskaya.lithuanian_language: "Malodelskai"
+ilovlya.lithuanian_language: "Ilovlia"
+
+# Province 'beljamen_province' () #
+mechet.lithuanian_language: "Mečetė"
+stepanevka.lithuanian_language: "Stepanava"
+sarai_al_jadid.lithuanian_language: "Naujieji Sarajai"
+beljamen.lithuanian_language: "Beljamena"
+zenzevatka.lithuanian_language: "Zenzevatka"
+nagavskaya.lithuanian_language: "Nagavskai"
+aksay.lithuanian_language: "Aksajus"
+
+# Province 'yelan_province' () #
+yelan.lithuanian_language: "Jelanas"
+machekha.lithuanian_language: "Mačeka"
+novonikolayevsky.lithuanian_language: "Naujanikolajavas"
+samoylovka.lithuanian_language: "Samojlava"
+rudnya_pontic.lithuanian_language: "Rudnava"
+danilovka.lithuanian_language: "Danilava"
+kotovo.lithuanian_language: "Kotavas"
+kamyshin.lithuanian_language: "Kamyšinas"
+goly_karamysh.lithuanian_language: "Plikasis Karamyšas"
+
+
+## Area 'astrakhan_area' () ##
+# Province 'astrakhan_province' () #
+astrakhan.lithuanian_language: "Astrachanė"
+khosheutovo.lithuanian_language: "Hošeutovas"
+krasny_yar.lithuanian_language: "Raudonskardis"
+ganyushkino.lithuanian_language: "Ganjuškinas"
+
+# Province 'pologoye_zaymishche_province' () #
+pologoye_zaymishche.lithuanian_language: "Lygsala"
+srednyaya_akhtuba.lithuanian_language: "Vidurinė Achtuba"
+bykovo.lithuanian_language: "Bykovas"
+elton.lithuanian_language: "Eltonas"
+zolotari.lithuanian_language: "Auksačiai"
+berezhnovka.lithuanian_language: "Krantinava"
+
+# Province 'zamyany_province' () #
+zamyany.lithuanian_language: "Zamianai"
+yenotayevka.lithuanian_language: "Jenotajeva"
+sapara.lithuanian_language: "Saparai"
+chernyye_zemli.lithuanian_language: "Juodosios Žemės"
+ikryanoye.lithuanian_language: "Ikrynė"
+
+# Province 'chyorny_yar_province' () #
+chyorny_yar.lithuanian_language: "Juodskardis"
+nikolskoye_pontic.lithuanian_language: "Nikolskas"
+malye_derbety.lithuanian_language: "Mažieji Derbetai"
+sadovoye_kalmykia.lithuanian_language: "Sodinava"
+ded_khulsun.lithuanian_language: "Dedulsūnas"
+zavetnoye.lithuanian_language: "Brangovas"
+
+# Province 'bolkhuny_province' () #
+bolkhuny.lithuanian_language: "Bolkūnai"
+mikhaylovka_pontic.lithuanian_language: "Michailavas"
+rechnoye.lithuanian_language: "Upynė"
+bokey.lithuanian_language: "Bokėjai"
+botkul.lithuanian_language: "Botkulis"
+zhanybek.lithuanian_language: "Žanybekas"
+
+# Province 'dardeling_province' () #
+dardeling.lithuanian_language: "Dardelingas"
+mekletin.lithuanian_language: "Mekletinas"
+kok_usn.lithuanian_language: "Kokusnas"
+yashkul.lithuanian_language: "Jaškulis"
+iki_burul.lithuanian_language: "Ikiburulas"
+
+# Province 'priyutnoye_province' () #
+priyutnoye.lithuanian_language: "Priglauda"
+elista.lithuanian_language: "Elista"
+remontnoye.lithuanian_language: "Remontava"
+gorodovikovsk.lithuanian_language: "Gorodovikovskas"
+raguli.lithuanian_language: "Raguliai"
+
+
+## Area 'majar_area' () ##
+# Province 'majar_province' () #
+majar.lithuanian_language: "Madžaras"
+zelenokumsk.lithuanian_language: "Žaliakumskas"
+arzgir.lithuanian_language: "Arzgiras"
+levokumskoye.lithuanian_language: "Kairiakumė"
+novopavlovsk.lithuanian_language: "Naujasis Pavlovas"
+yessentuq.lithuanian_language: "Jesenčiukas"
+alexandrovskoye.lithuanian_language: "Aleksandrovas"
+blagodarnoye.lithuanian_language: "Dėkingava"
+novoselitskoye.lithuanian_language: "Naujakaimis"
+
+# Province 'terek_province' () #
+naurskaya.lithuanian_language: "Naurai"
+kara_bazaar.lithuanian_language: "Juodturgis"
+terekli_mekteb.lithuanian_language: "Tereklimokas"
+kurskaya.lithuanian_language: "Kurskai"
+kamysh_burun.lithuanian_language: "Nendrėragis"
+
+# Province 'stavropol_province' () #
+stavropol.lithuanian_language: "Stavropolis"
+grigoropolisskaya.lithuanian_language: "Grigoropolis"
+uspenskoye.lithuanian_language: "Uspenska"
+shad_kirman.lithuanian_language: "Šadkirmanas"
+petrovskoye_pontic.lithuanian_language: "Petrovskas"
+
+# Province 'privolnoye_province' () #
+privolnoye.lithuanian_language: "Plačiasalis"
+belaya_glina.lithuanian_language: "Baltamolis"
+peschanokopskoye.lithuanian_language: "Smėlynkopis"
+novo_alexandrovskoye.lithuanian_language: "Naujasis"
+bezopasnoye.lithuanian_language: "Saugava"
+ipatovo.lithuanian_language: "Ipatavas"
+
+
+## Area 'lower_yik_area' () ##
+# Province 'kalmyk_province' () #
+kalmyk.lithuanian_language: "Kalmikas"
+karatobe.lithuanian_language: "Karatobė"
+shyngyrlau.lithuanian_language: "Šingirlavas"
+aksay_pointic.lithuanian_language: "Aksajus"
+zhympity.lithuanian_language: "Žympytis"
+terekti.lithuanian_language: "Terektys"
+oral.lithuanian_language: "Oralas"
+
+# Province 'ryn_province' () #
+ryn.lithuanian_language: "Rynas"
+ushtagan.lithuanian_language: "Uštaganas"
+sarayjuk.lithuanian_language: "Saraiukas"
+kisikkamys.lithuanian_language: "Kisikkamis"
+kulagin.lithuanian_language: "Kulaginas"
+saryadyn.lithuanian_language: "Sariadinas"
+talowski.lithuanian_language: "Talovskis"
+
+# Province 'piterka_province' () #
+piterka.lithuanian_language: "Piterka"
+krasny_kut_pontic.lithuanian_language: "Raudonkampis"
+mokrous.lithuanian_language: "Mokrusas"
+savinka.lithuanian_language: "Savynka"
+rovnoye.lithuanian_language: "Rovnava"
+pokrovsk.lithuanian_language: "Pokrovskas"
+baronsk.lithuanian_language: "Baronskas"
+
+# Province 'taskala_province' () #
+taskala.lithuanian_language: "Taskala"
+dergachi.lithuanian_language: "Dergaičiai"
+chertanla.lithuanian_language: "Čertanla"
+alexandrov_gay.lithuanian_language: "Butrimis"
+ozinki.lithuanian_language: "Ozinkiai"
+
+# Province 'mechetnaya_province' () #
+mechetnaya.lithuanian_language: "Mečetinė"
+perelyub.lithuanian_language: "Pereliubas"
+ivanteyevka.lithuanian_language: "Tejevas"
+balakovo.lithuanian_language: "Balakovas"
+dukhovnitskoye.lithuanian_language: "Dvasynė"
+yershov.lithuanian_language: "Jeršovas"

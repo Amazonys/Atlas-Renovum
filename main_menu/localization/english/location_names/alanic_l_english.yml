@@ -1,0 +1,252 @@
+﻿l_english:
+### Region 'caucasus_region' () ###
+
+## Area 'armenian_highlands_area' () ##
+# Province 'amadiya_province' () #
+amadiya.alanic_language: "Soslandon"
+baskale.alanic_language: "Baskær"
+hakkari.alanic_language: "Hækkær"
+semdinli.alanic_language: "Sæmdin"
+zakho.alanic_language: "Zækhon"
+
+# Province 'bitlis_province' () #
+bitlis.alanic_language: "Bætlæg"
+bahcesaray.alanic_language: "Bagsær"
+catak.alanic_language: "Cætak"
+hizan.alanic_language: "Daurmagæw"
+mus.alanic_language: "Mysin"
+
+# Province 'erzurum_province' () #
+erzurum.alanic_language: "Ærzyn"
+bayburt.alanic_language: "Bæybært"
+erzincan.alanic_language: "Ærzinon"
+ilic.alanic_language: "Ilicæw"
+kelkit.alanic_language: "Batrazyg"
+kemah.alanic_language: "Kæmæg"
+sebinkarahisar.alanic_language: "Sæbinkær"
+siran.alanic_language: "Syræn"
+tercan.alanic_language: "Tercyn"
+
+# Province 'harput_province' () #
+harput.alanic_language: "Hærpyt"
+adakli.alanic_language: "Adæg"
+bingol.alanic_language: "Bingæl"
+cemisgezek.alanic_language: "Cemizæg"
+genc.alanic_language: "Gensæg"
+keban.alanic_language: "Kebændon"
+kuzucan.alanic_language: "Ælbegon"
+palu.alanic_language: "Palun"
+pertek.alanic_language: "Pærtæg"
+sivrice.alanic_language: "Sivraz"
+
+# Province 'kars_province' () #
+kars.alanic_language: "Karsæg"
+kagizman.alanic_language: "Kagyzmæ"
+surmali.alanic_language: "Surmalon"
+
+# Province 'malazgirt_province' () #
+malazgirt.alanic_language: "Mælægyrt"
+hinis.alanic_language: "Hynys"
+karakilise.alanic_language: "Karelæg"
+hasankale.alanic_language: "Hasænqal"
+tekman.alanic_language: "Tekmæn"
+tutak.alanic_language: "Tutæg"
+varto.alanic_language: "Varton"
+
+# Province 'van_province' () #
+van.alanic_language: "Vaynæg"
+ahlat.alanic_language: "Ælæt"
+bargiri.alanic_language: "Bargiron"
+ercis.alanic_language: "Ærcys"
+hosap.alanic_language: "Hosæp"
+tatvan.alanic_language: "Tætvan"
+
+
+## Area 'armenia_area' () ##
+# Province 'ani_province' () #
+ani.alanic_language: "Anykæl"
+amberd.alanic_language: "Ambærdon"
+artashavan.alanic_language: "Fyronkæw"
+kumayri.alanic_language: "Kumæryn"
+
+# Province 'kachen_province' () #
+gandzasar.alanic_language: "Gandsarys"
+goroz.alanic_language: "Gorozæn"
+haterk.alanic_language: "Hætærk"
+kashatagh.alanic_language: "Kæshtag"
+shusha.alanic_language: "Shusæg"
+
+# Province 'syunik_province' () #
+kapan_armenia.alanic_language: "Kæpæn"
+gladzor.alanic_language: "Gladzon"
+goris.alanic_language: "Gorys"
+julfa.alanic_language: "Dzulfæ"
+nakhchivan.alanic_language: "Naxævyn"
+tatev.alanic_language: "Tætæv"
+
+# Province 'tashir_province' () #
+lori.alanic_language: "Loræg"
+gagi.alanic_language: "Gægyn"
+kayen.alanic_language: "Kæyen"
+khunani.alanic_language: "Khunæn"
+spitak.alanic_language: "Spitæg"
+
+# Province 'yerevan_province' () #
+yerevan.alanic_language: "Ærbon"
+bjni.alanic_language: "Bæjni"
+igdir.alanic_language: "Ygdyr"
+khor_virap.alanic_language: "Khorviræp"
+sotk.alanic_language: "Sotyg"
+
+
+## Area 'georgia_area' () ##
+# Province 'abkhazia_province' () #
+sukhumi.alanic_language: "Suxym"
+anacopia.alanic_language: "Ankæp"
+lata_georgia.alanic_language: "Lætæ"
+pitsunda.alanic_language: "Pitsyndon"
+
+# Province 'hereti_province' () #
+hereti.alanic_language: "Heratæ"
+balakan.alanic_language: "Bælækæn"
+bodbe.alanic_language: "Bodyn"
+khornabuji.alanic_language: "Khornebæj"
+qakh.alanic_language: "Kag"
+
+# Province 'imereti_province' () #
+kutaisi.alanic_language: "Kutæys"
+lentekhi.alanic_language: "Lentækh"
+skande.alanic_language: "Zauryg"
+shorapani.alanic_language: "Shoræpyn"
+tsageri.alanic_language: "Cægær"
+tsesi.alanic_language: "Cæs"
+ushguli.alanic_language: "Usgulæ"
+vartsikhe.alanic_language: "Værtsyg"
+
+# Province 'kakheti_province' () #
+telavi.alanic_language: "Telæg"
+alaverdi.alanic_language: "Alæverd"
+dusheti.alanic_language: "Dusæt"
+gremi.alanic_language: "Gremon"
+rustavi.alanic_language: "Rustævdon"
+shatili.alanic_language: "Shatyl"
+
+# Province 'kartli_province' () #
+tbilisi.alanic_language: "Tibilis"
+dmanisi.alanic_language: "Dmanæs"
+gori.alanic_language: "Goridon"
+kasriskari.alanic_language: "Kasrægor"
+kldekari.alanic_language: "Koldægær"
+kvenipnevi.alanic_language: "Kvenæv"
+mtskheta.alanic_language: "Mæskæt"
+tsagvli.alanic_language: "Tsaglodon"
+
+# Province 'meskheti_province' () #
+artanuji.alanic_language: "Artunyg"
+ispir.alanic_language: "Yspær"
+khikhani.alanic_language: "Khikæn"
+oltu.alanic_language: "Oltun"
+panaskerti.alanic_language: "Pænæskert"
+parkhali.alanic_language: "Pærxæl"
+savsat.alanic_language: "Savsæt"
+tortum.alanic_language: "Tortæm"
+
+# Province 'samegrelo_province' () #
+bedia.alanic_language: "Bedyg"
+anaklia.alanic_language: "Anakæl"
+batumi.alanic_language: "Batæmidon"
+ozurgeti.alanic_language: "Ozurgæt"
+poti_caucasus.alanic_language: "Potedon"
+tsalenjikha.alanic_language: "Tsælenik"
+
+# Province 'samtskhe_province' () #
+akhaltsikhe.alanic_language: "Æxæltæg"
+akhalkalaki.alanic_language: "Æxalkæl"
+ardahan.alanic_language: "Ardæn"
+tmogvi.alanic_language: "Tmogon"
+
+
+## Area 'northern_caucasus_area' () ##
+# Province 'alania_province' () #
+dzhulat.alanic_language: "Dzulæt"
+chegem.alanic_language: "Chegæm"
+jariekhi.alanic_language: "Uruzmagdon"
+karcha_kala.alanic_language: "Kærchakæl"
+koban.alanic_language: "Kobanæ"
+tatartup.alanic_language: "Tærtup"
+
+# Province 'avaria_province' () #
+khunzakh.alanic_language: "Khunzæg"
+kumukh.alanic_language: "Kumux"
+omalo.alanic_language: "Omalon"
+tindi.alanic_language: "Tyndi"
+
+# Province 'lezgistan_province' () #
+kubachi.alanic_language: "Kubæc"
+khuchni.alanic_language: "Khuchæn"
+kurakh.alanic_language: "Kuræg"
+rutul.alanic_language: "Rutyl"
+tpig.alanic_language: "Tpyg"
+
+# Province 'north_caucasus_province' () #
+khumar.alanic_language: "Khymær"
+arkhyz.alanic_language: "Arkhyzæn"
+mamiya_kala.alanic_language: "Mamyægor"
+rim_gora.alanic_language: "Geræglæg"
+
+# Province 'simsir_province' () #
+simsir.alanic_language: "Simsær"
+alkhan_kala.alanic_language: "Ælxængor"
+argun.alanic_language: "Ærgunyg"
+nazran.alanic_language: "Færsægon"
+targim.alanic_language: "Targym"
+tsontaroy_kala.alanic_language: "Tsontarægor"
+
+# Province 'tarki_province' () #
+tarki.alanic_language: "Tarkon"
+boynak.alanic_language: "Bojnæg"
+endirey.alanic_language: "Endyræ"
+temirkhan_shura.alanic_language: "Temyrxæn"
+terek.alanic_language: "Terekdon"
+
+
+## Area 'shirvan_area' () ##
+# Province 'arran_province' () #
+ganja.alanic_language: "Gændzæg"
+barda.alanic_language: "Bærdæn"
+beylagan.alanic_language: "Beylygæn"
+gardman.alanic_language: "Gardom"
+lemberan.alanic_language: "Lembæræn"
+shamkir.alanic_language: "Shamkær"
+
+# Province 'baku_province' () #
+baku.alanic_language: "Bakyn"
+javad.alanic_language: "Dzawad"
+mahmudabad.alanic_language: "Maxmæg"
+maraza.alanic_language: "Digoræw"
+qobustan.alanic_language: "Kobystæn"
+shamakhi.alanic_language: "Shamæg"
+
+# Province 'mughan_province' () #
+mughan.alanic_language: "Mugæn"
+baciravan.alanic_language: "Baciryn"
+bilasuvar.alanic_language: "Bilasæv"
+germi.alanic_language: "Germon"
+salyan.alanic_language: "Sældon"
+varsan.alanic_language: "Varsankæw"
+
+# Province 'shaki_province' () #
+shaki.alanic_language: "Sægæg"
+agsu.alanic_language: "Agys"
+aresh.alanic_language: "Kaurbekon"
+goychay.alanic_language: "Goycæg"
+qabala.alanic_language: "Kabalyn"
+vartashen.alanic_language: "Vartæsh"
+zardab.alanic_language: "Zardæb"
+
+# Province 'shirvan_province' () #
+shirvan.alanic_language: "Shyrvæn"
+derbent.alanic_language: "Dærbændon"
+niyazabad.alanic_language: "Niyaztæn"
+quba.alanic_language: "Kubæg"
+shabran.alanic_language: "Shabron"

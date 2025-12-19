@@ -1,0 +1,1223 @@
+﻿l_english:
+### Region 'steppes_region' () ###
+
+## Area 'crimea_area' () ##
+# Province 'gothia_province' () #
+theodoro.mongolian_language: "Tödör Kherem"
+qirq_yer.mongolian_language: "Döchin Gazar"
+lusta.mongolian_language: "Luustyn Hudag"
+qarasuvbazar.mongolian_language: "Khar Usyn Zakh"
+
+# Province 'cafa_province' () #
+kaffa.mongolian_language: "Khar Dalai Boomt"
+soldaia.mongolian_language: "Sudag Kherem"
+vosporo.mongolian_language: "Bösbör Khot"
+seyitler.mongolian_language: "Seet Bulag"
+solkhat.mongolian_language: "Salkhad Balgas"
+
+# Province 'or_qapi_province' () #
+kalay.mongolian_language: "Tsagaan Qalai"
+kezlev.mongolian_language: "Khesleg Khot"
+aqmecit.mongolian_language: "Tsagaan Süm"
+jurchi.mongolian_language: "Jurjchi Tal"
+or_qapi.mongolian_language: "Ikh Khaalga"
+
+
+## Area 'matrega_area' () ##
+# Province 'taman_province' () #
+taman.mongolian_language: "Dalai Hövöö"
+mapa.mongolian_language: "Maaba Khot"
+susaco.mongolian_language: "Süsüü Kherem"
+shanjir.mongolian_language: "Shanjir Tal"
+copa.mongolian_language: "Köbe Bulag"
+siba_circassia.mongolian_language: "Siba Tal"
+
+# Province 'tuapse_province' () #
+tuapse.mongolian_language: "Tuavsyn Boomt"
+costa.mongolian_language: "Eregiin Sum"
+khadyzhi.mongolian_language: "Khajji Bulag"
+kuzhyb.mongolian_language: "Küjib Tal"
+maykop.mongolian_language: "Maigob Khot"
+moschevo.mongolian_language: "Möshöö Bagh"
+
+# Province 'akhtar_province' () #
+akhtar.mongolian_language: "Akhtariin Tal"
+kalininskaya.mongolian_language: "Khalinyn Bagh"
+bryukhovetskaya.mongolian_language: "Börüheg Tal"
+bzhedygu_kal.mongolian_language: "Bjedegiin Belchir"
+ust_labinsk.mongolian_language: "Laba Am"
+pavlovskaya.mongolian_language: "Yesügein Khot"
+tbilisskaya.mongolian_language: "Tebilisiin Tal"
+romanovsky_khutor.mongolian_language: "Subedeiin Ger"
+
+# Province 'labinsk_province' () #
+chatyun.mongolian_language: "Chatun Tal"
+adyukh.mongolian_language: "Adygiin Bulag"
+armavir.mongolian_language: "Armaavir Khot"
+shkhancheriekhabl.mongolian_language: "Shikhan Cher Bagh"
+belorechensk.mongolian_language: "Tsagaan Golyn Khot"
+
+
+## Area 'yedisan_area' () ##
+# Province 'khadjibey_province' () #
+khadjibey.mongolian_language: "Khajbeyiin Ereg"
+teligol.mongolian_language: "Til Gol"
+kuyanlik.mongolian_language: "Tuulai Nutag"
+ananiv.mongolian_language: "Anan Balgas"
+iagorlic.mongolian_language: "Yagor Gol"
+
+# Province 'boh_province' () #
+dashev.mongolian_language: "Dashiin Tal"
+balikley.mongolian_language: "Zagasiin Gol"
+aqmecit_prybuzhzhya.mongolian_language: "Tsagaan Süm Bugyn Ereg"
+argamakli_sarai.mongolian_language: "Argamag Ordon"
+vithold_hammami.mongolian_language: "Vitoldiin Haluun Us"
+harbuzynka.mongolian_language: "Tarvaasyn Bulag"
+
+# Province 'oleshia_province' () #
+oleshia.mongolian_language: "Oi Nutag"
+bereznehuvate.mongolian_language: "Khushuudiin Gol"
+bashtanka.mongolian_language: "Tarvaas Tal"
+tavan.mongolian_language: "Tavan Golyn Ereg"
+velyka_oleksandrivka.mongolian_language: "Ikh Eskenderiin Tal"
+
+# Province 'qalancak_province' () #
+qalancaq.mongolian_language: "Haragch Tsamkhag"
+aslan_horod.mongolian_language: "Arslangiin Khot"
+ordu_bazar.mongolian_language: "Ordon Zakh"
+rohat_kermen.mongolian_language: "Jargal Kherem"
+enice.mongolian_language: "Shine Sum"
+velyka_lepetykha.mongolian_language: "Ikh Leptig"
+
+
+## Area 'zaporizhzhia_area' () ##
+# Province 'zaporizhzhia_province' () #
+kichkas.mongolian_language: "Baga Davaa"
+rozdory.mongolian_language: "Salgalt Nutag"
+hryshyne.mongolian_language: "Jimsnii Gol"
+pavlohrad.mongolian_language: "Batun Khot"
+
+# Province 'yelanets_province' () #
+yelanets.mongolian_language: "Elchiin Tal"
+usivka.mongolian_language: "Üsüü Bulag"
+mala_vyska.mongolian_language: "Baga Öndör"
+umanske.mongolian_language: "Umanii Nutag"
+ingul.mongolian_language: "Ingül Gol"
+petrove.mongolian_language: "Temüjiin Ger"
+
+# Province 'karlivka_province' () #
+karlivka.mongolian_language: "Kharluun Sum"
+kolomak.mongolian_language: "Kholomog Gol"
+berestyn.mongolian_language: "Chuluun Mod"
+samarchyk.mongolian_language: "Samariin Ereg"
+oril.mongolian_language: "Öröl Gol"
+ternivka.mongolian_language: "Törnii Tal"
+
+# Province 'kodaky_province' () #
+kodak.mongolian_language: "Kodog Kherem"
+myshuryn_rih.mongolian_language: "Myshürin Evreg"
+sofiivka.mongolian_language: "Soyolyn Sum"
+kryvyi_rih.mongolian_language: "Muriin Evreg Ereg"
+tomakivka.mongolian_language: "Tomogiin Ara"
+mykytyn_rih.mongolian_language: "Miktin Evreg"
+
+
+## Area 'kursk_area' () ##
+# Province 'kursk_province' () #
+kursk.mongolian_language: "Seim Golyn Khot"
+fatezh.mongolian_language: "Fetjin Tal"
+opalkova.mongolian_language: "Opal Bulag"
+kosozhichi.mongolian_language: "Khösöjchiin Bagh"
+manturovo_kursk.mongolian_language: "Manduuriin Tal"
+olgov.mongolian_language: "Oluugiin Kherem"
+oskol.mongolian_language: "Osgol Golyn Ereg"
+troitskoye_na_shchigrakh.mongolian_language: "Gurvan Süm Shchigriin Ereg"
+
+# Province 'belgorod_province' () #
+belgorod.mongolian_language: "Tsagaan Khot"
+korocha.mongolian_language: "Khorochin Kherem"
+oboyan.mongolian_language: "Obayan Tal"
+muzhech.mongolian_language: "Erchüü Sum"
+rakitnoye.mongolian_language: "Bargatiin Gol"
+sudzha.mongolian_language: "Süjii Bulag"
+
+# Province 'yelets_province' () #
+yelets.mongolian_language: "Khüsüün Khot"
+gogol.mongolian_language: "Qaiduyn Ger"
+talitsa_yelets.mongolian_language: "Nariin Gol"
+terbuny.mongolian_language: "Tiivriin Tal"
+ust_livny.mongolian_language: "Livnii Am"
+zemlyansk.mongolian_language: "Nutgiin Balgas"
+
+# Province 'alexeyevka_province' () #
+alexeyevka.mongolian_language: "Aljein Balgas"
+rovenki.mongolian_language: "Tegsh Tal"
+valuyki.mongolian_language: "Valuugiin Khot"
+chernyanka.mongolian_language: "Khar Golyn Sum"
+kastornoye.mongolian_language: "Hövrög Gol"
+
+# Province 'voronezh_province' () #
+voronezh.mongolian_language: "Heree Golyn Khot"
+anna_russia.mongolian_language: "Annyn Sum"
+novaya_pokrovka.mongolian_language: "Shine Hamgaaliin Sum"
+semidesyatnoye.mongolian_language: "Dal Dalan Nutag"
+ostrogozhsk.mongolian_language: "Ötsög Kherem"
+rossosh.mongolian_language: "Shandangiin Gol"
+
+
+## Area 'sloboda_ukraine_area' () ##
+# Province 'bielska_sloboda_province' () #
+bielska_sloboda.mongolian_language: "Tsagaan Suljee"
+bilovodsk.mongolian_language: "Tsagaan Usyn Khot"
+novopskov.mongolian_language: "Shine Püsköb"
+kalnivka.mongolian_language: "Khalinii Sum"
+nyzhnia_duvanka.mongolian_language: "Dood Duvangiin Tal"
+konstantinovka.mongolian_language: "Khostangiin Sum"
+
+# Province 'izium_province' () #
+izium.mongolian_language: "Üzügiin Zakh"
+adalaga.mongolian_language: "Adal Agyn Tal"
+barvinkove.mongolian_language: "Tsetsegiin Tal"
+kupiansk.mongolian_language: "Hudaldaanii Khot"
+sloviansk.mongolian_language: "Slaavyn Khot"
+vovchansk.mongolian_language: "Chonoin Kherem"
+
+# Province 'sumy_province' () #
+sumy.mongolian_language: "Savkhnii Khot"
+glushkovo.mongolian_language: "Oygiin Nariin"
+krasnopillia.mongolian_language: "Ulaan Tal"
+vilshana.mongolian_language: "Hövgönii Gol"
+
+# Province 'donetsk_province' () #
+donets_kharkiv.mongolian_language: "Donets Golyn Tal"
+chuhuiv.mongolian_language: "Chughuin Khot"
+khotmyzh.mongolian_language: "Khotmöj Kherem"
+kotelva.mongolian_language: "Zoognii Bulag"
+okhtyrka.mongolian_language: "Okhtoriin Khot"
+zmiiv.mongolian_language: "Mogoin Khot"
+
+
+## Area 'pryazovia_area' () ##
+# Province 'berda_province' () #
+melitopol.mongolian_language: "Zeegnii Khot"
+kyrylivka.mongolian_language: "Kireliin Ger"
+tokmak.mongolian_language: "Tokmog Tal"
+konski_vody.mongolian_language: "Moriin Us"
+kuchugur.mongolian_language: "Elsnii Öndör"
+berdiansk.mongolian_language: "Berdyin Boomt"
+
+# Province 'kalmius_province' () #
+taganrog.mongolian_language: "Evregiin Boomt"
+velyka_novosilka.mongolian_language: "Ikh Shine Sum"
+domakha.mongolian_language: "Geriin Nutag"
+huliaipole.mongolian_language: "Nüüdel Tal"
+shyrokyne.mongolian_language: "Örgen Ereg"
+vasylivka.mongolian_language: "Jochiin Sum"
+
+# Province 'bakhmut_province' () #
+bakhmut.mongolian_language: "Davst Golyn Khot"
+lysychansk.mongolian_language: "Yangiin Kherem"
+kreminna.mongolian_language: "Chuluun Tal"
+oleksandrivka.mongolian_language: "Eskenderiin Sum"
+posad.mongolian_language: "Zakhyn Bagh"
+
+
+## Area 'azov_area' () ##
+# Province 'azov_province' () #
+azok.mongolian_language: "Don Amny Kherem"
+bagayevskaya.mongolian_language: "Bagaevyn Ger"
+shcherbinovka.mongolian_language: "Züslegt Sum"
+balzimachi.mongolian_language: "Baljimag Tal"
+kanevskaya.mongolian_language: "Khaneviin Tal"
+starominskaya.mongolian_language: "Övgön Mensgiin Sum"
+yegorlykskaya.mongolian_language: "Egörlig Golyn Ereg"
+
+# Province 'tana_province' () #
+tana.mongolian_language: "Tanain Boomt"
+krasny_sulin.mongolian_language: "Ulaan Süliin Khot"
+shakhty.mongolian_language: "Uurkhain Khot"
+rovenky.mongolian_language: "Tegshiin Ger"
+kalmius.mongolian_language: "Kalmii Gol"
+kamenskaya.mongolian_language: "Chuluun Khot"
+
+# Province 'semikarakorsk_province' () #
+semikarakorsk.mongolian_language: "Doloon Khar Tal"
+bol_shaya_martynovka.mongolian_language: "Ikh Martiin Sum"
+cheplak.mongolian_language: "Chebelgiin Tal"
+bolshoy_gashun.mongolian_language: "Ikh Gashuun"
+dubovskoye.mongolian_language: "Tsars Modnii Bagh"
+yundin.mongolian_language: "Yündiin Sum"
+
+# Province 'ust_tsimla_province' () #
+ust_tsimla.mongolian_language: "Tsimliin Am"
+konstantinovsk.mongolian_language: "Muqalyn Khot"
+tatsinskaya.mongolian_language: "Tatariin Tal"
+tormosin.mongolian_language: "Shuurga Tal"
+
+# Province 'luhan_province' () #
+luhansk.mongolian_language: "Luhan Golyn Khot"
+mityakinskaya.mongolian_language: "Mitiagiin Ger"
+novoaidar.mongolian_language: "Shine Aidaryn Tal"
+belaya_kalitva.mongolian_language: "Tsagaan Kalitva Gol"
+millerovo.mongolian_language: "Sorqaniin Bagh"
+
+
+## Area 'lower_don_area' () ##
+# Province 'kremenskaya_province' () #
+kremenskaya.mongolian_language: "Chuluun Kherem"
+kletskaya.mongolian_language: "Hadgaliin Sum"
+ust_medveditskaya.mongolian_language: "Baavgain Golyn Am"
+oblivskaya.mongolian_language: "Usnii Tal"
+nizhny_chir.mongolian_language: "Dood Chir Gol"
+
+# Province 'kashary_province' () #
+kashary.mongolian_language: "Qasariin Tal"
+chertkovo.mongolian_language: "Chötgöriin Bagh"
+bokovskaya.mongolian_language: "Hülkhiin Sum"
+milyutinskaya.mongolian_language: "Milyutiin Ger"
+boguchar.mongolian_language: "Örlögtiin Ereg"
+
+# Province 'borisoglebsk_province' () #
+borisoglebsk.mongolian_language: "Khoyor Süm Khot"
+bannoye.mongolian_language: "Haluun Us"
+kalach.mongolian_language: "Kalachiin Tal"
+sadovoye.mongolian_language: "Tsetsegtiin Khashaa"
+bolshaya_gribanovka.mongolian_language: "Ikh Griban Sum"
+buturlinovka.mongolian_language: "Botorliin Bagh"
+verkhny_mamon.mongolian_language: "Deed Mamon Gol"
+uryupin.mongolian_language: "Uruupiin Khot"
+
+# Province 'mikhaylovka_province' () #
+mikhaylovka.mongolian_language: "Mikhliin Sum"
+novoanninsky.mongolian_language: "Shine Annin Bagh"
+alexeyevskaya.mongolian_language: "Aljein Sum"
+veesky.mongolian_language: "Veenii Tal"
+kumylzhenskaya.mongolian_language: "Kumylgyn Golyn Ereg"
+zimnyatsky.mongolian_language: "Övliin Nutag"
+malodelskaya.mongolian_language: "Baga Deliin Sum"
+ilovlya.mongolian_language: "Ilovliin Gol"
+
+# Province 'beljamen_province' () #
+mechet.mongolian_language: "Süm Khot"
+stepanevka.mongolian_language: "Stebangiin Ger"
+sarai_al_jadid.mongolian_language: "Shine Sarai"
+beljamen.mongolian_language: "Beljmen Balgas"
+zenzevatka.mongolian_language: "Zenzüü Tal"
+nagavskaya.mongolian_language: "Nagaagiin Sum"
+aksay.mongolian_language: "Tsagaan Suvag"
+
+# Province 'yelan_province' () #
+yelan.mongolian_language: "Namag Tal"
+machekha.mongolian_language: "Övgöch Eejiin Bagh"
+novonikolayevsky.mongolian_language: "Shine Nikolyn Bagh"
+samoylovka.mongolian_language: "Samoin Sum"
+rudnya_pontic.mongolian_language: "Tömriin Kherem"
+danilovka.mongolian_language: "Danliin Sum"
+kotovo.mongolian_language: "Muunii Nutag"
+kamyshin.mongolian_language: "Zegstei Golyn Khot"
+goly_karamysh.mongolian_language: "Nütsgen Karamysh Gol"
+
+
+## Area 'astrakhan_area' () ##
+# Province 'astrakhan_province' () #
+astrakhan.mongolian_language: "Ajitarqan Khot"
+khosheutovo.mongolian_language: "Hoshuudiin Nutag"
+krasny_yar.mongolian_language: "Ulaan Had"
+ganyushkino.mongolian_language: "Ganiin Ger"
+
+# Province 'pologoye_zaymishche_province' () #
+pologoye_zaymishche.mongolian_language: "Tegsh Usan Tal"
+srednyaya_akhtuba.mongolian_language: "Dund Akhtuva Gol"
+bykovo.mongolian_language: "Ükhriin Sum"
+elton.mongolian_language: "Eltiin Nuuryn Ereg"
+zolotari.mongolian_language: "Altyn Usgagch"
+berezhnovka.mongolian_language: "Eregiin Bagh"
+
+# Province 'zamyany_province' () #
+zamyany.mongolian_language: "Tsaashiin Tal"
+yenotayevka.mongolian_language: "Enotyn Sum"
+sapara.mongolian_language: "Sapar Bulag"
+chernyye_zemli.mongolian_language: "Khar Gazar"
+ikryanoye.mongolian_language: "Taragiin Zakh"
+
+# Province 'chyorny_yar_province' () #
+chyorny_yar.mongolian_language: "Khar Had"
+nikolskoye_pontic.mongolian_language: "Nikolyn Sum"
+malye_derbety.mongolian_language: "Baga Derbet"
+sadovoye_kalmykia.mongolian_language: "Tsetsegtiin Nutag"
+ded_khulsun.mongolian_language: "Khulsun Övgön"
+zavetnoye.mongolian_language: "Tangalag Nutag"
+
+# Province 'bolkhuny_province' () #
+bolkhuny.mongolian_language: "Bulhyn Tal"
+mikhaylovka_pontic.mongolian_language: "Mikhliin Ger"
+rechnoye.mongolian_language: "Golyn Sum"
+bokey.mongolian_language: "Bököi Ger"
+botkul.mongolian_language: "Botkul Nuuryn Ereg"
+zhanybek.mongolian_language: "Janybekiin Khot"
+
+# Province 'dardeling_province' () #
+dardeling.mongolian_language: "Dördiin Tal"
+mekletin.mongolian_language: "Mekleti Tal"
+kok_usn.mongolian_language: "Khökh Us"
+yashkul.mongolian_language: "Yashkuliin Nuur"
+iki_burul.mongolian_language: "Khoyor Ergelt"
+
+# Province 'priyutnoye_province' () #
+priyutnoye.mongolian_language: "Orogdliin Nutag"
+elista.mongolian_language: "Elstei Khot"
+remontnoye.mongolian_language: "Zasvariin Sum"
+gorodovikovsk.mongolian_language: "Janggiin Khot"
+raguli.mongolian_language: "Raguliin Bagh"
+
+
+## Area 'majar_area' () ##
+# Province 'majar_province' () #
+majar.mongolian_language: "Majar Balgas"
+zelenokumsk.mongolian_language: "Nogoon Kumyn Khot"
+arzgir.mongolian_language: "Arsgeriin Tal"
+levokumskoye.mongolian_language: "Züün Kumyn Sum"
+novopavlovsk.mongolian_language: "Börteiin Khot"
+yessentuq.mongolian_language: "Esen Tögiin Us"
+alexandrovskoye.mongolian_language: "Eskenderiin Sum"
+blagodarnoye.mongolian_language: "Talarkhiin Nutag"
+novoselitskoye.mongolian_language: "Shine Suurig"
+
+# Province 'terek_province' () #
+naurskaya.mongolian_language: "Naariin Tal"
+kara_bazaar.mongolian_language: "Khar Zakh"
+terekli_mekteb.mongolian_language: "Teregiin Surguuli Sum"
+kurskaya.mongolian_language: "Seimyn Tal"
+kamysh_burun.mongolian_language: "Zegsten Hövöö"
+
+# Province 'stavropol_province' () #
+stavropol.mongolian_language: "Zagalmailsan Khot"
+grigoropolisskaya.mongolian_language: "Grigoriin Sum"
+uspenskoye.mongolian_language: "Örgömgönii Sum"
+shad_kirman.mongolian_language: "Shad Kherem"
+petrovskoye_pontic.mongolian_language: "Peeteriin Ger"
+
+# Province 'privolnoye_province' () #
+privolnoye.mongolian_language: "Örgen Tal"
+belaya_glina.mongolian_language: "Tsagaan Shavar"
+peschanokopskoye.mongolian_language: "Elsnii Uhsaa"
+novo_alexandrovskoye.mongolian_language: "Ordiin Shine Suurig"
+bezopasnoye.mongolian_language: "Ayulgüi Nutag"
+ipatovo.mongolian_language: "Ipatiin Bagh"
+
+
+## Area 'lower_yik_area' () ##
+# Province 'kalmyk_province' () #
+kalmyk.mongolian_language: "Halimag Nutag"
+karatobe.mongolian_language: "Khar Töbe"
+shyngyrlau.mongolian_language: "Shingirlüü Gol"
+aksay_pointic.mongolian_language: "Tsagaan Suvag"
+zhympity.mongolian_language: "Jimbetiin Sum"
+terekti.mongolian_language: "Börgösiin Bagh"
+oral.mongolian_language: "Yik Golyn Khot"
+
+# Province 'ryn_province' () #
+ryn.mongolian_language: "Ryn Els"
+ushtagan.mongolian_language: "Üshtaganiin Hudag"
+sarayjuk.mongolian_language: "Baga Sarai"
+kisikkamys.mongolian_language: "Nariin Zegstei Tal"
+kulagin.mongolian_language: "Kulagchiin Sum"
+saryadyn.mongolian_language: "Shar Höndii"
+talowski.mongolian_language: "Taliin Ger"
+
+# Province 'piterka_province' () #
+piterka.mongolian_language: "Petriin Tal"
+krasny_kut_pontic.mongolian_language: "Ulaan Bulan"
+mokrous.mongolian_language: "Chiiheeg Nutag"
+savinka.mongolian_language: "Saviin Sum"
+rovnoye.mongolian_language: "Tegsh Nutag"
+pokrovsk.mongolian_language: "Hamgaaliin Khot"
+baronsk.mongolian_language: "Baroniin Suurig"
+
+# Province 'taskala_province' () #
+taskala.mongolian_language: "Chuluun Kherem"
+dergachi.mongolian_language: "Dergachiin Bagh"
+chertanla.mongolian_language: "Chötgör Gol"
+alexandrov_gay.mongolian_language: "Eskenderiin Oy"
+ozinki.mongolian_language: "Baga Nuuryn Sum"
+
+# Province 'mechetnaya_province' () #
+mechetnaya.mongolian_language: "Sümiin Tal"
+perelyub.mongolian_language: "Hairt Tal"
+ivanteyevka.mongolian_language: "Ivangiin Sum"
+balakovo.mongolian_language: "Balagiin Khot"
+dukhovnitskoye.mongolian_language: "Süniin Nutag"
+yershov.mongolian_language: "Yershiin Bagh"
+### Region 'russian_region' () ###
+
+## Area 'moscow_area' () ##
+# Province 'moscow_province' () #
+moscow.mongolian_language: "Möskölkhot"
+bronnitsy.mongolian_language: "Boronis"
+odintsovo.mongolian_language: "Ödünsöv"
+pushkino.mongolian_language: "Puškün"
+rogozh.mongolian_language: "Rögöj"
+vokhna.mongolian_language: "Vokhan"
+
+# Province 'mozhaysk_province' () #
+mozhaysk.mongolian_language: "Možaiš"
+borovsk.mongolian_language: "Borog"
+medyn.mongolian_language: "Medün"
+maloyaroslavets.mongolian_language: "Yarosla baga"
+vereya.mongolian_language: "Verge"
+vetza.mongolian_language: "Veca"
+
+# Province 'kolomna_province' () #
+kolomna.mongolian_language: "Kolomön"
+khatun.mongolian_language: "Qatun"
+przemysl_moscow.mongolian_language: "Jermis"
+serpukhov.mongolian_language: "Serebkhö"
+koshira.mongolian_language: "Košir"
+vysokoye.mongolian_language: "Öndöršir"
+
+# Province 'zvenigorod_province' () #
+zvenigorod.mongolian_language: "Žebengerod"
+dmitrov.mongolian_language: "Demitür"
+mushkov_pogost.mongolian_language: "Mušig"
+rogachevo.mongolian_language: "Rogač"
+ruza.mongolian_language: "Ruzan"
+volok.mongolian_language: "Volog"
+
+## Area 'oka_area' () ##
+# Province 'odoyev_province' () #
+odoyev.mongolian_language: "Odöev"
+belyov.mongolian_language: "Cagaangol"
+rzhavets.mongolian_language: "Javets"
+vorotynsk.mongolian_language: "Voroteng"
+
+# Province 'masalsk_province' () #
+masalsk.mongolian_language: "Masalč"
+fominichi.mongolian_language: "Fömin"
+lyubun.mongolian_language: "Lüvün"
+pogostishche.mongolian_language: "Bogost"
+yukhnov.mongolian_language: "Yühön"
+
+# Province 'karachev_province' () #
+karachev.mongolian_language: "Qaračev"
+bolkhov.mongolian_language: "Bolghö"
+khotiml.mongolian_language: "Qotimel"
+kromy.mongolian_language: "Körmü"
+zvenihorod_siverskyi.mongolian_language: "Žebenseber"
+
+# Province 'kozelsk_province' () #
+kozelsk.mongolian_language: "Közelč"
+khvastovichi.mongolian_language: "Qavast"
+ktsyn.mongolian_language: "Kütsen"
+meshchovsk.mongolian_language: "Mešög"
+usty.mongolian_language: "Ustü"
+
+# Province 'novosil_province' () #
+novosil.mongolian_language: "Šinesil"
+bogorodskoye.mongolian_language: "Boğorod"
+kolpny.mongolian_language: "Kolbün"
+mikhailovka.mongolian_language: "Mihailiin"
+mtsensk.mongolian_language: "Mütseng"
+plavsk.mongolian_language: "Plagas"
+tagin.mongolian_language: "Tagin"
+vorotynsk_novosil.mongolian_language: "Šinoroteng"
+
+# Province 'tarusa_province' () #
+tarusa.mongolian_language: "Tarusa"
+kaluga.mongolian_language: "Qaluğa"
+obolensk.mongolian_language: "Oboleng"
+volkona.mongolian_language: "Volkona"
+
+# Province 'tula_russia_province' () #
+tula_russia.mongolian_language: "Tulakhot"
+arkhangelskoye.mongolian_language: "Arkangel"
+bogoroditsk.mongolian_language: "Bogodit"
+kurkino.mongolian_language: "Kürgön"
+
+## Area 'smolensk_area' () ##
+# Province 'bely_province' () #
+bely.mongolian_language: "Cagaan"
+bolshevo.mongolian_language: "Bolšov"
+fomin_gorodok.mongolian_language: "Fömingiinhot"
+shoptovo.mongolian_language: "Šoptov"
+verkhovye.mongolian_language: "Döödeg"
+yotkino.mongolian_language: "Yötkön"
+
+# Province 'dorogobuzh_province' () #
+dorogobuzh.mongolian_language: "Dorobuž"
+demensk.mongolian_language: "Demeng"
+gorodechnya.mongolian_language: "Gorodčin"
+mozhino.mongolian_language: "Možin"
+shui.mongolian_language: "Šüi"
+yartsevo.mongolian_language: "Yarcev"
+
+# Province 'kozlov_province' () #
+kozlov_vyazma.mongolian_language: "Köslöö"
+orekhovna.mongolian_language: "Orhevn"
+pogoreloye.mongolian_language: "Bogorol"
+trufany.mongolian_language: "Trüvan"
+zhulino.mongolian_language: "Julin"
+
+# Province 'roslavl_province' () #
+roslavl.mongolian_language: "Roslağ"
+izyaslavl.mongolian_language: "Izjaslağ"
+pustosel.mongolian_language: "Püstesel"
+rognedino.mongolian_language: "Rogned"
+zaroy.mongolian_language: "Zaroi"
+
+# Province 'smolensk_province' () #
+smolensk.mongolian_language: "Smolenghot"
+belik.mongolian_language: "Belig"
+berezhnyany.mongolian_language: "Berežen"
+dukhovshchina.mongolian_language: "Dühöš"
+krasny.mongolian_language: "Ulaansüme"
+yelnya.mongolian_language: "Yelne"
+
+# Province 'toropets_province' () #
+toropets.mongolian_language: "Toropes"
+andreapol.mongolian_language: "Andorbol"
+bibirevo.mongolian_language: "Bibir"
+dubrovna.mongolian_language: "Dübrün"
+ilyino.mongolian_language: "Iljin"
+nizhelskoe.mongolian_language: "Nižeg"
+zhizhets.mongolian_language: "Žižes"
+
+# Province 'verzhavsk_province' () #
+verzhavsk.mongolian_language: "Verjav"
+demidov.mongolian_language: "Demid"
+katyn.mongolian_language: "Qatin"
+luchani.mongolian_language: "Luçan"
+shchuchye_smolensk.mongolian_language: "Šüče"
+vetlitsy.mongolian_language: "Vetlits"
+
+# Province 'vyazma_province' () #
+vyazma.mongolian_language: "Vjazma"
+izdeshkovo.mongolian_language: "Izdeš"
+khlepen.mongolian_language: "Qlepün"
+kholm_zhirkovsky.mongolian_language: "Qolomjirgü"
+sychyovka.mongolian_language: "Süčöv"
+
+## Area 'ryazan_area' () ##
+# Province 'kasimov_province' () #
+kasimov.mongolian_language: "Qasim"
+ardatov.mongolian_language: "Ardat"
+azeevo.mongolian_language: "Azev"
+kadom.mongolian_language: "Qadom"
+tuma.mongolian_language: "Tüme"
+
+# Province 'murom_province' () #
+murom.mongolian_language: "Möröm"
+gorbatovo.mongolian_language: "Gorbat"
+klepiki.mongolian_language: "Kelbek"
+melenki.mongolian_language: "Melenk"
+shatur.mongolian_language: "Šatür"
+starodub_votsky.mongolian_language: "Qaridov"
+
+# Province 'rostislavl_province' () #
+rostislavl_ryazansky.mongolian_language: "Rostilağ"
+lyubichi.mongolian_language: "Lüvič"
+lopasnya.mongolian_language: "Lobasan"
+perevitska.mongolian_language: "Perevte"
+serebryanye_prudy.mongolian_language: "Serebsü"
+venyov.mongolian_language: "Venöv"
+
+# Province 'ryazan_province' () #
+ryazan.mongolian_language: "Razangkhot"
+kazari.mongolian_language: "Qazar"
+koponovo.mongolian_language: "Kobon"
+putyatino.mongolian_language: "Bütet"
+shilovo.mongolian_language: "Šilöv"
+staraya_ryazan.mongolian_language: "Qarirazang"
+
+# Province 'pronsk_province' () #
+pronsk.mongolian_language: "Porong"
+dubok.mongolian_language: "Dubög"
+karniki.mongolian_language: "Qarnig"
+knyazhoye.mongolian_language: "Knjaž"
+mikhaylov.mongolian_language: "Mihail"
+skopin.mongolian_language: "Sköpin"
+ryazhsk.mongolian_language: "Rjažeg"
+
+# Province 'bogdanovo_province' () #
+mokhcha.mongolian_language: "Mohča"
+nizhny_lomov.mongolian_language: "Dombuhin"
+zemetchino.mongolian_language: "Zemete"
+insar.mongolian_language: "Insargol"
+tarbeevka.mongolian_language: "Tarbev"
+zubova_polyana.mongolian_language: "Zubuntal"
+
+# Province 'sarov_province' () #
+sarov.mongolian_language: "Sarob"
+bolshoye_boldino.mongolian_language: "Boljin"
+temnikov.mongolian_language: "Temnek"
+krasnoslobodsk.mongolian_language: "Ulaansum"
+lukoyanov.mongolian_language: "Lukoyan"
+shatki.mongolian_language: "Šatgü"
+arzamas.mongolian_language: "Arzamas"
+pavlovo.mongolian_language: "Pabluu"
+ruzayevka.mongolian_language: "Ruzaib"
+
+## Area 'tambov_area' () ##
+# Province 'tambov_province' () #
+tambov.mongolian_language: "Tambob"
+staroyuryevo.mongolian_language: "Qarijür"
+sasovo.mongolian_language: "Sasöv"
+rasskazovo.mongolian_language: "Raskaz"
+bondari.mongolian_language: "Böndör"
+morsha.mongolian_language: "Mörše"
+mordovo.mongolian_language: "Mordov"
+zherdevka.mongolian_language: "Jerdeb"
+uvarovo.mongolian_language: "Uvar"
+kirsanov.mongolian_language: "Kirsan"
+
+# Province 'penza_province' () #
+penza.mongolian_language: "Penzekhot"
+gorodishche.mongolian_language: "Gorčee"
+mokshan.mongolian_language: "Mogšan"
+lunino.mongolian_language: "Lünin"
+nikolskoye.mongolian_language: "Niköl"
+malaya_serdoba.mongolian_language: "Bagaserdov"
+shemysheyka.mongolian_language: "Šemeš"
+chembar.mongolian_language: "Čembar"
+serdobinskaya.mongolian_language: "Serdovin"
+russky_kameshkir.mongolian_language: "Rus Kameš"
+
+# Province 'atkarsk_province' () #
+atkarsk.mongolian_language: "Atqar"
+lysye_gory.mongolian_language: "Nütsgenuul"
+yekaterinovka.mongolian_language: "Ekater"
+balanda.mongolian_language: "Balanda"
+rtishchevo.mongolian_language: "Ertiš"
+balashov.mongolian_language: "Balasu"
+turki.mongolian_language: "Türge"
+arkadak.mongolian_language: "Arqadag"
+
+# Province 'saratov_province' () #
+ukek.mongolian_language: "Ükeg"
+sosnovy_ostrov.mongolian_language: "Sosonaral"
+malykovka.mongolian_language: "Malig"
+novye_burasy.mongolian_language: "Šine Burasi"
+tereshka.mongolian_language: "Tereš gol"
+petrovsk.mongolian_language: "Petör"
+
+# Province 'lipetsk_province' () #
+lipetsk.mongolian_language: "Liptsig"
+donkov.mongolian_language: "Donhov"
+usman.mongolian_language: "Usman"
+ust_stanovykh_ryas.mongolian_language: "Ustrjas"
+izberdey.mongolian_language: "Izberd"
+teshevka.mongolian_language: "Tešev"
+kozlov.mongolian_language: "Košljig"
+
+## Area 'samara_area' () ##
+# Province 'samara_province' () #
+samara.mongolian_language: "Samara golyn"
+shigony.mongolian_language: "Šigon"
+morkvash.mongolian_language: "Mörgvaš"
+khvorostyanka.mongolian_language: "Qorost"
+stavropol_na_volge.mongolian_language: "Izildeged"
+kondurcha.mongolian_language: "Kondorča"
+pestravka.mongolian_language: "Pestrag"
+poganovka.mongolian_language: "Bogon"
+
+# Province 'alatyr_province' () #
+alatyr.mongolian_language: "Alatir"
+bolshoye_murashkino.mongolian_language: "Ihmuraš"
+perevoz.mongolian_language: "Perebos"
+sechenovo.mongolian_language: "Sečen"
+sergach.mongolian_language: "Sergac"
+spasskoye_lyskovo.mongolian_language: "Spasgöl"
+
+# Province 'cheboksary_province' () #
+cheboksary.mongolian_language: "Čeboksar"
+kozmodemyansk.mongolian_language: "Kosmodem"
+alikovo.mongolian_language: "Aligov"
+vasilsursk.mongolian_language: "Vasilsor"
+tsivilsk.mongolian_language: "Tsebil"
+atishchevo.mongolian_language: "Atiš"
+sviyazhsk.mongolian_language: "Sviaj gol"
+
+# Province 'kurmysh_province' () #
+kurmysh.mongolian_language: "Kurmiš"
+khakhaly.mongolian_language: "Qahal"
+lyskovo.mongolian_language: "Lüsgöv"
+raznezhye.mongolian_language: "Razne"
+voskresenskoye.mongolian_language: "Boskres"
+
+# Province 'simbirsk_province' () #
+simbirsk.mongolian_language: "Sembirkhot"
+pokrovskoye.mongolian_language: "Pokrov"
+cherdakly.mongolian_language: "Čerdag"
+melekess.mongolian_language: "Melekes"
+staraya_mayna.mongolian_language: "Qarimaina"
+tetyushi.mongolian_language: "Tetüš"
+atrat.mongolian_language: "Atrat"
+batyrevo.mongolian_language: "Baatar sum"
+altyshevo.mongolian_language: "Altis"
+
+# Province 'troitskoye_kuroedovo_province' () #
+troitskoye_kuroedovo.mongolian_language: "Troit"
+bazarny_syzgan.mongolian_language: "Bazargan"
+staraya_kulatka.mongolian_language: "Qarikulat"
+solovtsovo.mongolian_language: "Solobts"
+karsun.mongolian_language: "Qarsün"
+promsa.mongolian_language: "Promsa"
+chamzinka.mongolian_language: "Čamzin"
+saransk.mongolian_language: "Sarangs"
+
+## Area 'nizhny_novgorod_area' () ##
+# Province 'nizhny_novgorod_province' () #
+nizhny_novgorod.mongolian_language: "Došnovgorod"
+dalneye_konstantinovo.mongolian_language: "Holdkonstan"
+gorokhovets.mongolian_language: "Gorohes"
+meshchersk.mongolian_language: "Mešger"
+pestyaki.mongolian_language: "Pesteg"
+rastyapino.mongolian_language: "Rastap"
+
+# Province 'galich_province' () #
+galich.mongolian_language: "Galič"
+chukhloma.mongolian_language: "Čuqlom"
+nikolo_dor.mongolian_language: "Nikoldor"
+parfenyevo.mongolian_language: "Parfen"
+sol_galichskaya.mongolian_language: "Davsgali"
+sudai.mongolian_language: "Sudai"
+
+# Province 'gorodets_province' () #
+gorodets.mongolian_language: "Gorodes"
+korenevo.mongolian_language: "Koren"
+lukh.mongolian_language: "Lüh"
+vasilyeva_sloboda.mongolian_language: "Vasilsüme"
+yuryev_povolzhsk.mongolian_language: "Jürpovol"
+kadyy.mongolian_language: "Qadi"
+
+# Province 'uren_province' () #
+uren.mongolian_language: "Üren"
+tonshayevo.mongolian_language: "Tonšai"
+vetluga.mongolian_language: "Vetlüggol"
+semyonov.mongolian_language: "Semön"
+kovernino.mongolian_language: "Kövern"
+krasnye_baki.mongolian_language: "Ulaanbagi"
+sharanga.mongolian_language: "Šaranga"
+varnavino.mongolian_language: "Varnab"
+
+# Province 'unzha_province' () #
+unzha.mongolian_language: "Unja"
+kologriv.mongolian_language: "Kologrib"
+kuzhbal.mongolian_language: "Küžbal"
+manturovo.mongolian_language: "Mantur"
+pyshchug.mongolian_language: "Pišüg"
+
+## Area 'suzdal_area' () ##
+# Province 'shuya_province' () #
+shuya.mongolian_language: "Šüja"
+ivanovo.mongolian_language: "Ibanov"
+lezhnevo.mongolian_language: "Ležnev"
+vichuga.mongolian_language: "Vičüg"
+
+# Province 'starodub_province' () #
+starodub_on_the_klyazma.mongolian_language: "Kaaridofgolyn"
+palekh.mongolian_language: "Palih"
+rozhdestveno.mongolian_language: "Rožden"
+
+# Province 'suzdal_province' () #
+suzdal.mongolian_language: "Süzdel"
+gavrilovskoye.mongolian_language: "Gabrel"
+ilyinskoye_khovanskoye.mongolian_language: "Iljinhov"
+yuryev_polsky.mongolian_language: "Jür Tal"
+
+## Area 'vladimir_area' () ##
+# Province 'pereyaslavl_province' () #
+pereyaslavl.mongolian_language: "Perejaslağ"
+alexandrovskaya_sloboda.mongolian_language: "Alahsansum"
+bogorodskoye_pereyaslavl.mongolian_language: "Bogorodiurt"
+kirzhach.mongolian_language: "Kirjač"
+poreevo.mongolian_language: "Porev"
+yanovo.mongolian_language: "Janov"
+
+# Province 'rostov_province' () #
+rostov.mongolian_language: "Rostob"
+borisogleb.mongolian_language: "Borisleg"
+petrovsk_rostov.mongolian_language: "Petrobor"
+
+# Province 'uglich_province' () #
+uglich.mongolian_language: "Uglič"
+koi.mongolian_language: "Koi"
+rozhalovo.mongolian_language: "Rožal"
+
+# Province 'vladimir_province' () #
+vladimir.mongolian_language: "Balamdirkhot"
+moshok.mongolian_language: "Mošog"
+muromtsevo_murom.mongolian_language: "Mörömce"
+osovets.mongolian_language: "Osoves"
+sudogda.mongolian_language: "Sudog"
+vlasovo.mongolian_language: "Vlasov"
+yaropolch.mongolian_language: "Yarobolč"
+zolotkovo.mongolian_language: "Zolot"
+
+## Area 'tver_area' () ##
+# Province 'kashin_province' () #
+kashin.mongolian_language: "Kašin"
+kimra.mongolian_language: "Kimür"
+kesova_gora.mongolian_language: "Kesuul"
+kalyazin.mongolian_language: "Qaljazin"
+
+# Province 'rzhev_province' () #
+rzhev.mongolian_language: "Jeröv"
+bor_volgo.mongolian_language: "Borizil"
+khotoshino.mongolian_language: "Qotošin"
+molodoi_tud.mongolian_language: "Zaluutud"
+ostashkov.mongolian_language: "Ostaš"
+
+# Province 'torzhok_province' () #
+torzhok.mongolian_language: "Toržog"
+bernovo.mongolian_language: "Bernov"
+kuvshinovo.mongolian_language: "Küvšin"
+mednoye.mongolian_language: "Mednö"
+
+# Province 'tver_province' () #
+tver.mongolian_language: "Teverkhot"
+brody_tver.mongolian_language: "Bordtever"
+dubna.mongolian_language: "Dubnagol"
+klin.mongolian_language: "Kilin"
+vertyazin.mongolian_language: "Vertjazin"
+
+# Province 'zubtsov_province' () #
+zubtsov.mongolian_language: "Zubtes"
+gorodok.mongolian_language: "Jorodog"
+kholm_tver.mongolian_language: "Qolomtever"
+lotoshino.mongolian_language: "Lotošin"
+mikulino_tver.mongolian_language: "Mikultever"
+
+## Area 'yaroslavl_area' () ##
+# Province 'yaroslavl_province' () #
+yaroslavl.mongolian_language: "Yaroslağkhot"
+bolshoye_selo.mongolian_language: "Ihselo"
+danilov.mongolian_language: "Danil"
+kurba.mongolian_language: "Kurba"
+romanov.mongolian_language: "Röman"
+sol_velikaya.mongolian_language: "Yosonih"
+ust_sheksna.mongolian_language: "UstŠeksna"
+
+# Province 'bezhetsk_province' () #
+gorodetsk.mongolian_language: "Gorodet"
+ramenki.mongolian_language: "Rameng"
+spas_na_kholmu.mongolian_language: "Spasqolom"
+ves_yogonskaya.mongolian_language: "Yesjogon"
+yezsk.mongolian_language: "Yezeg"
+
+# Province 'buy_province' () #
+buy.mongolian_language: "Bui"
+demyanovo.mongolian_language: "Demjan"
+gryazovets.mongolian_language: "Geraz"
+lyubim.mongolian_language: "Lüvüm"
+
+# Province 'kostroma_province' () #
+kostroma.mongolian_language: "Kostrom"
+nerekhta.mongolian_language: "Nerehte"
+ostrovskoye.mongolian_language: "Ostrov"
+sudislavl.mongolian_language: "Sudislağ"
+yakovlevskoye_bolshoye.mongolian_language: "Ihjakov"
+
+# Province 'mologa_province' () #
+mologa.mongolian_language: "Molga"
+ilovna.mongolian_language: "Ilobna"
+prozorovo.mongolian_language: "Prozor"
+
+## Area 'beloozero_area' () ##
+# Province 'beloe_province' () #
+beloe.mongolian_language: "Cagaannuur"
+knyazhich_gorodok.mongolian_language: "Knjažhot"
+lukoves.mongolian_language: "Lukoves"
+pokrovskoye_yaroslav.mongolian_language: "Pokrovjar"
+poshekhonye.mongolian_language: "Pošehon"
+
+# Province 'beloozero_province' () #
+beloozero.mongolian_language: "Cagaanozor"
+badozhsky.mongolian_language: "Badož"
+chuzboy.mongolian_language: "Čüzboi"
+goroditse_megra.mongolian_language: "Gorodmeger"
+koloshma.mongolian_language: "Kološ"
+
+# Province 'cherepoves_province' () #
+cherepoves.mongolian_language: "Čerebos"
+georgievskoye.mongolian_language: "Choorhii"
+nikolskoye_andoma.mongolian_language: "Andomniköl"
+spasskoye.mongolian_language: "Spas"
+ust_ugla.mongolian_language: "Ustugla"
+ustyuzhna_zheleznopolskaya.mongolian_language: "Ustjüžen"
+yorga.mongolian_language: "Jorga"
+
+# Province 'vashki_province' () #
+vashki.mongolian_language: "Vaškü"
+charonda.mongolian_language: "Čaronda"
+kirillov.mongolian_language: "Kirill"
+nikolskoye_kema.mongolian_language: "Kemaniköl"
+svir_beloozero.mongolian_language: "Svirgol"
+vognema.mongolian_language: "Vognem"
+
+# Province 'vologda_province' () #
+vologda.mongolian_language: "Balahdakhot"
+arkhangelskoye_vologda.mongolian_language: "Arkangelgol"
+kubenskoye.mongolian_language: "Kuben"
+shuyskoye.mongolian_language: "Šüis"
+ustye.mongolian_language: "Ustii"
+
+# Province 'velsk_province' () #
+velsk.mongolian_language: "Veles"
+sumino.mongolian_language: "Sumen"
+tavrenga.mongolian_language: "Tavreng"
+verkhovazhye.mongolian_language: "Dööverh"
+vozhega.mongolian_language: "Vojega"
+
+## Area 'totma_area' () ##
+# Province 'totma_province' () #
+totma.mongolian_language: "Totma"
+ust_kuloy.mongolian_language: "Ustkuloi"
+vekshenga.mongolian_language: "Vekšeng"
+tarnogsky_gorodok.mongolian_language: "Tarnoghot"
+nyuksenitsa.mongolian_language: "Nüksen"
+gorodishna.mongolian_language: "Gorodiš"
+ledengskoye.mongolian_language: "Leden"
+kunozh.mongolian_language: "Kunoj"
+
+# Province 'ystyug_province' () #
+veliky_ustyug.mongolian_language: "Ihustjug"
+porog.mongolian_language: "Porog"
+kichmengsky_gorodok.mongolian_language: "Kiçmenhot"
+nikolsk.mongolian_language: "Nikög"
+pyras.mongolian_language: "Piras"
+krasavino.mongolian_language: "Ulaanvin"
+
+# Province 'yaren_province' () #
+uftyuga.mongolian_language: "Uftjuga"
+verkhnyaya_toyma.mongolian_language: "Deedtoima"
+malaya_ilesha.mongolian_language: "Bagailesh"
+vyya.mongolian_language: "Vïja"
+koryazhma.mongolian_language: "Korjaž"
+yarensk.mongolian_language: "Yareng"
+ilyinsko_podomskoye.mongolian_language: "Iljinpod"
+russian_wastelands_9.mongolian_language: "Zöölön-Çöl"
+
+# Province 'ustye_province' () #
+zaostrovskoye.mongolian_language: "Aralgüi"
+alferovskaya.mongolian_language: "Alfer"
+ileza.mongolian_language: "Ileza"
+shangaly.mongolian_language: "Šangal"
+krasny_bor.mongolian_language: "Ulaanmod"
+nizhnyaya_toyma.mongolian_language: "Dotooima"
+shenga_kurya.mongolian_language: "Šenga"
+voznesenskoye.mongolian_language: "Voznes"
+
+## Area 'east_novgorod_area' () ##
+# Province 'belozerskaya_province' () #
+izboishchi.mongolian_language: "Izboš"
+babayevo.mongolian_language: "Babai"
+belye_kresty.mongolian_language: "Cagaan-Čar"
+megrino.mongolian_language: "Megrin"
+okhona.mongolian_language: "Ohon"
+ozerevo.mongolian_language: "Ozor"
+
+# Province 'bezhetskaya_province' () #
+lyubytino.mongolian_language: "Lübüt"
+borovichi.mongolian_language: "Borovič"
+moshenskoye.mongolian_language: "Mošens"
+troshovo.mongolian_language: "Trošov"
+
+# Province 'derevskaya_province' () #
+demon.mongolian_language: "Demon"
+berezovets.mongolian_language: "Berezes"
+lyakhovichy.mongolian_language: "Ljahov"
+lyubno.mongolian_language: "Lübün"
+maryovo.mongolian_language: "Marjov"
+nalyuchi.mongolian_language: "Nalüč"
+zhabny.mongolian_language: "Žabnü"
+
+# Province 'nagornaya_province' () #
+tikhvin.mongolian_language: "Tihvïn"
+burga.mongolian_language: "Burga"
+khotsy.mongolian_language: "Qotsi"
+lipno_nov.mongolian_language: "Lipnü"
+nebolchi.mongolian_language: "Nebölč"
+pashozero.mongolian_language: "Pašo"
+pikalyovo.mongolian_language: "Pikal"
+tervenichi.mongolian_language: "Terven"
+
+# Province 'obonezhskaya_province' () #
+megra.mongolian_language: "Megra"
+lodenoye_pole.mongolian_language: "Lödental"
+maselga.mongolian_language: "Maselg"
+spirkovo.mongolian_language: "Spirg"
+vinnitsy.mongolian_language: "Vinnits"
+voznesenye.mongolian_language: "Voznen"
+
+# Province 'tverskaya_province' () #
+vyshny_volochyok.mongolian_language: "Deyedvoloč"
+maksatikha.mongolian_language: "Maksati"
+mikshino.mongolian_language: "Mikšin"
+smerdyn.mongolian_language: "Smerdün"
+udomlya.mongolian_language: "Udomla"
+
+# Province 'volkhovskaya_province' () #
+novgorod.mongolian_language: "Šinegeredkhot"
+gruzino.mongolian_language: "Gruzïn"
+mezhutka.mongolian_language: "Mežüt"
+soltsy_kirishi.mongolian_language: "Solkir"
+staraya_ladoga.mongolian_language: "Qariladok"
+
+# Province 'yazhelbitskaya_province' () #
+yazhelbitsy.mongolian_language: "Jaželib"
+bologoye.mongolian_language: "Bologö"
+bronnitsa.mongolian_language: "Boronisa"
+kresttsy.mongolian_language: "Krestü"
+kulotino.mongolian_language: "Kulöt"
+rakitnya.mongolian_language: "Rakit"
+valday.mongolian_language: "Balday"
+veliky_porog.mongolian_language: "Ihporog"
+
+## Area 'west_novgorod_area' () ##
+# Province 'knyazhaya_province' () #
+staraya_russa.mongolian_language: "Qarirasa"
+dolchinyo.mongolian_language: "Dolčin"
+golino.mongolian_language: "Golin"
+kosichkoj.mongolian_language: "Kosič"
+kuretsk.mongolian_language: "Küreg"
+soltsy.mongolian_language: "Solts"
+svinort.mongolian_language: "Svinort"
+visokoye.mongolian_language: "Öndörgü"
+
+# Province 'lopskaya_province' () #
+oreshek.mongolian_language: "Orešeg"
+chudovo.mongolian_language: "Čudov"
+lisino.mongolian_language: "Lisin"
+lyuban.mongolian_language: "Lüvan"
+markovo.mongolian_language: "Markov"
+martyshkino.mongolian_language: "Martiš"
+neva.mongolian_language: "Nevagol"
+toksovo.mongolian_language: "Toksov"
+
+# Province 'luzhkaya_province' () #
+porkhov.mongolian_language: "Porhov"
+dubronjo.mongolian_language: "Dubron"
+gorodets_luga.mongolian_language: "Geredluge"
+lyady.mongolian_language: "Ljad"
+plyussa.mongolian_language: "Plyusgol"
+pribuzh.mongolian_language: "Pribuž"
+staropolye.mongolian_language: "Qarital"
+zaplyusye.mongolian_language: "Zaplyus"
+
+# Province 'north_pskov_province' () #
+pskov.mongolian_language: "Peskobkhot"
+gdov.mongolian_language: "Gidov"
+izborsk.mongolian_language: "Izbor"
+kobyle.mongolian_language: "Kobil"
+meletovo.mongolian_language: "Melet"
+prudy.mongolian_language: "Bud"
+# lake_peipus removed
+
+# Province 'rzhevskaya_province' () #
+rzheva_pustaya.mongolian_language: "JerövHöör"
+ashevo.mongolian_language: "Ašev"
+bezhanitsy.mongolian_language: "Bežan"
+kholm.mongolian_language: "Qolom"
+podberezye.mongolian_language: "Podbere"
+velikiye_luki.mongolian_language: "Ihluug"
+vlitsy.mongolian_language: "Vlits"
+
+# Province 'south_pskov_province' () #
+ostrov.mongolian_language: "Aralhot"
+opochka.mongolian_language: "Opoč"
+sebech.mongolian_language: "Sebeg"
+slavkovitchi.mongolian_language: "Slegke"
+volodimerets.mongolian_language: "Volodim"
+voronich.mongolian_language: "Voronig"
+
+# Province 'vodskaya_province' () #
+koporye.mongolian_language: "Kopor"
+ivangorod.mongolian_language: "Ibanhot"
+izori.mongolian_language: "Izor"
+khotchino.mongolian_language: "Qočin"
+moloskovitsa.mongolian_language: "Molskov"
+soikino.mongolian_language: "Soikin"
+tesov.mongolian_language: "Tesov"
+yama.mongolian_language: "Jamsum"
+
+## Area 'pomorye_area' () ##
+# Province 'kargopol_province' () #
+kargopol.mongolian_language: "Qargopol"
+iksa.mongolian_language: "Ikse"
+konyovo.mongolian_language: "Könöv"
+vershinino.mongolian_language: "Veršin"
+volosovskaya.mongolian_language: "Volos"
+
+# Province 'onega_province' () #
+village_onega.mongolian_language: "Onegsum"
+luda.mongolian_language: "Lüda"
+malye_oserki.mongolian_language: "Bagaoser"
+nyonoksa.mongolian_language: "Nyonok"
+priluky.mongolian_language: "Prilüg"
+
+# Province 'pomorye_province' () #
+solovetsky.mongolian_language: "Solovet"
+maloshuyka.mongolian_language: "Baga-Šüi"
+sumsky_posad.mongolian_language: "Sumpos"
+unezhma.mongolian_language: "Unež"
+vygozero.mongolian_language: "Vüg"
+
+# Province 'shenkursk_province' () #
+vaga.mongolian_language: "Vagagol"
+bereznik.mongolian_language: "Berezneg"
+rovdino.mongolian_language: "Rovdin"
+sogra.mongolian_language: "Sogor"
+ust_vayenga.mongolian_language: "Ustvayeng"
+
+# Province 'yemetsk_province' () #
+yemetsk.mongolian_language: "Yemeg"
+sheleksa.mongolian_language: "Šeleks"
+navolok.mongolian_language: "Navolog"
+shalakusha.mongolian_language: "Šalak"
+
+# Province 'zaonezhye_province' () #
+pudoga.mongolian_language: "Budog"
+andomsky_pogost.mongolian_language: "Andom"
+chelmuzhi.mongolian_language: "Čelmüž"
+shalskii.mongolian_language: "Šalsig"
+vodlozero.mongolian_language: "Vodlog"
+vytegra.mongolian_language: "Vütegr"
+
+## Area 'arkhangelsk_area' () ##
+# Province 'kholmogory_province' () #
+kholmogory.mongolian_language: "Qolmogor"
+arkhangelsk.mongolian_language: "Arkangelkhot"
+pomorye.mongolian_language: "Pomordalai"
+ust_pinega.mongolian_language: "Ustpineg"
+vaymuga.mongolian_language: "Vaymug"
+brin_navolok.mongolian_language: "Brinav"
+siya.mongolian_language: "Sija"
+
+# Province 'kuloy_province' () #
+kuloy.mongolian_language: "Kuloi"
+verkhnyaya_zolotitsa.mongolian_language: "Deyedzoolot"
+koyda.mongolian_language: "Koid"
+pinega.mongolian_language: "Pineggol"
+
+# Province 'mezen_province' () #
+okladnikova_sloboda.mongolian_language: "Oqladin"
+nes.mongolian_language: "Nes"
+khimzha.mongolian_language: "Qimja"
+vizhas.mongolian_language: "Vijis"
+oma.mongolian_language: "Oma"
+leshukonskoye.mongolian_language: "Lešug"
+kanin_peninsula.mongolian_language: "Qanindald"
+kolguyev.mongolian_language: "Qolguv"
+
+# Province 'zavolochye_province' () #
+zanyukhcha.mongolian_language: "Zanüh"
+verkola.mongolian_language: "Verkol"
+shardonem.mongolian_language: "Šardon"
+pokshenga.mongolian_language: "Pokšeng"
+chakola.mongolian_language: "Čakol"
+ust_chulasa.mongolian_language: "Ust-Čulas"
+koptyuga.mongolian_language: "Koptjug"
+chirki.mongolian_language: "Čirkü"
+
+# Province 'novaya_zemlya_province' () #
+yuzhny.mongolian_language: "Ömnödaral"

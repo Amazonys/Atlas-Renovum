@@ -1,0 +1,628 @@
+﻿l_english:
+### Region 'scandinavian_region' () ###
+
+## Area 'svealand_area' () ##
+# Province 'uppland_province' () #
+stockholm.norwegian_dialect: "Stokkhavn"
+norrtalje.norwegian_dialect: "Nordtelje"
+enkoping.norwegian_dialect: "Enkjøping"
+uppsala.norwegian_dialect: "Oppsala"
+kastelholm.norwegian_dialect: "Kastellholmen"
+tierp.norwegian_dialect: "Tjerp"
+heby.norwegian_dialect: "Eirikstad"
+
+# Province 'sodermanland_province' () #
+nykoping.norwegian_dialect: "Nykaupstad"
+kolmarden.norwegian_dialect: "Kolmorskog"
+strangnas.norwegian_dialect: "Strengnes"
+oppunda.norwegian_dialect: "Oppund"
+sodertalje.norwegian_dialect: "Sørtelje"
+
+# Province 'vastmanland_province' () #
+arboga.norwegian_dialect: "Arborg"
+vasteras.norwegian_dialect: "Vesterås"
+nora.norwegian_dialect: "Nora"
+sala.norwegian_dialect: "Sala"
+skinskatteberg.norwegian_dialect: "Skinnberg"
+linde.norwegian_dialect: "Lindeby"
+grythyttan.norwegian_dialect: "Grythytten"
+
+# Province 'nerike_province' () #
+orebro.norwegian_dialect: "Ørebro"
+riseberga.norwegian_dialect: "Riseberg"
+goksholm.norwegian_dialect: "Goksholmen"
+
+# Province 'varmland_province' () #
+varnum.norwegian_dialect: "Varnheim"
+tingvalla.norwegian_dialect: "Tingvoll"
+nas.norwegian_dialect: "Nes"
+nordmark.norwegian_dialect: "Nordmark"
+gillberg.norwegian_dialect: "Gillberg"
+farnebo.norwegian_dialect: "Farnes"
+fryksdal.norwegian_dialect: "Fryksdal"
+josse.norwegian_dialect: "Torleivsdal"
+
+# Province 'dalarna_province' () #
+avesta.norwegian_dialect: "Avestad"
+falun.norwegian_dialect: "Falund"
+leksand.norwegian_dialect: "Leksand"
+grange.norwegian_dialect: "Torgilsdalen"
+malung.norwegian_dialect: "Malung"
+mora.norwegian_dialect: "Morbygda"
+idre.norwegian_dialect: "Idrefjell"
+hedemora.norwegian_dialect: "Hedemor"
+orsa.norwegian_dialect: "Orsa"
+soderbarke.norwegian_dialect: "Sørbark"
+stora_tuna.norwegian_dialect: "Store Tune"
+floda.norwegian_dialect: "Floda"
+
+# Province 'gastrikland_province' () #
+gefle.norwegian_dialect: "Gefle"
+hedesunda.norwegian_dialect: "Hedesund"
+hamrange.norwegian_dialect: "Hamrand"
+ockelbo.norwegian_dialect: "Okkelby"
+
+
+## Area 'gotaland_area' () ##
+# Province 'ostergotland_province' () #
+linkoping.norwegian_dialect: "Linkaupstad"
+soderkoping.norwegian_dialect: "Sørkjøpstad"
+norrkoping.norwegian_dialect: "Nordkjøpstad"
+alvastra.norwegian_dialect: "Alvastra"
+vadstena.norwegian_dialect: "Vadsten"
+
+# Province 'ostra_smaland_province' () #
+kalmar.norwegian_dialect: "Kalmar"
+tjust.norwegian_dialect: "Gudrunsmark"
+sevede.norwegian_dialect: "Sevedal"
+handbord.norwegian_dialect: "Sigurdsborg"
+kinda.norwegian_dialect: "Kindal"
+jonkoping.norwegian_dialect: "Jonskjøpstad"
+oland.norwegian_dialect: "Øland"
+
+# Province 'vastergotland_province' () #
+skara.norwegian_dialect: "Skare"
+hjo.norwegian_dialect: "Hjo"
+tiveden.norwegian_dialect: "Tivedskogen"
+vartofta.norwegian_dialect: "Vartoft"
+utlandet.norwegian_dialect: "Utlandet"
+lodose.norwegian_dialect: "Lødøse"
+ekholm.norwegian_dialect: "Ekeholmen"
+falkoping.norwegian_dialect: "Falkøping"
+allingsas.norwegian_dialect: "Allingsås"
+bogesund.norwegian_dialect: "Bogesund"
+lidkoping.norwegian_dialect: "Lidkjøpstad"
+skene.norwegian_dialect: "Skene"
+
+# Province 'tioharad_province' () #
+vaxjo.norwegian_dialect: "Vekksjø"
+vallsjo.norwegian_dialect: "Vallsjø"
+vetlanda.norwegian_dialect: "Vetland"
+albo.norwegian_dialect: "Albo"
+konga.norwegian_dialect: "Kongedal"
+uppvidinge.norwegian_dialect: "Oppviding"
+ljungby.norwegian_dialect: "Lyngby"
+trollaborg.norwegian_dialect: "Trollborg"
+waestbo.norwegian_dialect: "Vestbo"
+
+# Province 'gotland_province' () #
+slite.norwegian_dialect: "Slite"
+visby.norwegian_dialect: "Visby"
+hoborg.norwegian_dialect: "Hoborg"
+
+# Province 'dalsland_province' () #
+dalaborg.norwegian_dialect: "Dalaborg"
+amal.norwegian_dialect: "Åmål"
+vedbo.norwegian_dialect: "Vedbo"
+
+
+## Area 'denmark_area' () ##
+# Province 'sonderjylland_province' () #
+ribe.norwegian_dialect: "Ribe"
+haderslev.norwegian_dialect: "Haderslev"
+aabenraa.norwegian_dialect: "Åbenrå"
+tonder.norwegian_dialect: "Tønder"
+
+# Province 'norrejylland_province' () #
+randers.norwegian_dialect: "Randers"
+viborg.norwegian_dialect: "Viborg"
+aalborg.norwegian_dialect: "Ålborg"
+ars.norwegian_dialect: "Års"
+
+# Province 'western_jutland_province' () #
+bolling.norwegian_dialect: "Bolling"
+ringkobing.norwegian_dialect: "Ringkøbing"
+holstebro_lundenes.norwegian_dialect: "Holstebro Lundenes"
+varde.norwegian_dialect: "Varde"
+
+# Province 'eastern_jutland_province' () #
+kolding.norwegian_dialect: "Kolding"
+aarhus.norwegian_dialect: "Århus"
+grindsted.norwegian_dialect: "Grindsted"
+silkeborg.norwegian_dialect: "Silkeborg"
+kalo.norwegian_dialect: "Kalø"
+
+# Province 'vendsyssel_thy_province' () #
+thisted.norwegian_dialect: "Thisted"
+skagen.norwegian_dialect: "Skagen"
+hjorring.norwegian_dialect: "Hjørring"
+
+# Province 'zealand_province' () #
+roskilde.norwegian_dialect: "Roskilde"
+ringsted.norwegian_dialect: "Ringsted"
+kalundborg.norwegian_dialect: "Kalundborg"
+helsingor.norwegian_dialect: "Helsingør"
+hammershus.norwegian_dialect: "Hammershus"
+kobenhavn.norwegian_dialect: "Kjøpmannhavn"
+slagelse.norwegian_dialect: "Slagelse"
+vordingborg.norwegian_dialect: "Vordingborg"
+
+# Province 'funen_province' () #
+odense.norwegian_dialect: "Odense"
+navskov.norwegian_dialect: "Navskov"
+falster.norwegian_dialect: "Falster"
+assens.norwegian_dialect: "Assens"
+svendborg.norwegian_dialect: "Svendborg"
+
+# Province 'slesvig_province' () #
+slesvig.norwegian_dialect: "Slesvig"
+flensburg.norwegian_dialect: "Flensborg"
+eckernforde.norwegian_dialect: "Ekernførde"
+husum.norwegian_dialect: "Husum"
+
+
+## Area 'skaneland_area' () ##
+# Province 'malmohus_province' () #
+helsingborg.norwegian_dialect: "Helsingborg ved Sundet"
+lund.norwegian_dialect: "Lund"
+malmo.norwegian_dialect: "Malmø"
+
+# Province 'gonge_province' () #
+gladsax.norwegian_dialect: "Gladsaks"
+osby.norwegian_dialect: "Osby"
+asbo.norwegian_dialect: "Åsbo"
+
+# Province 'halland_province' () #
+varberg.norwegian_dialect: "Varberg"
+laholm.norwegian_dialect: "Laholm"
+halmstad.norwegian_dialect: "Halmstad"
+kungsbacka.norwegian_dialect: "Kongsbakke"
+
+# Province 'blekinge_province' () #
+ronneby.norwegian_dialect: "Rønneby"
+bregne.norwegian_dialect: "Bregneby"
+solvesborg.norwegian_dialect: "Sølvesborg"
+
+
+## Area 'norrland_area' () ##
+# Province 'halsingland_province' () #
+hudiksvall.norwegian_dialect: "Hudiksvik"
+alfta.norwegian_dialect: "Alfta"
+soderala.norwegian_dialect: "Søråla"
+hogdal.norwegian_dialect: "Høgdal"
+havero.norwegian_dialect: "Håverø"
+selanger.norwegian_dialect: "Selanger"
+
+# Province 'angermanland_province' () #
+harnosand.norwegian_dialect: "Hernesand"
+solatunum.norwegian_dialect: "Solatun"
+ramsele.norwegian_dialect: "Ramselv"
+sjalevad.norwegian_dialect: "Sjælevad"
+anundsjo.norwegian_dialect: "Anundsjø"
+grundsunda.norwegian_dialect: "Grundsund"
+
+# Province 'vasterbotten_province' () #
+umea.norwegian_dialect: "Umelv"
+vindeln.norwegian_dialect: "Vindel"
+skelleftea.norwegian_dialect: "Skelleftelv"
+tornea.norwegian_dialect: "Tornesund"
+bygdea.norwegian_dialect: "Bygdeå"
+pitea.norwegian_dialect: "Pitesund"
+lulea.norwegian_dialect: "Lulesund"
+ranea.norwegian_dialect: "Rånelv"
+gratesk.norwegian_dialect: "Gratskog"
+hienatiemi.norwegian_dialect: "Sandnes"
+branna.norwegian_dialect: "Brænna"
+byske.norwegian_dialect: "Bysk"
+bodebyn.norwegian_dialect: "Bodeby"
+alvsby.norwegian_dialect: "Elvsby"
+kiemi.norwegian_dialect: "Kjemi"
+pajala.norwegian_dialect: "Pajelv"
+kittila.norwegian_dialect: "Kittelv"
+rovaniemi.norwegian_dialect: "Rovanes"
+
+# Province 'norra_osterbotten_province' () #
+simo.norwegian_dialect: "Simofjord"
+uleaborg.norwegian_dialect: "Uleborg"
+brahestad.norwegian_dialect: "Braastad"
+utajarvi.norwegian_dialect: "Utasjø"
+siikalatva.norwegian_dialect: "Sikkelåsen"
+taivalkoski.norwegian_dialect: "Taivelfoss"
+kuivaniemi.norwegian_dialect: "Tørrnes"
+ranua.norwegian_dialect: "Ranvik"
+pudasjarvi.norwegian_dialect: "Pudassjø"
+posio.norwegian_dialect: "Posvik"
+
+# Province 'ume_lappmark_province' () #
+asele.norwegian_dialect: "Åselv"
+lycksele.norwegian_dialect: "Lykseli"
+arvidsjaur.norwegian_dialect: "Arvidsjø"
+volgsjo.norwegian_dialect: "Vollsjø"
+stensele.norwegian_dialect: "Steinselv"
+tarna.norwegian_dialect: "Ternasjø"
+ortrask.norwegian_dialect: "Ortmyr"
+
+# Province 'pite_lappmark_province' () #
+akkajaur.norwegian_dialect: "Akkasjø"
+arjeplog.norwegian_dialect: "Arjeplogfjell"
+silbojock.norwegian_dialect: "Silbofoss"
+sorsele.norwegian_dialect: "Sorselv"
+
+# Province 'lule_lappmark_province' () #
+socksjock.norwegian_dialect: "Sokksfoss"
+jokkmokk.norwegian_dialect: "Jokkmokk"
+kvikkjock.norwegian_dialect: "Kvikkfoss"
+porjus.norwegian_dialect: "Porjus"
+gellivaara.norwegian_dialect: "Gellivare"
+sarek.norwegian_dialect: "Sarekfjell"
+
+# Province 'torne_lappmark_province' () #
+nikkaluokta.norwegian_dialect: "Nikkaløkt"
+kasivarren.norwegian_dialect: "Kasivarre"
+abisko.norwegian_dialect: "Abiskofjell"
+raunala.norwegian_dialect: "Raunelv"
+mourionska.norwegian_dialect: "Morjangen"
+enontakis.norwegian_dialect: "Enonteig"
+nunnanen.norwegian_dialect: "Nunnadal"
+korpilombo.norwegian_dialect: "Bjørnelom"
+juckasjarvi.norwegian_dialect: "Jukkasjø"
+
+# Province 'kemi_lappmark_province' () #
+salla.norwegian_dialect: "Salladal"
+kemijarvi.norwegian_dialect: "Kemisjø"
+korvala.norwegian_dialect: "Korvås"
+enare.norwegian_dialect: "Enare"
+sodankyla.norwegian_dialect: "Sodaby"
+savukoski.norwegian_dialect: "Røyksfoss"
+ivalo.norwegian_dialect: "Ivalelv"
+utsjoki.norwegian_dialect: "Utsjok"
+
+# Province 'kajanaland_province' () #
+paltamo.norwegian_dialect: "Paltamark"
+kajana.norwegian_dialect: "Kajaneby"
+sotkamo.norwegian_dialect: "Sotkadal"
+kuhmo.norwegian_dialect: "Kuhmås"
+suomussalmi.norwegian_dialect: "Summsund"
+kuusamo.norwegian_dialect: "Aslaksmark"
+
+
+## Area 'finland_area' () ##
+# Province 'sodra_osterbotten_province' () #
+korsholm.norwegian_dialect: "Korsholm"
+koppo.norwegian_dialect: "Arnbjørnøy"
+pedersore.norwegian_dialect: "Petersøre"
+storkyro.norwegian_dialect: "Storkyrø"
+karleby.norwegian_dialect: "Karlby"
+kaustby.norwegian_dialect: "Kaustby"
+lappo.norwegian_dialect: "Lappå"
+vora.norwegian_dialect: "Hallsteinsvik"
+
+# Province 'finland_province' () #
+abo.norwegian_dialect: "Åbo"
+nystad.norwegian_dialect: "Nystad"
+poytis.norwegian_dialect: "Pøytis"
+sauvo.norwegian_dialect: "Sauva"
+
+# Province 'nyland_province' () #
+helsinge.norwegian_dialect: "Helsing"
+ekenas.norwegian_dialect: "Ekenes"
+sjundea.norwegian_dialect: "Sjundøy"
+porvoo.norwegian_dialect: "Borgå"
+liljendal.norwegian_dialect: "Liljendal"
+
+# Province 'satakunta_province' () #
+ikalis.norwegian_dialect: "Ikalis"
+raumo.norwegian_dialect: "Raumo"
+bjorneborg.norwegian_dialect: "Bjørneborg"
+hvittis.norwegian_dialect: "Hvittis"
+sastmola.norwegian_dialect: "Sastmola"
+birkala.norwegian_dialect: "Birkala"
+sastamala.norwegian_dialect: "Sastamala"
+orivesi.norwegian_dialect: "Orisjø"
+
+# Province 'tavastland_province' () #
+hollola.norwegian_dialect: "Knutsholm"
+lohja.norwegian_dialect: "Loja"
+tavastehus.norwegian_dialect: "Tavastehus"
+janakkala.norwegian_dialect: "Janakkal"
+forssa.norwegian_dialect: "Forså"
+itis.norwegian_dialect: "Ittelv"
+jyvaskyla.norwegian_dialect: "Jyvøby"
+jamsa.norwegian_dialect: "Jemså"
+saarijarvi.norwegian_dialect: "Sarisjø"
+viitasaari.norwegian_dialect: "Vitaøy"
+laukas.norwegian_dialect: "Laukas"
+sysma.norwegian_dialect: "Sysma"
+
+# Province 'savolax_province' () #
+mikkeli.norwegian_dialect: "Mikkelby"
+olofsborg.norwegian_dialect: "Olavsborg"
+heinola.norwegian_dialect: "Heinås"
+kangasniemi.norwegian_dialect: "Kongsnes"
+ristiina.norwegian_dialect: "Korsby"
+joroinen.norwegian_dialect: "Jorundvik"
+kuopio.norwegian_dialect: "Kuopvik"
+idensalmi.norwegian_dialect: "Idesund"
+rautavaara.norwegian_dialect: "Rautvår"
+savonranta.norwegian_dialect: "Savonstrand"
+
+# Province 'vyborg_province' () #
+kymi_fi.norwegian_dialect: "Kymielv"
+vyborg.norwegian_dialect: "Viborg"
+villmanstrand.norwegian_dialect: "Villmannstrand"
+veckelax.norwegian_dialect: "Vekkelaks"
+elimaki.norwegian_dialect: "Elimåk"
+vederlax.norwegian_dialect: "Vederlaks"
+valkeasaari.norwegian_dialect: "Hvitøy"
+kyyrola.norwegian_dialect: "Kyrøla"
+beryozovskoye.norwegian_dialect: "Bjørkesund"
+heinjoki.norwegian_dialect: "Heinelv"
+jaskis.norwegian_dialect: "Jaskis"
+
+
+## Area 'syd_norge_area' () ##
+# Province 'bohus_province' () #
+konghalla.norwegian_dialect: "Konghelle"
+uddevalla.norwegian_dialect: "Oddavoll"
+stromstad.norwegian_dialect: "Strømstad"
+hornborg.norwegian_dialect: "Hornborg"
+
+# Province 'ostfold_province' () #
+borg.norwegian_dialect: "Borg"
+halden.norwegian_dialect: "Halden"
+moss.norwegian_dialect: "Moss"
+trogstad.norwegian_dialect: "Trøgstad"
+
+# Province 'vestfold_province' () #
+tonsberg.norwegian_dialect: "Tønsberg"
+skien.norwegian_dialect: "Skien"
+sande.norwegian_dialect: "Sande"
+grenland.norwegian_dialect: "Grenland"
+
+# Province 'rogaland_province' () #
+stavanger.norwegian_dialect: "Stavanger"
+ryfylke.norwegian_dialect: "Ryfylke"
+suledal.norwegian_dialect: "Suldal"
+haugalandet.norwegian_dialect: "Haugaland"
+jaeren.norwegian_dialect: "Jæren"
+
+# Province 'agder_province' () #
+flekkefjord.norwegian_dialect: "Flekkefjord"
+sirudal.norwegian_dialect: "Sirdal"
+otredal.norwegian_dialect: "Otradal"
+lindesnes.norwegian_dialect: "Lindesnes"
+oddernes.norwegian_dialect: "Oddernes"
+oyestad.norwegian_dialect: "Øyestad"
+sondeled.norwegian_dialect: "Søndeled"
+amli.norwegian_dialect: "Åmli"
+
+# Province 'buskerud_province' () #
+kongsberg.norwegian_dialect: "Kongsberg"
+ringerike.norwegian_dialect: "Ringerike"
+hallingdal.norwegian_dialect: "Hallingdal"
+numedal.norwegian_dialect: "Numedal"
+sigdal.norwegian_dialect: "Sigdal"
+bragernes.norwegian_dialect: "Bragernes"
+flesberg.norwegian_dialect: "Flesberg"
+
+# Province 'bergenhus_province' () #
+bergen.norwegian_dialect: "Bjørgvin"
+fana.norwegian_dialect: "Fana"
+kvinnherad.norwegian_dialect: "Kvinnherad"
+ullensvang.norwegian_dialect: "Ullensvang"
+moster.norwegian_dialect: "Moster"
+eidfjord.norwegian_dialect: "Eidfjord"
+nordhordland.norwegian_dialect: "Nordhordland"
+voss.norwegian_dialect: "Voss"
+
+# Province 'sogn_province' () #
+eid.norwegian_dialect: "Eid"
+stryn.norwegian_dialect: "Stryn"
+sunnfjord.norwegian_dialect: "Sunnfjord"
+sogndal.norwegian_dialect: "Sogndal"
+aurland.norwegian_dialect: "Aurland"
+vik.norwegian_dialect: "Vik"
+laerdal.norwegian_dialect: "Lærdal"
+
+# Province 'akershus_province' () #
+oslo.norwegian_dialect: "Oslo"
+ski.norwegian_dialect: "Ski"
+eidsvoll.norwegian_dialect: "Eidsvoll"
+
+# Province 'oppland_province' () #
+vardal.norwegian_dialect: "Vardal"
+lillehammer.norwegian_dialect: "Lillehammer"
+valdres.norwegian_dialect: "Valdres"
+otta.norwegian_dialect: "Otta"
+imsdalen.norwegian_dialect: "Imsdalen"
+hedmarksvidda.norwegian_dialect: "Hedmarksvidda"
+
+# Province 'hedmark_province' () #
+hamar.norwegian_dialect: "Hamar"
+kongsvinger.norwegian_dialect: "Kongsvinger"
+elverum.norwegian_dialect: "Elverum"
+glommadal.norwegian_dialect: "Glommdal"
+trysil.norwegian_dialect: "Trysil"
+amot.norwegian_dialect: "Åmot"
+tynset.norwegian_dialect: "Tynset"
+
+
+## Area 'nord_norge_area' () ##
+# Province 'sor_trondelag_province' () #
+nidaros.norwegian_dialect: "Nidaros"
+roros.norwegian_dialect: "Røros"
+stjordal.norwegian_dialect: "Stjørdal"
+oppdal.norwegian_dialect: "Oppdal"
+orkdal.norwegian_dialect: "Orkdal"
+skaun.norwegian_dialect: "Skaun"
+storen.norwegian_dialect: "Støren"
+holtalen.norwegian_dialect: "Holtålen"
+meraker.norwegian_dialect: "Meråker"
+alvdal.norwegian_dialect: "Alvdal"
+
+# Province 'nor_trondelag_province' () #
+levanger.norwegian_dialect: "Levanger"
+namdal.norwegian_dialect: "Namdal"
+orland.norwegian_dialect: "Ørland"
+snasa.norwegian_dialect: "Snåsa"
+lierne.norwegian_dialect: "Lierne"
+steinkjer.norwegian_dialect: "Steinkjer"
+
+# Province 'romsdalen_province' () #
+molde.norwegian_dialect: "Molde"
+fosna.norwegian_dialect: "Fosen"
+sunndal.norwegian_dialect: "Sunndal"
+rauma.norwegian_dialect: "Rauma"
+sunnmore.norwegian_dialect: "Sunnmøre"
+borgund.norwegian_dialect: "Borgund"
+stordal.norwegian_dialect: "Stordal"
+tofte.norwegian_dialect: "Tofte"
+
+# Province 'troms_province' () #
+troms.norwegian_dialect: "Troms"
+trondenes.norwegian_dialect: "Trondenes"
+senja.norwegian_dialect: "Senja"
+bardodalen.norwegian_dialect: "Bardudalen"
+raisa.norwegian_dialect: "Reisadalen"
+
+# Province 'jamtland_province' () #
+hammerdal.norwegian_dialect: "Hallvardal"
+offerdal.norwegian_dialect: "Offerdal"
+berg.norwegian_dialect: "Berg"
+froso.norwegian_dialect: "Frøsø"
+ragunda.norwegian_dialect: "Ragunda"
+sveg.norwegian_dialect: "Sveg"
+hede.norwegian_dialect: "Hede"
+oviken.norwegian_dialect: "Oviken"
+
+# Province 'nordland_province' () #
+bodo.norwegian_dialect: "Bodø"
+birndal.norwegian_dialect: "Brynjulfsdal"
+hattfjelldal.norwegian_dialect: "Hattfjelldal"
+rana.norwegian_dialect: "Rana"
+alstahaug.norwegian_dialect: "Alstahaug"
+gildeskal.norwegian_dialect: "Gildeskål"
+steigen.norwegian_dialect: "Steigen"
+langenes.norwegian_dialect: "Langenes"
+lofotr.norwegian_dialect: "Lofotr"
+hamaroy.norwegian_dialect: "Hamarøy"
+ofoti.norwegian_dialect: "Ofoten"
+
+# Province 'finnmark_province' () #
+kautokeino.norwegian_dialect: "Kautokeino"
+varanger.norwegian_dialect: "Varanger"
+vardo.norwegian_dialect: "Vardø"
+deatnu.norwegian_dialect: "Tanaelv"
+porsanger.norwegian_dialect: "Porsanger"
+karasjok.norwegian_dialect: "Karasjok"
+hammerfest.norwegian_dialect: "Hammerfest"
+alta.norwegian_dialect: "Alta"
+kirkenes.norwegian_dialect: "Kirkenes"
+lebesby.norwegian_dialect: "Lebesby"
+
+
+## Area 'karelia_area' () ##
+# Province 'aunus_karelia_province' () #
+olonets.norwegian_dialect: "Olonetsby"
+kinerma.norwegian_dialect: "Kinermark"
+kondpoga.norwegian_dialect: "Kondopåg"
+ostrechiny.norwegian_dialect: "Østrekinn"
+pryazha.norwegian_dialect: "Prjasjø"
+shuya_karelia.norwegian_dialect: "Sjujaelv"
+shyoltozero.norwegian_dialect: "Sjøltasjø"
+vazhiny.norwegian_dialect: "Vasjin"
+
+# Province 'inner_aunus_karelia_province' () #
+repola.norwegian_dialect: "Repelv"
+karhumagi.norwegian_dialect: "Bjørnebakke"
+kizhi.norwegian_dialect: "Kisøya"
+lindjarvi.norwegian_dialect: "Lindsjø"
+nadvoitsy.norwegian_dialect: "Nadvik"
+pieninka.norwegian_dialect: "Pienvik"
+puatane.norwegian_dialect: "Puatnes"
+sellinkyla.norwegian_dialect: "Sellinby"
+semcojarvi.norwegian_dialect: "Semsjø"
+
+# Province 'inner_white_karelia_province' () #
+rukajarvi.norwegian_dialect: "Rukasjø"
+jyskyjarvi.norwegian_dialect: "Jyskisjø"
+kiestinki.norwegian_dialect: "Kjesting"
+ontajarvi.norwegian_dialect: "Otasjø"
+paanajarvi.norwegian_dialect: "Panasjø"
+suikujarvi.norwegian_dialect: "Suksjø"
+tunkuo.norwegian_dialect: "Tunkå"
+uhtuo.norwegian_dialect: "Uhtuå"
+
+# Province 'korela_province' () #
+korela.norwegian_dialect: "Korelaborg"
+kurkijoki.norwegian_dialect: "Traneelv"
+konevets.norwegian_dialect: "Konevøya"
+joensuu.norwegian_dialect: "Joensund"
+sordavala.norwegian_dialect: "Sordavall"
+vartsila.norwegian_dialect: "Vartsil"
+ilomantsi.norwegian_dialect: "Ilomark"
+lieksa.norwegian_dialect: "Liekså"
+juuka.norwegian_dialect: "Juknes"
+salmi.norwegian_dialect: "Salmisund"
+loimola.norwegian_dialect: "Løymål"
+mohko.norwegian_dialect: "Moknes"
+suojarvi.norwegian_dialect: "Skjoldsjø"
+nurmes.norwegian_dialect: "Nurmes"
+
+# Province 'white_karelia_province' () #
+kem.norwegian_dialect: "Kjemelv"
+keret.norwegian_dialect: "Keretfjorden"
+kovda.norwegian_dialect: "Kovdafjord"
+kriitina.norwegian_dialect: "Kritnes"
+saarijoki.norwegian_dialect: "Sarelv"
+
+
+## Area 'kola_area' () ##
+# Province 'north_kola_province' () #
+kola.norwegian_dialect: "Kolafjord"
+dalniye_zelentsy.norwegian_dialect: "Fjerneng"
+kiltina.norwegian_dialect: "Kiltnes"
+luujarvi.norwegian_dialect: "Lusjø"
+maaselka.norwegian_dialect: "Måsælg"
+ponoi.norwegian_dialect: "Ponoielv"
+semiostrov.norwegian_dialect: "Semhalvøya"
+svyatoy_nos.norwegian_dialect: "Hellignes"
+
+# Province 'south_kola_province' () #
+umba.norwegian_dialect: "Umbafjord"
+kantalahti.norwegian_dialect: "Kantavik"
+kashkarantsy.norwegian_dialect: "Kaskarvik"
+olenitsa.norwegian_dialect: "Olensund"
+pyalitsa.norwegian_dialect: "Pjalis"
+raivke.norwegian_dialect: "Reivvik"
+tetrino.norwegian_dialect: "Tetrin"
+varzuga.norwegian_dialect: "Varsug"
+
+# Province 'western_kola_province' () #
+pechenga.norwegian_dialect: "Petsjeng"
+akkala.norwegian_dialect: "Audunsheim"
+alakurti.norwegian_dialect: "Alakurt"
+koliskoj.norwegian_dialect: "Kolisfjord"
+mootka.norwegian_dialect: "Mutke"
+nuorttijarvi.norwegian_dialect: "Nordtsjø"
+prirechnyi.norwegian_dialect: "Ragnarselv"
+suonikyla.norwegian_dialect: "Suonby"
+
+
+## Area 'scandinavian_sea_zones_area' () ##
+
+
+## Area 'western_baltic_sea' () ##
+
+
+## Area 'russian_coastline' () ##

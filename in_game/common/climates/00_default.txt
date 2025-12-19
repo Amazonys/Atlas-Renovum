@@ -213,7 +213,7 @@ mesothermal = {
 }
 
 oceanic = {
-	winter = normal
+	winter = mild
 	color = climate_oceanic
 	
 	location_modifier = {
@@ -234,7 +234,7 @@ oceanic = {
 }
 
 hemiboreal = {
-	winter = severe
+	winter = normal
 	
 	color = climate_hemiboreal
 	
@@ -275,7 +275,7 @@ tropical = {
 }
 
 subtropical = {
-	winter = mild
+	winter = none
 	color = climate_subtropical
 	
 	location_modifier = {
@@ -297,7 +297,7 @@ subtropical = {
 }
 
 cascadic = {
-	winter = normal
+	winter = mild
 	color = climate_cascadic
 	
 	location_modifier = {
@@ -320,7 +320,7 @@ cascadic = {
 
 
 maritime = {
-	winter = severe
+	winter = normal
 	color = climate_maritime
 	
 	location_modifier = {

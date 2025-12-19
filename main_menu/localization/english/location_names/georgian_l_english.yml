@@ -1,0 +1,1725 @@
+﻿l_english:
+ ### Region 'caucasus_region' () ###
+
+## Area 'armenian_highlands_area' () ##
+# Province 'amadiya_province' () #
+amadiya.georgian_language: "Amadeti"
+baskale.georgian_language: "Baskhali"
+hakkari.georgian_language: "Hakaristskali"
+semdinli.georgian_language: "Shemdineli"
+zakho.georgian_language: "Zakvi"
+east_taurus_4.georgian_language: "Vakhtangeti"
+
+# Province 'bitlis_province' () #
+bitlis.georgian_language: "Batlisi"
+bahcesaray.georgian_language: "Baghistsikhe"
+catak.georgian_language: "Chatakhevi"
+hizan.georgian_language: "Bagratiani"
+mus.georgian_language: "Mushi"
+east_taurus_5.georgian_language: "Tavroskedi"
+east_taurus_7.georgian_language: "Tavrosgori"
+
+# Province 'erzurum_province' () #
+erzurum.georgian_language: "Karin"
+bayburt.georgian_language: "Baiburti"
+erzincan.georgian_language: "Erznak"
+ilic.georgian_language: "Iliji"
+kelkit.georgian_language: "Kelkiti"
+kemah.georgian_language: "Qematsikhe"
+sebinkarahisar.georgian_language: "Shavitsikhe"
+siran.georgian_language: "Shirani"
+tercan.georgian_language: "Terdzani"
+
+# Province 'harput_province' () #
+harput.georgian_language: "Kharberdi"
+adakli.georgian_language: "Tamariani"
+bingol.georgian_language: "Bingeli"
+cemisgezek.georgian_language: "Jemisketsi"
+genc.georgian_language: "Jengani"
+keban.georgian_language: "Kebani"
+kuzucan.georgian_language: "Kuzukani"
+palu.georgian_language: "Paluri"
+pertek.georgian_language: "Pertaki"
+sivrice.georgian_language: "Sivrike"
+
+# Province 'kars_province' () #
+kars.georgian_language: "Kariskari"
+kagizman.georgian_language: "Kagismani"
+surmali.georgian_language: "Surmaleti"
+
+# Province 'malazgirt_province' () #
+malazgirt.georgian_language: "Manaskerti"
+hinis.georgian_language: "Hinisi"
+karakilise.georgian_language: "Shavieklesi"
+hasankale.georgian_language: "Hasantsikhe"
+tekman.georgian_language: "Tekmani"
+tutak.georgian_language: "Tutaki"
+varto.georgian_language: "Varteli"
+
+# Province 'van_province' () #
+van.georgian_language: "Vaneti"
+ahlat.georgian_language: "Ahlati"
+bargiri.georgian_language: "Giorgitskali"
+ercis.georgian_language: "Erjis"
+hosap.georgian_language: "Hosapi"
+tatvan.georgian_language: "Tatvani"
+
+
+## Area 'armenia_area' () ##
+# Province 'ani_province' () #
+ani.georgian_language: "Anikalaqi"
+amberd.georgian_language: "Amberdi"
+artashavan.georgian_language: "Artashavani"
+kumayri.georgian_language: "Kumareti"
+
+# Province 'kachen_province' () #
+gandzasar.georgian_language: "Gandzasmta"
+goroz.georgian_language: "Gorozeti"
+haterk.georgian_language: "Hatarki"
+kashatagh.georgian_language: "Kashatagkhevi"
+shusha.georgian_language: "Shushati"
+
+# Province 'syunik_province' () #
+kapan_armenia.georgian_language: "Kapani"
+gladzor.georgian_language: "Gladzori"
+goris.georgian_language: "Goreti"
+julfa.georgian_language: "Julphi"
+nakhchivan.georgian_language: "Nakhchivani"
+tatev.georgian_language: "Tatevi"
+
+# Province 'tashir_province' () #
+lori.georgian_language: "Lori"
+gagi.georgian_language: "Gagisgori"
+kayen.georgian_language: "Kayeni"
+khunani.georgian_language: "Khunaneti"
+spitak.georgian_language: "Tetrikhevi"
+
+# Province 'yerevan_province' () #
+yerevan.georgian_language: "Erebani"
+bjni.georgian_language: "Bjnisi"
+igdir.georgian_language: "Igdiri"
+khor_virap.georgian_language: "Khorvirapi"
+sotk.georgian_language: "Sotki"
+
+
+## Area 'georgia_area' () ##
+# Province 'abkhazia_province' () #
+sukhumi.georgian_language: "Sokhumi"
+anacopia.georgian_language: "Anakopia"
+lata_georgia.georgian_language: "Lata"
+pitsunda.georgian_language: "Bichvinta"
+
+# Province 'hereti_province' () #
+hereti.georgian_language: "Hereti"
+balakan.georgian_language: "Balakani"
+bodbe.georgian_language: "Bodbe"
+khornabuji.georgian_language: "Khornabuji"
+qakh.georgian_language: "Qakhi"
+
+# Province 'imereti_province' () #
+kutaisi.georgian_language: "Kutaisi"
+lentekhi.georgian_language: "Lentekhi"
+skande.georgian_language: "Skandi"
+shorapani.georgian_language: "Shorapani"
+tsageri.georgian_language: "Tsageri"
+tsesi.georgian_language: "Tsesi"
+ushguli.georgian_language: "Ushguli"
+vartsikhe.georgian_language: "Vartsikhe"
+
+# Province 'kakheti_province' () #
+telavi.georgian_language: "Telavi"
+alaverdi.georgian_language: "Alaverdi"
+dusheti.georgian_language: "Dusheti"
+gremi.georgian_language: "Gremi"
+rustavi.georgian_language: "Rustavi"
+shatili.georgian_language: "Shatili"
+
+# Province 'kartli_province' () #
+tbilisi.georgian_language: "Tbilisi"
+dmanisi.georgian_language: "Dmanisi"
+gori.georgian_language: "Gori"
+kasriskari.georgian_language: "Kasriskari"
+kldekari.georgian_language: "Kldekari"
+kvenipnevi.georgian_language: "Kvenipnevi"
+mtskheta.georgian_language: "Mtskheta"
+tsagvli.georgian_language: "Tsagvli"
+
+# Province 'meskheti_province' () #
+artanuji.georgian_language: "Artanuji"
+ispir.georgian_language: "Ispiri"
+khikhani.georgian_language: "Khikhani"
+oltu.georgian_language: "Oltisi"
+panaskerti.georgian_language: "Panaskerti"
+parkhali.georgian_language: "Parkhali"
+savsat.georgian_language: "Savshati"
+tortum.georgian_language: "Tortomi"
+
+# Province 'samegrelo_province' () #
+bedia.georgian_language: "Bedia"
+anaklia.georgian_language: "Anaklia"
+batumi.georgian_language: "Batumi"
+ozurgeti.georgian_language: "Ozurgeti"
+poti_caucasus.georgian_language: "Poti"
+tsalenjikha.georgian_language: "Tsalenjikha"
+
+# Province 'samtskhe_province' () #
+akhaltsikhe.georgian_language: "Akhaltsikhe"
+akhalkalaki.georgian_language: "Akhalkalaki"
+ardahan.georgian_language: "Ardani"
+tmogvi.georgian_language: "Tmogvi"
+
+
+## Area 'northern_caucasus_area' () ##
+# Province 'alania_province' () #
+dzhulat.georgian_language: "Juliati"
+chegem.georgian_language: "Chegemi"
+jariekhi.georgian_language: "Jarieki"
+karcha_kala.georgian_language: "Karchatsikhe"
+koban.georgian_language: "Kobani"
+tatartup.georgian_language: "Tatartupi"
+
+# Province 'avaria_province' () #
+khunzakh.georgian_language: "Khunzakhi"
+kumukh.georgian_language: "Kumukhi"
+omalo.georgian_language: "Omalo"
+tindi.georgian_language: "Tindi"
+
+# Province 'lezgistan_province' () #
+kubachi.georgian_language: "Kubachi"
+khuchni.georgian_language: "Khuchni"
+kurakh.georgian_language: "Kurakhi"
+rutul.georgian_language: "Rutuli"
+tpig.georgian_language: "Tpigeti"
+
+# Province 'north_caucasus_province' () #
+khumar.georgian_language: "Khumari"
+arkhyz.georgian_language: "Arkhyzi"
+mamiya_kala.georgian_language: "Mamiatsikhe"
+rim_gora.georgian_language: "Rimgori"
+
+# Province 'simsir_province' () #
+simsir.georgian_language: "Simsiri"
+alkhan_kala.georgian_language: "Alkhantsikhe"
+argun.georgian_language: "Arguni"
+nazran.georgian_language: "Rostomiani"
+targim.georgian_language: "Targimi"
+tsontaroy_kala.georgian_language: "Tsontaroitsikhe"
+
+# Province 'tarki_province' () #
+tarki.georgian_language: "Tarki"
+boynak.georgian_language: "Boynaki"
+endirey.georgian_language: "Endireti"
+temirkhan_shura.georgian_language: "Temurqanisura"
+terek.georgian_language: "Tergi"
+
+
+## Area 'shirvan_area' () ##
+# Province 'arran_province' () #
+ganja.georgian_language: "Gandza"
+barda.georgian_language: "Bardavi"
+beylagan.georgian_language: "Ereklisi"
+gardman.georgian_language: "Gardmani"
+lemberan.georgian_language: "Lemberani"
+shamkir.georgian_language: "Shamkiri"
+
+# Province 'baku_province' () #
+baku.georgian_language: "Baki"
+javad.georgian_language: "Javadi"
+mahmudabad.georgian_language: "Makhmudauri"
+maraza.georgian_language: "Marazi"
+qobustan.georgian_language: "Qobustani"
+shamakhi.georgian_language: "Shamakhieti"
+
+# Province 'mughan_province' () #
+mughan.georgian_language: "Mugani"
+baciravan.georgian_language: "Bajiravani"
+bilasuvar.georgian_language: "Bilesuari"
+germi.georgian_language: "Germi"
+salyan.georgian_language: "Saliani"
+varsan.georgian_language: "Tornikeuli"
+
+# Province 'shaki_province' () #
+shaki.georgian_language: "Shaketi"
+agsu.georgian_language: "Tetritskali"
+aresh.georgian_language: "Areshi"
+goychay.georgian_language: "Urdzitskali"
+qabala.georgian_language: "Qabaleti"
+vartashen.georgian_language: "Vartasheni"
+zardab.georgian_language: "Demetrisgori"
+
+# Province 'shirvan_province' () #
+shirvan.georgian_language: "Shirvani"
+derbent.georgian_language: "Darubandi"
+niyazabad.georgian_language: "Niazauri"
+quba.georgian_language: "Qubeti"
+shabran.georgian_language: "Shabrani"
+### Region 'steppes_region' () ###
+
+## Area 'crimea_area' () ##
+# Province 'gothia_province' () #
+theodoro.georgian_language: "Tevdoreti"
+qirq_yer.georgian_language: "Ormotsadgili"
+lusta.georgian_language: "Lustavi"
+qarasuvbazar.georgian_language: "Shavitskali Bazari"
+
+# Province 'cafa_province' () #
+kaffa.georgian_language: "Kapastavi"
+soldaia.georgian_language: "Suldaki"
+vosporo.georgian_language: "Bospori"
+seyitler.georgian_language: "Seiteli"
+solkhat.georgian_language: "Solkhati"
+
+# Province 'or_qapi_province' () #
+kalay.georgian_language: "Rkineti"
+kezlev.georgian_language: "Gezlebi"
+aqmecit.georgian_language: "Tetrimeskidi"
+jurchi.georgian_language: "Jurcheti"
+or_qapi.georgian_language: "Orkaveti"
+
+
+## Area 'matrega_area' () ##
+# Province 'taman_province' () #
+taman.georgian_language: "Tamanisi"
+mapa.georgian_language: "Mapaura"
+susaco.georgian_language: "Susaketi"
+shanjir.georgian_language: "Shanjiri"
+copa.georgian_language: "Qopara"
+siba_circassia.georgian_language: "Sibakhevi"
+
+# Province 'tuapse_province' () #
+tuapse.georgian_language: "Tuapsi"
+costa.georgian_language: "Kosteti"
+khadyzhi.georgian_language: "Khajishi"
+kuzhyb.georgian_language: "Kuzhabi"
+maykop.georgian_language: "Maikopeti"
+moschevo.georgian_language: "Moshevi"
+
+# Province 'akhtar_province' () #
+akhtar.georgian_language: "Akhtari"
+kalininskaya.georgian_language: "Kalindauri"
+bryukhovetskaya.georgian_language: "Briukveti"
+bzhedygu_kal.georgian_language: "Bzhedigukali"
+ust_labinsk.georgian_language: "Labiskhevi"
+pavlovskaya.georgian_language: "Paatisopeli"
+tbilisskaya.georgian_language: "Akhalitbilisi"
+romanovsky_khutor.georgian_language: "Romansopeli"
+
+# Province 'labinsk_province' () #
+chatyun.georgian_language: "Chatiuni"
+adyukh.georgian_language: "Adiukhi"
+armavir.georgian_language: "Armaviri"
+shkhancheriekhabl.georgian_language: "Shkhanchekhabli"
+belorechensk.georgian_language: "Tetratskali"
+
+
+## Area 'yedisan_area' () ##
+# Province 'khadjibey_province' () #
+khadjibey.georgian_language: "Hajibedi"
+teligol.georgian_language: "Tiligoli"
+kuyanlik.georgian_language: "Nagvdiani"
+ananiv.georgian_language: "Ananavi"
+iagorlic.georgian_language: "Iagorlaki"
+
+# Province 'boh_province' () #
+dashev.georgian_language: "Dashevi"
+balikley.georgian_language: "Tqvisopeli"
+aqmecit_prybuzhzhya.georgian_language: "Tetribugi"
+argamakli_sarai.georgian_language: "Argamaksara"
+vithold_hammami.georgian_language: "Vitoldis Abano"
+harbuzynka.georgian_language: "Harbuzani"
+
+# Province 'oleshia_province' () #
+oleshia.georgian_language: "Oleshi"
+bereznehuvate.georgian_language: "Berezneta"
+bashtanka.georgian_language: "Bastankari"
+tavan.georgian_language: "Tavani"
+velyka_oleksandrivka.georgian_language: "Didialeksandreti"
+
+# Province 'qalancak_province' () #
+qalancaq.georgian_language: "Qalanakhevi"
+aslan_horod.georgian_language: "Lomisgori"
+ordu_bazar.georgian_language: "Ordubazari"
+rohat_kermen.georgian_language: "Rahatkhevi"
+enice.georgian_language: "Enicheti"
+velyka_lepetykha.georgian_language: "Didilepeti"
+
+
+## Area 'zaporizhzhia_area' () ##
+# Province 'zaporizhzhia_province' () #
+kichkas.georgian_language: "Kichkasi"
+rozdory.georgian_language: "Rozdori"
+hryshyne.georgian_language: "Grishini"
+pavlohrad.georgian_language: "Pavlesgori"
+
+# Province 'yelanets_province' () #
+yelanets.georgian_language: "Ilaneti"
+usivka.georgian_language: "Usivka"
+mala_vyska.georgian_language: "Pataraviska"
+umanske.georgian_language: "Umanski"
+ingul.georgian_language: "Inguli"
+petrove.georgian_language: "Petresopeli"
+
+# Province 'karlivka_province' () #
+karlivka.georgian_language: "Karelisi"
+kolomak.georgian_language: "Kolomaki"
+berestyn.georgian_language: "Berestani"
+samarchyk.georgian_language: "Samarchi"
+oril.georgian_language: "Orili"
+ternivka.georgian_language: "Ternava"
+
+# Province 'kodaky_province' () #
+kodak.georgian_language: "Kodaki"
+myshuryn_rih.georgian_language: "Mishuriri"
+sofiivka.georgian_language: "Sofieti"
+kryvyi_rih.georgian_language: "Krivori"
+tomakivka.georgian_language: "Tomaketi"
+mykytyn_rih.georgian_language: "Mikritisri"
+
+
+## Area 'kursk_area' () ##
+# Province 'kursk_province' () #
+kursk.georgian_language: "Kursaki"
+fatezh.georgian_language: "Pateji"
+opalkova.georgian_language: "Opalkuri"
+kosozhichi.georgian_language: "Kosozeti"
+manturovo_kursk.georgian_language: "Mantureti"
+olgov.georgian_language: "Olgavi"
+oskol.georgian_language: "Oskoli"
+troitskoye_na_shchigrakh.georgian_language: "Samebishigri"
+
+# Province 'belgorod_province' () #
+belgorod.georgian_language: "Tetrigori"
+korocha.georgian_language: "Korochi"
+oboyan.georgian_language: "Obiani"
+muzhech.georgian_language: "Muzheti"
+rakitnoye.georgian_language: "Rakiteli"
+sudzha.georgian_language: "Sujani"
+
+# Province 'yelets_province' () #
+yelets.georgian_language: "Ieleti"
+gogol.georgian_language: "Goghola"
+talitsa_yelets.georgian_language: "Talitskhevi"
+terbuny.georgian_language: "Terbuni"
+ust_livny.georgian_language: "Livniskali"
+zemlyansk.georgian_language: "Zemliani"
+
+# Province 'alexeyevka_province' () #
+alexeyevka.georgian_language: "Aleksisopeli"
+rovenki.georgian_language: "Roveniki"
+valuyki.georgian_language: "Valuaki"
+chernyanka.georgian_language: "Shavanka"
+kastornoye.georgian_language: "Kastori"
+
+# Province 'voronezh_province' () #
+voronezh.georgian_language: "Voroneji"
+anna_russia.georgian_language: "Anastskali"
+novaya_pokrovka.georgian_language: "Akhalipokrava"
+semidesyatnoye.georgian_language: "Semdatsi"
+ostrogozhsk.georgian_language: "Ostrogoshi"
+rossosh.georgian_language: "Rasashi"
+
+
+## Area 'sloboda_ukraine_area' () ##
+# Province 'bielska_sloboda_province' () #
+bielska_sloboda.georgian_language: "Tetrisopeli"
+bilovodsk.georgian_language: "Tetriskali"
+novopskov.georgian_language: "Akhalipskovi"
+kalnivka.georgian_language: "Kalnivi"
+nyzhnia_duvanka.georgian_language: "Kvemoduvani"
+konstantinovka.georgian_language: "Kostantinuri"
+
+# Province 'izium_province' () #
+izium.georgian_language: "Iziumi"
+adalaga.georgian_language: "Adalagi"
+barvinkove.georgian_language: "Barvini"
+kupiansk.georgian_language: "Kupiani"
+sloviansk.georgian_language: "Slaviani"
+vovchansk.georgian_language: "Mgeliskari"
+
+# Province 'sumy_province' () #
+sumy.georgian_language: "Sumi"
+glushkovo.georgian_language: "Glushkovi"
+krasnopillia.georgian_language: "Tsitelipeli"
+vilshana.georgian_language: "Vilshani"
+
+# Province 'donetsk_province' () #
+donets_kharkiv.georgian_language: "Donetskali"
+chuhuiv.georgian_language: "Chukhavi"
+khotmyzh.georgian_language: "Khotmeji"
+kotelva.georgian_language: "Kotelavi"
+okhtyrka.georgian_language: "Okhtiri"
+zmiiv.georgian_language: "Gveliskhevi"
+
+
+## Area 'pryazovia_area' () ##
+# Province 'berda_province' () #
+melitopol.georgian_language: "Melitopili"
+kyrylivka.georgian_language: "Kirileti"
+tokmak.georgian_language: "Tokmaki"
+konski_vody.georgian_language: "Tskhenistskali"
+kuchugur.georgian_language: "Kuchuguri"
+berdiansk.georgian_language: "Berdiani"
+
+# Province 'kalmius_province' () #
+taganrog.georgian_language: "Taganrogi"
+velyka_novosilka.georgian_language: "Didinoveti"
+domakha.georgian_language: "Domakhi"
+huliaipole.georgian_language: "Guliapoli"
+shyrokyne.georgian_language: "Shirokini"
+vasylivka.georgian_language: "Vasilisopeli"
+
+# Province 'bakhmut_province' () #
+bakhmut.georgian_language: "Bakhmuti"
+lysychansk.georgian_language: "Lisichani"
+kreminna.georgian_language: "Kremini"
+oleksandrivka.georgian_language: "Aleksandrieti"
+posad.georgian_language: "Posadi"
+
+
+## Area 'azov_area' () ##
+# Province 'azov_province' () #
+azok.georgian_language: "Azovi"
+bagayevskaya.georgian_language: "Bagayeti"
+shcherbinovka.georgian_language: "Scherbineti"
+balzimachi.georgian_language: "Balzimeti"
+kanevskaya.georgian_language: "Kanevi"
+starominskaya.georgian_language: "Dzvelminsketi"
+yegorlykskaya.georgian_language: "Egorliketi"
+
+# Province 'tana_province' () #
+tana.georgian_language: "Tanisi"
+krasny_sulin.georgian_language: "Tsitelisulin"
+shakhty.georgian_language: "Sakhtebi"
+rovenky.georgian_language: "Rovenkha"
+kalmius.georgian_language: "Kalmiusi"
+kamenskaya.georgian_language: "Kameneti"
+
+# Province 'semikarakorsk_province' () #
+semikarakorsk.georgian_language: "Semikaraki"
+bol_shaya_martynovka.georgian_language: "Didimartini"
+cheplak.georgian_language: "Cheplaki"
+bolshoy_gashun.georgian_language: "Didigashuni"
+dubovskoye.georgian_language: "Dubevi"
+yundin.georgian_language: "Iundini"
+
+# Province 'ust_tsimla_province' () #
+ust_tsimla.georgian_language: "Tsimlistskali"
+konstantinovsk.georgian_language: "Kostantini"
+tatsinskaya.georgian_language: "Tatsiani"
+tormosin.georgian_language: "Tormosini"
+
+# Province 'luhan_province' () #
+luhansk.georgian_language: "Luganski"
+mityakinskaya.georgian_language: "Mitiakini"
+novoaidar.georgian_language: "Akhaliaidari"
+belaya_kalitva.georgian_language: "Tetrikalitvi"
+millerovo.georgian_language: "Milereti"
+
+
+## Area 'lower_don_area' () ##
+# Province 'kremenskaya_province' () #
+kremenskaya.georgian_language: "Kremenski"
+kletskaya.georgian_language: "Kletskhi"
+ust_medveditskaya.georgian_language: "Medvettskali"
+oblivskaya.georgian_language: "Obliveti"
+nizhny_chir.georgian_language: "Kvemochiri"
+
+# Province 'kashary_province' () #
+kashary.georgian_language: "Kashari"
+chertkovo.georgian_language: "Chertkovi"
+bokovskaya.georgian_language: "Bokovi"
+milyutinskaya.georgian_language: "Miliutini"
+boguchar.georgian_language: "Boguchari"
+
+# Province 'borisoglebsk_province' () #
+borisoglebsk.georgian_language: "Boriglebi"
+bannoye.georgian_language: "Abaneti"
+kalach.georgian_language: "Kalachi"
+sadovoye.georgian_language: "Sadovi"
+bolshaya_gribanovka.georgian_language: "Didigribani"
+buturlinovka.georgian_language: "Buturlini"
+verkhny_mamon.georgian_language: "Zemomamoni"
+uryupin.georgian_language: "Uriupini"
+
+# Province 'mikhaylovka_province' () #
+mikhaylovka.georgian_language: "Mikhelisopeli"
+novoanninsky.georgian_language: "Akhalanini"
+alexeyevskaya.georgian_language: "Aleksieti"
+veesky.georgian_language: "Veski"
+kumylzhenskaya.georgian_language: "Kumilzheti"
+zimnyatsky.georgian_language: "Zimniati"
+malodelskaya.georgian_language: "Pataradelski"
+ilovlya.georgian_language: "Iloveli"
+
+# Province 'beljamen_province' () #
+mechet.georgian_language: "Meskidi"
+stepanevka.georgian_language: "Stepanozeti"
+sarai_al_jadid.georgian_language: "Akhalsarai"
+beljamen.georgian_language: "Beljameni"
+zenzevatka.georgian_language: "Zenzavati"
+nagavskaya.georgian_language: "Nagavi"
+aksay.georgian_language: "Aqsaeti"
+
+# Province 'yelan_province' () #
+yelan.georgian_language: "Ilanuri"
+machekha.georgian_language: "Machekhi"
+novonikolayevsky.georgian_language: "Akhalnikolaevi"
+samoylovka.georgian_language: "Samailovi"
+rudnya_pontic.georgian_language: "Rudani"
+danilovka.georgian_language: "Danilisopeli"
+kotovo.georgian_language: "Kotavi"
+kamyshin.georgian_language: "Kamishini"
+goly_karamysh.georgian_language: "Golakaramishi"
+
+
+## Area 'astrakhan_area' () ##
+# Province 'astrakhan_province' () #
+astrakhan.georgian_language: "Astarakani"
+khosheutovo.georgian_language: "Khosheuti"
+krasny_yar.georgian_language: "Tsiteliyari"
+ganyushkino.georgian_language: "Ganiushkini"
+
+# Province 'pologoye_zaymishche_province' () #
+pologoye_zaymishche.georgian_language: "Pologisami"
+srednyaya_akhtuba.georgian_language: "Shuaakhtuba"
+bykovo.georgian_language: "Bykovi"
+elton.georgian_language: "Eltani"
+zolotari.georgian_language: "Zoloteti"
+berezhnovka.georgian_language: "Berezhnovi"
+
+# Province 'zamyany_province' () #
+zamyany.georgian_language: "Zamiani"
+yenotayevka.georgian_language: "Enotaevi"
+sapara.georgian_language: "Sapara"
+chernyye_zemli.georgian_language: "Shavizemi"
+ikryanoye.georgian_language: "Ikriani"
+
+# Province 'chyorny_yar_province' () #
+chyorny_yar.georgian_language: "Shaviyari"
+nikolskoye_pontic.georgian_language: "Nikolauri"
+malye_derbety.georgian_language: "Patarderbety"
+sadovoye_kalmykia.georgian_language: "Sabodeti"
+ded_khulsun.georgian_language: "Khuslundi"
+zavetnoye.georgian_language: "Zaveteti"
+
+# Province 'bolkhuny_province' () #
+bolkhuny.georgian_language: "Bolkuni"
+mikhaylovka_pontic.georgian_language: "Mikheilisgori"
+rechnoye.georgian_language: "Tsklisopeli"
+bokey.georgian_language: "Bokei"
+botkul.georgian_language: "Botkuli"
+zhanybek.georgian_language: "Janibegi"
+
+# Province 'dardeling_province' () #
+dardeling.georgian_language: "Dardaleni"
+mekletin.georgian_language: "Mekletini"
+kok_usn.georgian_language: "Kokusi"
+yashkul.georgian_language: "Yashkuli"
+iki_burul.georgian_language: "Ikiburuli"
+
+# Province 'priyutnoye_province' () #
+priyutnoye.georgian_language: "Priuteti"
+elista.georgian_language: "Elistavi"
+remontnoye.georgian_language: "Remonti"
+gorodovikovsk.georgian_language: "Gorodoki"
+raguli.georgian_language: "Raguli"
+
+
+## Area 'majar_area' () ##
+# Province 'majar_province' () #
+majar.georgian_language: "Majari"
+zelenokumsk.georgian_language: "Mtsvanekumi"
+arzgir.georgian_language: "Arzgiri"
+levokumskoye.georgian_language: "Martskhenakumi"
+novopavlovsk.georgian_language: "Akhalpavlegi"
+yessentuq.georgian_language: "Esentuki"
+alexandrovskoye.georgian_language: "Sandrosopeli"
+blagodarnoye.georgian_language: "Blagodareni"
+novoselitskoye.georgian_language: "Akhalseli"
+
+# Province 'terek_province' () #
+naurskaya.georgian_language: "Nauri"
+kara_bazaar.georgian_language: "Shavibazari"
+terekli_mekteb.georgian_language: "Terekmektebi"
+kurskaya.georgian_language: "Kursketi"
+kamysh_burun.georgian_language: "Qamisburi"
+
+# Province 'stavropol_province' () #
+stavropol.georgian_language: "Stavropoli"
+grigoropolisskaya.georgian_language: "Grigoripoli"
+uspenskoye.georgian_language: "Uspeneti"
+shad_kirman.georgian_language: "Shadkirmani"
+petrovskoye_pontic.georgian_language: "Petresgori"
+
+# Province 'privolnoye_province' () #
+privolnoye.georgian_language: "Tavisupali"
+belaya_glina.georgian_language: "Tetrimati"
+peschanokopskoye.georgian_language: "Samanakopi"
+novo_alexandrovskoye.georgian_language: "Akhalsandro"
+bezopasnoye.georgian_language: "Utskhveli"
+ipatovo.georgian_language: "Ipateti"
+
+
+## Area 'lower_yik_area' () ##
+# Province 'kalmyk_province' () #
+kalmyk.georgian_language: "Qalmaki"
+karatobe.georgian_language: "Shavmta"
+shyngyrlau.georgian_language: "Shingirlau"
+aksay_pointic.georgian_language: "Aqsauri"
+zhympity.georgian_language: "Jympiti"
+terekti.georgian_language: "Tereqti"
+oral.georgian_language: "Orali"
+
+# Province 'ryn_province' () #
+ryn.georgian_language: "Rini"
+ushtagan.georgian_language: "Ushtagani"
+sarayjuk.georgian_language: "Saraijiki"
+kisikkamys.georgian_language: "Kisikkamisi"
+kulagin.georgian_language: "Kulagini"
+saryadyn.georgian_language: "Sariadini"
+talowski.georgian_language: "Talovski"
+
+# Province 'piterka_province' () #
+piterka.georgian_language: "Piterki"
+krasny_kut_pontic.georgian_language: "Tsitelikuti"
+mokrous.georgian_language: "Mokrosi"
+savinka.georgian_language: "Savinki"
+rovnoye.georgian_language: "Rovini"
+pokrovsk.georgian_language: "Pokravi"
+baronsk.georgian_language: "Baronisgori"
+
+# Province 'taskala_province' () #
+taskala.georgian_language: "Taskali"
+dergachi.georgian_language: "Dergachi"
+chertanla.georgian_language: "Chertaneli"
+alexandrov_gay.georgian_language: "Sandroga"
+ozinki.georgian_language: "Ozinki"
+
+# Province 'mechetnaya_province' () #
+mechetnaya.georgian_language: "Meskiduri"
+perelyub.georgian_language: "Perelubi"
+ivanteyevka.georgian_language: "Ivaneeti"
+balakovo.georgian_language: "Balakovi"
+dukhovnitskoye.georgian_language: "Sulieri"
+yershov.georgian_language: "Ersovi"
+### Region 'anatolia_region' () ###
+
+## Area 'cappadocia_area' () ##
+# Province 'amasya_province' () #
+amasya.georgian_language: "Amasia"
+gadegara.georgian_language: "Gadagori"
+ladik_pontus.georgian_language: "Ladiketi"
+merzifon.georgian_language: "Merzoponi"
+sonisa.georgian_language: "Soniseti"
+
+# Province 'bozok_province' () #
+bozok.georgian_language: "Bozokhevi"
+baliseyh.georgian_language: "Balisevi"
+candir.georgian_language: "Bagratkhevi"
+dinek_keskin.georgian_language: "Dinekeskani"
+sorgun.georgian_language: "Sorgoni"
+
+# Province 'corum_province' () #
+corum.georgian_language: "Choromi"
+gumus.georgian_language: "Gumushi"
+huseyinabad.georgian_language: "Usenabadi"
+iskilip.georgian_language: "Iskilibi"
+sungurlu.georgian_language: "Sunguri"
+
+# Province 'divrigi_province' () #
+divrigi.georgian_language: "Dovreki"
+arapgir.georgian_language: "Aragiri"
+arguvan.georgian_language: "Argovani"
+egin.georgian_language: "Eghini"
+
+# Province 'kayseri_province' () #
+kayseri.georgian_language: "Kaysereti"
+bogazliyan.georgian_language: "Bogazkhevi"
+develi.georgian_language: "Develisi"
+tomarza.georgian_language: "Tomarzi"
+yahyali.georgian_language: "Iahiani"
+
+# Province 'kirsehir_province' () #
+kirsehir.georgian_language: "Kirisa"
+hacibektas.georgian_language: "Bektaseti"
+nevsehir.georgian_language: "Akhalqalaqi"
+sariyahsi.georgian_language: "Sariashi"
+urgup.georgian_language: "Urgupi"
+
+# Province 'nigde_province' () #
+nigde.georgian_language: "Nigdi"
+bekarlar.georgian_language: "Bekareti"
+bor_tur.georgian_language: "Bori"
+
+# Province 'sivas_province' () #
+sivas.georgian_language: "Sebastia"
+darende.georgian_language: "Darendi"
+dasmenda.georgian_language: "Dasmendi"
+deliktash.georgian_language: "Deliktashi"
+gemerek.georgian_language: "Gemeraki"
+gurun.georgian_language: "Guruni"
+hafik.georgian_language: "Hapiki"
+sarkisla.georgian_language: "Sarkiseti"
+zara.georgian_language: "Zaraki"
+
+# Province 'tokat_province' () #
+tokat.georgian_language: "Tokati"
+akdagmadeni.georgian_language: "Akdageti"
+aydincik.georgian_language: "Aydiniki"
+koyulhisar.georgian_language: "Kovilhisari"
+niksar.georgian_language: "Niksari"
+sulusaray.georgian_language: "Sulistskali"
+zile.georgian_language: "Zela"
+
+
+## Area 'central_anatolia_area' () ##
+# Province 'aksaray_province' () #
+aksaray.georgian_language: "Tetratsikhe"
+kochisar.georgian_language: "Kochisari"
+kulu_turkey.georgian_language: "Kulava"
+insuyu.georgian_language: "Insistskali"
+
+# Province 'ankara_province' () #
+ankara.georgian_language: "Angora"
+cubuk.georgian_language: "Chubuki"
+haymana.georgian_language: "Haimaneti"
+kalecik.georgian_language: "Kaleciki"
+karakecili.georgian_language: "Karakechili"
+polatli.georgian_language: "Polateli"
+
+# Province 'beysehir_province' () #
+beysehir.georgian_language: "Beisheti"
+aksehir.georgian_language: "Tetriqalaqi"
+bolvadin.georgian_language: "Bolvadini"
+ilgin.georgian_language: "Ilgini"
+sarkikaraagac.georgian_language: "Sarkiri"
+seydisehir.georgian_language: "Seidisevi"
+yalvac.georgian_language: "Yalvachi"
+
+# Province 'cankiri_province' () #
+cankiri.georgian_language: "Chankiri"
+bayat.georgian_language: "Baiati"
+cerkes.georgian_language: "Cherkesi"
+kursunlu.georgian_language: "Kursuneli"
+sabanozu.georgian_language: "Shabanozi"
+tosya.georgian_language: "Davitisi"
+
+# Province 'karahisar_province' () #
+karahisar_i_sahib.georgian_language: "Shavatsikhe"
+altintas.georgian_language: "Altinashi"
+emirdag.georgian_language: "Emirdagi"
+sandikli.georgian_language: "Sandikli"
+seyitgazi.georgian_language: "Seitgazi"
+suhut.georgian_language: "Suhuti"
+
+# Province 'konya_province' () #
+konya.georgian_language: "Ikonia"
+altinekin.georgian_language: "Altinekini"
+celtik.georgian_language: "Cheltiki"
+cumra.georgian_language: "Jumra"
+ladik.georgian_language: "Ladikani"
+suluklu.georgian_language: "Suluklo"
+turgut.georgian_language: "Turguti"
+
+# Province 'larende_province' () #
+larende.georgian_language: "Laranda"
+eregli_kar.georgian_language: "Eregeli"
+eskil.georgian_language: "Tamarisgori"
+hatunsaray.georgian_language: "Hatunsara"
+karapinar.georgian_language: "Karistskali"
+obruk.georgian_language: "Obruki"
+pirloganda.georgian_language: "Pirlogandi"
+
+# Province 'sivrihisar_province' () #
+sivrihisar.georgian_language: "Sivrisi"
+beypazari.georgian_language: "Beipazari"
+bozan.georgian_language: "Bozani"
+kaymaz.georgian_language: "Kaimazi"
+kibrus.georgian_language: "Kibrusi"
+kizilca.georgian_language: "Tsitelisi"
+mihaliccik.georgian_language: "Mihalici"
+
+
+## Area 'cilicia_area' () ##
+# Province 'adana_province' () #
+adana.georgian_language: "Atana"
+ayas.georgian_language: "Aiasi"
+iskenderun.georgian_language: "Iskenderi"
+kars_armenia.georgian_language: "Karsi"
+
+# Province 'cyprus_province' () #
+nicosia_cyp.georgian_language: "Nikozia"
+famagusta.georgian_language: "Famagosta"
+kyrenia.georgian_language: "Kirene"
+larnaca.georgian_language: "Larnaki"
+limassol.georgian_language: "Limasoni"
+morphou.georgian_language: "Morfos"
+paphos.georgian_language: "Pafosi"
+
+# Province 'icel_province' () #
+silifke.georgian_language: "Silifka"
+anamur.georgian_language: "Anamuri"
+ermenek.georgian_language: "Ermeneketi"
+mut.georgian_language: "Muti"
+
+# Province 'malatya_province' () #
+malatya.georgian_language: "Melitene"
+besni.georgian_language: "Besini"
+gerger.georgian_language: "Gergari"
+kahta.georgian_language: "Kahti"
+kaysun.georgian_language: "Kaisuni"
+samsat.georgian_language: "Samosata"
+
+# Province 'marash_province' () #
+marash.georgian_language: "Marashi"
+afsin.georgian_language: "Apsini"
+elbistan.georgian_language: "Elbistani"
+enguzud.georgian_language: "Enguzeti"
+goksun.georgian_language: "Vakhtangeti"
+kapan.georgian_language: "Kapani"
+ulnia.georgian_language: "Ulni"
+
+# Province 'sis_province' () #
+sis.georgian_language: "Sisi"
+anavarza.georgian_language: "Anavarsa"
+caxud.georgian_language: "Cakhudi"
+comana_cil.georgian_language: "Komani"
+hargan.georgian_language: "Hargani"
+
+# Province 'tarsus_province' () #
+tarsus.georgian_language: "Tarsosi"
+candir_cil.georgian_language: "Jandirisi"
+corycus.georgian_language: "Korikosi"
+molevon.georgian_language: "Molevani"
+
+
+## Area 'marmara_area' () ##
+# Province 'biga_province' () #
+biga.georgian_language: "Bigani"
+ayvacik.georgian_language: "Aivaciki"
+bandirma.georgian_language: "Bandirna"
+bayramic.georgian_language: "Bairamisi"
+can.georgian_language: "Chani"
+canakkale.georgian_language: "Chanakale"
+gonen.georgian_language: "Gonistskali"
+lapseki.georgian_language: "Lapseka"
+
+# Province 'hudavendigar_province' () #
+bursa.georgian_language: "Prusa"
+adranos.georgian_language: "Adranosi"
+dursunbey.georgian_language: "Dursunbei"
+harmancik.georgian_language: "Harmanciki"
+iznik.georgian_language: "Nikaia"
+
+# Province 'karasi_province' () #
+balikesir.georgian_language: "Balikesiri"
+balya.georgian_language: "Demetresgori"
+bergama.georgian_language: "Pergami"
+bigadic.georgian_language: "Bigadichi"
+edremit.georgian_language: "Edremidi"
+manyas.georgian_language: "Maniasi"
+mihalic.georgian_language: "Mihalichi"
+soma.georgian_language: "Somati"
+susurluk.georgian_language: "Susurluki"
+
+# Province 'kocaeli_province' () #
+izmit.georgian_language: "Nikomedia"
+atpazari.georgian_language: "Atbazari"
+uskudar.georgian_language: "Uskudari"
+silli.georgian_language: "Sileti"
+
+# Province 'kutahya_province' () #
+kutahya.georgian_language: "Kutahia"
+aslanapa.georgian_language: "Aslaneti"
+domanic.georgian_language: "Domaniki"
+emet.georgian_language: "Emeti"
+simav.georgian_language: "Simavi"
+tavsanli.georgian_language: "Tavshani"
+
+# Province 'sultanonu_province' () #
+sultanonu.georgian_language: "Sultanova"
+bilecik.georgian_language: "Bileciki"
+goynuk.georgian_language: "Goinuki"
+eynegol.georgian_language: "Inegoli"
+inonu.georgian_language: "Inoni"
+nalli.georgian_language: "Nalli"
+sogut.georgian_language: "Soguti"
+
+
+## Area 'pontus_area' () ##
+# Province 'bolu_province' () #
+bolu.georgian_language: "Boli"
+akcasehir.georgian_language: "Akisheti"
+akyazi.georgian_language: "Akiazi"
+eregli.georgian_language: "Herakli"
+konrapa.georgian_language: "Konrapa"
+mudurnu.georgian_language: "Mudurni"
+
+# Province 'canik_province' () #
+giresun.georgian_language: "Kerasuni"
+akkus.georgian_language: "Akkusi"
+bayramlu.georgian_language: "Bairamlu"
+mesudiye.georgian_language: "Mesudia"
+terme.georgian_language: "Termeti"
+unye.georgian_language: "Unia"
+
+# Province 'kastamonu_province' () #
+kastamonu.georgian_language: "Kastamoni"
+arac.georgian_language: "Araki"
+devrekani.georgian_language: "Devrekani"
+inebolu.georgian_language: "Ineboli"
+kure_i_mamure.georgian_language: "Kureti"
+taskopru.georgian_language: "Taskopri"
+
+# Province 'safranbolu_province' () #
+safranbolu.georgian_language: "Safranbeli"
+amasra.georgian_language: "Amastri"
+bartin.georgian_language: "Giorgitskaro"
+gerede.georgian_language: "Geredeti"
+mengen.georgian_language: "Mengeni"
+ulus.georgian_language: "Ulusi"
+yenicepazari.georgian_language: "Akhalibazari"
+
+# Province 'sinop_province' () #
+sinop.georgian_language: "Sinopi"
+bafra.georgian_language: "Bafratskali"
+boyabat.georgian_language: "Boibati"
+gerze.georgian_language: "Gerzi"
+samsun.georgian_language: "Samsuni"
+
+# Province 'trebizond_province' () #
+trebizond.georgian_language: "Trapizoni"
+gorele.georgian_language: "Goreli"
+gumushane.georgian_language: "Gumushani"
+khupati.georgian_language: "Khupati"
+rize.georgian_language: "Rizea"
+surmene.georgian_language: "Surmeni"
+
+
+## Area 'west_anatolia_area' () ##
+# Province 'alaiye_province' () #
+alaiye.georgian_language: "Alaiya"
+karahisar_i_teke.georgian_language: "Tekatsikhe"
+manavgat.georgian_language: "Manavtskali"
+selinti.georgian_language: "Selindi"
+
+# Province 'antalya_province' () #
+antalya.georgian_language: "Attaleia"
+elmali.georgian_language: "Elmaleti"
+finike.georgian_language: "Phiniki"
+kas.georgian_language: "Kasi"
+istanoz.georgian_language: "Istanos"
+
+# Province 'aydin_province' () #
+tire.georgian_language: "Tireti"
+alasehir.georgian_language: "Filadelfia"
+balat.georgian_language: "Balati"
+birgi.georgian_language: "Birgisi"
+cine.georgian_language: "Chine"
+guzelhisar.georgian_language: "Lamtsikhe"
+milas.georgian_language: "Milasa"
+nazilli.georgian_language: "Nazili"
+
+# Province 'hamid_province' () #
+isparta.georgian_language: "Ispartia"
+burdur.georgian_language: "Burduri"
+dinar.georgian_language: "Dinaris"
+egirdir.georgian_language: "Egirdiri"
+stefani.georgian_language: "Steponi"
+uluborlu.georgian_language: "Ninoskhevi"
+
+# Province 'mugla_province' () #
+mugla.georgian_language: "Muglani"
+bodrum.georgian_language: "Bodrumi"
+gokabat.georgian_language: "Gokabati"
+golhisar.georgian_language: "Golhisari"
+marmaris.georgian_language: "Marmarisi"
+megri.georgian_language: "Rusudaneti"
+tavas.georgian_language: "Tavasi"
+yuksekkum.georgian_language: "Maghaliqumi"
+
+# Province 'saruhan_province' () #
+manisa.georgian_language: "Magnisia"
+akhisar.georgian_language: "Akhisari"
+demirci.georgian_language: "Demirci"
+foca.georgian_language: "Pokaia"
+gordes.georgian_language: "Gordesi"
+kula.georgian_language: "Kuleti"
+
+# Province 'smyrna_province' () #
+smyrna.georgian_language: "Izmiri"
+ayasuluk.georgian_language: "Ephesosi"
+cesme.georgian_language: "Chesme"
+menemen.georgian_language: "Menemeni"
+urla.georgian_language: "Urleni"
+
+# Province 'usak_province' () #
+usak.georgian_language: "Usaki"
+banaz.georgian_language: "Banazi"
+gediz.georgian_language: "Gedizi"
+honaz.georgian_language: "Honazi"
+lazkiye.georgian_language: "Lazkisi"
+seyhli.georgian_language: "Seili"
+
+### Region 'persia_region' () ###
+
+## Area 'azerbaijan_area' () ##
+# Province 'ardabil_province' () #
+ardabil.georgian_language: "Ardabili"
+ahar.georgian_language: "Ahari"
+aslanduz.georgian_language: "Aslanduzi"
+kaleybar.georgian_language: "Kalebari"
+khiyav.georgian_language: "Khiavi"
+mardanaqom.georgian_language: "Avtandileti"
+qahqaheh.georgian_language: "Qaqaheti"
+nir.georgian_language: "Niri"
+
+# Province 'barza_province' () #
+barza.georgian_language: "Davitisi"
+bukan.georgian_language: "Bukaneti"
+malekan.georgian_language: "Malekani"
+miandoab.georgian_language: "Miandobi"
+sain.georgian_language: "Saini"
+santeh.georgian_language: "Santehi"
+takht_e_soleyman.georgian_language: "Salomonistakhti"
+
+# Province 'khoy_province' () #
+khoy.georgian_language: "Khoiti"
+bayazit.georgian_language: "Bayaziti"
+maku.georgian_language: "Maki"
+hadishahr.georgian_language: "Hadishari"
+marand.georgian_language: "Marandi"
+nazok_olya.georgian_language: "Giorgeti"
+qarahziaoddin.georgian_language: "Qarazidini"
+siah_cheshmeh.georgian_language: "Shavitsqaro"
+
+# Province 'miyaneh_province' () #
+miyaneh.georgian_language: "Mianeti"
+aghkand.georgian_language: "Aghkandi"
+hashatjin.georgian_language: "Hashajini"
+hashtrud.georgian_language: "Hashtrudi"
+khalkhal.georgian_language: "Khalkhali"
+
+# Province 'tabriz_province' () #
+tabriz.georgian_language: "Tebrizi"
+heris.georgian_language: "Herisi"
+maragheh.georgian_language: "Maragheti"
+sarab.georgian_language: "Sarabi"
+tufarqan.georgian_language: "Tufarqani"
+ujan.georgian_language: "Ujani"
+
+# Province 'urmia_province' () #
+urmia.georgian_language: "Urmeti"
+khameneh.georgian_language: "Khamene"
+mahabad.georgian_language: "Mahabadi"
+osnavieh.georgian_language: "Osnavi"
+salmas.georgian_language: "Salmasi"
+
+
+## Area 'baluchistan_area' () ##
+# Province 'bampur_province' () #
+bampur.georgian_language: "Bampuri"
+bazman.georgian_language: "Tamarisi"
+dalgan.georgian_language: "Dalgani"
+espakeh.georgian_language: "Espake"
+fahrej.georgian_language: "Fahreji"
+karvandar.georgian_language: "Karvandari"
+rameshk.georgian_language: "Rameshki"
+
+# Province 'bannajbur_province' () #
+bannajbur.georgian_language: "Bannajburi"
+mahgas.georgian_language: "Mahgasi"
+murt.georgian_language: "Murti"
+nagh.georgian_language: "Naghi"
+paroom.georgian_language: "Parumi"
+saravan.georgian_language: "Saravani"
+suran.georgian_language: "Surani"
+
+# Province 'bela_province' () #
+bela.georgian_language: "Belati"
+hinglaj.georgian_language: "Hinglaji"
+lakhsar.georgian_language: "Lakhsari"
+ormara.georgian_language: "Ormaris Porti"
+sonamiani.georgian_language: "Sonamiani"
+wadh.georgian_language: "Vadhi"
+
+# Province 'gwadar_province' () #
+gwadar.georgian_language: "Gvadaris Porti"
+buleda.georgian_language: "Buleda"
+irafshan.georgian_language: "Irafshani"
+kuddan.georgian_language: "Kuddani"
+pasni.georgian_language: "Pasnis Porti"
+tump.georgian_language: "Tumpi"
+turbat.georgian_language: "Turbati"
+zik.georgian_language: "Ziki"
+
+# Province 'kharan_province' () #
+kharan.georgian_language: "Bagrateti"
+besima.georgian_language: "Besima"
+chagai.georgian_language: "Chageti"
+naalbandin.georgian_language: "Nalbandidi"
+washuk.georgian_language: "Vashuki"
+
+# Province 'khash_province' () #
+khash.georgian_language: "Khashi"
+jaleq.georgian_language: "Jaleqi"
+ladiz.georgian_language: "Ladizi"
+mashkel.georgian_language: "Vakhtangeti"
+
+# Province 'qasr_qand_province' () #
+qasr_e_qand.georgian_language: "Qandtsikhe"
+gwatar.georgian_language: "Gvataris Porti"
+kalmat.georgian_language: "Kalmeti"
+rask.georgian_language: "Raski"
+sarbaz.georgian_language: "Sarbazi"
+
+# Province 'quetta_province' () #
+quetta.georgian_language: "Qeta"
+gulistan.georgian_language: "Gulistani"
+kalat.georgian_language: "Qalatsikhe"
+mastung.georgian_language: "Mastungi"
+nushki.georgian_language: "Nushki"
+shorabak.georgian_language: "Shorabaki"
+
+# Province 'qusdar_province' () #
+khuzdar.georgian_language: "Khuzdari"
+awaran.georgian_language: "Avarani"
+jhao.georgian_language: "Jhaori"
+mashkai.georgian_language: "Mashqai"
+nal.georgian_language: "Nali"
+surab.georgian_language: "Surabi"
+
+# Province 'tiz_province' () #
+al_tiz.georgian_language: "Altizi"
+bandar_e_jask.georgian_language: "Jaskis Porti"
+bashagard.georgian_language: "Bashagardi"
+bent.georgian_language: "Benti"
+bih.georgian_language: "Bihi"
+jagin_zir.georgian_language: "Jagindziri"
+zarabad.georgian_language: "Zarabadi"
+
+
+## Area 'fars_area' () ##
+# Province 'abarkuh_province' () #
+abarkuh.georgian_language: "Abarkuhi"
+abadeh.georgian_language: "Abadehi"
+bavanat.georgian_language: "Bavanati"
+dehshir.georgian_language: "Dehshiri"
+eqlid.georgian_language: "Eqlidi"
+marvast.georgian_language: "Marvasti"
+
+# Province 'behbahan_province' () #
+behbahan.georgian_language: "Behbahani"
+dehdasht.georgian_language: "Dehdashti"
+dishmok.georgian_language: "Dishmoki"
+dogonbadan.georgian_language: "Dogonbadani"
+hendijan.georgian_language: "Hendijani"
+suq.georgian_language: "Suqi"
+
+# Province 'darab_province' () #
+darab.georgian_language: "Darabi"
+hajjiabad_zarrindasht.georgian_language: "Hajjiabadi"
+jannat_shahr.georgian_language: "Jannatkalaqi"
+rostaq.georgian_language: "Rostaqi"
+tarom.georgian_language: "Taromi"
+
+# Province 'firuzabad_province' () #
+firuzabad.georgian_language: "Firuzabadi"
+bandar_deyr.georgian_language: "Deyris Porti"
+dehram.georgian_language: "Dehrami"
+kalameh.georgian_language: "Kalamehi"
+khormoj.georgian_language: "Khormoji"
+riz.georgian_language: "Rizi"
+
+# Province 'gamrun_province' () #
+gamrun.georgian_language: "Shotaqari"
+bandar_charak.georgian_language: "Charakis Porti"
+bandar_khamir.georgian_language: "Khamiris Porti"
+bandar_lengeh.georgian_language: "Lengehis Porti"
+hormuz.georgian_language: "Hormuzis Qalaqi"
+
+# Province 'harat_province' () #
+harat.georgian_language: "Harati"
+khabar.georgian_language: "Khabari"
+khatunabad.georgian_language: "Khatunabadi"
+meshkan.georgian_language: "Meshkani"
+shahr_e_babak.georgian_language: "Babakqalaqi"
+
+# Province 'istakhr_province' () #
+istakhr.georgian_language: "Istakhri"
+aspas.georgian_language: "Aspasi"
+beyza.georgian_language: "Beiza"
+qaryat_al_bidh.georgian_language: "Bidhis Sopeli"
+saadatshahr.georgian_language: "Saadatqalaqi"
+shahr_meyan.georgian_language: "Meyankalaqi"
+
+# Province 'jahrom_province' () #
+jahrom.georgian_language: "Rostomkhevi"
+fasa.georgian_language: "Fasa"
+ij_iran.georgian_language: "Iji"
+juyom.georgian_language: "Juyomi"
+kavar.georgian_language: "Kavari"
+meymand.georgian_language: "Meymandi"
+
+# Province 'kariyan_province' () #
+kariyan.georgian_language: "Tinatisi"
+alamarvdasht.georgian_language: "Alamarvdashti"
+bagh_iran.georgian_language: "Baghirani"
+jahreh.georgian_language: "Jahrehi"
+karzin.georgian_language: "Karzini"
+khunj.georgian_language: "Khunji"
+
+# Province 'kazerun_province' () #
+kazerun.georgian_language: "Kazeruni"
+borazjan.georgian_language: "Borazjani"
+reyshahr.georgian_language: "Reyshahri"
+farashband.georgian_language: "Farashbandi"
+sar_mashhad.georgian_language: "Sarmashhadi"
+
+# Province 'lar_province' () #
+lar.georgian_language: "Lari"
+darz.georgian_language: "Darzi"
+dehtal.georgian_language: "Dehtali"
+fin.georgian_language: "Fini"
+ruydar.georgian_language: "Ruydari"
+
+# Province 'qala_safid_province' () #
+qala_safid.georgian_language: "Tetri Tsikhe"
+bandar_deylam.georgian_language: "Deylamis Porti"
+bandar_rig.georgian_language: "Rigis Porti"
+basht.georgian_language: "Bashti"
+jannaba.georgian_language: "Jannaba"
+nurabad.georgian_language: "Nurabadi"
+
+# Province 'shiraz_province' () #
+shiraz.georgian_language: "Shirazi"
+abadeh_tashk.georgian_language: "Abadehtashki"
+kherameh.georgian_language: "Kherame"
+neyriz.georgian_language: "Neyrizi"
+sarvestan.georgian_language: "Sarvestani"
+zarqan.georgian_language: "Zarqani"
+
+# Province 'siraf_province' () #
+siraf.georgian_language: "Sirafi"
+ahel.georgian_language: "Aheli"
+asir.georgian_language: "Asiri"
+bastak.georgian_language: "Bastaki"
+kish.georgian_language: "Kishis Qalaqi"
+
+
+## Area 'iraq_ajam_area' () ##
+# Province 'ardestan_province' () #
+ardestan.georgian_language: "Ardestani"
+anarak.georgian_language: "Anaraki"
+aqda.georgian_language: "Aqda"
+nain.georgian_language: "Naini"
+natanz.georgian_language: "Natanzi"
+zavareh.georgian_language: "Zavare"
+
+# Province 'golpayegan_province' () #
+golpayegan.georgian_language: "Golpayegani"
+delijan.georgian_language: "Delijani"
+khwansar.georgian_language: "Khvansari"
+khomeyn.georgian_language: "Khomeyni"
+mahallat.georgian_language: "Mahallati"
+nimvar.georgian_language: "Nimvari"
+
+# Province 'hamadan_province' () #
+hamadan.georgian_language: "Hamadani"
+karaj_abi_dulaf.georgian_language: "Karajdulafi"
+khondab.georgian_language: "Khondabi"
+kurijan.georgian_language: "Kurijani"
+qorveh_darjazin.georgian_language: "Qorvehdarjini"
+saruk.georgian_language: "Saruki"
+tafresh.georgian_language: "Tafreshi"
+
+# Province 'isfahan_province' () #
+isfahan.georgian_language: "Isfahani"
+dehagh.georgian_language: "Dehaghi"
+dowlatabad.georgian_language: "Dowlatabadi"
+komshecheh.georgian_language: "Komshechi"
+murcheh_khvort.georgian_language: "Murchekhvorti"
+tudeshk.georgian_language: "Tudeshki"
+
+# Province 'qazvin_province' () #
+qazvin.georgian_language: "Qazvini"
+abhar.georgian_language: "Abhari"
+avaj.georgian_language: "Avaji"
+qeydar.georgian_language: "Qeydari"
+sagzabad.georgian_language: "Sagzabadi"
+savojbolagh.georgian_language: "Savojbolaghi"
+takestan.georgian_language: "Takestani"
+
+# Province 'qom_province' () #
+qom.georgian_language: "Qomi"
+aveh.georgian_language: "Avehi"
+kahak.georgian_language: "Kahaki"
+kashan.georgian_language: "Kashani"
+maranjab.georgian_language: "Maranjabi"
+neyasar.georgian_language: "Neyasari"
+saveh.georgian_language: "Savehi"
+
+# Province 'qumisha_province' () #
+qumisha.georgian_language: "Demetreti"
+fereydunshahr.georgian_language: "Fereydunshahri"
+karkevand.georgian_language: "Karkevandi"
+ramsheh.georgian_language: "Ramshehi"
+sohrfiruzan.georgian_language: "Sohrfiruzani"
+yangabad.georgian_language: "Yangabadi"
+yazdikhwast.georgian_language: "Yazdikhvasti"
+
+# Province 'rey_province' () #
+rey.georgian_language: "Rei"
+damavand.georgian_language: "Damavandi"
+eyvanekey.georgian_language: "Eyvaneki"
+karaj.georgian_language: "Karaji"
+khwar.georgian_language: "Khvari"
+rahimabad.georgian_language: "Rahimabadi"
+razeqan.georgian_language: "Razeqani"
+varamin.georgian_language: "Varamini"
+
+# Province 'yazd_province' () #
+yazd.georgian_language: "Yazdi"
+ardakan.georgian_language: "Levaneti"
+meybod.georgian_language: "Meybodi"
+nadushan.georgian_language: "Nadushani"
+saryazd.georgian_language: "Saryazdi"
+taft.georgian_language: "Tafti"
+
+# Province 'zanjan_province' () #
+zanjan.georgian_language: "Zanjani"
+mahneshan.georgian_language: "Mahneshani"
+sarcham.georgian_language: "Sarchami"
+sojas.georgian_language: "Sojasi"
+soltaniyeh.georgian_language: "Soltanie"
+
+
+## Area 'kerman_area' () ##
+# Province 'bam_province' () #
+bam.georgian_language: "Lashauri"
+fahraj_narmashir.georgian_language: "Fahraji"
+narmashir.georgian_language: "Narmashiri"
+rayen.georgian_language: "Rayeni"
+rigan.georgian_language: "Rigani"
+sepeh.georgian_language: "Sepehi"
+
+# Province 'jiroft_province' () #
+jiroft.georgian_language: "Jirofti"
+baft.georgian_language: "Bafti"
+dowlatabad_esfandaqeh.georgian_language: "Esfandabadi"
+rabor.georgian_language: "Rabori"
+sarduiyeh.georgian_language: "Sardui"
+zakht.georgian_language: "Zakhti"
+
+# Province 'kahnuj_province' () #
+kahnuj.georgian_language: "Kahnuji"
+mardehek.georgian_language: "Mardeheki"
+qaleh_ganj.georgian_language: "Ganjtsikhe"
+shahabad_kerman.georgian_language: "Shahabadi"
+
+# Province 'kerman_province' () #
+kerman.georgian_language: "Kermani"
+ghobeyra.georgian_language: "Ghobeyra"
+mahan.georgian_language: "Mahani"
+shahdad.georgian_language: "Shahdadi"
+
+# Province 'minab_province' () #
+minab.georgian_language: "Minabi"
+golashkerd.georgian_language: "Golashkerdi"
+manujan.georgian_language: "Manujani"
+nowdezh.georgian_language: "Nowdezhi"
+rudkhaneh.georgian_language: "Rudkhani"
+shaqrud.georgian_language: "Shaqtsqali"
+senderk.georgian_language: "Senderki"
+sirik.georgian_language: "Siriki"
+
+# Province 'rafsanjan_province' () #
+rafsanjan.georgian_language: "Rafsanjani"
+anar.georgian_language: "Anari"
+baghin.georgian_language: "Baghini"
+bahreman.georgian_language: "Bahremani"
+bardsir.georgian_language: "Bardsiri"
+dehaj.georgian_language: "Dehaji"
+ernan.georgian_language: "Ernani"
+negar.georgian_language: "Negari"
+
+# Province 'sirjan_province' () #
+sirjan.georgian_language: "Tarielgori"
+arzu.georgian_language: "Arzui"
+hajjiabad.georgian_language: "Hajjiabadi"
+khabr.georgian_language: "Khabri"
+qatruyeh.georgian_language: "Qatruyi"
+saadatabad.georgian_language: "Saadatabadi"
+soghan.georgian_language: "Soghani"
+
+# Province 'zarand_province' () #
+zarand_iran.georgian_language: "Zarandi"
+bafq.georgian_language: "Bafqi"
+behabad.georgian_language: "Behabadi"
+kuhbanan.georgian_language: "Kuhbanani"
+ravar.georgian_language: "Ravari"
+
+
+## Area 'khuzestan_area' () ##
+# Province 'ahvaz_province' () #
+ahvaz.georgian_language: "Ahvazi"
+dowraq.georgian_language: "Dovraqi"
+hamidiyeh.georgian_language: "Hamidie"
+hoveyzeh.georgian_language: "Hoveyze"
+mosharahat.georgian_language: "Mosharahati"
+muhammerah.georgian_language: "Muhammera"
+
+# Province 'borujerd_province' () #
+borujerd.georgian_language: "Borujerdi"
+aligurdaz.georgian_language: "Aligurdazi"
+borborud.georgian_language: "Giorgiskhevi"
+dorud.georgian_language: "Dorudi"
+gerit.georgian_language: "Geriti"
+sibak.georgian_language: "Sibaki"
+
+# Province 'deh_kord_province' () #
+deh_kord.georgian_language: "Dehkordi"
+borujen.georgian_language: "Borujeni"
+samiram.georgian_language: "Samirami"
+sisakht.georgian_language: "Sisakhti"
+vanak.georgian_language: "Vanaki"
+yasuj.georgian_language: "Yasuji"
+
+# Province 'dezful_province' () #
+dezful.georgian_language: "Dezfuli"
+andimeshk.georgian_language: "Andimeshki"
+masjed_soleyman.georgian_language: "Masjedsolemani"
+shush.georgian_language: "Shushi"
+shushtar.georgian_language: "Shushtari"
+somaleh.georgian_language: "Tamarqala"
+
+# Province 'izeh_province' () #
+izeh.georgian_language: "Ize"
+andika.georgian_language: "Andika"
+dehdez.georgian_language: "Dehdezi"
+lordegan.georgian_language: "Lordegani"
+naghan.georgian_language: "Naghani"
+
+# Province 'khorramabad_province' () #
+khorramabad.georgian_language: "Khorramabadi"
+aleshtar.georgian_language: "Aleshtari"
+kuhdast.georgian_language: "Kuhdasti"
+pol_dokhtar.georgian_language: "Gogis Khidi"
+sarab_dowreh.georgian_language: "Sarabidovre"
+
+# Province 'ramhormoz_province' () #
+ramhormoz.georgian_language: "Ramhormozi"
+bagh_malek.georgian_language: "Malikis Bagi"
+khalafabad.georgian_language: "Khalafabadi"
+machul.georgian_language: "Machuli"
+quban.georgian_language: "Qubani"
+
+
+## Area 'kordestan_area' () ##
+# Province 'bijar_province' () #
+bijar.georgian_language: "Bijari"
+bashqurtaran.georgian_language: "Bashqurtarani"
+dehgolan.georgian_language: "Avtandilisgori"
+divandarreh.georgian_language: "Divandare"
+ghorveh.georgian_language: "Ghorve"
+sohrevard.georgian_language: "Sohrevardi"
+yasukand.georgian_language: "Yasukandi"
+
+# Province 'kermanshah_province' () #
+kermanshah.georgian_language: "Davitqalaqi"
+badreh.georgian_language: "Badre"
+darrehshahr.georgian_language: "Darreshahri"
+harunabad.georgian_language: "Harunabadi"
+holeylan.georgian_language: "Holeylani"
+kamyaran.georgian_language: "Kamyarani"
+
+# Province 'nahavand_province' () #
+nahavand.georgian_language: "Nahavandi"
+asadabad.georgian_language: "Asadabadi"
+bisotun.georgian_language: "Bisotuni"
+malayer.georgian_language: "Malayeri"
+sonqor.georgian_language: "Sonqori"
+
+# Province 'sahrazur_province' () #
+sahrazur.georgian_language: "Sahrazuri"
+hawraman.georgian_language: "Havramani"
+javanrud.georgian_language: "Javanrudi"
+marivan.georgian_language: "Marivani"
+muchesh.georgian_language: "Mucheshi"
+qasr_shirin.georgian_language: "Shirintsikhe"
+sanandaj.georgian_language: "Sanandaji"
+sulaymaniyah.georgian_language: "Sulaymaniya"
+
+
+## Area 'mazandaran_area' () ##
+# Province 'damghan_province' () #
+damghan.georgian_language: "Damghani"
+bastam.georgian_language: "Bastami"
+lasjerd.georgian_language: "Lasjerdi"
+qumis.georgian_language: "Qumisi"
+semnan.georgian_language: "Semnani"
+
+# Province 'daylam_province' () #
+rudbar.georgian_language: "Tskalskhevi"
+shahrestan_sofla.georgian_language: "Kvemo Shahrestani"
+shamiram.georgian_language: "Shamirami"
+sirdan.georgian_language: "Sirdani"
+
+# Province 'gilan_province' () #
+rasht.georgian_language: "Rashti"
+fuman.georgian_language: "Fumani"
+lahijan.georgian_language: "Lahijani"
+langarud.georgian_language: "Langatskali"
+
+# Province 'gorgan_province' () #
+gorgan.georgian_language: "Gorgani"
+aliabad_katul.georgian_language: "Aliabadi"
+astarabad.georgian_language: "Astarabadi"
+etrek.georgian_language: "Tinatiniskhevi"
+incheh_borun.georgian_language: "Incheboruni"
+minudasht.georgian_language: "Minudashti"
+mubarakabad.georgian_language: "Mubarakabadi"
+nardin.georgian_language: "Nardini"
+tammisha.georgian_language: "Tammisha"
+
+# Province 'rustamdar_province' () #
+amol.georgian_language: "Amoli"
+al_mamtir.georgian_language: "Almamtiri"
+chalus.georgian_language: "Chalusi"
+kojur.georgian_language: "Kojuri"
+tonekabon.georgian_language: "Bagratqalaqi"
+
+# Province 'tabaristan_province' () #
+sari.georgian_language: "Sari"
+ashraf.georgian_language: "Ashrafi"
+farim_iran.georgian_language: "Farimi"
+firuzkuh.georgian_language: "Firuzkhevi"
+lafur.georgian_language: "Lafuri"
+
+# Province 'talish_province' () #
+dulab.georgian_language: "Dulabi"
+astara.georgian_language: "Astara"
+bandar_e_anzali.georgian_language: "Anzalis Porti"
+lankaran.georgian_language: "Lankarani"
+
+
+## Area 'quhestan_area' () ##
+# Province 'birjand_province' () #
+birjand.georgian_language: "Birjandi"
+deyhuk.georgian_language: "Deyhuki"
+khusf.georgian_language: "Khusfi"
+khvor.georgian_language: "Khvori"
+mazhan.georgian_language: "Mazhani"
+nayband.georgian_language: "Naybandi"
+qala_zari.georgian_language: "Zaritsikhe"
+
+# Province 'gonabad_province' () #
+gonabad.georgian_language: "Gonabadi"
+azghand.georgian_language: "Azghandi"
+mahvelat.georgian_language: "Mahvelati"
+roshtkhar.georgian_language: "Roshtkhari"
+salameh.georgian_language: "Tamarisgori"
+zaveh.georgian_language: "Zave"
+
+# Province 'qaen_province' () #
+qaen.georgian_language: "Qaeni"
+abiz.georgian_language: "Abizi"
+khargerd.georgian_language: "Khargerdi"
+shahrakht.georgian_language: "Shahrakhti"
+tabas_al_unnab.georgian_language: "Tabasunabi"
+yazduye.georgian_language: "Yazduye"
+zohan.georgian_language: "Zohani"
+zozan.georgian_language: "Zozani"
+
+# Province 'tabas_al_tamr_province' () #
+tabas_al_tamr.georgian_language: "Tabastamri"
+dastgerdan.georgian_language: "Dastgerdani"
+jondaq.georgian_language: "Jondaqi"
+korit.georgian_language: "Koriti"
+ribat_ushturan.georgian_language: "Ushturantsikhe"
+saghand.georgian_language: "Saghandi"
+
+# Province 'turaythith_province' () #
+turaythith.georgian_language: "Rostometi"
+bajestan.georgian_language: "Bajestani"
+boshruyeh.georgian_language: "Boshruye"
+kashmar.georgian_language: "Kashmari"
+sarayan.georgian_language: "Sarayani"
+tun.georgian_language: "Tuni"
+
+
+## Area 'sistan_area' () ##
+# Province 'adraskan_province' () #
+adraskan.georgian_language: "Adraskani"
+azab.georgian_language: "Azabi"
+firuzkuh_afghanistan.georgian_language: "Firuzkhevi"
+khaysar.georgian_language: "Khaysari"
+shindand.georgian_language: "Shindandi"
+
+# Province 'bost_province' () #
+bost.georgian_language: "Bosti"
+baghran.georgian_language: "Baghrani"
+deh_kundi.georgian_language: "Dehkundi"
+gereshk.georgian_language: "Gereshki"
+kajran.georgian_language: "Kajrani"
+musa_qala.georgian_language: "Musatsikhe"
+tarinkot.georgian_language: "Tarinkoti"
+
+# Province 'farah_province' () #
+farah.georgian_language: "Davitgori"
+anardara.georgian_language: "Anardara"
+doroh.georgian_language: "Dorohi"
+lash_joveyn.georgian_language: "Lashjoveni"
+sarbisheh.georgian_language: "Sarbishe"
+shahr_sabz.georgian_language: "Mtsvanekalaqi"
+
+# Province 'garmsir_province' () #
+garmsir.georgian_language: "Giorgitsikhe"
+banader.georgian_language: "Banaderi"
+khanashin.georgian_language: "Khanashini"
+maiwand.georgian_language: "Maiwandi"
+pangvay.georgian_language: "Pangvai"
+
+# Province 'ghazni_province' () #
+ghazni.georgian_language: "Ghazni"
+gardez.georgian_language: "Gardezi"
+muqur.georgian_language: "Muquri"
+nawah.georgian_language: "Nawahi"
+wazakhwa.georgian_language: "Wazakhvi"
+zarghun_shahr.georgian_language: "Zarghunqalaqi"
+
+# Province 'kabul_province' () #
+kabul.georgian_language: "Kabili"
+alishang.georgian_language: "Alishangi"
+chak.georgian_language: "Chaki"
+gandamak.georgian_language: "Gandamaki"
+jalalabad.georgian_language: "Jalalabadi"
+logar.georgian_language: "Logari"
+kohi_safi.georgian_language: "Kohisafi"
+
+# Province 'kandahar_province' () #
+kandahar.georgian_language: "Kandahari"
+arghestan.georgian_language: "Arghestani"
+chaman.georgian_language: "Chamani"
+deychopan.georgian_language: "Deychopani"
+maruf.georgian_language: "Marufi"
+qalat_ghilji.georgian_language: "Ghiljitsikhe"
+
+# Province 'zabol_province' () #
+zabol.georgian_language: "Zaboli"
+chehl_dokhtaran.georgian_language: "Cheldokhtari"
+dowzdab.georgian_language: "Dowzdabi"
+nehbandan.georgian_language: "Nehbandani"
+shusef.georgian_language: "Shusefi"
+
+# Province 'zaranj_province' () #
+zaranj.georgian_language: "Zaranji"
+bahramchah.georgian_language: "Bahramcha"
+delaram.georgian_language: "Delarami"
+khash_sistan.georgian_language: "Khashisistani"
+qala_fateh.georgian_language: "Fatehtsikhe"
+qarnin.georgian_language: "Qarnini"
+rudbar_sistan.georgian_language: "Sistantskali"
+
+
+## Area 'persian_gulf_sea_zones_area' () ##

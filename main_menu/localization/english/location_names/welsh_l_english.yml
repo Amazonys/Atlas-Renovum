@@ -1,0 +1,660 @@
+﻿l_english:
+### Region 'great_britain_region' () ###
+## Area 'home_counties_area' () ##
+# Province 'middlesex_province' () #
+london.welsh_language: "Llundain"
+harrow.welsh_language: "Harŵ"
+kingston.welsh_language: "Tre’r Brenin"
+
+# Province 'surrey_province' () #
+reigate.welsh_language: "Rheigât"
+guildford.welsh_language: "Gwylfford"
+woking.welsh_language: "Wocyn"
+
+# Province 'hampshire_province' () #
+southampton.welsh_language: "Dehantwn"
+portsmouth.welsh_language: "Aber y Porth"
+winchester.welsh_language: "Caerwynt"
+lymington.welsh_language: "Llymantwn"
+wight.welsh_language: "Ynys Wyth"
+basingstoke.welsh_language: "Basingstoc"
+
+# Province 'kent_province' () #
+dover.welsh_language: "Dofr"
+canterbury.welsh_language: "Caergaint"
+rochester.welsh_language: "CaerRost"
+hythe.welsh_language: "Y Hyd"
+tonbridge.welsh_language: "Pont Ton"
+
+# Province 'sussex_province' () #
+shoreham.welsh_language: "Porth y Lan"
+lewes.welsh_language: "Lliwes"
+hastings.welsh_language: "Hêstings"
+chichester.welsh_language: "Caergawch"
+
+# Province 'bedfordshire_province' () #
+dunstable.welsh_language: "Dunestabl"
+bedford.welsh_language: "Rhydbed"
+
+# Province 'oxfordshire_province' () #
+oxford.welsh_language: "Rhydychen"
+henley.welsh_language: "Henli"
+banbury.welsh_language: "Banbri"
+
+# Province 'berkshire_province' () #
+windsor.welsh_language: "Wynddwr"
+reading.welsh_language: "Rheding"
+abingdon.welsh_language: "Abingtwn"
+
+# Province 'buckinghamshire_province' () #
+buckingham.welsh_language: "Bwceingham"
+aylesbury.welsh_language: "Ailesbri"
+wycombe.welsh_language: "Wycom"
+
+
+## Area 'midlands_area' () ##
+# Province 'leicestershire_province' () #
+leicester.welsh_language: "Lestyr"
+loughborough.welsh_language: "Lwchbrog"
+bosworth.welsh_language: "Bôsfaeth"
+rutland.welsh_language: "Rwtlann"
+
+# Province 'derbyshire_province' () #
+derby.welsh_language: "Derbi"
+glossop.welsh_language: "Glosop"
+chesterfield.welsh_language: "Maes y Gaer"
+
+# Province 'nottinghamshire_province' () #
+nottingham.welsh_language: "Notingam"
+newark.welsh_language: "Niwarc"
+retford.welsh_language: "Rhydred"
+
+# Province 'lincolnshire_province' () #
+lincoln.welsh_language: "Lincyn"
+boston.welsh_language: "Bostwn"
+grimsby.welsh_language: "Porth Grim"
+grantham.welsh_language: "Granthan"
+louth.welsh_language: "Llauth"
+spalding.welsh_language: "Ysbalddin"
+
+# Province 'northamptonshire_province' () #
+northampton.welsh_language: "Hamtwn Gogledd"
+daventry.welsh_language: "Dafentri"
+kettering.welsh_language: "Cetring"
+
+# Province 'warwickshire_province' () #
+coventry.welsh_language: "Coventri"
+birmingham.welsh_language: "Brimingham"
+stratford.welsh_language: "Stratfford"
+
+# Province 'shropshire_province' () #
+shrewsbury.welsh_language: "Amwythig"
+oswestry.welsh_language: "Croesoswallt"
+ludlow.welsh_language: "Lludlŵ"
+
+# Province 'herefordshire_province' () #
+hereford.welsh_language: "Henffordd"
+ewyas.welsh_language: "Ewias"
+wigmore.welsh_language: "Gwig Môr"
+
+# Province 'worcestershire_province' () #
+worcester.welsh_language: "Caerwrangon"
+kidderminster.welsh_language: "Ciderminster"
+
+# Province 'staffordshire_province' () #
+stafford.welsh_language: "Rhyd y Ffon"
+stoke.welsh_language: "Ystoc"
+tamworth.welsh_language: "Tamwerth"
+
+
+## Area 'northumbria_area' () ##
+# Province 'lancashire_province' () #
+lancaster.welsh_language: "Lancastra"
+blackburn.welsh_language: "Aber Ddu"
+liverpool.welsh_language: "Lerpwl"
+preston.welsh_language: "Prestyn"
+manchester.welsh_language: "Manceinion"
+pennines_01.welsh_language: "Mynyddoedd Penain I"
+pennines_02.welsh_language: "Mynyddoedd Penain II"
+
+# Province 'north_riding_province' () #
+york.welsh_language: "Efrog"
+scarborough.welsh_language: "Sgarbro"
+bedale.welsh_language: "Bedaill"
+richmond.welsh_language: "Rhycmyn"
+whitby.welsh_language: "Porth Gwyn"
+north_york_moors.welsh_language: "Mynyddoedd Efrog Gogledd"
+
+# Province 'east_riding_province' () #
+hull.welsh_language: "Hyly"
+bridlington.welsh_language: "Pontlyn"
+selby.welsh_language: "Selbi"
+norton.welsh_language: "Narthyn"
+
+# Province 'west_riding_province' () #
+leeds.welsh_language: "Lîds"
+pontefract.welsh_language: "Pontyffract"
+skipton.welsh_language: "Sgiptwn"
+wakefield.welsh_language: "Maes Deffro"
+doncaster.welsh_language: "Doncaister"
+ripon.welsh_language: "Rhipon"
+pennines_04.welsh_language: "Mynyddoedd Penain III"
+pennines_05.welsh_language: "Mynyddoedd Penain IV"
+pennines_06.welsh_language: "Mynyddoedd Penain V"
+
+# Province 'northumberland_province' () #
+newcastle.welsh_language: "Castellnewydd"
+hexham.welsh_language: "Hecsafon"
+alnwick.welsh_language: "Caeraln"
+morpeth.welsh_language: "Morfedd"
+billingham.welsh_language: "Bilingam"
+
+# Province 'cumberland_province' () #
+carlisle.welsh_language: "Caerliwelydd"
+cockermouth.welsh_language: "Aber Cocair"
+penrith.welsh_language: "Penrhith"
+egremont.welsh_language: "Egrymon"
+derwent_water.welsh_language: "Llyn Derwent"
+
+# Province 'westmorland_province' () #
+kendal.welsh_language: "Cendal"
+appleby.welsh_language: "Apelbi"
+
+# Province 'durham_province' () #
+durham.welsh_language: "Dwrham"
+darlington.welsh_language: "Darlintwn"
+stockton.welsh_language: "Stoctwn"
+pennines_03.welsh_language: "Mynyddoedd Penain Dwyrain"
+
+# Province 'cheshire_province' () #
+chester.welsh_language: "Caer"
+macclesfield.welsh_language: "Maesycl"
+nantwich.welsh_language: "Nantwig"
+
+
+## Area 'east_anglia_area' () ##
+# Province 'norfolk_province' () #
+norwich.welsh_language: "Norwych"
+lynn.welsh_language: "Lynn"
+yarmouth.welsh_language: "Aber Iâr"
+thetford.welsh_language: "Tethffordd"
+fakenham.welsh_language: "Ffagenham"
+
+# Province 'essex_province' () #
+colchester.welsh_language: "Caergol"
+chelmsford.welsh_language: "Rhyd Sielm"
+prittlewell.welsh_language: "Ffynnon Pryd"
+hedingham.welsh_language: "Hedigan"
+walden.welsh_language: "Gwaldyn"
+barking.welsh_language: "Bargan"
+
+# Province 'suffolk_province' () #
+ipswich.welsh_language: "Ipswych"
+bury.welsh_language: "Bwrï"
+lowestoft.welsh_language: "Tref Isel"
+lavenham.welsh_language: "Lafanham"
+
+# Province 'cambridgeshire_province' () #
+cambridge.welsh_language: "Caergrawnt"
+ely.welsh_language: "Eli"
+huntingdon.welsh_language: "Dyndwr"
+royston.welsh_language: "Rhoestwn"
+
+# Province 'hertfordshire_province' () #
+hertford.welsh_language: "Herdffordd"
+st_albans.welsh_language: "Sant Alban"
+
+
+## Area 'west_country_area' () ##
+# Province 'cornwall_province' () #
+launceston.welsh_language: "Lanstwn"
+truro.welsh_language: "Truró"
+bodmin.welsh_language: "Bodmin"
+scilly_isles.welsh_language: "Ynysoedd Silli"
+
+# Province 'somerset_province' () #
+wells.welsh_language: "Y Ffynhonnau"
+taunton.welsh_language: "Tantwn"
+bath.welsh_language: "Caerfaddon"
+portishead.welsh_language: "Pen y Porth"
+minehead.welsh_language: "Pen y Mwyn"
+
+# Province 'devon_province' () #
+plymouth.welsh_language: "Aber Plym"
+exeter.welsh_language: "Caerwysg"
+barnstaple.welsh_language: "Barnstabl"
+bideford.welsh_language: "Rhyd Bidi"
+bampton.welsh_language: "Bamptwn"
+okehampton.welsh_language: "Ocatwn"
+dartmoor.welsh_language: "Mynyddoedd Dart"
+
+# Province 'dorset_province' () #
+poole.welsh_language: "Pwyl"
+weymouth.welsh_language: "Bae Gwey"
+dorchester.welsh_language: "Caer Dor"
+shaftesbury.welsh_language: "Ysgafbrï"
+
+# Province 'wiltshire_province' () #
+salisbury.welsh_language: "Caersalis"
+trowbridge.welsh_language: "Pont Trôf"
+chippenham.welsh_language: "Chipenham"
+amesbury.welsh_language: "Amesbri"
+
+# Province 'gloucestershire_province' () #
+bristol.welsh_language: "Bryste"
+gloucester.welsh_language: "Caerloyw"
+cheltenham.welsh_language: "Celtanham"
+cirencester.welsh_language: "Caersiry"
+
+
+## Area 'scottish_highlands_area' () ##
+# Province 'moray_province' () #
+inverness.welsh_language: "Aber Nis"
+urquhart.welsh_language: "Wrchart"
+elgin.welsh_language: "Elgîn"
+badenoch.welsh_language: "Badenog"
+loch_ness.welsh_language: "Llyn Nis"
+cairngorm.welsh_language: "Carn Gorm"
+
+# Province 'ross_province' () #
+dingwall.welsh_language: "Dingwal"
+gairloch.welsh_language: "Gairloch"
+ullapool.welsh_language: "Ullapwl"
+fannichs.welsh_language: "Fannaich"
+
+# Province 'sutherland_province' () #
+dornoch.welsh_language: "Dornach"
+durness.welsh_language: "Durnes"
+tongue.welsh_language: "Tonga"
+thurso.welsh_language: "Thyrsó"
+ben_klibreck.welsh_language: "Bryn Clibrech"
+
+# Province 'argyll_province' () #
+inverary.welsh_language: "Aber Ara"
+oban.welsh_language: "Y Porth"
+cowal.welsh_language: "Cofal"
+lochaber.welsh_language: "Llyn Aber"
+ardtornish.welsh_language: "Ard Tornos"
+kintyre.welsh_language: "Cyntir"
+ben_nevis.welsh_language: "Bryn Nefis"
+carn_eige.welsh_language: "Carn Eig"
+
+
+## Area 'hebrides_area' () ##
+# Province 'outer_hebrides_province' () #
+lewis.welsh_language: "Lewys"
+uist.welsh_language: "Uist"
+harris.welsh_language: "Harais"
+skye.welsh_language: "Sky"
+
+# Province 'inner_hebrides_province' () #
+arran.welsh_language: "Aran"
+mull.welsh_language: "Myl"
+islay.welsh_language: "Ila"
+mann.welsh_language: "Manaw"
+
+
+## Area 'scottish_lowlands_area' () ##
+# Province 'lothian_province' () #
+edinburgh.welsh_language: "Caeredin"
+dunbar.welsh_language: "Dunbar"
+linlithgow.welsh_language: "Lynnlidiog"
+stirling.welsh_language: "Ystirlîn"
+
+# Province 'galloway_province' () #
+stranraer.welsh_language: "Y Stranraer"
+ayr.welsh_language: "Air"
+kirkcudbright.welsh_language: "Llan Cudbri"
+irvine.welsh_language: "Irfyn"
+kenmure.welsh_language: "Cen Mwr"
+dumfries.welsh_language: "Dumffrîs"
+
+# Province 'strathclyde_province' () #
+glasgow.welsh_language: "Glasgó"
+lanark.welsh_language: "Llanerc"
+paisley.welsh_language: "Peisli"
+dumbarton.welsh_language: "Dunbarton"
+loch_lomond.welsh_language: "Llyn Lomhainn"
+
+# Province 'teviotdale_province' () #
+roxburgh.welsh_language: "Rocsbwrch"
+selkirk.welsh_language: "Selcyrch"
+duns.welsh_language: "Dwns"
+berwick.welsh_language: "Berwig"
+
+# Province 'fife_province' () #
+dunfermline.welsh_language: "Dunfermlin"
+st_andrews.welsh_language: "Sant Andreas"
+cupar.welsh_language: "Cwpar"
+
+# Province 'perthshire_province' () #
+perth.welsh_language: "Perth"
+aberfeldy.welsh_language: "Aber Ffelde"
+clackmannan.welsh_language: "Clacmanan"
+scone.welsh_language: "Sgôn"
+strathearn.welsh_language: "Ystrad Érn"
+ochil_hills.welsh_language: "Bryniau Ochil"
+
+# Province 'angus_province' () #
+dundee.welsh_language: "Dundí"
+forfar.welsh_language: "Forfar"
+arbroath.welsh_language: "Arbrôth"
+stonehaven.welsh_language: "Hafn y Cerrig"
+
+# Province 'aberdeenshire_province' () #
+aberdeen.welsh_language: "Aberdîn"
+buchan.welsh_language: "Bwchan"
+banff.welsh_language: "Banff"
+mar.welsh_language: "Mâr"
+inverurie.welsh_language: "Inberwri"
+
+
+## Area 'wales_area' () ##
+# Province 'deheubarth_province' () #
+carmarthen.welsh_language: "Caerfyrddin"
+pembroke.welsh_language: "Penfro"
+fishguard.welsh_language: "Abergwaun"
+kidwelly.welsh_language: "Cydweli"
+cardigan.welsh_language: "Aberteifi"
+aberystwyth.welsh_language: "Aberystwyth"
+dyfi_estuary.welsh_language: "Aber Dyfi"
+
+# Province 'gwynedd_province' () #
+carnarvon.welsh_language: "Caernarfon"
+anglesey.welsh_language: "Môn"
+conwy.welsh_language: "Conwy"
+harlech.welsh_language: "Harlech"
+flint.welsh_language: "Y Fflint"
+penllyn.welsh_language: "Penllyn"
+denbigh.welsh_language: "Dinbych"
+snowdon.welsh_language: "Yr Wyddfa"
+
+# Province 'powys_province' () #
+montgomery.welsh_language: "Trefaldwyn"
+machynlleth.welsh_language: "Machynlleth"
+llangollen.welsh_language: "Llangollen"
+berwyn_range.welsh_language: "Mynyddoedd Berwyn"
+
+# Province 'brecon_province' () #
+brecknock.welsh_language: "Brycheiniog"
+builth.welsh_language: "Buallt"
+radnor.welsh_language: "Maesyfed"
+brecon_beacons.welsh_language: "Bannau Brycheiniog"
+cambrian_mountains.welsh_language: "Mynyddoedd Cambria"
+
+# Province 'glamorgan_province' () #
+cardiff.welsh_language: "Caerdydd"
+monmouth.welsh_language: "Trefynwy"
+newport.welsh_language: "Casnewydd"
+neath.welsh_language: "Castell-nedd"
+swansea.welsh_language: "Abertawe"
+caerphilly.welsh_language: "Caerffili"
+
+
+## Area 'north_sea_area' () ##
+# Province 'holland_coastal_sea_zones_province' () #
+rhine_estuary.welsh_language: "Aber y Rhein"
+scheldt_estuary.welsh_language: "Aber y Scheld"
+holland_coast.welsh_language: "Arfordir yr Iseldiroedd"
+wadden_sea.welsh_language: "Môr Wadden"
+zuiderzee.welsh_language: "Môr Deheuol"
+west_frisian_islands.welsh_language: "Ynysoedd Ffrisa Gorllewinol"
+east_frisian_islands.welsh_language: "Ynysoedd Ffrisa Dwyreiniol"
+
+# Province 'danmark_coastal_sea_zones_province' () #
+emms_estuary.welsh_language: "Aber Ems"
+jade_bay.welsh_language: "Bae Jade"
+north_frisian_islands.welsh_language: "Ynysoedd Ffrisa Gogleddol"
+heligoland_island.welsh_language: "Ynys Helig"
+esperance_bay.welsh_language: "Bae Gobaith"
+ringkobing_fjord.welsh_language: "Ffjord Ringkobing"
+elbe_estuary.welsh_language: "Aber Elbe"
+north_sea2.welsh_language: "Môr y Gogledd 2"
+north_sea3.welsh_language: "Môr y Gogledd 3"
+north_sea6.welsh_language: "Môr y Gogledd 6"
+
+# Province 'mercia_coastal_sea_zones_province' () #
+thames.welsh_language: "Afon Tafwys"
+anglian_coast.welsh_language: "Arfordir Anglia"
+wash.welsh_language: "Bae Wash"
+humber_estuary.welsh_language: "Aber Humber"
+flamborough_head.welsh_language: "Penrhyn Flamborough"
+north_sea1.welsh_language: "Môr y Gogledd 1"
+north_sea7.welsh_language: "Môr y Gogledd 7"
+
+# Province 'scotland_coastal_sea_zones_province' () #
+firth_of_forth.welsh_language: "Moryd Forth"
+moray_firth.welsh_language: "Moryd Mhoraidh"
+northumbrian_coast.welsh_language: "Arfordir Northumbria"
+kinnaird_head.welsh_language: "Pen Kinnaird"
+firth_of_tay.welsh_language: "Moryd Tay"
+north_sea9.welsh_language: "Môr y Gogledd 9"
+
+
+## Area 'english_channel_area' () ##
+# Province 'eastern_channel_province' () #
+solent.welsh_language: "Y Solent"
+seine_bay.welsh_language: "Bae Seine"
+alabaster_coast.welsh_language: "Arfordir Alabastr"
+seven_sisters.welsh_language: "Y Saith Chwaer"
+strait_of_dover.welsh_language: "Culfor Dover"
+
+# Province 'western_channel_province' () #
+lyme_bay.welsh_language: "Bae Lyme"
+lizard_point.welsh_language: "Pen Lizard"
+saint_malo_gulf.welsh_language: "Gwlff Sant Malo"
+breton_sea.welsh_language: "Môr Llydaw"
+
+
+## Area 'hebridean_sea_area' () ##
+# Province 'hebridean_sea_province' () #
+north_uist.welsh_language: "Uibhist Gogleddol"
+south_uist.welsh_language: "Uibhist Ddeheuol"
+little_minch.welsh_language: "Y Minch Bach"
+north_minch.welsh_language: "Y Minch Gogleddol"
+firth_of_lorne.welsh_language: "Moryd Lorne"
+butt_of_lewis.welsh_language: "Pen Lewis"
+north_eastern_atlantic25.welsh_language: "Môr Iwerydd Gogledd-ddwyreiniol 25"
+north_eastern_atlantic26.welsh_language: "Môr Iwerydd Gogledd-ddwyreiniol 26"
+north_eastern_atlantic27.welsh_language: "Môr Iwerydd Gogledd-ddwyreiniol 27"
+
+
+### Region 'ireland_region' () ###
+
+## Area 'leinster_area' () ##
+# Province 'dublin_province' () #
+dublin.welsh_language: "Dulyn"
+fingal.welsh_language: "Ffingal"
+wicklow.welsh_language: "Gwiglo"
+glendalough.welsh_language: "Glyn y Llynnoedd"
+wicklow_mountains.welsh_language: "Mynyddoedd Gwiglo"
+
+# Province 'meath_province' () #
+trim.welsh_language: "Trim"
+kells.welsh_language: "Cels"
+mullingar.welsh_language: "Mylengar"
+longford.welsh_language: "Caerlong"
+ardagh.welsh_language: "Arddach"
+ballymore.welsh_language: "Tref Fawr"
+tullamore.welsh_language: "Tullafawr"
+navan.welsh_language: "Nafan"
+
+# Province 'wexford_province' () #
+wexford.welsh_language: "Gwesffordd"
+new_ross.welsh_language: "Rhos Newydd"
+ferns.welsh_language: "Fferns"
+carlow.welsh_language: "Carlw"
+
+# Province 'kildare_province' () #
+kildare.welsh_language: "Cildara"
+naas.welsh_language: "Nâs"
+athy.welsh_language: "Athi"
+dunamase.welsh_language: "Dunamês"
+daingean.welsh_language: "Y Ddaingen"
+
+# Province 'kilkenny' () #
+kilkenny.welsh_language: "Cilceni"
+cullahill.welsh_language: "Cylhyll"
+
+
+## Area 'ulster_area' () ##
+# Province 'antrim_province' () #
+carrickfergus.welsh_language: "Carreg Ffergus"
+belfast.welsh_language: "Bêl Ffest"
+ballymena.welsh_language: "Balimena"
+ballycastle.welsh_language: "Tre'r Gastell"
+dunluce.welsh_language: "Dunlŵs"
+lough_neagh.welsh_language: "Llyn Neith"
+
+# Province 'down_province' () #
+downpatrick.welsh_language: "Dwn Padrig"
+iveagh.welsh_language: "Ifech"
+newtownards.welsh_language: "Tref Newydd Ards"
+
+# Province 'tyrone_province' () #
+dungannon.welsh_language: "Dinganwn"
+strabane.welsh_language: "Straban"
+clogher.welsh_language: "Clocher"
+enniskillen.welsh_language: "Enyscilyn"
+belcoo.welsh_language: "Belcw"
+lough_erne.welsh_language: "Llyn Erne"
+
+# Province 'derry_province' () #
+derry.welsh_language: "Deri"
+coleraine.welsh_language: "Colrein"
+magherafelt.welsh_language: "Machrafelt"
+
+# Province 'donegal_province' () #
+donegal.welsh_language: "Donygal"
+kilmacrennan.welsh_language: "Cilmacrenan"
+inishowen.welsh_language: "Inis Owain"
+raphoe.welsh_language: "Raffo"
+
+# Province 'oriel_province' () #
+monaghan.welsh_language: "Monachan"
+carrickmacross.welsh_language: "Carregmacros"
+armagh.welsh_language: "Arfach"
+oriel.welsh_language: "Oriél"
+dundalk.welsh_language: "Dundalc"
+drogheda.welsh_language: "Droeda"
+
+
+## Area 'connaught_area' () ##
+# Province 'galway_province' () #
+galway.welsh_language: "Galwfai"
+clifden.welsh_language: "Clifden"
+athenry.welsh_language: "Athenrhi"
+tuam.welsh_language: "Tiwam"
+kilconnell.welsh_language: "Cilconel"
+lough_corrib.welsh_language: "Llyn Corrib"
+lough_derg.welsh_language: "Llyn Derg"
+
+# Province 'roscommon_province' () #
+roscommon.welsh_language: "Rhos Comyn"
+castlereagh.welsh_language: "Castellrhê"
+sligo.welsh_language: "Sligo"
+athlone.welsh_language: "Athlon"
+skreen.welsh_language: "Ysgrîn"
+lough_ree.welsh_language: "Llyn Rí"
+
+# Province 'breifne_province' () #
+dromahair.welsh_language: "Dromahaer"
+leitrim.welsh_language: "Leitrim"
+killeshandra.welsh_language: "Cilysanddra"
+cavan.welsh_language: "Cafan"
+killycolly.welsh_language: "Cilicolï"
+
+# Province 'mayo_province' () #
+castlebar.welsh_language: "Castell Bar"
+burrishoole.welsh_language: "Bwrishŵl"
+erris.welsh_language: "Erys"
+ballaghaderreen.welsh_language: "Baladeryn"
+lough_mask.welsh_language: "Llyn Masg"
+lough_conn.welsh_language: "Llyn Con"
+
+
+## Area 'munster_area' () ##
+# Province 'cork_province' () #
+cork.welsh_language: "Corc"
+fermoy.welsh_language: "Ffermoi"
+kinsale.welsh_language: "Cynsael"
+youghal.welsh_language: "Ioghal"
+
+# Province 'desmond_province' () #
+killarney.welsh_language: "Cilarni"
+carbery.welsh_language: "Carbri"
+kilbrittain.welsh_language: "Cilbritain"
+muskerry.welsh_language: "Mysgeri"
+dunhallow.welsh_language: "Dunhalo"
+
+# Province 'limerick_province' () #
+tralee.welsh_language: "Tralaí"
+dingle.welsh_language: "Dingel"
+limerick.welsh_language: "Limerig"
+killmallock.welsh_language: "Cilmalog"
+adare.welsh_language: "Adâr"
+castleconnell.welsh_language: "Castell Connel"
+
+# Province 'clare_province' () #
+ennis.welsh_language: "Enis"
+bunratty.welsh_language: "Bwnrate"
+moyarta.welsh_language: "Mwyarta"
+
+# Province 'tipperary_province' () #
+tipperary.welsh_language: "Tipperaeri"
+nenagh.welsh_language: "Nena"
+clonmel.welsh_language: "Clonmel"
+cashel.welsh_language: "Casel"
+roscrea.welsh_language: "Rhos Creu"
+moycarn.welsh_language: "Mwycarn"
+
+# Province 'waterford_province' () #
+waterford.welsh_language: "Aberdwfr"
+dungarvan.welsh_language: "Dungarfan"
+carrickbeg.welsh_language: "Carregbeg"
+
+
+## Area 'irish_sea_area' () ##
+# Province 'irish_sea_coastal_sea_zones_province' () #
+dublin_bay.welsh_language: "Bae Dulyn"
+cardigan_bay.welsh_language: "Bae Aberteifi"
+st_georges_channel.welsh_language: "Sianel Sant Siôr"
+liverpool_bay.welsh_language: "Bae Lerpwl"
+
+# Province 'north_irish_sea_coastal_sea_zones_province' () #
+dundalk_bay.welsh_language: "Bae Dundalc"
+solway_firth.welsh_language: "Moryd Solway"
+clyde_firth.welsh_language: "Moryd Clud"
+north_channel.welsh_language: "Sianel y Gogledd"
+
+# Province 'ulster_coastal_sea_zones_province' () #
+clew_bay.welsh_language: "Bae Clíu"
+erris_head.welsh_language: "Pen Erris"
+bloody_foreland.welsh_language: "Penrhyn Coch"
+donegal_bay.welsh_language: "Bae Donygal"
+lough_foyle.welsh_language: "Llyn Foel"
+north_eastern_atlantic28.welsh_language: "Môr Iwerydd Gogledd-ddwyreiniol 28"
+
+# Province 'munster_coastal_sea_zones_province' () #
+shannon_estuary.welsh_language: "Moryd Siônan"
+slea_head.welsh_language: "Pen Slea"
+bantry_bay.welsh_language: "Bae Bantri"
+galway_bay.welsh_language: "Bae Galwfai"
+slyne_head.welsh_language: "Pen Slaen"
+north_eastern_atlantic29.welsh_language: "Môr Iwerydd Gogledd-ddwyreiniol 29"
+north_eastern_atlantic30.welsh_language: "Môr Iwerydd Gogledd-ddwyreiniol 30"
+north_eastern_atlantic31.welsh_language: "Môr Iwerydd Gogledd-ddwyreiniol 31"
+
+
+## Area 'celtic_sea_area' () ##
+# Province 'celtic_sea_province' () #
+ushant.welsh_language: "Ynys Eusa"
+severn.welsh_language: "Hafren"
+mizen_head.welsh_language: "Pen Misyn"
+bude_bay.welsh_language: "Bae Byd"
+milford_haven.welsh_language: "Aberdaugleddau"
+hook_head.welsh_language: "Pen Hŵc"
+cork_harbour.welsh_language: "Porth Corc"
+north_eastern_atlantic32.welsh_language: "Môr Iwerydd Gogledd-ddwyreiniol 32"
+north_eastern_atlantic33.welsh_language: "Môr Iwerydd Gogledd-ddwyreiniol 33"
+north_eastern_atlantic34.welsh_language: "Môr Iwerydd Gogledd-ddwyreiniol 34"

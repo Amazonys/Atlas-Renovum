@@ -1,0 +1,503 @@
+﻿l_english:
+ kuldiga.czech_dialect: "Kuldyga"
+ dundaga.czech_dialect: "Dundava"
+ durbe.czech_dialect: "Durbany"
+ grobina.czech_dialect: "Grobinec"
+ kandava.czech_dialect: "Kandava"
+ piltene.czech_dialect: "Pilten"
+ saldus.czech_dialect: "Salduš"
+ ventspils.czech_dialect: "Venspily"
+ 
+ # Province 'estonia_province' () #
+ tallinn.czech_dialect: "Talín"
+ narva.czech_dialect: "Narva"
+ padise.czech_dialect: "Padis"
+ paide.czech_dialect: "Pajdy"
+ rakvere.czech_dialect: "Rakvary"
+ rapla.czech_dialect: "Rapla"
+ toolse.czech_dialect: "Tulsy"
+ vasknarva.czech_dialect: "Vasknarov"
+ 
+ # Province 'inner_livonia_province' () #
+ cesis.czech_dialect: "Céšín"
+ aluksne.czech_dialect: "Aluksno"
+ gulbene.czech_dialect: "Gulbeny"
+ rauna.czech_dialect: "Rauna"
+ valmiera.czech_dialect: "Valměr"
+ 
+ # Province 'latgalia_province' () #
+ vilaka.czech_dialect: "Vilaky"
+ jekabpils.czech_dialect: "Jakubov"
+ kraslava.czech_dialect: "Kraslava"
+ makonkalns.czech_dialect: "Makonkov"
+ pietalava.czech_dialect: "Pietlava"
+ rezekne.czech_dialect: "Režice"
+ lake_lubans.czech_dialect: "Jezero Lubanské"
+ lake_razna.czech_dialect: "Jezero Rázna"
+ 
+ # Province 'north_livonia_province' () #
+ parnu.czech_dialect: "Pernov"
+ karksi.czech_dialect: "Karksy"
+ poltsamaa.czech_dialect: "Polčany"
+ saarde.czech_dialect: "Sardy"
+ suure_jaani.czech_dialect: "Velký Janov"
+ viljandi.czech_dialect: "Vilandy"
+ lake_vorts.czech_dialect: "Jezero Vortské"
+ 
+ # Province 'rotalia_province' () #
+ hapsal.czech_dialect: "Hapsal"
+ kaina.czech_dialect: "Kájná"
+ kuressaare.czech_dialect: "Kuršary"
+ lihula.czech_dialect: "Lichule"
+ st_martin.czech_dialect: "Hora sv. Martina"
+ valjala.czech_dialect: "Valjala"
+ 
+ # Province 'selonia_province' () #
+ daugavpils.czech_dialect: "Daugopol"
+ aizkraukle.czech_dialect: "Ajskraly"
+ selpils.czech_dialect: "Selpol"
+ 
+ # Province 'semigalia_province' () #
+ jelgava.czech_dialect: "Jelgava"
+ bauska.czech_dialect: "Bousko"
+ dobele.czech_dialect: "Dobel"
+ tukums.czech_dialect: "Tukum"
+ 
+ # Province 'south_livonia_province' () #
+ riga.czech_dialect: "Riga"
+ koknese.czech_dialect: "Kokneš"
+ limbazi.czech_dialect: "Lembaži"
+ salaspils.czech_dialect: "Salaspol"
+ sigulda.czech_dialect: "Sigolda"
+ straupe.czech_dialect: "Straupov"
+ 
+ # Province 'tartu_province' () #
+ tartu.czech_dialect: "Tartov"
+ valka.czech_dialect: "Válka"
+ vastseliina.czech_dialect: "Vastlín"
+ vonnu.czech_dialect: "Vonín"
+ 
+ 
+ ## Area 'central_poland_area' () ##
+ # Province 'dobrzyn_province' () #
+ dobrzyn.czech_dialect: "Dobržín"
+ lipno.czech_dialect: "Lipno"
+ rypin.czech_dialect: "Rypín"
+ 
+ # Province 'kuyavia_province' () #
+ wloclawek.czech_dialect: "Vloclawek"
+ bydgoszcz.czech_dialect: "Bydhošť"
+ inowroclaw.czech_dialect: "Inovroclav"
+ kowal.czech_dialect: "Koval"
+ radziejow.czech_dialect: "Radžev"
+ 
+ # Province 'leczyca_province' () #
+ leczyca.czech_dialect: "Lenčice"
+ lodz.czech_dialect: "Lodž"
+ orlow.czech_dialect: "Orlov"
+ zgierz.czech_dialect: "Zgeř"
+ 
+ # Province 'sieradz_province' () #
+ sieradz.czech_dialect: "Sěrady"
+ brzeznica.czech_dialect: "Březnice"
+ piotrkow_trybunalski.czech_dialect: "Petrkov"
+ radomsko.czech_dialect: "Radomsko"
+ szadek.czech_dialect: "Šadek"
+ turek.czech_dialect: "Turek"
+ tuszyn.czech_dialect: "Tušín"
+ uniejow.czech_dialect: "Unějov"
+ 
+ # Province 'wielun_province' () #
+ wielun.czech_dialect: "Věluň"
+ ostrzeszow.czech_dialect: "Ostřešov"
+ wieruszow.czech_dialect: "Věrušov"
+ 
+ 
+ ## Area 'greater_poland_area' () ##
+ # Province 'gniezno_province' () #
+ gniezno.czech_dialect: "Hnězdno"
+ mogilno.czech_dialect: "Mogilno"
+ trzemeszno.czech_dialect: "Třemešno"
+ 
+ # Province 'kalisz_province' () #
+ kalisz.czech_dialect: "Kališ"
+ ostrow_wielkopolski.czech_dialect: "Ostrov Velkopolský"
+ pleszew.czech_dialect: "Plešev"
+ 
+ # Province 'konin_province' () #
+ konin.czech_dialect: "Konín"
+ kolo.czech_dialect: "Kolo"
+ lad_konin.czech_dialect: "Land Konínský"
+ 
+ # Province 'koscian_province' () #
+ koscian.czech_dialect: "Košťany"
+ babimost.czech_dialect: "Babimošť"
+ grodzisk_wielkopolski.czech_dialect: "Grodzisk Velkopolský"
+ rawicz.czech_dialect: "Ravič"
+ srem.czech_dialect: "Šrem"
+ wschowa.czech_dialect: "Vešchov"
+ 
+ # Province 'naklo_province' () #
+ naklo.czech_dialect: "Naklo"
+ wyrzysk.czech_dialect: "Vyřisk"
+ zlotow.czech_dialect: "Zlatov"
+ 
+ # Province 'poznan_province' () #
+ poznan.czech_dialect: "Poznaň"
+ buk.czech_dialect: "Buk"
+ czarnkow.czech_dialect: "Černkov"
+ miedzyrzecz.czech_dialect: "Meziřeč"
+ oborniki.czech_dialect: "Oborníky"
+ skwierzyna.czech_dialect: "Skvěřín"
+ szamotuly.czech_dialect: "Šamotuly"
+ wielen.czech_dialect: "Věleň"
+ 
+ # Province 'pyzdry_province' () #
+ pyzdry.czech_dialect: "Pyzdrany"
+ kozmin.czech_dialect: "Kozmín"
+ sroda_wielkopolska.czech_dialect: "Středa Velkopolská"
+ 
+ # Province 'arnskrone_province' () #
+ walcz.czech_dialect: "Valč"
+ czaplinek.czech_dialect: "Čaplinek"
+ czlopa.czech_dialect: "Člopa"
+ 
+ # Province 'znin_province' () #
+ znin.czech_dialect: "Žnin"
+ chodziez.czech_dialect: "Hoděž"
+ szubin.czech_dialect: "Šubín"
+ 
+ 
+ ## Area 'lesser_poland_area' () ##
+ # Province 'checiny_province' () #
+ kielce.czech_dialect: "Kělce"
+ opoczno.czech_dialect: "Opočno"
+ przedborz.czech_dialect: "Předbor"
+ zarnow.czech_dialect: "Žarnov"
+ 
+ # Province 'czestochowa_province' () #
+ czestochowa.czech_dialect: "Čenstochová"
+ lelow.czech_dialect: "Lelov"
+ mstow.czech_dialect: "Městov"
+ 
+ # Province 'krakow_province' () #
+ krakow.czech_dialect: "Krakov"
+ chrzanow.czech_dialect: "Chřanov"
+ ksiaz_wielki.czech_dialect: "Kníž Velký"
+ proszowice.czech_dialect: "Prošovice"
+ 
+ # Province 'lublin_province' () #
+ lublin.czech_dialect: "Lublin"
+ janow_lubelski.czech_dialect: "Janov Lubelský"
+ kazimierz.czech_dialect: "Kaziměř"
+ lukow.czech_dialect: "Lukov"
+ lubartow.czech_dialect: "Lubartov"
+ urzedow.czech_dialect: "Urždov"
+ 
+ # Province 'nowy_sacz_province' () #
+ nowy_sacz.czech_dialect: "Nový Sonč"
+ biecz.czech_dialect: "Běč"
+ czchow.czech_dialect: "Čechov"
+ jaslo.czech_dialect: "Jaslo"
+ nowy_targ.czech_dialect: "Nový Targ"
+ 
+ # Province 'pilzno_province' () #
+ pilzno.czech_dialect: "Pilzno"
+ busko_zdroj.czech_dialect: "Busko Zdroj"
+ debica.czech_dialect: "Dembice"
+ tarnow.czech_dialect: "Tarnov"
+ wislica.czech_dialect: "Vislica"
+ 
+ # Province 'radom_province' () #
+ radom.czech_dialect: "Radom"
+ ilza.czech_dialect: "Ilža"
+ stezyca.czech_dialect: "Stenžice"
+ szydlowiec.czech_dialect: "Šidlovec"
+ zwolen.czech_dialect: "Zvolen"
+ 
+ # Province 'sandomierz_province' () #
+ sandomierz.czech_dialect: "Sandoměř"
+ kunow.czech_dialect: "Kunov"
+ opatow.czech_dialect: "Opatov"
+ rudnik_poland.czech_dialect: "Rudník"
+ 
+ # Province 'szczyrzyc_province' () #
+ wieliczka.czech_dialect: "Velička"
+ myslenice.czech_dialect: "Myšlenice"
+ oswiecim.czech_dialect: "Osvětim"
+ zywiec.czech_dialect: "Živec"
+ 
+ 
+ ## Area 'lithuania_area' () ##
+ # Province 'ashmyany_province' () #
+ ashmyany.czech_dialect: "Ašmany"
+ halshany.czech_dialect: "Halšany"
+ hieraniony.czech_dialect: "Heraněny"
+ kreva.czech_dialect: "Kreva"
+ 
+ # Province 'breslauja_province' () #
+ braslaw.czech_dialect: "Braslav"
+ drysvyaty.czech_dialect: "Drisvaty"
+ ezerenai.czech_dialect: "Ezerany"
+ miory.czech_dialect: "Mjory"
+ 
+ # Province 'kaunas_province' () #
+ kaunas.czech_dialect: "Kovno"
+ alytus.czech_dialect: "Alitus"
+ punia.czech_dialect: "Puně"
+ vilkaviskis.czech_dialect: "Vilkavišky"
+ 
+ # Province 'lida_province' () #
+ lida.czech_dialect: "Lida"
+ astrina.czech_dialect: "Astry"
+ eisiskes.czech_dialect: "Ejšišky"
+ shchuchyn.czech_dialect: "Ščuchin"
+ 
+ # Province 'suwalki_province' () #
+ suwalki.czech_dialect: "Suvalky"
+ lipsk.czech_dialect: "Lipsko"
+ veisiejai.czech_dialect: "Vejsy"
+ 
+ # Province 'trakai_province' () #
+ trakai.czech_dialect: "Troky"
+ lazdijai.czech_dialect: "Lazdějov"
+ onushkis.czech_dialect: "Onuškov"
+ merkine.czech_dialect: "Merkině"
+ 
+ # Province 'svir_province' () #
+ svir.czech_dialect: "Svir"
+ dokshytsy.czech_dialect: "Dokšice"
+ hlybokaye.czech_dialect: "Hluboke"
+ myadzyel.czech_dialect: "Mědel"
+ svencionys.czech_dialect: "Švenčany"
+ vileyka.czech_dialect: "Vilejka"
+ lake_narach.czech_dialect: "Jezero Naračské"
+ 
+ # Province 'upyte_province' () #
+ upyte.czech_dialect: "Upyty"
+ birzai.czech_dialect: "Biržov"
+ linkava.czech_dialect: "Linkava"
+ panevezys.czech_dialect: "Panevežy"
+ pasvalys.czech_dialect: "Pasvaly"
+ 
+ # Province 'vilkmerge_province' () #
+ vilkmerge.czech_dialect: "Vilkoměř"
+ anyksciai.czech_dialect: "Anykšov"
+ maleisiai.czech_dialect: "Malejš"
+ rokiskis.czech_dialect: "Rokišky"
+ utena.czech_dialect: "Utena"
+ 
+ # Province 'vilnius_province' () #
+ vilnius.czech_dialect: "Vilno"
+ giedraiciai.czech_dialect: "Giedroč"
+ kernave.czech_dialect: "Kernava"
+ medininkai_vilna.czech_dialect: "Mediníky"
+ 
+ 
+ ## Area 'mazovia_area' () ##
+ # Province 'ciechanow_province' () #
+ ciechanow.czech_dialect: "Cěchanov"
+ przasnysz.czech_dialect: "Přasnyš"
+ rozan.czech_dialect: "Ružan"
+ zakroczym.czech_dialect: "Zakročim"
+ 
+ # Province 'czersk_province' () #
+ czersk.czech_dialect: "Čersko"
+ garwolin.czech_dialect: "Garvolín"
+ grojec.czech_dialect: "Grojec"
+ liw.czech_dialect: "Lív"
+ 
+ # Province 'lomza_province' () #
+ lomza.czech_dialect: "Lomža"
+ kolno.czech_dialect: "Kolno"
+ ostroleka.czech_dialect: "Ostrolenka"
+ wizna.czech_dialect: "Vězin"
+ zambrow.czech_dialect: "Zambruv"
+ 
+ # Province 'plock_province' () #
+ plock.czech_dialect: "Plock"
+ plonsk.czech_dialect: "Ploňsk"
+ sierpc.czech_dialect: "Sěrpec"
+ szrensk.czech_dialect: "Šrensk"
+ 
+ # Province 'podlasie_province' () #
+ drohiczyn.czech_dialect: "Drohčin"
+ bielsk_podlaski.czech_dialect: "Bělsk Podlaský"
+ goniadz.czech_dialect: "Gonědz"
+ mielnik.czech_dialect: "Mělník"
+ sokolow.czech_dialect: "Sokolov"
+ suraz.czech_dialect: "Suraž"
+ tykocin.czech_dialect: "Tykocin"
+ 
+ # Province 'rawa_province' () #
+ rawa.czech_dialect: "Rava"
+ biala_rawska.czech_dialect: "Bílá Rawska"
+ gabin.czech_dialect: "Gabín"
+ gostynin.czech_dialect: "Gostynín"
+ sochaczew.czech_dialect: "Sochačev"
+ 
+ # Province 'warsaw_province' () #
+ warsaw.czech_dialect: "Varšava"
+ kamieniec.czech_dialect: "Kaměnec"
+ nur.czech_dialect: "Nur"
+ tarczyn.czech_dialect: "Tarčín"
+ 
+ 
+ ## Area 'prussia_area' () ##
+ # Province 'chelmno_province' () #
+ chelmno.czech_dialect: "Helmno"
+ brodnica.czech_dialect: "Brodnice"
+ grudziadz.czech_dialect: "Grudenc"
+ lubawa.czech_dialect: "Lubava"
+ torun.czech_dialect: "Toruň"
+ 
+ # Province 'danzig_province' () #
+ gdansk.czech_dialect: "Gdaňsk"
+ gniew.czech_dialect: "Gněv"
+ koscierzyna.czech_dialect: "Koštěřín"
+ mirochowo.czech_dialect: "Mirochov"
+ puck.czech_dialect: "Pucek"
+ tczew.czech_dialect: "Tčev"
+ 
+ # Province 'lithuania_minor_province' () #
+ tilsit.czech_dialect: "Tilž"
+ gumbinnen.czech_dialect: "Gumbinov"
+ labiau.czech_dialect: "Labjov"
+ memel.czech_dialect: "Memel"
+ ragnit.czech_dialect: "Ragnit"
+ windenburg.czech_dialect: "Vindenburk"
+ curonian_lagoon.czech_dialect: "Kuršská laguna"
+ 
+ # Province 'lower_prussia_province' () #
+ konigsberg.czech_dialect: "Králevec"
+ balga.czech_dialect: "Balga"
+ brandenburg_prussia.czech_dialect: "Branibor Pruský"
+ fischhausen.czech_dialect: "Fišhauzen"
+ gerdauen.czech_dialect: "Gerdavy"
+ insterburg.czech_dialect: "Insterburk"
+ wehlau.czech_dialect: "Vejlov"
+ 
+ # Province 'masuria_province' () #
+ elk.czech_dialect: "Elkov"
+ barten.czech_dialect: "Bartenov"
+ nibork.czech_dialect: "Nibork"
+ ostroda.czech_dialect: "Ostrod"
+ ryn_poland.czech_dialect: "Ryn"
+ szczytno.czech_dialect: "Ščytno"
+ wegorzewo.czech_dialect: "Vengořev"
+ lake_mamry.czech_dialect: "Jezero Mamry"
+ lake_sniardwy.czech_dialect: "Jezero Šňardvy"
+ 
+ # Province 'tuchola_province' () #
+ tuchola.czech_dialect: "Tuchola"
+ bialobork.czech_dialect: "Běloborek"
+ czluchow.czech_dialect: "Čluchov"
+ nowe.czech_dialect: "Nové"
+ swiecie.czech_dialect: "Švětě"
+ 
+ # Province 'upper_prussia_province' () #
+ malbork.czech_dialect: "Malbor"
+ dzierzgon.czech_dialect: "Děřgon"
+ elblag.czech_dialect: "Elblong"
+ kwidzyn.czech_dialect: "Kvidzín"
+ morag.czech_dialect: "Morong"
+ 
+ # Province 'warmia_province' () #
+ lidzbark.czech_dialect: "Lidzbark"
+ frombork.czech_dialect: "Frombork"
+ olsztyn.czech_dialect: "Olštýn"
+ 
+ 
+ ## Area 'samogitia_area' () ##
+ # Province 'medininkai_province' () #
+ medininkai.czech_dialect: "Mediník"
+ palanga.czech_dialect: "Palanga"
+ rietavas.czech_dialect: "Rětavy"
+ silale.czech_dialect: "Šilaly"
+ skuodas.czech_dialect: "Skovdas"
+ taurage.czech_dialect: "Tauragy"
+ 
+ # Province 'raseiniai_province' () #
+ raseiniai.czech_dialect: "Rasejny"
+ jurbarkas.czech_dialect: "Jurbark"
+ kedainiai.czech_dialect: "Kedajny"
+ panemune.czech_dialect: "Panemuna"
+ tendziogala.czech_dialect: "Tendžgala"
+ 
+ # Province 'siauliai_province' () #
+ siauliai.czech_dialect: "Šiaulov"
+ kraziai.czech_dialect: "Kražany"
+ mazeikiai.czech_dialect: "Mažejky"
+ papile.czech_dialect: "Papile"
+ zagare.czech_dialect: "Žagary"
+ 
+ 
+ ## Area 'silesia_area' () ##
+ # Province 'glogow_province' () #
+ glogow.czech_dialect: "Hlohov"
+ gora.czech_dialect: "Hora"
+ kozuchow.czech_dialect: "Kožuchov"
+ szprotawa.czech_dialect: "Šprotava"
+ zielona_gora.czech_dialect: "Zelená Hora"
+ 
+ # Province 'legnica_province' () #
+ legnica.czech_dialect: "Lehnice"
+ boleslawiec.czech_dialect: "Boleslavěc"
+ jawor.czech_dialect: "Javor"
+ wolow.czech_dialect: "Volov"
+ zlotoryja.czech_dialect: "Zlotoryje"
+ 
+ # Province 'olesnica_province' () #
+ olesnica.czech_dialect: "Olešnice"
+ milicz.czech_dialect: "Milič"
+ namyslow.czech_dialect: "Namyslov"
+ sycow.czech_dialect: "Sycov"
+ trzebnica.czech_dialect: "Třebnice"
+ 
+ # Province 'opavsko_province' () #
+ opava.czech_dialect: "Opava"
+ fryvaldov.czech_dialect: "Fryvaldov"
+ glubczyce.czech_dialect: "Hlubčice"
+ hlucin.czech_dialect: "Hlučín"
+ krnov.czech_dialect: "Krnov"
+ 
+ # Province 'opole_province' () #
+ opole.czech_dialect: "Opolí"
+ kluczbork.czech_dialect: "Klucbork"
+ lubliniec.czech_dialect: "Lubliněc"
+ olesno.czech_dialect: "Olešno"
+ prudnik.czech_dialect: "Prudník"
+ strzelce_opolskie.czech_dialect: "Střelce Opolské"
+ 
+ # Province 'swidnica_province' () #
+ swidnica.czech_dialect: "Svídnice"
+ kamienna_gora.czech_dialect: "Kamenná Hora"
+ rychbach.czech_dialect: "Rychbach"
+ niemcza.czech_dialect: "Němča"
+ ziebice.czech_dialect: "Zembice"
+ 
+ # Province 'tesin_province' () #
+ tesin.czech_dialect: "Těšín"
+ bielsko.czech_dialect: "Bělsk"
+ bytom.czech_dialect: "Bytom"
+ kozle.czech_dialect: "Kozle"
+ pszczyna.czech_dialect: "Pščina"
+ raciborz.czech_dialect: "Ratiboř"
+ siewierz.czech_dialect: "Seveř"
+ toszek.czech_dialect: "Tošek"
+ 
+ # Province 'wroclaw_province' () #
+ wroclaw.czech_dialect: "Vratislav"
+ brzeg.czech_dialect: "Břeh"
+ grodkow.czech_dialect: "Grodkov"
+ nysa.czech_dialect: "Nisa"
+ niemodlin.czech_dialect: "Němodlín"
+ olawa.czech_dialect: "Olava"
+ sroda_slaska.czech_dialect: "Středa Slezská"
+ 
+ # Province 'zagan_province' () #
+ zagan.czech_dialect: "Žagan"
+ krosno_odrzanskie.czech_dialect: "Krosno Održanské"
+ sulechow.czech_dialect: "Sulechov"
+ zary.czech_dialect: "Žary"
+ 

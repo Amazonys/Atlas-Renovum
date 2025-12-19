@@ -20,6 +20,7 @@ french = {
 		poitevin = kindred
 		saintongeais = kindred
 		walloon = kindred
+		anglois = kindred
 	}
 	
 	culture_groups = {
@@ -121,6 +122,7 @@ picard = {
 		poitevin = kindred
 		saintongeais = kindred
 		walloon = kindred
+		anglois = kindred
 	}
 	
 	culture_groups = {
@@ -329,6 +331,7 @@ angevin = {
 		poitevin = kindred
 		saintongeais = kindred
 		walloon = kindred
+		anglois = kindred
 	}
 	
 	culture_groups = {
@@ -504,6 +507,7 @@ norman = {
 		poitevin = kindred
 		saintongeais = kindred
 		walloon = kindred
+		anglois = kindred
 	}
 	
 	culture_groups = {

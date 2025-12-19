@@ -1,0 +1,628 @@
+﻿l_english:
+### Region 'scandinavian_region' () ###
+
+## Area 'svealand_area' () ##
+# Province 'uppland_province' () #
+stockholm.finnish_dialect: "Tukholma"
+norrtalje.finnish_dialect: "Pohjatelja"
+enkoping.finnish_dialect: "Enkakaupunki"
+uppsala.finnish_dialect: "Upsala"
+kastelholm.finnish_dialect: "Linnasaari"
+tierp.finnish_dialect: "Tierppi"
+heby.finnish_dialect: "Heipii"
+
+# Province 'sodermanland_province' () #
+nykoping.finnish_dialect: "Uusikylä"
+kolmarden.finnish_dialect: "Kolmametsä"
+strangnas.finnish_dialect: "Jänneniemi"
+oppunda.finnish_dialect: "Oppunta"
+sodertalje.finnish_dialect: "Etelätelja"
+
+# Province 'vastmanland_province' () #
+arboga.finnish_dialect: "Koukkujoki"
+vasteras.finnish_dialect: "Länsijoki"
+nora.finnish_dialect: "Pohjankylä"
+sala.finnish_dialect: "Saala"
+skinskatteberg.finnish_dialect: "Verovuori"
+linde.finnish_dialect: "Lehmuskylä"
+grythyttan.finnish_dialect: "Patarinne"
+
+# Province 'nerike_province' () #
+orebro.finnish_dialect: "Sorasilta"
+riseberga.finnish_dialect: "Riisivuori"
+goksholm.finnish_dialect: "Käkisaari"
+
+# Province 'varmland_province' () #
+varnum.finnish_dialect: "Varnunmaa"
+tingvalla.finnish_dialect: "Käräjäniitty"
+nas.finnish_dialect: "Niemi"
+nordmark.finnish_dialect: "Pohjamaa"
+gillberg.finnish_dialect: "Rotkovuori"
+farnebo.finnish_dialect: "Heikinvainio"
+fryksdal.finnish_dialect: "Frykilaakso"
+josse.finnish_dialect: "Jossi"
+
+# Province 'dalarna_province' () #
+avesta.finnish_dialect: "Avesta"
+falun.finnish_dialect: "Faaluni"
+leksand.finnish_dialect: "Leikkaranta"
+grange.finnish_dialect: "Grankylä"
+malung.finnish_dialect: "Maaluunki"
+mora.finnish_dialect: "Moora"
+idre.finnish_dialect: "Iiteri"
+hedemora.finnish_dialect: "Nummimäki"
+orsa.finnish_dialect: "Orsa"
+soderbarke.finnish_dialect: "Eteläparkku"
+stora_tuna.finnish_dialect: "Iso-Tuuna"
+floda.finnish_dialect: "Vuotla"
+
+# Province 'gastrikland_province' () #
+gefle.finnish_dialect: "Käfle"
+hedesunda.finnish_dialect: "Nummensalmi"
+hamrange.finnish_dialect: "Punaheina"
+ockelbo.finnish_dialect: "Oikkelakylä"
+
+
+## Area 'gotaland_area' () ##
+# Province 'ostergotland_province' () #
+linkoping.finnish_dialect: "Linkokaupunki"
+soderkoping.finnish_dialect: "Eteläkaupunki"
+norrkoping.finnish_dialect: "Pohjakaupunki"
+alvastra.finnish_dialect: "Alvankartano"
+vadstena.finnish_dialect: "Vadstenä"
+ 
+# Province 'ostra_smaland_province' () #
+kalmar.finnish_dialect: "Kalmari"
+tjust.finnish_dialect: "Tjusti"
+sevede.finnish_dialect: "Sevede"
+handbord.finnish_dialect: "Käsisilta"
+kinda.finnish_dialect: "Kinda"
+jonkoping.finnish_dialect: "Joonikaupunki"
+oland.finnish_dialect: "Öölanti"
+
+# Province 'vastergotland_province' () #
+skara.finnish_dialect: "Skaara"
+hjo.finnish_dialect: "Juo"
+tiveden.finnish_dialect: "Tiivemetsä"
+vartofta.finnish_dialect: "Vartofta"
+utlandet.finnish_dialect: "Ulkomaa"
+lodose.finnish_dialect: "Loodosa"
+ekholm.finnish_dialect: "Tammisaari"
+falkoping.finnish_dialect: "Haukkakylä"
+allingsas.finnish_dialect: "Allinkoski"
+bogesund.finnish_dialect: "Pohjasalmi"
+lidkoping.finnish_dialect: "Liitakaupunki"
+skene.finnish_dialect: "Skeene"
+
+# Province 'tioharad_province' () #
+vaxjo.finnish_dialect: "Väksjö"
+vallsjo.finnish_dialect: "Vallijärvi"
+vetlanda.finnish_dialect: "Vetola"
+albo.finnish_dialect: "Alpokylä"
+konga.finnish_dialect: "Konga"
+uppvidinge.finnish_dialect: "Ylämetsä"
+ljungby.finnish_dialect: "Ljunginkylä"
+trollaborg.finnish_dialect: "Peikkolinna"
+waestbo.finnish_dialect: "Länsipuoli"
+
+# Province 'gotland_province' () #
+slite.finnish_dialect: "Sliitti"
+visby.finnish_dialect: "Viisupii"
+hoborg.finnish_dialect: "Kalliolinna"
+
+# Province 'dalsland_province' () #
+dalaborg.finnish_dialect: "Laaksolinna"
+amal.finnish_dialect: "Aamala"
+vedbo.finnish_dialect: "Vetokylä"
+
+
+## Area 'denmark_area' () ##
+# Province 'sonderjylland_province' () #
+ribe.finnish_dialect: "Riipa"
+haderslev.finnish_dialect: "Haaderslevo"
+aabenraa.finnish_dialect: "Aabenraa"
+tonder.finnish_dialect: "Tönneri"
+
+# Province 'norrejylland_province' () #
+randers.finnish_dialect: "Randers"
+viborg.finnish_dialect: "Viipurinlinna"
+aalborg.finnish_dialect: "Aalpori"
+ars.finnish_dialect: "Aarsu"
+
+# Province 'western_jutland_province' () #
+bolling.finnish_dialect: "Boolinki"
+ringkobing.finnish_dialect: "Rinköpingi"
+holstebro_lundenes.finnish_dialect: "Holstebrosilta"
+varde.finnish_dialect: "Vaarte"
+
+# Province 'eastern_jutland_province' () #
+kolding.finnish_dialect: "Koldinki"
+aarhus.finnish_dialect: "Aarhuusi"
+grindsted.finnish_dialect: "Grindstedi"
+silkeborg.finnish_dialect: "Silkkilinna"
+kalo.finnish_dialect: "Kaalo"
+
+# Province 'vendsyssel_thy_province' () #
+thisted.finnish_dialect: "Tisti"
+skagen.finnish_dialect: "Saakenniemi"
+hjorring.finnish_dialect: "Jöörinki"
+
+# Province 'zealand_province' () #
+roskilde.finnish_dialect: "Rooskila"
+ringsted.finnish_dialect: "Rengaskylä"
+kalundborg.finnish_dialect: "Kalunalinna"
+helsingor.finnish_dialect: "Helsingör"
+hammershus.finnish_dialect: "Vasaralinna"
+kobenhavn.finnish_dialect: "Kööpenhamina"
+slagelse.finnish_dialect: "Slaakela"
+vordingborg.finnish_dialect: "Vuorttilinna"
+
+# Province 'funen_province' () #
+odense.finnish_dialect: "Odense"
+navskov.finnish_dialect: "Naavikko"
+falster.finnish_dialect: "Faallista"
+assens.finnish_dialect: "Aasensi"
+svendborg.finnish_dialect: "Svenlinna"
+
+# Province 'slesvig_province' () #
+slesvig.finnish_dialect: "Sleesvigi"
+flensburg.finnish_dialect: "Flenspori"
+eckernforde.finnish_dialect: "Ekkerenfurta"
+husum.finnish_dialect: "Huusuma"
+
+
+## Area 'skaneland_area' () ##
+# Province 'malmohus_province' () #
+helsingborg.finnish_dialect: "Helsinglinna"
+lund.finnish_dialect: "Lunda"
+malmo.finnish_dialect: "Malmö"
+
+# Province 'gonge_province' () #
+gladsax.finnish_dialect: "Ilokirves"
+osby.finnish_dialect: "Osby"
+asbo.finnish_dialect: "Aasby"
+
+# Province 'halland_province' () #
+varberg.finnish_dialect: "Vuorivuori"
+laholm.finnish_dialect: "Laasaari"
+halmstad.finnish_dialect: "Halminkaupunki"
+kungsbacka.finnish_dialect: "Kuninkaanperä"
+
+# Province 'blekinge_province' () #
+ronneby.finnish_dialect: "Ronnepää"
+bregne.finnish_dialect: "Saniaismäki"
+solvesborg.finnish_dialect: "Soolanlinna"
+
+
+## Area 'norrland_area' () ##
+# Province 'halsingland_province' () #
+hudiksvall.finnish_dialect: "Huudiksenvalta"
+alfta.finnish_dialect: "Alftalahti"
+soderala.finnish_dialect: "Etelälahti"
+hogdal.finnish_dialect: "Korkealaakso"
+havero.finnish_dialect: "Haveroniemi"
+selanger.finnish_dialect: "Selankoski"
+
+# Province 'angermanland_province' () #
+harnosand.finnish_dialect: "Haarnosaanti"
+solatunum.finnish_dialect: "Sulaniemi"
+ramsele.finnish_dialect: "Raamijoki"
+sjalevad.finnish_dialect: "Sielulahti"
+anundsjo.finnish_dialect: "Anunsjoki"
+grundsunda.finnish_dialect: "Grundinsalmi"
+
+# Province 'vasterbotten_province' () #
+umea.finnish_dialect: "Uumaja"
+vindeln.finnish_dialect: "Viinteli"
+skelleftea.finnish_dialect: "Skellefti"
+tornea.finnish_dialect: "Tornio"
+bygdea.finnish_dialect: "Byyke"
+pitea.finnish_dialect: "Piitime"
+lulea.finnish_dialect: "Luulaja"
+ranea.finnish_dialect: "Raanaa"
+gratesk.finnish_dialect: "Kraateski"
+hienatiemi.finnish_dialect: "Hienaniemi"
+branna.finnish_dialect: "Palanlahti"
+byske.finnish_dialect: "Byskijoki"
+bodebyn.finnish_dialect: "Boodikylä"
+alvsby.finnish_dialect: "Älvinkylä"
+kiemi.finnish_dialect: "Kiemi"
+pajala.finnish_dialect: "Pajala"
+kittila.finnish_dialect: "Kittilä"
+rovaniemi.finnish_dialect: "Rovaniemi"
+
+# Province 'norra_osterbotten_province' () #
+simo.finnish_dialect: "Simo"
+uleaborg.finnish_dialect: "Oulu"
+brahestad.finnish_dialect: "Raahe"
+utajarvi.finnish_dialect: "Utajärvi"
+siikalatva.finnish_dialect: "Siikalatva"
+taivalkoski.finnish_dialect: "Taivalkoski"
+kuivaniemi.finnish_dialect: "Kuivaniemi"
+ranua.finnish_dialect: "Ranua"
+pudasjarvi.finnish_dialect: "Pudasjärvi"
+posio.finnish_dialect: "Posio"
+
+# Province 'ume_lappmark_province' () #
+asele.finnish_dialect: "Aasele"
+lycksele.finnish_dialect: "Lyksele"
+arvidsjaur.finnish_dialect: "Arvitsijärvi"
+volgsjo.finnish_dialect: "Volkijärvi"
+stensele.finnish_dialect: "Kiviselkä"
+tarna.finnish_dialect: "Tärnivaara"
+ortrask.finnish_dialect: "Ortajärvi"
+
+# Province 'pite_lappmark_province' () #
+akkajaur.finnish_dialect: "Akkajärvi"
+arjeplog.finnish_dialect: "Aarijapuoli"
+silbojock.finnish_dialect: "Silbajoki"
+sorsele.finnish_dialect: "Sorselahti"
+
+# Province 'lule_lappmark_province' () #
+socksjock.finnish_dialect: "Sukkajoki"
+jokkmokk.finnish_dialect: "Jokimukka"
+kvikkjock.finnish_dialect: "Kvikjoki"
+porjus.finnish_dialect: "Porsa"
+gellivaara.finnish_dialect: "Jällivaara"
+sarek.finnish_dialect: "Saarekallio"
+
+# Province 'torne_lappmark_province' () #
+nikkaluokta.finnish_dialect: "Nikkaluokta"
+kasivarren.finnish_dialect: "Käsivarsi"
+abisko.finnish_dialect: "Aapiskoski"
+raunala.finnish_dialect: "Raunala"
+mourionska.finnish_dialect: "Muurijoki"
+enontakis.finnish_dialect: "Enontekis"
+nunnanen.finnish_dialect: "Nunnanen"
+korpilombo.finnish_dialect: "Korpilompolo"
+juckasjarvi.finnish_dialect: "Jukkasjärvi"
+
+# Province 'kemi_lappmark_province' () #
+salla.finnish_dialect: "Salla"
+kemijarvi.finnish_dialect: "Kemijärvi"
+korvala.finnish_dialect: "Korvala"
+enare.finnish_dialect: "Inari"
+sodankyla.finnish_dialect: "Sodankylä"
+savukoski.finnish_dialect: "Savukoski"
+ivalo.finnish_dialect: "Ivalo"
+utsjoki.finnish_dialect: "Utsjoki"
+
+# Province 'kajanaland_province' () #
+paltamo.finnish_dialect: "Paltamo"
+kajana.finnish_dialect: "Kajaani"
+sotkamo.finnish_dialect: "Sotkamo"
+kuhmo.finnish_dialect: "Kuhmo"
+suomussalmi.finnish_dialect: "Suomussalmi"
+kuusamo.finnish_dialect: "Kuusamo"
+
+
+## Area 'finland_area' () ##
+# Province 'sodra_osterbotten_province' () #
+korsholm.finnish_dialect: "Mustasaari"
+koppo.finnish_dialect: "Korppoo"
+pedersore.finnish_dialect: "Pietarsaari"
+storkyro.finnish_dialect: "Isokyrö"
+karleby.finnish_dialect: "Kokkola"
+kaustby.finnish_dialect: "Kaustinen"
+lappo.finnish_dialect: "Lappo"
+vora.finnish_dialect: "Vöyri"
+
+# Province 'finland_province' () #
+abo.finnish_dialect: "Turku"
+nystad.finnish_dialect: "Uusikaupunki"
+poytis.finnish_dialect: "Pöytyä"
+sauvo.finnish_dialect: "Sauvo"
+
+# Province 'nyland_province' () #
+helsinge.finnish_dialect: "Helsinki"
+ekenas.finnish_dialect: "Tammisaari"
+sjundea.finnish_dialect: "Siuntio"
+porvoo.finnish_dialect: "Porvoo"
+liljendal.finnish_dialect: "Liljendal"
+
+# Province 'satakunta_province' () #
+ikalis.finnish_dialect: "Ikaalinen"
+raumo.finnish_dialect: "Rauma"
+bjorneborg.finnish_dialect: "Pori"
+hvittis.finnish_dialect: "Huittinen"
+sastmola.finnish_dialect: "Merikarvia"
+birkala.finnish_dialect: "Pirkkala"
+sastamala.finnish_dialect: "Sastamala"
+orivesi.finnish_dialect: "Orivesi"
+
+# Province 'tavastland_province' () #
+hollola.finnish_dialect: "Hollola"
+lohja.finnish_dialect: "Lohja"
+tavastehus.finnish_dialect: "Hämeenlinna"
+janakkala.finnish_dialect: "Janakkala"
+forssa.finnish_dialect: "Forssa"
+itis.finnish_dialect: "Iitti"
+jyvaskyla.finnish_dialect: "Jyväskylä"
+jamsa.finnish_dialect: "Jämsä"
+saarijarvi.finnish_dialect: "Saarijärvi"
+viitasaari.finnish_dialect: "Viitasaari"
+laukas.finnish_dialect: "Laukaa"
+sysma.finnish_dialect: "Sysmä"
+
+# Province 'savolax_province' () #
+mikkeli.finnish_dialect: "Mikkeli"
+olofsborg.finnish_dialect: "Olavinlinna"
+heinola.finnish_dialect: "Heinola"
+kangasniemi.finnish_dialect: "Kangasniemi"
+ristiina.finnish_dialect: "Ristiina"
+joroinen.finnish_dialect: "Joroinen"
+kuopio.finnish_dialect: "Kuopio"
+idensalmi.finnish_dialect: "Iisalmi"
+rautavaara.finnish_dialect: "Rautavaara"
+savonranta.finnish_dialect: "Savonranta"
+
+# Province 'vyborg_province' () #
+kymi_fi.finnish_dialect: "Kymi"
+vyborg.finnish_dialect: "Viipuri"
+villmanstrand.finnish_dialect: "Lappeenranta"
+veckelax.finnish_dialect: "Vehkalahti"
+elimaki.finnish_dialect: "Elimäki"
+vederlax.finnish_dialect: "Virolahti"
+valkeasaari.finnish_dialect: "Valkeasaari"
+kyyrola.finnish_dialect: "Kyyroila"
+beryozovskoye.finnish_dialect: "Koivulahti"
+heinjoki.finnish_dialect: "Heinjoki"
+jaskis.finnish_dialect: "Jääski"
+
+
+## Area 'syd_norge_area' () ##
+# Province 'bohus_province' () #
+konghalla.finnish_dialect: "Kuninkaanhalla"
+uddevalla.finnish_dialect: "Utaniitty"
+stromstad.finnish_dialect: "Virtakaupunki"
+hornborg.finnish_dialect: "Sarvilinna"
+
+# Province 'ostfold_province' () #
+borg.finnish_dialect: "Linna"
+halden.finnish_dialect: "Haldeni"
+moss.finnish_dialect: "Sammalkylä"
+trogstad.finnish_dialect: "Truukinkylä"
+
+# Province 'vestfold_province' () #
+tonsberg.finnish_dialect: "Tönsivuori"
+skien.finnish_dialect: "Skii"
+sande.finnish_dialect: "Hiekankylä"
+grenland.finnish_dialect: "Oksamaa"
+
+# Province 'rogaland_province' () #
+stavanger.finnish_dialect: "Stavaankeri"
+ryfylke.finnish_dialect: "Ryfyylki"
+suledal.finnish_dialect: "Sulelaakso"
+haugalandet.finnish_dialect: "Haukamaa"
+jaeren.finnish_dialect: "Jäärenniemi"
+
+# Province 'agder_province' () #
+flekkefjord.finnish_dialect: "Pilkkivuono"
+sirudal.finnish_dialect: "Siirilaakso"
+otredal.finnish_dialect: "Otrilaakso"
+lindesnes.finnish_dialect: "Lindanniemi"
+oddernes.finnish_dialect: "Otanniemi"
+oyestad.finnish_dialect: "Saarelaakso"
+sondeled.finnish_dialect: "Sondelehto"
+amli.finnish_dialect: "Äimälahti"
+
+# Province 'buskerud_province' () #
+kongsberg.finnish_dialect: "Kuninkuudenmäki"
+ringerike.finnish_dialect: "Rinkijärvi"
+hallingdal.finnish_dialect: "Hallinlaakso"
+numedal.finnish_dialect: "Numelaakso"
+sigdal.finnish_dialect: "Siikalaakso"
+bragernes.finnish_dialect: "Pruukinniemi"
+flesberg.finnish_dialect: "Lihaavuori"
+
+# Province 'bergenhus_province' () #
+bergen.finnish_dialect: "Björgvin"
+fana.finnish_dialect: "Faanalaakso"
+kvinnherad.finnish_dialect: "Kvinnari"
+ullensvang.finnish_dialect: "Ullanvanki"
+moster.finnish_dialect: "Mostinsaari"
+eidfjord.finnish_dialect: "Kannasvuono"
+nordhordland.finnish_dialect: "Pohjahorda"
+voss.finnish_dialect: "Vossi"
+
+# Province 'sogn_province' () #
+eid.finnish_dialect: "Kannas"
+stryn.finnish_dialect: "Stryni"
+sunnfjord.finnish_dialect: "Päivävuono"
+sogndal.finnish_dialect: "Sognilaakso"
+aurland.finnish_dialect: "Auramaa"
+vik.finnish_dialect: "Lahtiniemi"
+laerdal.finnish_dialect: "Leiralaakso"
+
+# Province 'akershus_province' () #
+oslo.finnish_dialect: "Oslo"
+ski.finnish_dialect: "Ski"
+eidsvoll.finnish_dialect: "Eidsvalli"
+
+# Province 'oppland_province' () #
+vardal.finnish_dialect: "Vaartalaakso"
+lillehammer.finnish_dialect: "Pikkuraspi"
+valdres.finnish_dialect: "Valdres"
+otta.finnish_dialect: "Otta"
+imsdalen.finnish_dialect: "Imsilaakso"
+hedmarksvidda.finnish_dialect: "Hedmarkinnummi"
+
+# Province 'hedmark_province' () #
+hamar.finnish_dialect: "Haamari"
+kongsvinger.finnish_dialect: "Kooninkainvinkeri"
+elverum.finnish_dialect: "Joenselkä"
+glommadal.finnish_dialect: "Glommilaakso"
+trysil.finnish_dialect: "Triisilä"
+amot.finnish_dialect: "Aamojoki"
+tynset.finnish_dialect: "Tyynsöytä"
+
+
+## Area 'nord_norge_area' () ##
+# Province 'sor_trondelag_province' () #
+nidaros.finnish_dialect: "Nidarjoki"
+roros.finnish_dialect: "Röörösi"
+stjordal.finnish_dialect: "Stjörlaakso"
+oppdal.finnish_dialect: "Oppilaakso"
+orkdal.finnish_dialect: "Orkilaakso"
+skaun.finnish_dialect: "Skauni"
+storen.finnish_dialect: "Stöörinkylä"
+holtalen.finnish_dialect: "Holtilaakso"
+meraker.finnish_dialect: "Meerakoski"
+alvdal.finnish_dialect: "Halvilaakso"
+
+# Province 'nor_trondelag_province' () #
+levanger.finnish_dialect: "Levaankeri"
+namdal.finnish_dialect: "Naamilaakso"
+orland.finnish_dialect: "Orjamaa"
+snasa.finnish_dialect: "Snaasa"
+lierne.finnish_dialect: "Liierni"
+steinkjer.finnish_dialect: "Kivikylä"
+
+# Province 'romsdalen_province' () #
+molde.finnish_dialect: "Molde"
+fosna.finnish_dialect: "Kosnikylä"
+sunndal.finnish_dialect: "Auringonlaakso"
+rauma.finnish_dialect: "Rauma"
+sunnmore.finnish_dialect: "Aurinkomaa"
+borgund.finnish_dialect: "Linnunlahti"
+stordal.finnish_dialect: "Isolaakso"
+tofte.finnish_dialect: "Tuftasaari"
+
+# Province 'troms_province' () #
+troms.finnish_dialect: "Tromssa"
+trondenes.finnish_dialect: "Trondenniemi"
+senja.finnish_dialect: "Senja"
+bardodalen.finnish_dialect: "Paardolaakso"
+raisa.finnish_dialect: "Raisinjoki"
+
+# Province 'jamtland_province' () #
+hammerdal.finnish_dialect: "Vasaralaakso"
+offerdal.finnish_dialect: "Uhrilaakso"
+berg.finnish_dialect: "Vuori"
+froso.finnish_dialect: "Frösaari"
+ragunda.finnish_dialect: "Raakunkylä"
+sveg.finnish_dialect: "Sveeki"
+hede.finnish_dialect: "Nummila"
+oviken.finnish_dialect: "Ovilahti"
+
+# Province 'nordland_province' () #
+bodo.finnish_dialect: "Boodoo"
+birndal.finnish_dialect: "Päärnlaakso"
+hattfjelldal.finnish_dialect: "Hattivuori"
+rana.finnish_dialect: "Raana"
+alstahaug.finnish_dialect: "Alstavuori"
+gildeskal.finnish_dialect: "Kilpikalliot"
+steigen.finnish_dialect: "Steigi"
+langenes.finnish_dialect: "Pitkäniemi"
+lofotr.finnish_dialect: "Lofootti"
+hamaroy.finnish_dialect: "Haamaranniemi"
+ofoti.finnish_dialect: "Ofotinlahti"
+
+# Province 'finnmark_province' () #
+kautokeino.finnish_dialect: "Kautokeino"
+varanger.finnish_dialect: "Varanki"
+vardo.finnish_dialect: "Varjakko"
+deatnu.finnish_dialect: "Tenojoki"
+porsanger.finnish_dialect: "Porsanki"
+karasjok.finnish_dialect: "Kaarasjoki"
+hammerfest.finnish_dialect: "Vasaranpää"
+alta.finnish_dialect: "Alattio"
+kirkenes.finnish_dialect: "Kirkkoniemi"
+lebesby.finnish_dialect: "Lebespyy"
+
+
+## Area 'karelia_area' () ##
+# Province 'aunus_karelia_province' () #
+olonets.finnish_dialect: "Aunus"
+kinerma.finnish_dialect: "Kinerma"
+kondpoga.finnish_dialect: "Kontupohja"
+ostrechiny.finnish_dialect: "Osteri"
+pryazha.finnish_dialect: "Prääsä"
+shuya_karelia.finnish_dialect: "Suojoki"
+shyoltozero.finnish_dialect: "Soutjärvi"
+vazhiny.finnish_dialect: "Vaaseni"
+
+# Province 'inner_aunus_karelia_province' () #
+repola.finnish_dialect: "Repola"
+karhumagi.finnish_dialect: "Karhumäki"
+kizhi.finnish_dialect: "Kiži"
+lindjarvi.finnish_dialect: "Lehmäjärvi"
+nadvoitsy.finnish_dialect: "Naatvoset"
+pieninka.finnish_dialect: "Pieninkä"
+puatane.finnish_dialect: "Puattina"
+sellinkyla.finnish_dialect: "Sellikylä"
+semcojarvi.finnish_dialect: "Semtsajärvi"
+
+# Province 'inner_white_karelia_province' () #
+rukajarvi.finnish_dialect: "Rukajärvi"
+jyskyjarvi.finnish_dialect: "Jyskyjärvi"
+kiestinki.finnish_dialect: "Kiestinki"
+ontajarvi.finnish_dialect: "Ontajärvi"
+paanajarvi.finnish_dialect: "Paanajärvi"
+suikujarvi.finnish_dialect: "Suikujärvi"
+tunkuo.finnish_dialect: "Tunttua"
+uhtuo.finnish_dialect: "Uhtua"
+
+# Province 'korela_province' () #
+korela.finnish_dialect: "Käkisalmi"
+kurkijoki.finnish_dialect: "Kurkijoki"
+konevets.finnish_dialect: "Konevitsa"
+joensuu.finnish_dialect: "Joensuu"
+sordavala.finnish_dialect: "Sortavala"
+vartsila.finnish_dialect: "Värtsilä"
+ilomantsi.finnish_dialect: "Ilomantsi"
+lieksa.finnish_dialect: "Lieksa"
+juuka.finnish_dialect: "Juuka"
+salmi.finnish_dialect: "Salmi"
+loimola.finnish_dialect: "Loimola"
+mohko.finnish_dialect: "Möhkö"
+suojarvi.finnish_dialect: "Suojärvi"
+nurmes.finnish_dialect: "Nurmes"
+
+# Province 'white_karelia_province' () #
+kem.finnish_dialect: "Vienan Kemi"
+keret.finnish_dialect: "Kerettilä"
+kovda.finnish_dialect: "Kovda"
+kriitina.finnish_dialect: "Kriitina"
+saarijoki.finnish_dialect: "Saarijoki"
+
+
+## Area 'kola_area' () ##
+# Province 'north_kola_province' () #
+kola.finnish_dialect: "Kuolanlinna"
+dalniye_zelentsy.finnish_dialect: "Kaukomyrsky"
+kiltina.finnish_dialect: "Kiltinä"
+luujarvi.finnish_dialect: "Luu järvi"
+maaselka.finnish_dialect: "Maaselkä"
+ponoi.finnish_dialect: "Ponoi"
+semiostrov.finnish_dialect: "Puolisaari"
+svyatoy_nos.finnish_dialect: "Pyhäniemi"
+
+# Province 'south_kola_province' () #
+umba.finnish_dialect: "Umba"
+kantalahti.finnish_dialect: "Kantalahti"
+kashkarantsy.finnish_dialect: "Kaškarannikko"
+olenitsa.finnish_dialect: "Olenitsa"
+pyalitsa.finnish_dialect: "Pihla"
+raivke.finnish_dialect: "Raivakka"
+tetrino.finnish_dialect: "Tetriniemi"
+varzuga.finnish_dialect: "Varzuga"
+
+# Province 'western_kola_province' () #
+pechenga.finnish_dialect: "Petsamo"
+akkala.finnish_dialect: "Akkala"
+alakurti.finnish_dialect: "Alakurtti"
+koliskoj.finnish_dialect: "Koliska"
+mootka.finnish_dialect: "Moutka"
+nuorttijarvi.finnish_dialect: "Nuortijärvi"
+prirechnyi.finnish_dialect: "Joensyrjä"
+suonikyla.finnish_dialect: "Suonikylä"
+
+
+## Area 'scandinavian_sea_zones_area' () ##
+
+
+## Area 'western_baltic_sea' () ##
+
+
+## Area 'russian_coastline' () ##

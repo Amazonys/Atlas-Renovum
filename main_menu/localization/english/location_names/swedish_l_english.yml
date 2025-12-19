@@ -1,0 +1,1220 @@
+﻿l_english:
+### Region 'scandinavian_region' () ###
+
+## Area 'svealand_area' () ##
+# Province 'uppland_province' () #
+stockholm.swedish_dialect: "Stockholm"
+norrtalje.swedish_dialect: "Norrtälje"
+enkoping.swedish_dialect: "Enköping"
+uppsala.swedish_dialect: "Uppsala"
+kastelholm.swedish_dialect: "Kastelholm"
+tierp.swedish_dialect: "Tierp"
+heby.swedish_dialect: "Heby"
+
+# Province 'sodermanland_province' () #
+nykoping.swedish_dialect: "Nyköping"
+kolmarden.swedish_dialect: "Kolmården"
+strangnas.swedish_dialect: "Strängnäs"
+oppunda.swedish_dialect: "Oppunda"
+sodertalje.swedish_dialect: "Södertälje"
+
+# Province 'vastmanland_province' () #
+arboga.swedish_dialect: "Arboga"
+vasteras.swedish_dialect: "Västerås"
+nora.swedish_dialect: "Nora"
+sala.swedish_dialect: "Sala"
+skinskatteberg.swedish_dialect: "Skinnskatteberg"
+linde.swedish_dialect: "Linde"
+grythyttan.swedish_dialect: "Grythyttan"
+
+# Province 'nerike_province' () #
+orebro.swedish_dialect: "Örebro"
+riseberga.swedish_dialect: "Riseberga"
+goksholm.swedish_dialect: "Göksholm"
+
+# Province 'varmland_province' () #
+varnum.swedish_dialect: "Varnum"
+tingvalla.swedish_dialect: "Tingvalla"
+nas.swedish_dialect: "Näs"
+nordmark.swedish_dialect: "Nordmark"
+gillberg.swedish_dialect: "Gillberg"
+farnebo.swedish_dialect: "Färnebo"
+fryksdal.swedish_dialect: "Fryksdal"
+josse.swedish_dialect: "Jösse"
+
+# Province 'dalarna_province' () #
+avesta.swedish_dialect: "Avesta"
+falun.swedish_dialect: "Falun"
+leksand.swedish_dialect: "Leksand"
+grange.swedish_dialect: "Grangärde"
+malung.swedish_dialect: "Malung"
+mora.swedish_dialect: "Mora"
+idre.swedish_dialect: "Idre"
+hedemora.swedish_dialect: "Hedemora"
+orsa.swedish_dialect: "Orsa"
+soderbarke.swedish_dialect: "Söderbärke"
+stora_tuna.swedish_dialect: "Stora Tuna"
+floda.swedish_dialect: "Floda"
+
+# Province 'gastrikland_province' () #
+gefle.swedish_dialect: "Gefle"
+hedesunda.swedish_dialect: "Hedesunda"
+hamrange.swedish_dialect: "Hamrånge"
+ockelbo.swedish_dialect: "Ockelbo"
+
+
+## Area 'gotaland_area' () ##
+# Province 'ostergotland_province' () #
+linkoping.swedish_dialect: "Linköping"
+soderkoping.swedish_dialect: "Söderköping"
+norrkoping.swedish_dialect: "Norrköping"
+alvastra.swedish_dialect: "Alvastra"
+vadstena.swedish_dialect: "Vadstena"
+
+# Province 'ostra_smaland_province' () #
+kalmar.swedish_dialect: "Kalmar"
+tjust.swedish_dialect: "Tjust"
+sevede.swedish_dialect: "Sevede"
+handbord.swedish_dialect: "Handbörd"
+kinda.swedish_dialect: "Kinda"
+jonkoping.swedish_dialect: "Jönköping"
+oland.swedish_dialect: "Öland"
+
+# Province 'vastergotland_province' () #
+skara.swedish_dialect: "Skara"
+hjo.swedish_dialect: "Hjo"
+tiveden.swedish_dialect: "Tiveden"
+vartofta.swedish_dialect: "Vartofta"
+utlandet.swedish_dialect: "Utlandet"
+lodose.swedish_dialect: "Lödöse"
+ekholm.swedish_dialect: "Ekholm"
+falkoping.swedish_dialect: "Falköping"
+allingsas.swedish_dialect: "Alingsås"
+bogesund.swedish_dialect: "Bogesund"
+lidkoping.swedish_dialect: "Lidköping"
+skene.swedish_dialect: "Skene"
+
+# Province 'tioharad_province' () #
+vaxjo.swedish_dialect: "Växjö"
+vallsjo.swedish_dialect: "Vallsjö"
+vetlanda.swedish_dialect: "Vetlanda"
+albo.swedish_dialect: "Albo"
+konga.swedish_dialect: "Konga"
+uppvidinge.swedish_dialect: "Uppvidinge"
+ljungby.swedish_dialect: "Ljungby"
+trollaborg.swedish_dialect: "Trolleborg"
+waestbo.swedish_dialect: "Västbo"
+
+# Province 'gotland_province' () #
+slite.swedish_dialect: "Slite"
+visby.swedish_dialect: "Visby"
+hoborg.swedish_dialect: "Hoburg"
+
+# Province 'dalsland_province' () #
+dalaborg.swedish_dialect: "Dalaborg"
+amal.swedish_dialect: "Åmål"
+vedbo.swedish_dialect: "Vedbo"
+
+
+## Area 'denmark_area' () ##
+# Province 'sonderjylland_province' () #
+ribe.swedish_dialect: "Ribe"
+haderslev.swedish_dialect: "Haderslev"
+aabenraa.swedish_dialect: "Åbenrå"
+tonder.swedish_dialect: "Tönder"
+
+# Province 'norrejylland_province' () #
+randers.swedish_dialect: "Randers"
+viborg.swedish_dialect: "Viborg"
+aalborg.swedish_dialect: "Ålborg"
+ars.swedish_dialect: "Års"
+
+# Province 'western_jutland_province' () #
+bolling.swedish_dialect: "Bölling"
+ringkobing.swedish_dialect: "Ringköbing"
+holstebro_lundenes.swedish_dialect: "Holstebro Lundenäs"
+varde.swedish_dialect: "Varde"
+
+# Province 'eastern_jutland_province' () #
+kolding.swedish_dialect: "Kolding"
+aarhus.swedish_dialect: "Århus"
+grindsted.swedish_dialect: "Grindsted"
+silkeborg.swedish_dialect: "Silkeborg"
+kalo.swedish_dialect: "Kalö"
+
+# Province 'vendsyssel_thy_province' () #
+thisted.swedish_dialect: "Thisted"
+skagen.swedish_dialect: "Skagen"
+hjorring.swedish_dialect: "Hjörring"
+
+# Province 'zealand_province' () #
+roskilde.swedish_dialect: "Roskilde"
+ringsted.swedish_dialect: "Ringsted"
+kalundborg.swedish_dialect: "Kalundborg"
+helsingor.swedish_dialect: "Helsingör"
+hammershus.swedish_dialect: "Hammershus"
+kobenhavn.swedish_dialect: "Köpenhamn"
+slagelse.swedish_dialect: "Slagelse"
+vordingborg.swedish_dialect: "Vordingborg"
+
+# Province 'funen_province' () #
+odense.swedish_dialect: "Odense"
+navskov.swedish_dialect: "Nafveskov"
+falster.swedish_dialect: "Falster"
+assens.swedish_dialect: "Assens"
+svendborg.swedish_dialect: "Svendborg"
+
+# Province 'slesvig_province' () #
+slesvig.swedish_dialect: "Slesvig"
+flensburg.swedish_dialect: "Flensburg"
+eckernforde.swedish_dialect: "Eckernförde"
+husum.swedish_dialect: "Husum"
+
+
+## Area 'skaneland_area' () ##
+# Province 'malmohus_province' () #
+helsingborg.swedish_dialect: "Helsingborg"
+lund.swedish_dialect: "Lund"
+malmo.swedish_dialect: "Malmö"
+
+# Province 'gonge_province' () #
+gladsax.swedish_dialect: "Gladsax"
+osby.swedish_dialect: "Osby"
+asbo.swedish_dialect: "Åsbo"
+
+# Province 'halland_province' () #
+varberg.swedish_dialect: "Varberg"
+laholm.swedish_dialect: "Laholm"
+halmstad.swedish_dialect: "Halmstad"
+kungsbacka.swedish_dialect: "Kungsbacka"
+
+# Province 'blekinge_province' () #
+ronneby.swedish_dialect: "Ronneby"
+bregne.swedish_dialect: "Bräkne"
+solvesborg.swedish_dialect: "Sölvesborg"
+
+
+## Area 'norrland_area' () ##
+# Province 'halsingland_province' () #
+hudiksvall.swedish_dialect: "Hudiksvall"
+alfta.swedish_dialect: "Alfta"
+soderala.swedish_dialect: "Söderala"
+hogdal.swedish_dialect: "Högdal"
+havero.swedish_dialect: "Haverö"
+selanger.swedish_dialect: "Selånger"
+
+# Province 'angermanland_province' () #
+harnosand.swedish_dialect: "Härnösand"
+solatunum.swedish_dialect: "Soltuna"
+ramsele.swedish_dialect: "Ramsele"
+sjalevad.swedish_dialect: "Själevad"
+anundsjo.swedish_dialect: "Anundsjö"
+grundsunda.swedish_dialect: "Grundsunda"
+
+# Province 'vasterbotten_province' () #
+umea.swedish_dialect: "Umeå"
+vindeln.swedish_dialect: "Vindeln"
+skelleftea.swedish_dialect: "Skellefteå"
+tornea.swedish_dialect: "Torneå"
+bygdea.swedish_dialect: "Bygdeå"
+pitea.swedish_dialect: "Piteå"
+lulea.swedish_dialect: "Luleå"
+ranea.swedish_dialect: "Råneå"
+gratesk.swedish_dialect: "Gråträsk"
+hienatiemi.swedish_dialect: "Hietaniemi"
+branna.swedish_dialect: "Bränna"
+byske.swedish_dialect: "Byske"
+bodebyn.swedish_dialect: "Böleby"
+alvsby.swedish_dialect: "Älvsbyn"
+kiemi.swedish_dialect: "Kemi"
+pajala.swedish_dialect: "Pajala"
+kittila.swedish_dialect: "Kittilä"
+rovaniemi.swedish_dialect: "Rovaniemi"
+
+# Province 'norra_osterbotten_province' () #
+simo.swedish_dialect: "Simo"
+uleaborg.swedish_dialect: "Uleåborg"
+brahestad.swedish_dialect: "Brahestad"
+utajarvi.swedish_dialect: "Utajärvi"
+siikalatva.swedish_dialect: "Siikalatva"
+taivalkoski.swedish_dialect: "Taivalkoski"
+kuivaniemi.swedish_dialect: "Kuivaniemi"
+ranua.swedish_dialect: "Ranua"
+pudasjarvi.swedish_dialect: "Pudasjärvi"
+posio.swedish_dialect: "Posio"
+
+# Province 'ume_lappmark_province' () #
+asele.swedish_dialect: "Åsele"
+lycksele.swedish_dialect: "Lycksele"
+arvidsjaur.swedish_dialect: "Arvidsjaur"
+volgsjo.swedish_dialect: "Volgsjö"
+stensele.swedish_dialect: "Stensele"
+tarna.swedish_dialect: "Tärna"
+ortrask.swedish_dialect: "Örträsk"
+
+# Province 'pite_lappmark_province' () #
+akkajaur.swedish_dialect: "Akkajaure"
+arjeplog.swedish_dialect: "Arjeplog"
+silbojock.swedish_dialect: "Silbojokk"
+sorsele.swedish_dialect: "Sorsele"
+
+# Province 'lule_lappmark_province' () #
+socksjock.swedish_dialect: "Socksjokk"
+jokkmokk.swedish_dialect: "Jokkmokk"
+kvikkjock.swedish_dialect: "Kvikkjokk"
+porjus.swedish_dialect: "Porjus"
+gellivaara.swedish_dialect: "Gällivare"
+sarek.swedish_dialect: "Sarek"
+
+# Province 'torne_lappmark_province' () #
+nikkaluokta.swedish_dialect: "Nikkaluokta"
+kasivarren.swedish_dialect: "Käsivarren"
+abisko.swedish_dialect: "Abisko"
+raunala.swedish_dialect: "Raunala"
+mourionska.swedish_dialect: "Mourionska"
+enontakis.swedish_dialect: "Enontekis"
+nunnanen.swedish_dialect: "Nunnanen"
+korpilombo.swedish_dialect: "Korpilombolo"
+juckasjarvi.swedish_dialect: "Jukkasjärvi"
+
+# Province 'kemi_lappmark_province' () #
+salla.swedish_dialect: "Salla"
+kemijarvi.swedish_dialect: "Kemijärvi"
+korvala.swedish_dialect: "Korvala"
+enare.swedish_dialect: "Enare"
+sodankyla.swedish_dialect: "Sodankylä"
+savukoski.swedish_dialect: "Savukoski"
+ivalo.swedish_dialect: "Ivalo"
+utsjoki.swedish_dialect: "Utsjoki"
+
+# Province 'kajanaland_province' () #
+paltamo.swedish_dialect: "Paltamo"
+kajana.swedish_dialect: "Kajana"
+sotkamo.swedish_dialect: "Sotkamo"
+kuhmo.swedish_dialect: "Kuhmo"
+suomussalmi.swedish_dialect: "Suomussalmi"
+kuusamo.swedish_dialect: "Kuusamo"
+
+
+## Area 'finland_area' () ##
+# Province 'sodra_osterbotten_province' () #
+korsholm.swedish_dialect: "Korsholm"
+koppo.swedish_dialect: "Koppo"
+pedersore.swedish_dialect: "Pedersöre"
+storkyro.swedish_dialect: "Storkyro"
+karleby.swedish_dialect: "Karleby"
+kaustby.swedish_dialect: "Kaustby"
+lappo.swedish_dialect: "Lappo"
+vora.swedish_dialect: "Vörå"
+
+# Province 'finland_province' () #
+abo.swedish_dialect: "Åbo"
+nystad.swedish_dialect: "Nystad"
+poytis.swedish_dialect: "Pöytis"
+sauvo.swedish_dialect: "Sagu"
+
+# Province 'nyland_province' () #
+helsinge.swedish_dialect: "Helsinge"
+ekenas.swedish_dialect: "Ekenäs"
+sjundea.swedish_dialect: "Sjundeå"
+porvoo.swedish_dialect: "Borgå"
+liljendal.swedish_dialect: "Liljendal"
+
+# Province 'satakunta_province' () #
+ikalis.swedish_dialect: "Ikalis"
+raumo.swedish_dialect: "Raumo"
+bjorneborg.swedish_dialect: "Björneborg"
+hvittis.swedish_dialect: "Hvittis"
+sastmola.swedish_dialect: "Sastmola"
+birkala.swedish_dialect: "Birkala"
+sastamala.swedish_dialect: "Sastamala"
+orivesi.swedish_dialect: "Orivesi"
+
+# Province 'tavastland_province' () #
+hollola.swedish_dialect: "Hollola"
+lohja.swedish_dialect: "Lojo"
+tavastehus.swedish_dialect: "Tavastehus"
+janakkala.swedish_dialect: "Janakkala"
+forssa.swedish_dialect: "Forssa"
+itis.swedish_dialect: "Itis"
+jyvaskyla.swedish_dialect: "Jyväskylä"
+jamsa.swedish_dialect: "Jämsä"
+saarijarvi.swedish_dialect: "Saarijärvi"
+viitasaari.swedish_dialect: "Viitasaari"
+laukas.swedish_dialect: "Laukas"
+sysma.swedish_dialect: "Sysmä"
+
+# Province 'savolax_province' () #
+mikkeli.swedish_dialect: "S:t Michel"
+olofsborg.swedish_dialect: "Olofsborg"
+heinola.swedish_dialect: "Heinola"
+kangasniemi.swedish_dialect: "Kangasniemi"
+ristiina.swedish_dialect: "Ristiina"
+joroinen.swedish_dialect: "Joroinen"
+kuopio.swedish_dialect: "Kuopio"
+idensalmi.swedish_dialect: "Idensalmi"
+rautavaara.swedish_dialect: "Rautavaara"
+savonranta.swedish_dialect: "Savonranta"
+
+# Province 'vyborg_province' () #
+kymi_fi.swedish_dialect: "Kymmeneälv"
+vyborg.swedish_dialect: "Viborg"
+villmanstrand.swedish_dialect: "Villmanstrand"
+veckelax.swedish_dialect: "Veckelax"
+elimaki.swedish_dialect: "Elimäki"
+vederlax.swedish_dialect: "Vederlax"
+valkeasaari.swedish_dialect: "Vitön"
+kyyrola.swedish_dialect: "Kyrola"
+beryozovskoye.swedish_dialect: "Björkeby"
+heinjoki.swedish_dialect: "Heinjoki"
+jaskis.swedish_dialect: "Jäskis"
+
+
+## Area 'syd_norge_area' () ##
+# Province 'bohus_province' () #
+konghalla.swedish_dialect: "Kungahälla"
+uddevalla.swedish_dialect: "Uddevalla"
+stromstad.swedish_dialect: "Strömstad"
+hornborg.swedish_dialect: "Hornborg"
+
+# Province 'ostfold_province' () #
+borg.swedish_dialect: "Borg"
+halden.swedish_dialect: "Halden"
+moss.swedish_dialect: "Moss"
+trogstad.swedish_dialect: "Trögstad"
+
+# Province 'vestfold_province' () #
+tonsberg.swedish_dialect: "Tönsberg"
+skien.swedish_dialect: "Skien"
+sande.swedish_dialect: "Sande"
+grenland.swedish_dialect: "Grenland"
+
+# Province 'rogaland_province' () #
+stavanger.swedish_dialect: "Stavanger"
+ryfylke.swedish_dialect: "Ryfylke"
+suledal.swedish_dialect: "Suldal"
+haugalandet.swedish_dialect: "Haugalandet"
+jaeren.swedish_dialect: "Jären"
+
+# Province 'agder_province' () #
+flekkefjord.swedish_dialect: "Flekkefjord"
+sirudal.swedish_dialect: "Sirdal"
+otredal.swedish_dialect: "Otradal"
+lindesnes.swedish_dialect: "Lindesnes"
+oddernes.swedish_dialect: "Oddernes"
+oyestad.swedish_dialect: "Öjestad"
+sondeled.swedish_dialect: "Sändeled"
+amli.swedish_dialect: "Åmli"
+
+# Province 'buskerud_province' () #
+kongsberg.swedish_dialect: "Kongsberg"
+ringerike.swedish_dialect: "Ringerike"
+hallingdal.swedish_dialect: "Hallingdal"
+numedal.swedish_dialect: "Numedal"
+sigdal.swedish_dialect: "Sigdal"
+bragernes.swedish_dialect: "Bragernes"
+flesberg.swedish_dialect: "Flesberg"
+
+# Province 'bergenhus_province' () #
+bergen.swedish_dialect: "Bergen"
+fana.swedish_dialect: "Fana"
+kvinnherad.swedish_dialect: "Kvinnherad"
+ullensvang.swedish_dialect: "Ullensvang"
+moster.swedish_dialect: "Moster"
+eidfjord.swedish_dialect: "Eidfjord"
+nordhordland.swedish_dialect: "Nordhordland"
+voss.swedish_dialect: "Voss"
+
+# Province 'sogn_province' () #
+eid.swedish_dialect: "Eid"
+stryn.swedish_dialect: "Stryn"
+sunnfjord.swedish_dialect: "Sunnfjord"
+sogndal.swedish_dialect: "Sogndal"
+aurland.swedish_dialect: "Aurland"
+vik.swedish_dialect: "Vik"
+laerdal.swedish_dialect: "Lärdal"
+
+# Province 'akershus_province' () #
+oslo.swedish_dialect: "Oslo"
+ski.swedish_dialect: "Ski"
+eidsvoll.swedish_dialect: "Eidsvoll"
+
+# Province 'oppland_province' () #
+vardal.swedish_dialect: "Vardal"
+lillehammer.swedish_dialect: "Lillehammer"
+valdres.swedish_dialect: "Valdres"
+otta.swedish_dialect: "Otta"
+imsdalen.swedish_dialect: "Imsdalen"
+hedmarksvidda.swedish_dialect: "Hedmarksvidda"
+
+# Province 'hedmark_province' () #
+hamar.swedish_dialect: "Hamar"
+kongsvinger.swedish_dialect: "Kongsvinger"
+elverum.swedish_dialect: "Elverum"
+glommadal.swedish_dialect: "Glommadal"
+trysil.swedish_dialect: "Trysil"
+amot.swedish_dialect: "Åmot"
+tynset.swedish_dialect: "Tynset"
+
+
+## Area 'nord_norge_area' () ##
+# Province 'sor_trondelag_province' () #
+nidaros.swedish_dialect: "Nidaros"
+roros.swedish_dialect: "Röros"
+stjordal.swedish_dialect: "Stjördal"
+oppdal.swedish_dialect: "Oppdal"
+orkdal.swedish_dialect: "Orkdal"
+skaun.swedish_dialect: "Skaun"
+storen.swedish_dialect: "Stören"
+holtalen.swedish_dialect: "Holtålen"
+meraker.swedish_dialect: "Meråker"
+alvdal.swedish_dialect: "Alvdal"
+
+# Province 'nor_trondelag_province' () #
+levanger.swedish_dialect: "Levanger"
+namdal.swedish_dialect: "Namdal"
+orland.swedish_dialect: "Örland"
+snasa.swedish_dialect: "Snåsa"
+lierne.swedish_dialect: "Lierne"
+steinkjer.swedish_dialect: "Steinkjer"
+
+# Province 'romsdalen_province' () #
+molde.swedish_dialect: "Molde"
+fosna.swedish_dialect: "Fosna"
+sunndal.swedish_dialect: "Sunndal"
+rauma.swedish_dialect: "Rauma"
+sunnmore.swedish_dialect: "Sunnmöre"
+borgund.swedish_dialect: "Borgund"
+stordal.swedish_dialect: "Stordal"
+tofte.swedish_dialect: "Tofte"
+
+# Province 'troms_province' () #
+troms.swedish_dialect: "Troms"
+trondenes.swedish_dialect: "Trondenes"
+senja.swedish_dialect: "Senja"
+bardodalen.swedish_dialect: "Bardudalen"
+raisa.swedish_dialect: "Raisa"
+
+# Province 'jamtland_province' () #
+hammerdal.swedish_dialect: "Hammerdal"
+offerdal.swedish_dialect: "Offerdal"
+berg.swedish_dialect: "Berg"
+froso.swedish_dialect: "Frösö"
+ragunda.swedish_dialect: "Ragunda"
+sveg.swedish_dialect: "Sveg"
+hede.swedish_dialect: "Hede"
+oviken.swedish_dialect: "Oviken"
+
+# Province 'nordland_province' () #
+bodo.swedish_dialect: "Bodö"
+birndal.swedish_dialect: "Birgersdal"
+hattfjelldal.swedish_dialect: "Hattfjelldal"
+rana.swedish_dialect: "Rana"
+alstahaug.swedish_dialect: "Alstahaug"
+gildeskal.swedish_dialect: "Gildeskål"
+steigen.swedish_dialect: "Steigen"
+langenes.swedish_dialect: "Langenes"
+lofotr.swedish_dialect: "Lofoten"
+hamaroy.swedish_dialect: "Hamaröy"
+ofoti.swedish_dialect: "Ofoten"
+
+# Province 'finnmark_province' () #
+kautokeino.swedish_dialect: "Kautokeino"
+varanger.swedish_dialect: "Varanger"
+vardo.swedish_dialect: "Vardö"
+deatnu.swedish_dialect: "Tanaälv"
+porsanger.swedish_dialect: "Porsangerfjorden"
+karasjok.swedish_dialect: "Karasjok"
+hammerfest.swedish_dialect: "Hammerfest"
+alta.swedish_dialect: "Alta"
+kirkenes.swedish_dialect: "Kirkenes"
+lebesby.swedish_dialect: "Lebesby"
+
+
+## Area 'karelia_area' () ##
+# Province 'aunus_karelia_province' () #
+olonets.swedish_dialect: "Aunus"
+kinerma.swedish_dialect: "Kinerma"
+kondpoga.swedish_dialect: "Kondopoga"
+ostrechiny.swedish_dialect: "Ostretjin"
+pryazha.swedish_dialect: "Prjascha"
+shuya_karelia.swedish_dialect: "Sjuja"
+shyoltozero.swedish_dialect: "Sjöltsjön"
+vazhiny.swedish_dialect: "Vazjiny"
+
+# Province 'inner_aunus_karelia_province' () #
+repola.swedish_dialect: "Repola"
+karhumagi.swedish_dialect: "Karhumäki"
+kizhi.swedish_dialect: "Kizhi"
+lindjarvi.swedish_dialect: "Lindjärvi"
+nadvoitsy.swedish_dialect: "Nadvojtsy"
+pieninka.swedish_dialect: "Pieninka"
+puatane.swedish_dialect: "Puatane"
+sellinkyla.swedish_dialect: "Sellinkylä"
+semcojarvi.swedish_dialect: "Semtsjärvi"
+
+# Province 'inner_white_karelia_province' () #
+rukajarvi.swedish_dialect: "Rukajärvi"
+jyskyjarvi.swedish_dialect: "Jyskyjärvi"
+kiestinki.swedish_dialect: "Kiestinki"
+ontajarvi.swedish_dialect: "Ontajärvi"
+paanajarvi.swedish_dialect: "Paanajärvi"
+suikujarvi.swedish_dialect: "Suikujärvi"
+tunkuo.swedish_dialect: "Tunkua"
+uhtuo.swedish_dialect: "Uhtua"
+
+# Province 'korela_province' () #
+korela.swedish_dialect: "Kexholm"
+kurkijoki.swedish_dialect: "Kurkijoki"
+konevets.swedish_dialect: "Konevets"
+joensuu.swedish_dialect: "Åmynne"
+sordavala.swedish_dialect: "Sordavala"
+vartsila.swedish_dialect: "Värtsilä"
+ilomantsi.swedish_dialect: "Ilomants"
+lieksa.swedish_dialect: "Lieksa"
+juuka.swedish_dialect: "Juuka"
+salmi.swedish_dialect: "Salmi"
+loimola.swedish_dialect: "Loimola"
+mohko.swedish_dialect: "Möhkö"
+suojarvi.swedish_dialect: "Suojärvi"
+nurmes.swedish_dialect: "Nurmes"
+
+# Province 'white_karelia_province' () #
+kem.swedish_dialect: "Kem"
+keret.swedish_dialect: "Keret"
+kovda.swedish_dialect: "Kovda"
+kriitina.swedish_dialect: "Kriitina"
+saarijoki.swedish_dialect: "Öälven"
+
+
+## Area 'kola_area' () ##
+# Province 'north_kola_province' () #
+kola.swedish_dialect: "Kola"
+dalniye_zelentsy.swedish_dialect: "Zelentsy"
+kiltina.swedish_dialect: "Kiltina"
+luujarvi.swedish_dialect: "Lujjärvi"
+maaselka.swedish_dialect: "Maaselkä"
+ponoi.swedish_dialect: "Ponoj"
+semiostrov.swedish_dialect: "Simonsö"
+svyatoy_nos.swedish_dialect: "Helganäset"
+
+# Province 'south_kola_province' () #
+umba.swedish_dialect: "Umba"
+kantalahti.swedish_dialect: "Kantalahti"
+kashkarantsy.swedish_dialect: "Kashkarantsy"
+olenitsa.swedish_dialect: "Olenitsa"
+pyalitsa.swedish_dialect: "Pjalitsa"
+raivke.swedish_dialect: "Raivike"
+tetrino.swedish_dialect: "Tetrino"
+varzuga.swedish_dialect: "Varzuga"
+
+# Province 'western_kola_province' () #
+pechenga.swedish_dialect: "Petsamo"
+akkala.swedish_dialect: "Akkala"
+alakurti.swedish_dialect: "Alakurtti"
+koliskoj.swedish_dialect: "Koliskoj"
+mootka.swedish_dialect: "Motka"
+nuorttijarvi.swedish_dialect: "Nuortijärvi"
+prirechnyi.swedish_dialect: "Älvstrand"
+suonikyla.swedish_dialect: "Suonikylä"
+
+
+## Area 'scandinavian_sea_zones_area' () ##
+
+
+## Area 'western_baltic_sea' () ##
+
+
+## Area 'russian_coastline' () ##
+### Region 'north_german_region' () ###
+
+## Area 'brabant_area' () ##
+# Province 'limburg_province' () #
+maastricht.swedish_dialect: "Masvad vid Maas"
+venlo.swedish_dialect: "Torbjörnsborg"
+weert.swedish_dialect: "Birgersvik"
+roermond.swedish_dialect: "Rörmynning"
+
+# Province 'antwerp_province' () #
+antwerp.swedish_dialect: "Antwerpen"
+bergen_zoom.swedish_dialect: "Somberga"
+breda.swedish_dialect: "Bräde"
+turnhout.swedish_dialect: "Tornhult"
+mechelen.swedish_dialect: "Meklen"
+
+# Province 'kempenland_province' () #
+helmond.swedish_dialect: "Hällmund"
+cuijk.swedish_dialect: "Knuteby"
+hertogenbosch.swedish_dialect: "Hertigskog"
+eindhoven.swedish_dialect: "Ändegård"
+
+# Province 'brabant_province' () #
+brussels.swedish_dialect: "Bryssel"
+leuven.swedish_dialect: "Löven"
+nivelles.swedish_dialect: "Folkesholm"
+
+# Province 'loon_province' () #
+borgloon.swedish_dialect: "Lönborg"
+hasselt.swedish_dialect: "Hasselstad"
+bree.swedish_dialect: "Eriksryd"
+
+
+## Area 'flanders_area' () ##
+# Province 'east_flanders_province' () #
+ghent.swedish_dialect: "Gandeby"
+aalst.swedish_dialect: "Ålstad"
+hulst.swedish_dialect: "Järneksby"
+kortriik.swedish_dialect: "Kortvik"
+oudenaarde.swedish_dialect: "Gammelvall"
+sint_niklaas.swedish_dialect: "Sankt Niklas"
+
+# Province 'roman_flanders_province' () #
+lille.swedish_dialect: "Lilö"
+douai.swedish_dialect: "Turesby"
+tournai.swedish_dialect: "Tornak"
+
+# Province 'west_flanders_province' () #
+bruges.swedish_dialect: "Brygge"
+cassel.swedish_dialect: "Kasselberg"
+dunkirk.swedish_dialect: "Dynkyrka"
+ostend.swedish_dialect: "Östände"
+veurne.swedish_dialect: "Sigridsvik"
+ypres.swedish_dialect: "Ypern"
+
+
+## Area 'friesland_area' () ##
+# Province 'east_friesland_province' () #
+emden.swedish_dialect: "Emden vid Ems"
+jever.swedish_dialect: "Jevar"
+aurich.swedish_dialect: "Aurik"
+leer.swedish_dialect: "Lerstad"
+
+# Province 'ommelanden_province' () #
+appingedam.swedish_dialect: "Bengtsbro"
+groningen.swedish_dialect: "Gröningen"
+wedde.swedish_dialect: "Vedde"
+
+# Province 'friesland_province' () #
+sloten.swedish_dialect: "Slåten"
+harlingen.swedish_dialect: "Harlinge"
+leeuwarden.swedish_dialect: "Lejonvakt"
+stavoren.swedish_dialect: "Stavaren"
+wolvega.swedish_dialect: "Vargå"
+
+# Province 'drenthe_province' () #
+assen.swedish_dialect: "Olofsås"
+meppel.swedish_dialect: "Ingesjö"
+coevorden.swedish_dialect: "Torstensvad"
+
+# Province 'overijssel_province' () #
+zwolle.swedish_dialect: "Gunnarsö"
+kampen.swedish_dialect: "Kampstad"
+deventer.swedish_dialect: "Däventra"
+oldenzaal.swedish_dialect: "Gamlahall"
+
+
+## Area 'holland_area' () ##
+# Province 'north_holland_province' () #
+amsterdam.swedish_dialect: "Amstelholm"
+amersfoort.swedish_dialect: "Amervad"
+alkmaar.swedish_dialect: "Alkmar"
+hoorn.swedish_dialect: "Hornvik"
+utrecht.swedish_dialect: "Utrikt"
+
+# Province 'south_holland_province' () #
+the_hague.swedish_dialect: "Grevehage"
+dordrecht.swedish_dialect: "Dordrik"
+geertruidenberg.swedish_dialect: "Gertrudsberg"
+rotterdam.swedish_dialect: "Rottedam"
+leiden.swedish_dialect: "Lejden"
+middelburg.swedish_dialect: "Medelborg"
+
+# Province 'gelderland_province' () #
+arnhem.swedish_dialect: "Örnehem"
+apeldoorn.swedish_dialect: "Äppletorn"
+doetinchem.swedish_dialect: "Dötinghem"
+harderwijk.swedish_dialect: "Hårdviken"
+nijmegen.swedish_dialect: "Nyåker"
+tiel.swedish_dialect: "Tilje"
+zutphen.swedish_dialect: "Sydmossen"
+
+
+## Area 'wallonia_area' () ##
+# Province 'east_luxembourg_province' () #
+luxembourg.swedish_dialect: "Lusseborg"
+arlon.swedish_dialect: "Gudmundsryd"
+thionville.swedish_dialect: "Tionvik"
+vianden.swedish_dialect: "Vänndal"
+
+# Province 'hainaut_province' () #
+mons.swedish_dialect: "Åsberga"
+ath.swedish_dialect: "Atteholm"
+chimay.swedish_dialect: "Kime"
+enghien.swedish_dialect: "Engen"
+maubeuge.swedish_dialect: "Måbäck"
+valenciennes.swedish_dialect: "Valenstad"
+
+# Province 'liege_province' () #
+liege.swedish_dialect: "Liedek"
+limbourg.swedish_dialect: "Limborg"
+st_vith.swedish_dialect: "Sankt Vit"
+stavelot.swedish_dialect: "Stavelund"
+
+# Province 'namur_province' () #
+namur.swedish_dialect: "Namyr"
+dinant.swedish_dialect: "Dinvall"
+orchimont.swedish_dialect: "Orkeberga"
+walcourt.swedish_dialect: "Vallgård"
+
+# Province 'west_luxembourg_province' () #
+bastogne.swedish_dialect: "Bastuna"
+bouillon.swedish_dialect: "Buljon"
+la_roche.swedish_dialect: "Råckeby"
+montmedy.swedish_dialect: "Medås"
+neufchateau_luxembourg.swedish_dialect: "Nyborg"
+
+
+## Area 'holstein_area' () ##
+# Province 'lubeck_province' () #
+lubeck.swedish_dialect: "Lybäck"
+heiligenhafen.swedish_dialect: "Helgehamn"
+ratzeburg.swedish_dialect: "Ratsborg"
+eutin.swedish_dialect: "Utin"
+lauenburg.swedish_dialect: "Lejonborg"
+
+# Province 'holstein_province' () #
+kiel.swedish_dialect: "Kil"
+heide.swedish_dialect: "Hede"
+steinburg.swedish_dialect: "Stenborg"
+rendsburg.swedish_dialect: "Rensborg"
+stormarn.swedish_dialect: "Stormaren"
+segeberg.swedish_dialect: "Segerberg"
+pinneberg.swedish_dialect: "Pinnberga"
+plon.swedish_dialect: "Pluna"
+
+
+## Area 'brandenburg_area' () ##
+# Province 'neumark_province' () #
+chojna.swedish_dialect: "Kungsberg"
+soltyn.swedish_dialect: "Byfogda"
+gorzow.swedish_dialect: "Landsborg vid Warta"
+santok.swedish_dialect: "Santvik"
+torzym.swedish_dialect: "Stjärnberg"
+
+# Province 'altmark_province' () #
+stendal.swedish_dialect: "Stendalen"
+gardelegen.swedish_dialect: "Gardleke"
+salzwedel.swedish_dialect: "Saltvad"
+osterburg.swedish_dialect: "Östborg"
+haldensleben.swedish_dialect: "Haldinge"
+wolmirstedt.swedish_dialect: "Vulmarstad"
+
+# Province 'prignitz_province' () #
+havelberg.swedish_dialect: "Håvleberg"
+wittstock.swedish_dialect: "Vitstock"
+ruppin.swedish_dialect: "Rupnäs"
+pritzwalk.swedish_dialect: "Pritsvall"
+wittenberge.swedish_dialect: "Vitberga"
+
+# Province 'uckermark_province' () #
+prenzlau.swedish_dialect: "Prensla"
+templin.swedish_dialect: "Templinge"
+angermunde.swedish_dialect: "Angermynne"
+
+# Province 'mittelmark_province' () #
+berlin.swedish_dialect: "Björlin"
+teltow.swedish_dialect: "Tältåsen"
+treuenbrietzen.swedish_dialect: "Trofastby"
+herzfelde.swedish_dialect: "Hjärtåker"
+freienwalde.swedish_dialect: "Friskog"
+lebus.swedish_dialect: "Lövås"
+brandenburg.swedish_dialect: "Brandborg vid Havel"
+potsdam.swedish_dialect: "Pottsjö"
+
+# Province 'flaming_province' () #
+juterbog.swedish_dialect: "Jutarborg"
+schweinitz.swedish_dialect: "Svinå"
+zerbst.swedish_dialect: "Serbestad"
+wittenberg.swedish_dialect: "Vitberg"
+belzig.swedish_dialect: "Bältsik"
+bitterfeld.swedish_dialect: "Bitterfält"
+
+# Province 'niederlausitz_province' () #
+cottbus.swedish_dialect: "Kottbo"
+guben.swedish_dialect: "Gubbyn"
+spremberg.swedish_dialect: "Språberg vid Spree"
+calau.swedish_dialect: "Kalå"
+lubben.swedish_dialect: "Lybbyn"
+luckau.swedish_dialect: "Lukkö"
+beeskow.swedish_dialect: "Biskov"
+zossen.swedish_dialect: "Tallby"
+
+
+## Area 'rhineland_area' () ##
+# Province 'eifel_province' () #
+bitburg.swedish_dialect: "Bitborg"
+prum.swedish_dialect: "Jakobsdal"
+daun.swedish_dialect: "Dåna"
+wittlich.swedish_dialect: "Vitlik"
+cochem.swedish_dialect: "Kåkem vid Mosel"
+mayen.swedish_dialect: "Majen"
+simmern.swedish_dialect: "Simmaren"
+ahrweiler.swedish_dialect: "Arvalla vid Ahr"
+schleiden.swedish_dialect: "Sliden"
+castellaun.swedish_dialect: "Kastellund"
+
+# Province 'hunsruck_province' () #
+saarbrucken.swedish_dialect: "Sarbrygga"
+merzig.swedish_dialect: "Stensborg"
+lichtenberg_veldenz.swedish_dialect: "Ljusberg"
+trier.swedish_dialect: "Trevern"
+birkenfeld.swedish_dialect: "Björkfält"
+meisenheim.swedish_dialect: "Meshem"
+saarburg.swedish_dialect: "Sarborg vid Saar"
+kreuznach.swedish_dialect: "Korsnack"
+
+# Province 'koln_bucht_province' () #
+cologne.swedish_dialect: "Köln vid Rhen"
+bonn.swedish_dialect: "Bonn vid Rhen"
+bergheim.swedish_dialect: "Berghem"
+neuss.swedish_dialect: "Nys vid Rhen"
+
+# Province 'bergisches_land_province' () #
+remscheid.swedish_dialect: "Remsked"
+siegburg.swedish_dialect: "Sigborg vid Sieg"
+gummersbach.swedish_dialect: "Gummersbäck"
+solingen.swedish_dialect: "Soläng"
+
+# Province 'westerwald' () #
+coblenz.swedish_dialect: "Tvåflod vid Rhen"
+altenkirchen.swedish_dialect: "Gammalkyrka"
+wied.swedish_dialect: "Vidå"
+
+# Province 'julich_province' () #
+aachen.swedish_dialect: "Åken"
+heinsberg.swedish_dialect: "Heinsberga"
+duren.swedish_dialect: "Dyrå vid Rur"
+
+# Province 'niederrhein_province' () #
+dusseldorf.swedish_dialect: "Dusseltorp"
+monchengladbach.swedish_dialect: "Munkeby Gladbäck"
+kleve.swedish_dialect: "Klevstad"
+mors.swedish_dialect: "Mörs"
+geldern.swedish_dialect: "Gäldern"
+
+
+## Area 'hesse_area' () ##
+# Province 'hessen_bergland_province' () #
+kassel.swedish_dialect: "Kastellby"
+eschwege.swedish_dialect: "Askväg"
+rotenburg.swedish_dialect: "Rödaborg"
+korbach.swedish_dialect: "Korback"
+frankenberg.swedish_dialect: "Frankberg"
+marburg.swedish_dialect: "Maraborg vid Lahn"
+melsungen.swedish_dialect: "Mällsungen"
+
+# Province 'untermain_province' () #
+worms.swedish_dialect: "Ormstaden vid Rhen"
+mainz.swedish_dialect: "Månstad vid Rhen"
+darmstadt.swedish_dialect: "Dammstad"
+offenbach.swedish_dialect: "Öppenbäck"
+oppenheim.swedish_dialect: "Överhem"
+
+# Province 'wetterau_province' () #
+hanau.swedish_dialect: "Haneå vid Main"
+frankfurt.swedish_dialect: "Frankvad vid Main"
+giessen.swedish_dialect: "Gisån"
+wetzlar.swedish_dialect: "Våtslar"
+friedberg_hesse.swedish_dialect: "Fredberg"
+budingen.swedish_dialect: "Budinge"
+nidda.swedish_dialect: "Niddå vid Nidda"
+
+# Province 'vogelsberg_province' () #
+fulda.swedish_dialect: "Fuldå vid Fulda"
+lauterbach.swedish_dialect: "Låterbäck"
+hunfeld.swedish_dialect: "Hynfält"
+hersfeld.swedish_dialect: "Hersfält"
+ziegenhain.swedish_dialect: "Getahage"
+alsfeld.swedish_dialect: "Alsfält"
+
+# Province 'spessart_province' () #
+miltenberg.swedish_dialect: "Mildberg vid Main"
+aschaffenburg.swedish_dialect: "Askaborg vid Main"
+lohr.swedish_dialect: "Lårå vid Main"
+bruckenau.swedish_dialect: "Broäng"
+
+# Province 'taunus_province' () #
+dillenburg.swedish_dialect: "Dillborg"
+wiesbaden.swedish_dialect: "Ängsbrunn"
+diez.swedish_dialect: "Didriksholm"
+usingen.swedish_dialect: "Usinge"
+katzenelnbogen.swedish_dialect: "Kattbåge"
+hadamar.swedish_dialect: "Hadmar"
+
+
+## Area 'westphalia_area' () ##
+# Province 'munsterland_province' () #
+munster.swedish_dialect: "Mynster"
+warendorf.swedish_dialect: "Varntorp"
+ahaus.swedish_dialect: "Åhus"
+horstmar.swedish_dialect: "Horsmåre"
+dulmen.swedish_dialect: "Dylmen"
+
+# Province 'ostwestphalia_province' () #
+bielefeld.swedish_dialect: "Bilefält"
+osnabruck.swedish_dialect: "Osnabrygga"
+minden.swedish_dialect: "Minden vid Weser"
+
+# Province 'lippe_province' () #
+lippstadt.swedish_dialect: "Lippstad vid Lippe"
+soest.swedish_dialect: "Sostad"
+paderborn.swedish_dialect: "Padersbrunn"
+detmold.swedish_dialect: "Detmåll"
+hoxter.swedish_dialect: "Hökstad"
+warburg.swedish_dialect: "Varborg"
+buren.swedish_dialect: "Byren"
+rietberg.swedish_dialect: "Rörberg"
+
+# Province 'sauerland_province' () #
+berleburg.swedish_dialect: "Berlaborg"
+siegen.swedish_dialect: "Sigen"
+altena.swedish_dialect: "Altna"
+arnsberg.swedish_dialect: "Örnberg"
+meschede.swedish_dialect: "Meskede"
+brilon.swedish_dialect: "Brilund"
+attendorn.swedish_dialect: "Attedorn"
+
+# Province 'ruhr_province' () #
+essen.swedish_dialect: "Essinge"
+recklinghausen.swedish_dialect: "Reklinghus"
+dortmund.swedish_dialect: "Dortmyr"
+wesel.swedish_dialect: "Vesel vid Rhen"
+hamm.swedish_dialect: "Hammar"
+bochum.swedish_dialect: "Bokum"
+
+# Province 'wesermarch_province' () #
+oldenburg.swedish_dialect: "Åldreborg"
+elsfleth.swedish_dialect: "Älvsflät vid Weser"
+gestenthorpe.swedish_dialect: "Gestatorp"
+bremen.swedish_dialect: "Bremvik vid Weser"
+osterholz.swedish_dialect: "Österhult"
+friesoythe.swedish_dialect: "Frisöte"
+delmenhorst.swedish_dialect: "Dälmenhorst"
+
+# Province 'emsland_province' () #
+lingen.swedish_dialect: "Lingen vid Ems"
+bentheim.swedish_dialect: "Benthjem"
+meppen.swedish_dialect: "Meppevik vid Ems"
+cloppenburg.swedish_dialect: "Kloppelborg"
+bersenbruck.swedish_dialect: "Bersabrygg"
+tecklenburg.swedish_dialect: "Tekleborg"
+rheine.swedish_dialect: "Rennå vid Ems"
+aschendorf.swedish_dialect: "Asketorp"
+
+# Province 'middle_weser_province' () #
+nienburg.swedish_dialect: "Nyeborg"
+hoya.swedish_dialect: "Höja vid Weser"
+diepholz.swedish_dialect: "Djupholta"
+vechta.swedish_dialect: "Väktå"
+
+
+## Area 'lower_saxony_area' () ##
+# Province 'elbmarch_province' () #
+harburg.swedish_dialect: "Harborg"
+stade.swedish_dialect: "Stadö vid Elbe"
+hamburg.swedish_dialect: "Hamborg"
+neuhaus.swedish_dialect: "Nyhus"
+ritzebuttel.swedish_dialect: "Ritsbott"
+bremervorde.swedish_dialect: "Bremervård"
+
+# Province 'hanover_province' () #
+hildesheim.swedish_dialect: "Hildhem"
+hanover.swedish_dialect: "Hannåver"
+burgdorf.swedish_dialect: "Borgtorp"
+buckeburg.swedish_dialect: "Bykkeborg"
+hamelin.swedish_dialect: "Hamlen vid Weser"
+neustadt_am_rubenberge.swedish_dialect: "Nyestad Rubeberg"
+
+# Province 'brunswick_province' () #
+brunswick.swedish_dialect: "Brunsvig"
+wolfenbuttel.swedish_dialect: "Vargbott"
+helmstedt.swedish_dialect: "Hjälmstad"
+gifhorn.swedish_dialect: "Givhorn"
+meinersen.swedish_dialect: "Mänarsen"
+
+# Province 'leine_province' () #
+holzminden.swedish_dialect: "Holmsmynne"
+gottingen.swedish_dialect: "Gyttinge"
+einbeck.swedish_dialect: "Enbäck"
+hofgeismar.swedish_dialect: "Hovgejsmar"
+muhlhausen.swedish_dialect: "Kvarnhus"
+duderstadt.swedish_dialect: "Duderstad"
+
+# Province 'luneburger_heide_province' () #
+dannenberg.swedish_dialect: "Danneberg"
+luneburg.swedish_dialect: "Luneborg"
+uelzen.swedish_dialect: "Ulfsen"
+winsen.swedish_dialect: "Vinsund"
+soltau.swedish_dialect: "Solto"
+winsen_aller.swedish_dialect: "Vinsund Allerå"
+isenhagen.swedish_dialect: "Järnhagen"
+ebstorf.swedish_dialect: "Ebstorp"
+luchow.swedish_dialect: "Lykå"
+
+# Province 'aller_province' () #
+celle.swedish_dialect: "Sellå vid Aller"
+fallingbostel.swedish_dialect: "Fallbostäl"
+verden.swedish_dialect: "Värden vid Aller"
+zeven.swedish_dialect: "Siven"
+achim.swedish_dialect: "Akim"
+
+# Province 'harz_province' () #
+nordhausen.swedish_dialect: "Nordhus"
+sangerhausen.swedish_dialect: "Sånghus"
+goslar.swedish_dialect: "Gåslar"
+alfeld.swedish_dialect: "Alfäld"
+blankenburg.swedish_dialect: "Blankborg"
+gandersheim.swedish_dialect: "Gandershem"
+herzberg.swedish_dialect: "Hjärtberg"
+ballenstedt.swedish_dialect: "Ballenstad"
+wernigerode.swedish_dialect: "Vernarod"
+
+# Province 'magdeburger_borde_province' () #
+magdeburg.swedish_dialect: "Magdeborg"
+bernburg.swedish_dialect: "Bärnborg"
+calbe.swedish_dialect: "Kalby"
+halberstadt.swedish_dialect: "Halvstad"
+quedlinburg.swedish_dialect: "Kvedlaborg"
+burg.swedish_dialect: "Borg vid Elbe"
+jerichow.swedish_dialect: "Jerikå"
+
+
+## Area 'upper_saxony_area' () ##
+# Province 'oberlausitz_province' () #
+gorlitz.swedish_dialect: "Görlits vid Neisse"
+bautzen.swedish_dialect: "Bautsen"
+zittau.swedish_dialect: "Sittå"
+hoyerswerda.swedish_dialect: "Höjervärde"
+rothenburg_oberlausitz.swedish_dialect: "Rödaborg Lausitz"
+marienstern.swedish_dialect: "Mariestjärna"
+
+# Province 'elbtal_province' () #
+meissen.swedish_dialect: "Mysen vid Elbe"
+dresden.swedish_dialect: "Dresden vid Elbe"
+pirna.swedish_dialect: "Pyrnå vid Elbe"
+liebenwerda.swedish_dialect: "Ljusvärde"
+torgau.swedish_dialect: "Torgå vid Elbe"
+annaburg.swedish_dialect: "Annaborg"
+
+# Province 'erzgebirge_province' () #
+glauchau.swedish_dialect: "Glåkå"
+zwickau.swedish_dialect: "Svikå"
+chemnitz.swedish_dialect: "Kemnits"
+freiberg.swedish_dialect: "Friberga"
+sayda.swedish_dialect: "Såjda"
+
+# Province 'leipziger_bucht_province' () #
+leipzig.swedish_dialect: "Lipsik"
+grimma.swedish_dialect: "Grimnäs"
+rochlitz.swedish_dialect: "Roklits"
+wurzen.swedish_dialect: "Vursen"
+altenburg.swedish_dialect: "Gamlaborg"
+delitzsch.swedish_dialect: "Delits"
+
+# Province 'vogtland_province' () #
+plauen.swedish_dialect: "Plåven"
+gera.swedish_dialect: "Gära"
+schleiz.swedish_dialect: "Slejs"
+hof.swedish_dialect: "Hovstad"
+
+# Province 'thuringer_becken_province' () #
+erfurt.swedish_dialect: "Ärfurt"
+eisenberg.swedish_dialect: "Järnberg"
+weimar.swedish_dialect: "Valdemarsborg"
+apolda.swedish_dialect: "Apoldå"
+arnstadt.swedish_dialect: "Arnstad"
+langensalza.swedish_dialect: "Långsal"
+sondershausen.swedish_dialect: "Sunderhus"
+saalfeld.swedish_dialect: "Salåker vid Saale"
+
+# Province 'thuringer_wald_province' () #
+hildburghausen.swedish_dialect: "Hildborgshus"
+schmalkalden.swedish_dialect: "Smalkalden"
+eisenach.swedish_dialect: "Isenåk"
+meiningen.swedish_dialect: "Menige vid Werra"
+gotha.swedish_dialect: "Gotå"
+ohrdruf.swedish_dialect: "Ordruf"
+schleusingen.swedish_dialect: "Sleusinge"
+
+# Province 'saale_province' () #
+halle_an_der_saale.swedish_dialect: "Halle vid Saale"
+naumburg.swedish_dialect: "Nyborg vid Saale"
+weissenfels.swedish_dialect: "Vitklint"
+freyburg.swedish_dialect: "Fribor"
+beichlingen.swedish_dialect: "Beiklinge"
+merseburg.swedish_dialect: "Mersborg"
+eisleben.swedish_dialect: "Islewen"
+
+
+## Area 'mecklenburg_area' () ##
+# Province 'schwerin_province' () #
+schwerin.swedish_dialect: "Sverin"
+hagenow.swedish_dialect: "Hagenå"
+grevesmuhlen.swedish_dialect: "Grevesmylle"
+wismar.swedish_dialect: "Vismar"
+doberan.swedish_dialect: "Doberån"
+grabow.swedish_dialect: "Grabå"
+rostock.swedish_dialect: "Råstock"
+butzow.swedish_dialect: "Buttså"
+
+# Province 'seenplatte_province' () #
+gustrow.swedish_dialect: "Gustro"
+parchim.swedish_dialect: "Parkim"
+malchin.swedish_dialect: "Malkin"
+waren.swedish_dialect: "Varensjö"
+neubrandenburg.swedish_dialect: "Nybrandborg"
+strelitz.swedish_dialect: "Strelits"
+malchow.swedish_dialect: "Malkå"
+
+
+## Area 'pomerania_area' () ##
+# Province 'vorpommern_province' () #
+stralsund.swedish_dialect: "Strålsund"
+ribnitz.swedish_dialect: "Ribnits"
+grimmen.swedish_dialect: "Grimmen"
+rugen.swedish_dialect: "Rygen"
+swinousjcie.swedish_dialect: "Svinöhamn"
+wolgast.swedish_dialect: "Vålgast"
+anklam.swedish_dialect: "Anklam"
+demmin.swedish_dialect: "Dämming"
+
+# Province 'stettin_province' () #
+stettin.swedish_dialect: "Stettin"
+ueckermunde.swedish_dialect: "Yckermynne"
+kamien.swedish_dialect: "Kamnö"
+nowogard.swedish_dialect: "Nystad"
+goleniow.swedish_dialect: "Gollnö"
+
+# Province 'koslin_province' () #
+koszalin.swedish_dialect: "Köslin"
+bialogard.swedish_dialect: "Vitborg"
+gryfia_gora.swedish_dialect: "Gripås"
+kolobrzeg.swedish_dialect: "Kolberga"
+swidwin.swedish_dialect: "Skivelbän"
+resko.swedish_dialect: "Reskå"
+bobolice.swedish_dialect: "Bobolitz"
+nowoszczecin.swedish_dialect: "Nystettin"
+
+# Province 'stolp_province' () #
+slupsk.swedish_dialect: "Stolpe"
+lebork.swedish_dialect: "Launborg"
+bytow.swedish_dialect: "Batå"
+miastko.swedish_dialect: "Rummelborg"
+slawno.swedish_dialect: "Slaban"
+
+# Province 'pyritz_province' () #
+pyrzyce.swedish_dialect: "Pyrits"
+choszczno.swedish_dialect: "Arnsvall"
+szadzko.swedish_dialect: "Satsik"
+gryfow.swedish_dialect: "Gripesberg"
+drawsko.swedish_dialect: "Dramborg"

@@ -1,0 +1,1047 @@
+﻿l_english:
+### Region 'balkan_region' () ###
+
+## Area 'slovenia_area' () ##
+# Province 'gorizia_province' () #
+gorizia.hungarian_language: "Görzvár"
+tolmin.hungarian_language: "Tolmány"
+trieste.hungarian_language: "Trieszt"
+
+# Province 'lower_carniola_province' () #
+novo_mesto.hungarian_language: "Újváros"
+ilirska_bistrica.hungarian_language: "Ilírpatak"
+kocevje.hungarian_language: "Kocsév"
+metlika.hungarian_language: "Metlikavár"
+postojna.hungarian_language: "Posztonya"
+
+# Province 'upper_carniola_province' () #
+ljubljana.hungarian_language: "Lublóvár"
+bled.hungarian_language: "Bledháza"
+kranj.hungarian_language: "Krajnavár"
+skofja_loka.hungarian_language: "Püspökrét"
+
+
+## Area 'slavonia_area' () ##
+# Province 'bjelovar_province' () #
+bjelovar.hungarian_language: "Belovár"
+koprivnica.hungarian_language: "Csalánvár"
+kutina.hungarian_language: "Birsfalva"
+pakrac.hungarian_language: "Pakraszeg"
+vaska.hungarian_language: "Vaskó"
+virovitica.hungarian_language: "Verőce"
+
+# Province 'vukovar_syrmia_province' () #
+vukovar.hungarian_language: "Vukovár"
+ilok.hungarian_language: "Újlak"
+osijek.hungarian_language: "Eszék"
+petrovaradin.hungarian_language: "Pétervárad"
+pozega.hungarian_language: "Pozsega"
+sremska_mitrovica.hungarian_language: "Szávaszentdemeter"
+
+# Province 'zagreb_province' () #
+zagreb.hungarian_language: "Zágráb"
+karlovac.hungarian_language: "Károlyváros"
+petrinja.hungarian_language: "Péterfalva"
+sisak.hungarian_language: "Sziszek"
+slunj.hungarian_language: "Zuhatagvár"
+varazdin.hungarian_language: "Varasd"
+
+
+## Area 'croatia_area' () ##
+# Province 'istria_province' () #
+pola.hungarian_language: "Póla"
+buzet.hungarian_language: "Buzett"
+pazin.hungarian_language: "Pázin"
+rovinj.hungarian_language: "Rovinyó"
+
+# Province 'lika_province' () #
+senj.hungarian_language: "Zengg"
+crikvenica.hungarian_language: "Szentegyháza"
+kaseg.hungarian_language: "Kasegvár"
+krk.hungarian_language: "Veglia"
+otocac.hungarian_language: "Szigetvárka"
+pag.hungarian_language: "Pág"
+rijeka.hungarian_language: "Fiume"
+
+# Province 'north_dalmatia_province' () #
+knin.hungarian_language: "Tinin"
+novigrad.hungarian_language: "Újvárad"
+sibenik.hungarian_language: "Sebenik"
+sinj.hungarian_language: "Sinyvár"
+zadar.hungarian_language: "Zára"
+
+# Province 'south_dalmatia_province' () #
+dubrovnik.hungarian_language: "Raguza"
+brac.hungarian_language: "Brács"
+makarska.hungarian_language: "Makarszka"
+metkovic.hungarian_language: "Metkóvár"
+lastovo_island_wasteland.hungarian_language: "Lasztóvó-sziget"
+slano.hungarian_language: "Sósfok"
+split.hungarian_language: "Spalató"
+
+
+## Area 'bosnia_area' () ##
+# Province 'bosnia_province' () #
+vrhbosna.hungarian_language: "Főboszna"
+borac.hungarian_language: "Bajnokfalva"
+konjic.hungarian_language: "Lóvár"
+olovo.hungarian_language: "Ólomvár"
+srebrenica.hungarian_language: "Ezüstbánya"
+zenica.hungarian_language: "Vashely"
+
+# Province 'donji_kraji_province' () #
+jajce.hungarian_language: "Jajcavár"
+glamoc.hungarian_language: "Glamócs"
+kljuc.hungarian_language: "Kulcsvár"
+livno.hungarian_language: "Léveny"
+
+# Province 'hum_province' () #
+trebinje.hungarian_language: "Trebinyevár"
+drijeva.hungarian_language: "Fapiac"
+gacko.hungarian_language: "Gackóvár"
+mostar.hungarian_language: "Hídvár"
+nevesinje.hungarian_language: "Nevesnye"
+
+# Province 'podrinje_province' () #
+ustikolina.hungarian_language: "Usztikolna"
+pljevlja.hungarian_language: "Plevjevár"
+soko_grad.hungarian_language: "Sólyomvár"
+
+# Province 'una_sana_province' () #
+bihac.hungarian_language: "Bihács"
+dubica.hungarian_language: "Dubicavár"
+gradiski_brod.hungarian_language: "Révgrad"
+kozara.hungarian_language: "Kozárerdő"
+srb.hungarian_language: "Szerbfalva"
+
+# Province 'usora_and_soli_province' () #
+doboj.hungarian_language: "Dobojvár"
+glaz.hungarian_language: "Glázvár"
+soli.hungarian_language: "Sóvár"
+srebrenik.hungarian_language: "Ezüstkő"
+teocak.hungarian_language: "Teócsák"
+
+
+## Area 'serbia_area' () ##
+# Province 'branicevo_province' () #
+branicevo.hungarian_language: "Branyicsóvár"
+kucevo.hungarian_language: "Házfalva"
+ravno.hungarian_language: "Síkmező"
+
+# Province 'kosovo_province' () #
+peja.hungarian_language: "Ipek"
+gjakova.hungarian_language: "Gyakovár"
+mitrovica.hungarian_language: "Koszovószentdemeter"
+novo_brdo.hungarian_language: "Újhegy"
+pristina.hungarian_language: "Pristinavár"
+prizren.hungarian_language: "Prizsrenvár"
+
+# Province 'macva_province' () #
+debrc.hungarian_language: "Döbrök"
+krupanj.hungarian_language: "Krupány"
+sabac.hungarian_language: "Sabács"
+valjevo.hungarian_language: "Valyevóvár"
+
+# Province 'nis_province' () #
+nis.hungarian_language: "Nyiszvár"
+glubocica.hungarian_language: "Mélypatak"
+medveda.hungarian_language: "Medvevár"
+prokuplje.hungarian_language: "Prokuplak"
+vranje.hungarian_language: "Vránya"
+
+# Province 'raska_province' () #
+trgoviste_SER.hungarian_language: "Vásárhely"
+brskovo.hungarian_language: "Breszkóbánya"
+brvenik.hungarian_language: "Berényvár"
+budimlja.hungarian_language: "Kisbuda"
+sjenica.hungarian_language: "Senyice"
+
+# Province 'sumadija_province' () #
+belgrad.hungarian_language: "Nándorfehérvár"
+smederevo.hungarian_language: "Szendrő"
+rudnik.hungarian_language: "Bányavár"
+
+# Province 'toplica_province' () #
+krusevac.hungarian_language: "Körtvár"
+jagodina.hungarian_language: "Eperszeg"
+stalac.hungarian_language: "Sztalác"
+zica.hungarian_language: "Zsicsa"
+
+# Province 'zeta_province' () #
+podgorica.hungarian_language: "Hegyalja"
+bar_cg.hungarian_language: "Antivár"
+gradina.hungarian_language: "Váralja"
+kotor.hungarian_language: "Kattaró"
+onogost.hungarian_language: "Onogostvár"
+
+# Province 'zlatibor_province' () #
+uzice.hungarian_language: "Úzsicvár"
+arilje.hungarian_language: "Árilye"
+gradac.hungarian_language: "Váracska"
+prijepolje.hungarian_language: "Prijepolyavár"
+visegrad.hungarian_language: "Visegrád"
+
+
+## Area 'bulgaria_area' () ##
+# Province 'north_dobruja_province' () #
+babadag.hungarian_language: "Babadagvár"
+cernavoda.hungarian_language: "Feketevíz"
+constanta.hungarian_language: "Konstancavár"
+enisala.hungarian_language: "Eniszállás"
+isaccea.hungarian_language: "Izsákcsa"
+tulcea.hungarian_language: "Tulcsavár"
+harsova.hungarian_language: "Hársháza"
+
+# Province 'pleven_province' () #
+pleven.hungarian_language: "Plevna"
+bozhenitsa.hungarian_language: "Bozsonfalva"
+dobrolak.hungarian_language: "Jóhely"
+gigen.hungarian_language: "Gyigen"
+hotalich.hungarian_language: "Hotalicsvár"
+lovech.hungarian_language: "Lovecsvár"
+oryahovo.hungarian_language: "Dunaőr"
+
+# Province 'preslav_province' () #
+veliki_preslav.hungarian_language: "Nagypreszláv"
+ktenia.hungarian_language: "Ketenye"
+ovech.hungarian_language: "Ovecsvár"
+razgrad.hungarian_language: "Rázgrád"
+shumen.hungarian_language: "Súmenvár"
+targoviste_BUL.hungarian_language: "Bolgárvásár"
+varna.hungarian_language: "Várna"
+
+# Province 'sredets_province' () #
+sredets.hungarian_language: "Szerdec"
+dupnitsa.hungarian_language: "Dupnicavár"
+pirot.hungarian_language: "Pirotvár"
+tsaribrod.hungarian_language: "Királyrév"
+velbuzd.hungarian_language: "Velbuzsdvár"
+samokov.hungarian_language: "Kovácsvár"
+svoge.hungarian_language: "Szvoge"
+zemlungrad.hungarian_language: "Földvár"
+
+# Province 'south_dobruja_province' () #
+karvuna.hungarian_language: "Kárvona"
+drastar.hungarian_language: "Drisztra"
+kaliakra.hungarian_language: "Kaliakraorom"
+kladentsi.hungarian_language: "Kútfalva"
+pangalia.hungarian_language: "Pángál"
+tutrakan.hungarian_language: "Tutrakanvár"
+
+# Province 'tarnovo_province' () #
+tarnovo.hungarian_language: "Tirnovó"
+cherven.hungarian_language: "Vörösvár"
+lyaskovets.hungarian_language: "Mogyorós"
+nikopol.hungarian_language: "Nikápoly"
+ruse.hungarian_language: "Rusze"
+tryavna.hungarian_language: "Triávnavár"
+
+# Province 'vidin_province' () #
+vidin.hungarian_language: "Bodony"
+archar.hungarian_language: "Árkar"
+kozelj.hungarian_language: "Kecskeszeg"
+kutlovitsa.hungarian_language: "Kútfő"
+lom.hungarian_language: "Dunalom"
+svrljig.hungarian_language: "Szirlig"
+visesav.hungarian_language: "Visszószeg"
+vratsa.hungarian_language: "Vracsvár"
+
+
+## Area 'macedonia_area' () ##
+# Province 'central_macedonia_province' () #
+edessa.hungarian_language: "Edesszavár"
+giannitsa.hungarian_language: "Janicafalva"
+gynaikokastro.hungarian_language: "Asszonyvár"
+hatera.hungarian_language: "Hatéra"
+kilkis.hungarian_language: "Kilkesz"
+veria.hungarian_language: "Vériavár"
+
+# Province 'chalkidiki_province' () #
+thessaloniki.hungarian_language: "Teszalónika"
+kassandreia.hungarian_language: "Kasszandria"
+polygyros.hungarian_language: "Poligyrosz"
+
+# Province 'lower_macedonia_province' () #
+serres.hungarian_language: "Szerrasz"
+drama.hungarian_language: "Dráma"
+kavala.hungarian_language: "Kavalavár"
+rentina.hungarian_language: "Rentinavár"
+thasos.hungarian_language: "Tasszosz"
+
+# Province 'pirin_province' () #
+melnik.hungarian_language: "Melnikkő"
+bansko.hungarian_language: "Banszkó"
+krupnik.hungarian_language: "Krupnyikfalva"
+dospat.hungarian_language: "Doszpát"
+nevrokop.hungarian_language: "Nevrokopvár"
+
+# Province 'prilep_province' () #
+prilep.hungarian_language: "Prilepvár"
+bitola.hungarian_language: "Monasztir"
+florina.hungarian_language: "Virágvár"
+kicevo.hungarian_language: "Kicsévár"
+ohrid.hungarian_language: "Ohridvár"
+tetovo.hungarian_language: "Tetővár"
+
+# Province 'upper_macedonia_province' () #
+grevena.hungarian_language: "Grevenavár"
+kastoria.hungarian_language: "Kasztóriavár"
+servia.hungarian_language: "Szerviavár"
+siatista.hungarian_language: "Sziatiszta"
+ostrovo.hungarian_language: "Szigetfalva"
+
+# Province 'vardar_province' () #
+skopje.hungarian_language: "Üszküb"
+prosek.hungarian_language: "Proszeg"
+kocani.hungarian_language: "Kocsány"
+kratovo.hungarian_language: "Kratóbánya"
+kumanovo.hungarian_language: "Kumánfalva"
+shtip.hungarian_language: "Csipvár"
+strumica.hungarian_language: "Sztromicavár"
+veles.hungarian_language: "Veleszvár"
+
+
+## Area 'thrace_area' () ##
+# Province 'burgas_province' () #
+burgas.hungarian_language: "Burgaszvár"
+anhialo.hungarian_language: "Ankialosz"
+aytos.hungarian_language: "Ajtosz"
+lardeja.hungarian_language: "Lárdja"
+rusokastro.hungarian_language: "Ruszkővár"
+sozopol.hungarian_language: "Szoszopolvár"
+
+# Province 'constantinople_province' () #
+constantinople.hungarian_language: "Konstantinápoly"
+vize.hungarian_language: "Vizevár"
+catalca.hungarian_language: "Csataldzsa"
+silivri.hungarian_language: "Szelimvár"
+corlu.hungarian_language: "Csorlu"
+
+# Province 'dardanelles_province' () #
+gallipoli.hungarian_language: "Gallipolivár"
+enez.hungarian_language: "Enéz"
+hayrabolu.hungarian_language: "Hajrabolu"
+malgara.hungarian_language: "Malgara"
+rodoscuk.hungarian_language: "Rodostó"
+kesan.hungarian_language: "Késán"
+
+# Province 'edirne_province' () #
+edirne.hungarian_language: "Drinápoly"
+ahtopol.hungarian_language: "Ahtapol"
+luleburgaz.hungarian_language: "Lülleborgáz"
+kiyikoy.hungarian_language: "Kijiköj"
+kirklareli.hungarian_language: "Kirklarélivár"
+
+# Province 'evros_province' () #
+demotica.hungarian_language: "Dimotika"
+traianopolis.hungarian_language: "Trajánváros"
+komotini.hungarian_language: "Komotinivár"
+xanthia.hungarian_language: "Szántia"
+
+# Province 'rhodopes_province' () #
+stanimaka.hungarian_language: "Sztanimaka"
+beden.hungarian_language: "Bedenvár"
+haskovo.hungarian_language: "Haskovó"
+ormenio.hungarian_language: "Orményfalva"
+perperek.hungarian_language: "Perperekvár"
+smolyan.hungarian_language: "Szmolján"
+ustra.hungarian_language: "Ustravár"
+
+# Province 'sliven_province' () #
+sliven.hungarian_language: "Szliven"
+boruy.hungarian_language: "Borujvár"
+bukelon.hungarian_language: "Bukelomvár"
+constantia_bul.hungarian_language: "Kosztencs"
+elhovo.hungarian_language: "Elhóvó"
+hiambouli.hungarian_language: "Jambol"
+
+# Province 'zagore_province' () #
+plovdiv.hungarian_language: "Filibe"
+kostenets.hungarian_language: "Kosztenec"
+kran.hungarian_language: "Kránvár"
+stipon.hungarian_language: "Sztiponvár"
+strelcha.hungarian_language: "Sztrelcsa"
+tsepina.hungarian_language: "Csepina"
+
+
+## Area 'albania_area' () ##
+# Province 'albania_province' () #
+durres.hungarian_language: "Durazzó"
+ballsh.hungarian_language: "Balásfalva"
+berat.hungarian_language: "Berátvár"
+debar.hungarian_language: "Debárvár"
+devol.hungarian_language: "Devolvár"
+elbasan.hungarian_language: "Elbaszán"
+kavaje.hungarian_language: "Kávaj"
+kruje.hungarian_language: "Krója"
+tirana.hungarian_language: "Tiránavár"
+
+# Province 'illyria_province' () #
+shkoder.hungarian_language: "Skutari"
+dukagjini.hungarian_language: "Dukagyinvidék"
+has.hungarian_language: "Haszfalva"
+koman.hungarian_language: "Kómanfalva"
+lezha.hungarian_language: "Alessóvár"
+
+# Province 'north_epirus_province' () #
+avlonya.hungarian_language: "Valona"
+argyrokastro.hungarian_language: "Ezüstvár"
+butrint.hungarian_language: "Butrintvár"
+kleisoura_epirus.hungarian_language: "Kliszuraszoros"
+konitsa.hungarian_language: "Konicsavár"
+
+
+## Area 'northern_greece_area' () ##
+# Province 'aetolia_province' () #
+angelokastron.hungarian_language: "Angyalvár"
+karpenisi.hungarian_language: "Karpeniszi"
+loidoriki.hungarian_language: "Loidorik"
+nafpaktos.hungarian_language: "Lepantó"
+salona.hungarian_language: "Szalonavár"
+vonitsa.hungarian_language: "Vonicaszeg"
+
+# Province 'attica_province' () #
+athens.hungarian_language: "Athén"
+atalanti.hungarian_language: "Atalantivár"
+livadeia.hungarian_language: "Rétvár"
+megara.hungarian_language: "Megaravár"
+thebes.hungarian_language: "Tébaháza"
+
+# Province 'ionian_islands_province' () #
+corfu.hungarian_language: "Korfu"
+cephalonia.hungarian_language: "Kefalónia"
+leukas.hungarian_language: "Lefkász"
+zakynthos.hungarian_language: "Zakintosz"
+
+# Province 'neopatras_province' () #
+neopatras.hungarian_language: "Újpatrasz"
+bodonitsa.hungarian_language: "Bodonica"
+gravia.hungarian_language: "Gráviavár"
+zetounion.hungarian_language: "Olajfalva"
+
+# Province 'south_epirus_province' () #
+arta.hungarian_language: "Artavár"
+ioannina.hungarian_language: "Janina"
+parga.hungarian_language: "Pargavár"
+preveza.hungarian_language: "Prevezavár"
+pyli.hungarian_language: "Kapuvár"
+
+# Province 'thessaly_province' () #
+larissa.hungarian_language: "Larissza"
+demetrias.hungarian_language: "Demetriasz"
+elassona.hungarian_language: "Elasszona"
+farsala.hungarian_language: "Farszalavár"
+karditsa.hungarian_language: "Kardicavár"
+stomio.hungarian_language: "Sztomio"
+trikala.hungarian_language: "Trikála"
+tyrnavos.hungarian_language: "Tirnavosz"
+
+
+## Area 'morea_area' () ##
+# Province 'achaea_province' () #
+patras.hungarian_language: "Patrasz"
+chalandritsa.hungarian_language: "Halándrica"
+kalavryta.hungarian_language: "Kalavritavár"
+vostitsa.hungarian_language: "Voszticavár"
+
+# Province 'arcadia_province' () #
+tripolitsa.hungarian_language: "Tripolisza"
+karytaina.hungarian_language: "Kariténavár"
+veligosti.hungarian_language: "Veligoszti"
+
+# Province 'argolis_province' () #
+argos.hungarian_language: "Argosz"
+astros.hungarian_language: "Asztrosz"
+ermioni.hungarian_language: "Hermionivár"
+nafplio.hungarian_language: "Náplio"
+
+# Province 'corinthia_province' () #
+corinth.hungarian_language: "Korinthosz"
+damala.hungarian_language: "Damalavár"
+xylokastro.hungarian_language: "Favár"
+
+# Province 'ilia_province' () #
+andravida.hungarian_language: "Andravida"
+andritsaina.hungarian_language: "Andricaina"
+pontikokastro.hungarian_language: "Pontikóvár"
+
+# Province 'laconia_province' () #
+mystras.hungarian_language: "Misztrasz"
+kythira.hungarian_language: "Kithíra"
+monemvasia.hungarian_language: "Monemvásziavár"
+oitylo.hungarian_language: "Ítiló"
+
+# Province 'messenia_province' () #
+kalamata.hungarian_language: "Kalamata"
+kyparissia.hungarian_language: "Küparisszia"
+leuktron.hungarian_language: "Leuktronvár"
+modon.hungarian_language: "Modon"
+
+
+## Area 'aegean_archipelago_area' () ##
+# Province 'chios_province' () #
+chios.hungarian_language: "Hiosz"
+ikaria.hungarian_language: "Ikária"
+samos.hungarian_language: "Számosz"
+
+# Province 'crete_province' () #
+candia.hungarian_language: "Kandia"
+chania.hungarian_language: "Hánia"
+elounda.hungarian_language: "Elúnda"
+gergeri.hungarian_language: "Gergéri"
+hagios_pavlos.hungarian_language: "Szentpál"
+rethymno.hungarian_language: "Rethimnó"
+siteia.hungarian_language: "Szitia"
+viannos.hungarian_language: "Viannosz"
+
+# Province 'euboea_province' () #
+negroponte.hungarian_language: "Feketehíd"
+eretreia.hungarian_language: "Eretréa"
+karystos.hungarian_language: "Karisztosz"
+kleisoura.hungarian_language: "Szoroskapu"
+kymi.hungarian_language: "Kümi"
+oreos.hungarian_language: "Oréosz"
+
+# Province 'lemnos_province' () #
+mitilene.hungarian_language: "Mütiléné"
+molyvos.hungarian_language: "Molüvosz"
+imbros.hungarian_language: "Imbrosz"
+lemnos.hungarian_language: "Lémnosz"
+sporades.hungarian_language: "Szporád-szigetek"
+
+# Province 'naxos_province' () #
+naxos.hungarian_language: "Naxosz"
+amorgos.hungarian_language: "Amorgosz"
+andros.hungarian_language: "Androsz"
+kythnos.hungarian_language: "Küthnosz"
+milos.hungarian_language: "Mílosz"
+mykonos.hungarian_language: "Mükonosz"
+
+# Province 'rodos_province' () #
+rodos.hungarian_language: "Rodosz"
+karpathos.hungarian_language: "Kárpathosz"
+kos.hungarian_language: "Kósz"
+
+### Region 'south_german_region' () ###
+
+## Area 'austria_area' () ##
+# Province 'unter_dem_wienerwald_province' () #
+vienna.hungarian_language: "Bécs"
+austria_baden.hungarian_language: "Bécsfürdő"
+bruck_leitha.hungarian_language: "Lajtaújvár"
+
+# Province 'ober_dem_manhartsberg_province' () #
+krems.hungarian_language: "Dunakemse"
+horn.hungarian_language: "Kürtvár"
+waidhofen_an_der_thaya.hungarian_language: "Tajaváros"
+zwettl.hungarian_language: "Szetellő"
+
+# Province 'ober_dem_wienerwald_province' () #
+st_polten.hungarian_language: "Szentpölte"
+amstetten.hungarian_language: "Ámosfalva"
+lilienfeld.hungarian_language: "Liliommező"
+melk.hungarian_language: "Dunamellek"
+scheibbs.hungarian_language: "Sajbás"
+tulln.hungarian_language: "Tulnavár"
+waidhofen.hungarian_language: "Ibseváros"
+
+# Province 'unter_dem_manhartsberg_province' () #
+hollabrunn.hungarian_language: "Hollókút"
+ganserndorf.hungarian_language: "Ludfalva"
+korneuburg.hungarian_language: "Kornújvár"
+mistelbach.hungarian_language: "Fagyöngypatak"
+
+
+## Area 'upper_austria_area' () ##
+# Province 'schaunberg_province' () #
+linz.hungarian_language: "Lincvár"
+braunau.hungarian_language: "Innparti Barna"
+ried.hungarian_language: "Irtáspuszta"
+st_georgen.hungarian_language: "Szentgyörgyháza"
+scharding.hungarian_language: "Sárdony"
+
+# Province 'muhlviertel_province' () #
+freistadt.hungarian_language: "Szabadvár"
+perg.hungarian_language: "Pergővár"
+rohrbach.hungarian_language: "Nádpatak"
+
+# Province 'traungau_province' () #
+steyr.hungarian_language: "Sztajervár"
+bad_ischl.hungarian_language: "Islói Fürdő"
+gmunden.hungarian_language: "Gumundvár"
+kirchdorf.hungarian_language: "Egyházfalva"
+wels.hungarian_language: "Velszmező"
+
+
+## Area 'salzburg_area' () ##
+# Province 'salzburger_land_province' () #
+salzburg.hungarian_language: "Sóvár"
+berchtesgaden.hungarian_language: "Bertoldmajor"
+hallein.hungarian_language: "Sódomb"
+
+# Province 'pinzgau_province' () #
+zell_am_see.hungarian_language: "Tóparti Cella"
+mittersill.hungarian_language: "Miterszil"
+saalfelden.hungarian_language: "Szálföld"
+
+# Province 'pongau_province' () #
+st_johann.hungarian_language: "Szentjánosvár"
+bischofshofen.hungarian_language: "Püspökudvar"
+tamsweg.hungarian_language: "Tamásút"
+
+
+## Area 'styria_area' () ##
+# Province 'middle_styria_province' () #
+graz.hungarian_language: "Grác"
+leibnitz.hungarian_language: "Lajbóc"
+voitsberg.hungarian_language: "Fajchegy"
+
+# Province 'lower_styria_province' () #
+celje.hungarian_language: "Cillevár"
+lasko.hungarian_language: "Laskófürdő"
+maribor.hungarian_language: "Drávavár"
+ptuj.hungarian_language: "Pettaújvár"
+slovenj_gradec.hungarian_language: "Vendvárad"
+
+# Province 'upper_styria_province' () #
+judenburg.hungarian_language: "Zsidóvár"
+leoben.hungarian_language: "Lőbénvár"
+liezen.hungarian_language: "Lícefalva"
+murau.hungarian_language: "Muramező"
+rottenmann.hungarian_language: "Rothmánháza"
+schladming.hungarian_language: "Szeladom"
+kapfenberg.hungarian_language: "Kápfényhegy"
+murzzuschlag.hungarian_language: "Mürcvágó"
+
+# Province 'eastern_styria_province' () #
+pitten.hungarian_language: "Péterfalva"
+wiener_neustadt.hungarian_language: "Bécsújhely"
+furstenfeld.hungarian_language: "Fejedelemrét"
+weiz.hungarian_language: "Vajcmező"
+feldbach.hungarian_language: "Mezőpatak"
+
+
+## Area 'carinthia_area' () ##
+# Province 'lower_carinthia_province' () #
+wolfsberg.hungarian_language: "Farkashegy"
+st_veit.hungarian_language: "Szentvid"
+friesach.hungarian_language: "Frizsákvár"
+volkermarkt.hungarian_language: "Népvásár"
+klagenfurt.hungarian_language: "Panaszvár"
+feldkirchen.hungarian_language: "Mezőegyház"
+
+# Province 'upper_carinthia_province' () #
+villach.hungarian_language: "Villákvár"
+hermagor.hungarian_language: "Harmagor"
+steinfeld.hungarian_language: "Kőmező"
+winklern.hungarian_language: "Vinkfalva"
+spittal.hungarian_language: "Ispotályvár"
+lienz.hungarian_language: "Lencvár"
+
+
+## Area 'tirol_area' () ##
+# Province 'south_tirol_province' () #
+bolzano.hungarian_language: "Bóznavár"
+brixen.hungarian_language: "Brikszén"
+bruneck.hungarian_language: "Brunakő"
+cavalese.hungarian_language: "Kavalész"
+merano.hungarian_language: "Meránvár"
+silandro.hungarian_language: "Zilándor"
+sterzing.hungarian_language: "Szercegvár"
+villandro.hungarian_language: "Villandor"
+
+# Province 'trentino_province' () #
+trento.hungarian_language: "Trentóvár"
+cles.hungarian_language: "Kleszmező"
+riva.hungarian_language: "Révpart"
+rovereto.hungarian_language: "Roverétfalva"
+
+# Province 'unterinntal_province' () #
+schwaz.hungarian_language: "Svácbánya"
+innsbruck.hungarian_language: "Innhídvár"
+zell_am_ziller.hungarian_language: "Zillervölgy"
+kufstein.hungarian_language: "Kőfényvár"
+kitzbuhel.hungarian_language: "Gidáshegy"
+
+# Province 'oberinntal_province' () #
+imst.hungarian_language: "Imesvár"
+reutte.hungarian_language: "Rojtavár"
+landeck.hungarian_language: "Landokő"
+
+# Province 'vorarlberg_province' () #
+feldkirch.hungarian_language: "Mezőszék"
+bregenz.hungarian_language: "Bregencvár"
+bludenz.hungarian_language: "Bludencfalva"
+
+
+## Area 'central_switzerland_area' () ##
+# Province 'bern_province' () #
+bern.hungarian_language: "Medvevár"
+burgdorf_emmental.hungarian_language: "Emenvárfalu"
+saanen.hungarian_language: "Szánonvölgy"
+thun.hungarian_language: "Tunavár"
+frutigen.hungarian_language: "Frutag"
+interlaken.hungarian_language: "Kéttóköz"
+
+# Province 'oberwallis_province' () #
+brig.hungarian_language: "Briggvár"
+sion.hungarian_language: "Cionvár"
+martigny.hungarian_language: "Mártonfalva"
+monthey.hungarian_language: "Hegyeshely"
+
+# Province 'aargau_province' () #
+aarau.hungarian_language: "Áravidék"
+baden_im_aargau.hungarian_language: "Árafürdő"
+lucerne.hungarian_language: "Luzern"
+wolhusen.hungarian_language: "Farkasháza"
+
+
+## Area 'eastern_switzerland_area' () ##
+# Province 'waldstatte_province' () #
+schwyz.hungarian_language: "Svici"
+glarus.hungarian_language: "Glarusvölgy"
+altdorf.hungarian_language: "Ófalu"
+sarnen.hungarian_language: "Szárnafő"
+
+# Province 'graubunden_province' () #
+tarasp.hungarian_language: "Taraspvár"
+zuoz.hungarian_language: "Zuócz"
+disentis.hungarian_language: "Dizentis"
+davos.hungarian_language: "Davosfürdő"
+chur.hungarian_language: "Kurovár"
+ilanz.hungarian_language: "Illancfalva"
+mesocco.hungarian_language: "Mesokkó"
+
+# Province 'thurgau_province' () #
+zurich.hungarian_language: "Zürvár"
+werdenberg.hungarian_language: "Verdenhegy"
+st_gallen.hungarian_language: "Szentgál"
+frauenfeld.hungarian_language: "Asszonyrét"
+toggenburg.hungarian_language: "Tokánvár"
+kyburg.hungarian_language: "Kivár"
+
+
+## Area 'western_switzerland_area' () ##
+# Province 'vaud_province' () #
+geneve.hungarian_language: "Genf"
+nyon.hungarian_language: "Nyonvár"
+yverdon_les_bains.hungarian_language: "Ivárfürdő"
+lausanne.hungarian_language: "Lauszánvár"
+montreux.hungarian_language: "Montrőszőlő"
+fribourg.hungarian_language: "Szabadvár"
+gruyere.hungarian_language: "Sajtvölgy"
+
+# Province 'neuchatel_province' () #
+delemont.hungarian_language: "Delémond"
+neuchatel.hungarian_language: "Újkastély"
+solothurn.hungarian_language: "Soltorony"
+basel.hungarian_language: "Bázel"
+bienne.hungarian_language: "Bélpart"
+
+
+## Area 'upper_rhine_area' () ##
+# Province 'palatinate_province' () #
+kaiserslautern.hungarian_language: "Császárirtás"
+zweibrucken.hungarian_language: "Kéthida"
+speyer.hungarian_language: "Rajnaszpir"
+pirmasens.hungarian_language: "Pirmaszék"
+germersheim.hungarian_language: "Germérháza"
+leiningen.hungarian_language: "Lénvár"
+heidelberg.hungarian_language: "Hangashegy"
+landau_rhineland.hungarian_language: "Rajnaföld"
+neustadt_an_der_haardt.hungarian_language: "Hardi Újváros"
+
+# Province 'kraichgau_province' () #
+sinsheim.hungarian_language: "Sinshegy"
+heilbronn.hungarian_language: "Szentkút"
+bruchsal.hungarian_language: "Mocsárvár"
+durlach.hungarian_language: "Durlak"
+
+# Province 'schwarzwald_province' () #
+calw.hungarian_language: "Kelvavár"
+oberndorf.hungarian_language: "Felsőfalu"
+oberkirch.hungarian_language: "Felsőegyháza"
+nagold.hungarian_language: "Nagyold"
+villingen.hungarian_language: "Villengrád"
+furstenberg.hungarian_language: "Fejedelemhegy"
+waldshut.hungarian_language: "Erdőőrs"
+bonndorf.hungarian_language: "Bándorfalva"
+
+# Province 'rhine_valley_province' () #
+freiburg.hungarian_language: "Szabadvárhegy"
+mullheim.hungarian_language: "Molnárháza"
+offenburg.hungarian_language: "Nyitvár"
+hachberg.hungarian_language: "Haghegy"
+baden.hungarian_language: "Bádenfürdő"
+
+# Province 'odenwald_province' () #
+bensheim.hungarian_language: "Bensháza"
+mosbach.hungarian_language: "Mohospatak"
+buchen.hungarian_language: "Bükkös"
+erbach.hungarian_language: "Ércpatak"
+
+
+## Area 'swabia_area' () ##
+# Province 'hegau_province' () #
+konstanz.hungarian_language: "Konstancvár"
+uberlingen.hungarian_language: "Übelénpart"
+schaffhausen.hungarian_language: "Juhvár"
+stockach.hungarian_language: "Tokak"
+
+# Province 'hohenloher_ebene_province' () #
+ellwangen.hungarian_language: "Ellvár"
+welzheim.hungarian_language: "Velchegy"
+dinkelsbuhl.hungarian_language: "Tönkhalom"
+oettingen.hungarian_language: "Öttény"
+
+# Province 'swabian_alb_province' () #
+ulm.hungarian_language: "Ulmvár"
+heidenheim.hungarian_language: "Pogányháza"
+sigmaringen.hungarian_language: "Zsigmondvár"
+riedlingen.hungarian_language: "Rétliget"
+helfenstein.hungarian_language: "Segélykő"
+balingen.hungarian_language: "Bálingvár"
+hohenberg.hungarian_language: "Magashegy"
+erbach_swabia.hungarian_language: "Érpatak"
+
+# Province 'eastern_upper_swabia_province' () #
+augsburg.hungarian_language: "Lechvár"
+memmingen.hungarian_language: "Memingvár"
+krumbach.hungarian_language: "Görbepatak"
+gunzburg.hungarian_language: "Güncvár"
+dillingen.hungarian_language: "Dillinga"
+wertingen.hungarian_language: "Vertény"
+illereichen.hungarian_language: "Illerpart"
+
+# Province 'western_upper_swabia_province' () #
+ravensburg.hungarian_language: "Hollóvár"
+biberach.hungarian_language: "Hódpatak"
+waldburg.hungarian_language: "Erdővár"
+waldsee.hungarian_language: "Erdőtó"
+saulgau.hungarian_language: "Szulgafalva"
+
+# Province 'allgau_province' () #
+immenstadt.hungarian_language: "Imenhely"
+sonthofen.hungarian_language: "Szontfalva"
+kempten.hungarian_language: "Kemtenvár"
+oberdorf.hungarian_language: "Felfalu"
+
+# Province 'neckar_province' () #
+horb.hungarian_language: "Horba"
+tubingen.hungarian_language: "Tübavár"
+stuttgart.hungarian_language: "Suttakert"
+urach.hungarian_language: "Urákő"
+vaihingen.hungarian_language: "Vajhín"
+goppingen.hungarian_language: "Göpingvár"
+
+
+## Area 'franconia_area' () ##
+# Province 'ries_province' () #
+nuremberg.hungarian_language: "Nürvár"
+schwabach.hungarian_language: "Svábpatak"
+ansbach.hungarian_language: "Anszpatak"
+uffenheim.hungarian_language: "Uffény"
+rothenburg.hungarian_language: "Vörösvár"
+neustadt.hungarian_language: "Újváros"
+
+# Province 'franconian_alb_province' () #
+neumarkt.hungarian_language: "Újvásár"
+weissenburg.hungarian_language: "Fehérvár"
+eichstatt.hungarian_language: "Tölgyes"
+parsberg.hungarian_language: "Párchegy"
+beilngries.hungarian_language: "Belingrét"
+
+# Province 'frankische_schweiz_province' () #
+bayreuth.hungarian_language: "Bajorút"
+forchheim.hungarian_language: "Fortyán"
+pegnitz.hungarian_language: "Pegpatak"
+schesslitz.hungarian_language: "Seszléc"
+wunsiedel.hungarian_language: "Vonzid"
+kulmbach.hungarian_language: "Kulmpatak"
+eschenbach.hungarian_language: "Kőrispatak"
+tirschenreuth.hungarian_language: "Tirsenrét"
+sulzbach.hungarian_language: "Szilpatak"
+bamberg.hungarian_language: "Bamberhegy"
+
+# Province 'main_franconia_province' () #
+hassfurt.hungarian_language: "Hászrév"
+wurzburg.hungarian_language: "Vürcvár"
+karlstadt.hungarian_language: "Károlyváros"
+schweinfurt.hungarian_language: "Disznórév"
+kitzingen.hungarian_language: "Kecskés"
+mellrichstadt.hungarian_language: "Melrichváros"
+konigshofen.hungarian_language: "Királyudvar"
+aschach.hungarian_language: "Ások"
+
+# Province 'frankenwald_province' () #
+coburg.hungarian_language: "Kóbárvár"
+kronach.hungarian_language: "Koronás"
+lichtenfels.hungarian_language: "Fénykő"
+
+# Province 'tauberfranken_province' () #
+mergentheim.hungarian_language: "Mergeny"
+hall.hungarian_language: "Sóhalom"
+crailsheim.hungarian_language: "Kréles"
+backnang.hungarian_language: "Baknó"
+ohringen.hungarian_language: "Őring"
+tauberbischofsheim.hungarian_language: "Tauberpüspök"
+
+
+## Area 'bavaria_area' () ##
+# Province 'alpenvorland_province' () #
+garmisch.hungarian_language: "Garamfalu"
+schongau.hungarian_language: "Sóngó"
+weilheim.hungarian_language: "Vájhely"
+miesbach.hungarian_language: "Mészpatak"
+tolz.hungarian_language: "Tölzvölgy"
+
+# Province 'munchner_schotterebene_province' () #
+munich.hungarian_language: "Barátvár"
+ebersberg.hungarian_language: "Kocáshegy"
+landsberg.hungarian_language: "Földvárhegy"
+andechs.hungarian_language: "Andókő"
+indersdorf.hungarian_language: "Indásfalva"
+friedberg.hungarian_language: "Békéshegy"
+freising.hungarian_language: "Frézsingvár"
+erding.hungarian_language: "Érdény"
+
+# Province 'chiemgau_province' () #
+traunstein.hungarian_language: "Traunkő"
+laufen.hungarian_language: "Futásrév"
+wasserburg.hungarian_language: "Vízvár"
+muhldorf.hungarian_language: "Malomfalva"
+rosenheim.hungarian_language: "Rózsahely"
+
+# Province 'gauboden_province' () #
+landau.hungarian_language: "Isarföld"
+eggenfelden.hungarian_language: "Eggenrét"
+landshut.hungarian_language: "Földőr"
+griesbach.hungarian_language: "Kavicspatak"
+burghausen.hungarian_language: "Várház"
+
+# Province 'donau_moos_province' () #
+neuburg_an_der_donau.hungarian_language: "Dunamenti Újvár"
+ingolstadt.hungarian_language: "Angyalváros"
+rottenburg.hungarian_language: "Romvár"
+pfaffenhofen.hungarian_language: "Paptelek"
+regensburg.hungarian_language: "Dunaszeg"
+mallersdorf.hungarian_language: "Málosfalva"
+kelheim.hungarian_language: "Kelvavár"
+
+# Province 'bayerischer_wald_province' () #
+passau.hungarian_language: "Hármasfolyó"
+grafenau.hungarian_language: "Grófrét"
+bavaria_regen.hungarian_language: "Régenpatak"
+straubing.hungarian_language: "Dunasztrab"
+
+# Province 'oberpfalzer_wald_province' () #
+cham.hungarian_language: "Kamvár"
+amberg.hungarian_language: "Borostyánhegy"
+leuchtenberg.hungarian_language: "Fényeshegy"
+roding.hungarian_language: "Ródony"
+burglengenfeld.hungarian_language: "Hosszúrétvár"
+
+
+## Area 'bohemia_area' () ##
+# Province 'bechinsko_province' () #
+bechyne.hungarian_language: "Besnyővár"
+budejovice.hungarian_language: "Budvár"
+j_hradec.hungarian_language: "Henrikvár"
+krumlov.hungarian_language: "Krumlóvár"
+trebon.hungarian_language: "Trebonytó"
+
+# Province 'boleslavsko_province' () #
+mlada_boleslav.hungarian_language: "Ifjúboleszló"
+frydlant.hungarian_language: "Békeföld"
+turnov.hungarian_language: "Tornóvár"
+
+# Province 'chebsko_province' () #
+cheb.hungarian_language: "Csebvár"
+jachymov.hungarian_language: "Jákobvölgy"
+loket.hungarian_language: "Könyökvár"
+
+# Province 'hradecko_province' () #
+hradec_kralove.hungarian_language: "Királyvár"
+jicin.hungarian_language: "Jicsény"
+klodzko.hungarian_language: "Gácsvár"
+nachod.hungarian_language: "Náhódvár"
+podebrady.hungarian_language: "Brodalja"
+
+# Province 'litomericko_province' () #
+litomerice.hungarian_language: "Littómérvár"
+decin.hungarian_language: "Decsén"
+usti_nad_labem.hungarian_language: "Elbatorok"
+
+# Province 'plzensko_province' () #
+plzen.hungarian_language: "Pilzen"
+domazlice.hungarian_language: "Domazslak"
+klatovy.hungarian_language: "Klatovvár"
+tachov.hungarian_language: "Takóvár"
+tepla.hungarian_language: "Melegpatak"
+
+# Province 'chrudimsko_province' () #
+caslav.hungarian_language: "Császlavháza"
+chrudim.hungarian_language: "Krodimvár"
+kutna_hora.hungarian_language: "Bányadomb"
+litomysl.hungarian_language: "Litomisel"
+nemecky_brod.hungarian_language: "Németbród"
+
+# Province 'prachensko_province' () #
+prachen.hungarian_language: "Prákény"
+husinec.hungarian_language: "Libafalva"
+pisek.hungarian_language: "Homokvár"
+
+# Province 'prague_province' () #
+prague.hungarian_language: "Prága"
+benesov.hungarian_language: "Benesóvár"
+beroun.hungarian_language: "Berunvár"
+kourim.hungarian_language: "Kórim"
+slany.hungarian_language: "Sósfalu"
+
+# Province 'zatecko_province' () #
+zatec.hungarian_language: "Zsatec"
+most.hungarian_language: "Hídvár"
+rakovnik.hungarian_language: "Rákfalva"
+
+
+## Area 'moravia_area' () ##
+# Province 'znojemsko_province' () #
+znojmo.hungarian_language: "Znaimvár"
+bitov.hungarian_language: "Bítfalva"
+dacice.hungarian_language: "Dacsóc"
+jihlava.hungarian_language: "Iglavár"
+
+# Province 'brnensko_province' () #
+brno.hungarian_language: "Brünnvár"
+pernstejn.hungarian_language: "Pernsteinvár"
+hodonin.hungarian_language: "Hodonvár"
+vyskov.hungarian_language: "Viskő"
+
+# Province 'olomoucko_province' () #
+olomouc.hungarian_language: "Almóc"
+prostejov.hungarian_language: "Prostvár"
+zabreh.hungarian_language: "Zábrég"
+sumperk.hungarian_language: "Somperg"
+
+# Province 'hradistsko_province' () #
+hradiste.hungarian_language: "Várhely"
+vizovice.hungarian_language: "Vizavic"
+prerov.hungarian_language: "Peróvár"
+pribor.hungarian_language: "Priborvár"
+
+
+## Area 'alsace_area' () ##
+# Province 'lower_alsace_province' () #
+strasbourg.hungarian_language: "Rajnatorony"
+haguenau.hungarian_language: "Hágóliget"
+zabern.hungarian_language: "Zabrenvár"
+lichtenberg.hungarian_language: "Lánghegy"
+benfeld.hungarian_language: "Benedekrét"
+
+# Province 'upper_alsace_province' () #
+colmar.hungarian_language: "Kalmarvár"
+belfort.hungarian_language: "Erődmező"
+ensisheim.hungarian_language: "Enzisház"
+ferrette.hungarian_language: "Feretrét"
+murbach.hungarian_language: "Mórpatak"
+mulhouse.hungarian_language: "Malomháza"

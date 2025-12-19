@@ -1,0 +1,450 @@
+﻿l_english:
+### Region 'steppes_region' () ###
+
+## Area 'crimea_area' () ##
+# Province 'gothia_province' () #
+theodoro.ukrainian_dialect: "Fedorske"
+qirq_yer.ukrainian_dialect: "Sorokosillia"
+lusta.ukrainian_dialect: "Lustyn"
+qarasuvbazar.ukrainian_dialect: "Chornovodsk"
+
+# Province 'cafa_province' () #
+kaffa.ukrainian_dialect: "Daromorsk"
+soldaia.ukrainian_dialect: "Sudatske"
+vosporo.ukrainian_dialect: "Prolyvne"
+seyitler.ukrainian_dialect: "Saitove"
+solkhat.ukrainian_dialect: "Staryi Krym"
+
+# Province 'or_qapi_province' () #
+kalay.ukrainian_dialect: "Oloviane"
+kezlev.ukrainian_dialect: "Hezliv Bereh"
+aqmecit.ukrainian_dialect: "Bilamechetne"
+jurchi.ukrainian_dialect: "Yurchyn"
+or_qapi.ukrainian_dialect: "Perekop"
+
+
+## Area 'matrega_area' () ##
+# Province 'taman_province' () #
+taman.ukrainian_dialect: "Tmutorokan"
+mapa.ukrainian_dialect: "Mapyn Horodok"
+susaco.ukrainian_dialect: "Susatske"
+shanjir.ukrainian_dialect: "Shandzhorske"
+copa.ukrainian_dialect: "Kopanske"
+siba_circassia.ukrainian_dialect: "Syba Cherkaska"
+
+# Province 'tuapse_province' () #
+tuapse.ukrainian_dialect: "Tuapsyn Bereh"
+costa.ukrainian_dialect: "Berehove"
+khadyzhi.ukrainian_dialect: "Khadyzhyn"
+kuzhyb.ukrainian_dialect: "Kuzhybivka"
+maykop.ukrainian_dialect: "Maikopil"
+moschevo.ukrainian_dialect: "Moshchove"
+
+# Province 'akhtar_province' () #
+akhtar.ukrainian_dialect: "Akhtarske"
+kalininskaya.ukrainian_dialect: "Kalynivka Stepova"
+bryukhovetskaya.ukrainian_dialect: "Briukhovetske"
+bzhedygu_kal.ukrainian_dialect: "Bedzhykal"
+ust_labinsk.ukrainian_dialect: "Ustia Laby"
+pavlovskaya.ukrainian_dialect: "Pavlivska Sloboda"
+tbilisskaya.ukrainian_dialect: "Tbilyska"
+romanovsky_khutor.ukrainian_dialect: "Romaniv Khutir"
+
+# Province 'labinsk_province' () #
+chatyun.ukrainian_dialect: "Chatiunivka"
+adyukh.ukrainian_dialect: "Adiukha"
+armavir.ukrainian_dialect: "Armavir"
+shkhancheriekhabl.ukrainian_dialect: "Cherkaskyi Yar"
+belorechensk.ukrainian_dialect: "Bilorechynsk"
+
+
+## Area 'yedisan_area' () ##
+# Province 'khadjibey_province' () #
+khadjibey.ukrainian_dialect: "Hadzhibei"
+teligol.ukrainian_dialect: "Tylihulske"
+kuyanlik.ukrainian_dialect: "Kuyanlykivka"
+ananiv.ukrainian_dialect: "Ananiv"
+iagorlic.ukrainian_dialect: "Yahorlytske"
+
+# Province 'boh_province' () #
+dashev.ukrainian_dialect: "Dasheve Prybuzke"
+balikley.ukrainian_dialect: "Balakliia Stepova"
+aqmecit_prybuzhzhya.ukrainian_dialect: "Bilamechet Prybuzka"
+argamakli_sarai.ukrainian_dialect: "Konyarske"
+vithold_hammami.ukrainian_dialect: "Vitoltovi Lazni"
+harbuzynka.ukrainian_dialect: "Harbuzynka"
+
+# Province 'oleshia_province' () #
+oleshia.ukrainian_dialect: "Oleshky"
+bereznehuvate.ukrainian_dialect: "Bereznehuvate"
+bashtanka.ukrainian_dialect: "Bashtanka"
+tavan.ukrainian_dialect: "Tavanske"
+velyka_oleksandrivka.ukrainian_dialect: "Velyka Oleksandrivka"
+
+# Province 'qalancak_province' () #
+qalancaq.ukrainian_dialect: "Kalanchak"
+aslan_horod.ukrainian_dialect: "Levhorod"
+ordu_bazar.ukrainian_dialect: "Ordynyi Bazar"
+rohat_kermen.ukrainian_dialect: "Rohatyi Kamin"
+enice.ukrainian_dialect: "Yenychi"
+velyka_lepetykha.ukrainian_dialect: "Velyka Lepetykha"
+
+
+## Area 'zaporizhzhia_area' () ##
+# Province 'zaporizhzhia_province' () #
+kichkas.ukrainian_dialect: "Kichkas Pereviz"
+rozdory.ukrainian_dialect: "Rozdory"
+hryshyne.ukrainian_dialect: "Hryshyne Pole"
+pavlohrad.ukrainian_dialect: "Pavlohrad"
+
+# Province 'yelanets_province' () #
+yelanets.ukrainian_dialect: "Yelanets Stepovyi"
+usivka.ukrainian_dialect: "Usivka"
+mala_vyska.ukrainian_dialect: "Mala Vyska"
+umanske.ukrainian_dialect: "Umanske"
+ingul.ukrainian_dialect: "Pryinhulske"
+petrove.ukrainian_dialect: "Petrove"
+
+# Province 'karlivka_province' () #
+karlivka.ukrainian_dialect: "Karlivka"
+kolomak.ukrainian_dialect: "Kolomak"
+berestyn.ukrainian_dialect: "Berestyn"
+samarchyk.ukrainian_dialect: "Samarchyk"
+oril.ukrainian_dialect: "Pryorilske"
+ternivka.ukrainian_dialect: "Ternivka"
+
+# Province 'kodaky_province' () #
+kodak.ukrainian_dialect: "Kodaky"
+myshuryn_rih.ukrainian_dialect: "Myshuryn Rih"
+sofiivka.ukrainian_dialect: "Sofiivka"
+kryvyi_rih.ukrainian_dialect: "Kryvyi Rih"
+tomakivka.ukrainian_dialect: "Tomakivka"
+mykytyn_rih.ukrainian_dialect: "Mykytyn Rih"
+
+
+## Area 'kursk_area' () ##
+# Province 'kursk_province' () #
+kursk.ukrainian_dialect: "Kursk"
+fatezh.ukrainian_dialect: "Fatezhyn"
+opalkova.ukrainian_dialect: "Opalkove"
+kosozhichi.ukrainian_dialect: "Kozozhychi"
+manturovo_kursk.ukrainian_dialect: "Manturove"
+olgov.ukrainian_dialect: "Olhiiv"
+oskol.ukrainian_dialect: "Oskil"
+troitskoye_na_shchigrakh.ukrainian_dialect: "Troitske na Shchyhri"
+
+# Province 'belgorod_province' () #
+belgorod.ukrainian_dialect: "Bilhorod"
+korocha.ukrainian_dialect: "Korocha"
+oboyan.ukrainian_dialect: "Oboian"
+muzhech.ukrainian_dialect: "Muzhechyn"
+rakitnoye.ukrainian_dialect: "Rakytnivka"
+sudzha.ukrainian_dialect: "Sudzha"
+
+# Province 'yelets_province' () #
+yelets.ukrainian_dialect: "Yeletske"
+gogol.ukrainian_dialect: "Hoholiv"
+talitsa_yelets.ukrainian_dialect: "Talitske"
+terbuny.ukrainian_dialect: "Terbunivka"
+ust_livny.ukrainian_dialect: "Ustia Livna"
+zemlyansk.ukrainian_dialect: "Zemlianske"
+
+# Province 'alexeyevka_province' () #
+alexeyevka.ukrainian_dialect: "Oleksiivka"
+rovenki.ukrainian_dialect: "Rovenky"
+valuyki.ukrainian_dialect: "Valuyky"
+chernyanka.ukrainian_dialect: "Chornyanka"
+kastornoye.ukrainian_dialect: "Kastorne"
+
+# Province 'voronezh_province' () #
+voronezh.ukrainian_dialect: "Voronizh"
+anna_russia.ukrainian_dialect: "Annyne"
+novaya_pokrovka.ukrainian_dialect: "Nova Pokrivka"
+semidesyatnoye.ukrainian_dialect: "Semydesiatne"
+ostrogozhsk.ukrainian_dialect: "Ostrohozk"
+rossosh.ukrainian_dialect: "Rososh"
+
+
+## Area 'sloboda_ukraine_area' () ##
+# Province 'bielska_sloboda_province' () #
+bielska_sloboda.ukrainian_dialect: "Bilska Sloboda"
+bilovodsk.ukrainian_dialect: "Bilovodsk"
+novopskov.ukrainian_dialect: "Novopskov"
+kalnivka.ukrainian_dialect: "Kalnivka"
+nyzhnia_duvanka.ukrainian_dialect: "Nyzhnia Duvanka"
+konstantinovka.ukrainian_dialect: "Kostiantynivka"
+
+# Province 'izium_province' () #
+izium.ukrainian_dialect: "Izium"
+adalaga.ukrainian_dialect: "Adalaha"
+barvinkove.ukrainian_dialect: "Barvinkove"
+kupiansk.ukrainian_dialect: "Kupiansk"
+sloviansk.ukrainian_dialect: "Sloviansk"
+vovchansk.ukrainian_dialect: "Vovchansk"
+
+# Province 'sumy_province' () #
+sumy.ukrainian_dialect: "Sumy"
+glushkovo.ukrainian_dialect: "Hlushkove"
+krasnopillia.ukrainian_dialect: "Krasnopillia"
+vilshana.ukrainian_dialect: "Vilshana"
+
+# Province 'donetsk_province' () #
+donets_kharkiv.ukrainian_dialect: "Slobidskyi Donets"
+chuhuiv.ukrainian_dialect: "Chuhuiv"
+khotmyzh.ukrainian_dialect: "Khotmyzhhorod"
+kotelva.ukrainian_dialect: "Kotelva"
+okhtyrka.ukrainian_dialect: "Okhtyrka"
+zmiiv.ukrainian_dialect: "Zmiiv"
+
+
+## Area 'pryazovia_area' () ##
+# Province 'berda_province' () #
+melitopol.ukrainian_dialect: "Melitopol"
+kyrylivka.ukrainian_dialect: "Kyrylivka"
+tokmak.ukrainian_dialect: "Tokmak"
+konski_vody.ukrainian_dialect: "Kinski Vody"
+kuchugur.ukrainian_dialect: "Kuchuhury"
+berdiansk.ukrainian_dialect: "Berdiansk"
+
+# Province 'kalmius_province' () #
+taganrog.ukrainian_dialect: "Tahanrih"
+velyka_novosilka.ukrainian_dialect: "Velyka Novosilka"
+domakha.ukrainian_dialect: "Domakha"
+huliaipole.ukrainian_dialect: "Huliaipole"
+shyrokyne.ukrainian_dialect: "Shyrokyne"
+vasylivka.ukrainian_dialect: "Vasylivka"
+
+# Province 'bakhmut_province' () #
+bakhmut.ukrainian_dialect: "Bakhmut"
+lysychansk.ukrainian_dialect: "Lysychansk"
+kreminna.ukrainian_dialect: "Kreminna"
+oleksandrivka.ukrainian_dialect: "Oleksandrivka"
+posad.ukrainian_dialect: "Posadnykivka"
+
+
+## Area 'azov_area' () ##
+# Province 'azov_province' () #
+azok.ukrainian_dialect: "Aziv"
+bagayevskaya.ukrainian_dialect: "Bagayeve"
+shcherbinovka.ukrainian_dialect: "Shcherbynivka"
+balzimachi.ukrainian_dialect: "Balzymach"
+kanevskaya.ukrainian_dialect: "Kanivska Stepova"
+starominskaya.ukrainian_dialect: "Staromynske"
+yegorlykskaya.ukrainian_dialect: "Yehorlytske"
+
+# Province 'tana_province' () #
+tana.ukrainian_dialect: "Tanais"
+krasny_sulin.ukrainian_dialect: "Chervonyi Sulyn"
+shakhty.ukrainian_dialect: "Shakhtynsk"
+rovenky.ukrainian_dialect: "Rovenky nad Donom"
+kalmius.ukrainian_dialect: "Prykalmiuske"
+kamenskaya.ukrainian_dialect: "Kamenske"
+
+# Province 'semikarakorsk_province' () #
+semikarakorsk.ukrainian_dialect: "Semykarakory"
+bol_shaya_martynovka.ukrainian_dialect: "Velyka Martynivka"
+cheplak.ukrainian_dialect: "Cheplak"
+bolshoy_gashun.ukrainian_dialect: "Velykyi Hashun"
+dubovskoye.ukrainian_dialect: "Dubivske"
+yundin.ukrainian_dialect: "Yundyn"
+
+# Province 'ust_tsimla_province' () #
+ust_tsimla.ukrainian_dialect: "Ustia Tsimly"
+konstantinovsk.ukrainian_dialect: "Kostiantynivsk"
+tatsinskaya.ukrainian_dialect: "Tatsynska"
+tormosin.ukrainian_dialect: "Tormosyn"
+
+# Province 'luhan_province' () #
+luhansk.ukrainian_dialect: "Luhansk"
+mityakinskaya.ukrainian_dialect: "Mitiakynska"
+novoaidar.ukrainian_dialect: "Novoaidar"
+belaya_kalitva.ukrainian_dialect: "Bila Kalytva"
+millerovo.ukrainian_dialect: "Mylerove"
+
+
+## Area 'lower_don_area' () ##
+# Province 'kremenskaya_province' () #
+kremenskaya.ukrainian_dialect: "Kremenska"
+kletskaya.ukrainian_dialect: "Kletska"
+ust_medveditskaya.ukrainian_dialect: "Ustia Medvedytsi"
+oblivskaya.ukrainian_dialect: "Oblivska"
+nizhny_chir.ukrainian_dialect: "Nyzhnii Chyr"
+
+# Province 'kashary_province' () #
+kashary.ukrainian_dialect: "Kashary"
+chertkovo.ukrainian_dialect: "Chertkove"
+bokovskaya.ukrainian_dialect: "Bokivska"
+milyutinskaya.ukrainian_dialect: "Miliutynska"
+boguchar.ukrainian_dialect: "Bohuchar"
+
+# Province 'borisoglebsk_province' () #
+borisoglebsk.ukrainian_dialect: "Borysohlebsk"
+bannoye.ukrainian_dialect: "Lazneve"
+kalach.ukrainian_dialect: "Kalach nad Donom"
+sadovoye.ukrainian_dialect: "Sadove"
+bolshaya_gribanovka.ukrainian_dialect: "Velyka Hrybanivka"
+buturlinovka.ukrainian_dialect: "Buturlinivka"
+verkhny_mamon.ukrainian_dialect: "Verkhnii Mamon"
+uryupin.ukrainian_dialect: "Uriupyn"
+
+# Province 'mikhaylovka_province' () #
+mikhaylovka.ukrainian_dialect: "Mykhailivka"
+novoanninsky.ukrainian_dialect: "Novoannynske"
+alexeyevskaya.ukrainian_dialect: "Oleksiivska"
+veesky.ukrainian_dialect: "Viiske"
+kumylzhenskaya.ukrainian_dialect: "Kumyzhenska"
+zimnyatsky.ukrainian_dialect: "Zymniatske"
+malodelskaya.ukrainian_dialect: "Malodelska"
+ilovlya.ukrainian_dialect: "Ilovlia"
+
+# Province 'beljamen_province' () #
+mechet.ukrainian_dialect: "Mechetne"
+stepanevka.ukrainian_dialect: "Stepanivka"
+sarai_al_jadid.ukrainian_dialect: "Novyi Sarai"
+beljamen.ukrainian_dialect: "Bilshamen"
+zenzevatka.ukrainian_dialect: "Zenzuvate"
+nagavskaya.ukrainian_dialect: "Nahavska"
+aksay.ukrainian_dialect: "Aksai"
+
+# Province 'yelan_province' () #
+yelan.ukrainian_dialect: "Yelan Stepova"
+machekha.ukrainian_dialect: "Machenka"
+novonikolayevsky.ukrainian_dialect: "Novomykolaivsk"
+samoylovka.ukrainian_dialect: "Samoilivka"
+rudnya_pontic.ukrainian_dialect: "Rudnia Stepova"
+danilovka.ukrainian_dialect: "Danylivka"
+kotovo.ukrainian_dialect: "Kotove"
+kamyshin.ukrainian_dialect: "Kamishyn"
+goly_karamysh.ukrainian_dialect: "Holo Karamysh"
+
+
+## Area 'astrakhan_area' () ##
+# Province 'astrakhan_province' () #
+astrakhan.ukrainian_dialect: "Astrakhan nad Volhoiu"
+khosheutovo.ukrainian_dialect: "Khosheutove"
+krasny_yar.ukrainian_dialect: "Chervonyi Yar"
+ganyushkino.ukrainian_dialect: "Haniushkyne"
+
+# Province 'pologoye_zaymishche_province' () #
+pologoye_zaymishche.ukrainian_dialect: "Polohe Zaimyshche"
+srednyaya_akhtuba.ukrainian_dialect: "Serednia Akhtuba"
+bykovo.ukrainian_dialect: "Bykove"
+elton.ukrainian_dialect: "Solonyi Elton"
+zolotari.ukrainian_dialect: "Zolotari"
+berezhnovka.ukrainian_dialect: "Berezhnivka"
+
+# Province 'zamyany_province' () #
+zamyany.ukrainian_dialect: "Zamiany"
+yenotayevka.ukrainian_dialect: "Yenotaivka"
+sapara.ukrainian_dialect: "Sapary"
+chernyye_zemli.ukrainian_dialect: "Chorni Zemli"
+ikryanoye.ukrainian_dialect: "Ikriane"
+
+# Province 'chyorny_yar_province' () #
+chyorny_yar.ukrainian_dialect: "Chornyi Yar"
+nikolskoye_pontic.ukrainian_dialect: "Mykolskyi Stan"
+malye_derbety.ukrainian_dialect: "Mali Derbety"
+sadovoye_kalmykia.ukrainian_dialect: "Sadove Kalmytske"
+ded_khulsun.ukrainian_dialect: "Did Khulsun"
+zavetnoye.ukrainian_dialect: "Zavetne"
+
+# Province 'bolkhuny_province' () #
+bolkhuny.ukrainian_dialect: "Bolkhuny"
+mikhaylovka_pontic.ukrainian_dialect: "Mykhailivka Stepova"
+rechnoye.ukrainian_dialect: "Richkove"
+bokey.ukrainian_dialect: "Bokei"
+botkul.ukrainian_dialect: "Botkul"
+zhanybek.ukrainian_dialect: "Zhanybek"
+
+# Province 'dardeling_province' () #
+dardeling.ukrainian_dialect: "Dardelyn"
+mekletin.ukrainian_dialect: "Mekletyne"
+kok_usn.ukrainian_dialect: "Syni Ustia"
+yashkul.ukrainian_dialect: "Yashkul"
+iki_burul.ukrainian_dialect: "Dvokrynytsia"
+
+# Province 'priyutnoye_province' () #
+priyutnoye.ukrainian_dialect: "Pryiutne"
+elista.ukrainian_dialect: "Elista"
+remontnoye.ukrainian_dialect: "Remontne"
+gorodovikovsk.ukrainian_dialect: "Horodovykivsk"
+raguli.ukrainian_dialect: "Rahuli"
+
+
+## Area 'majar_area' () ##
+# Province 'majar_province' () #
+majar.ukrainian_dialect: "Mazhar"
+zelenokumsk.ukrainian_dialect: "Zelenokumsk"
+arzgir.ukrainian_dialect: "Arzyhir"
+levokumskoye.ukrainian_dialect: "Livokumske"
+novopavlovsk.ukrainian_dialect: "Novopavlivsk"
+yessentuq.ukrainian_dialect: "Yesentuki"
+alexandrovskoye.ukrainian_dialect: "Oleksandrovske"
+blagodarnoye.ukrainian_dialect: "Blahodarne"
+novoselitskoye.ukrainian_dialect: "Novoselytske"
+
+# Province 'terek_province' () #
+naurskaya.ukrainian_dialect: "Naurska"
+kara_bazaar.ukrainian_dialect: "Chornyi Bazar"
+terekli_mekteb.ukrainian_dialect: "Teryk Mekteb"
+kurskaya.ukrainian_dialect: "Kurska Sloboda"
+kamysh_burun.ukrainian_dialect: "Kamyshovyi Rih"
+
+# Province 'stavropol_province' () #
+stavropol.ukrainian_dialect: "Stavropol"
+grigoropolisskaya.ukrainian_dialect: "Hryhoropil"
+uspenskoye.ukrainian_dialect: "Uspenske"
+shad_kirman.ukrainian_dialect: "Tserkva"
+petrovskoye_pontic.ukrainian_dialect: "Petrovske Pole"
+
+# Province 'privolnoye_province' () #
+privolnoye.ukrainian_dialect: "Pryvolne"
+belaya_glina.ukrainian_dialect: "Bila Hlyna"
+peschanokopskoye.ukrainian_dialect: "Pishchianokopsk"
+novo_alexandrovskoye.ukrainian_dialect: "Novooleksandrovske"
+bezopasnoye.ukrainian_dialect: "Bezpechne"
+ipatovo.ukrainian_dialect: "Ipatove"
+
+
+## Area 'lower_yik_area' () ##
+# Province 'kalmyk_province' () #
+kalmyk.ukrainian_dialect: "Kalmytske Pole"
+karatobe.ukrainian_dialect: "Chorna Toba"
+shyngyrlau.ukrainian_dialect: "Shyngyrlau"
+aksay_pointic.ukrainian_dialect: "Stepovyi"
+zhympity.ukrainian_dialect: "Zhympyty"
+terekti.ukrainian_dialect: "Terekty"
+oral.ukrainian_dialect: "Oral nad Yikom"
+
+# Province 'ryn_province' () #
+ryn.ukrainian_dialect: "Rynska Pustelia"
+ushtagan.ukrainian_dialect: "Ushtahan"
+sarayjuk.ukrainian_dialect: "Sarajchyk"
+kisikkamys.ukrainian_dialect: "Kysyk Kamysh"
+kulagin.ukrainian_dialect: "Kulahin"
+saryadyn.ukrainian_dialect: "Sariadyn"
+talowski.ukrainian_dialect: "Talivsk"
+
+# Province 'piterka_province' () #
+piterka.ukrainian_dialect: "Piterka"
+krasny_kut_pontic.ukrainian_dialect: "Chervonyi Kut"
+mokrous.ukrainian_dialect: "Mokrous"
+savinka.ukrainian_dialect: "Savynka"
+rovnoye.ukrainian_dialect: "Rivne"
+pokrovsk.ukrainian_dialect: "Pokrovske"
+baronsk.ukrainian_dialect: "Baronsk"
+
+# Province 'taskala_province' () #
+taskala.ukrainian_dialect: "Taskala"
+dergachi.ukrainian_dialect: "Derhachi"
+chertanla.ukrainian_dialect: "Chertanla"
+alexandrov_gay.ukrainian_dialect: "Floryanivka"
+ozinki.ukrainian_dialect: "Ozinky"
+
+# Province 'mechetnaya_province' () #
+mechetnaya.ukrainian_dialect: "Mechetna"
+perelyub.ukrainian_dialect: "Pereliub"
+ivanteyevka.ukrainian_dialect: "Ivanteivka"
+balakovo.ukrainian_dialect: "Balakove"
+dukhovnitskoye.ukrainian_dialect: "Dukhovnytske"
+yershov.ukrainian_dialect: "Yershov"

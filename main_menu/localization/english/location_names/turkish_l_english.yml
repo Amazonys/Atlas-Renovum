@@ -1,0 +1,2855 @@
+﻿l_english:
+### Region 'balkan_region' () ###
+
+## Area 'slovenia_area' () ##
+# Province 'gorizia_province' () #
+gorizia.turkish_language: "Goriza"
+tolmin.turkish_language: "Tolova"
+trieste.turkish_language: "Terst"
+
+# Province 'lower_carniola_province' () #
+novo_mesto.turkish_language: "Yenişehir"
+ilirska_bistrica.turkish_language: "İlir Pınarı"
+kocevje.turkish_language: "Koçorman"
+metlika.turkish_language: "Metlik"
+postojna.turkish_language: "Mağarahisar"
+
+# Province 'upper_carniola_province' () #
+ljubljana.turkish_language: "Lublyana"
+bled.turkish_language: "Bled Gölü"
+kranj.turkish_language: "Hudutkale"
+skofja_loka.turkish_language: "Papaskent"
+
+
+## Area 'slavonia_area' () ##
+# Province 'bjelovar_province' () #
+bjelovar.turkish_language: "Akkale"
+koprivnica.turkish_language: "Isırgankent"
+kutina.turkish_language: "Ayvalık"
+pakrac.turkish_language: "Pınarkent"
+vaska.turkish_language: "Vasköy"
+virovitica.turkish_language: "Virova"
+
+# Province 'vukovar_syrmia_province' () #
+vukovar.turkish_language: "Kurtkale"
+ilok.turkish_language: "İlak"
+osijek.turkish_language: "Ösek"
+petrovaradin.turkish_language: "Petervaradin"
+pozega.turkish_language: "Poziga"
+sremska_mitrovica.turkish_language: "Sirem"
+
+# Province 'zagreb_province' () #
+zagreb.turkish_language: "Zagrib"
+karlovac.turkish_language: "Karlova"
+petrinja.turkish_language: "Petriye"
+sisak.turkish_language: "Sişek"
+slunj.turkish_language: "Sulunca"
+varazdin.turkish_language: "Varadin"
+
+
+## Area 'croatia_area' () ##
+# Province 'istria_province' () #
+pola.turkish_language: "Pola"
+buzet.turkish_language: "Buzet"
+pazin.turkish_language: "Pazin"
+rovinj.turkish_language: "Rovin"
+
+# Province 'lika_province' () #
+senj.turkish_language: "Sen"
+crikvenica.turkish_language: "Kervanik"
+kaseg.turkish_language: "Kasak"
+krk.turkish_language: "Karak"
+otocac.turkish_language: "Adakale"
+pag.turkish_language: "Pagos"
+rijeka.turkish_language: "Fiyume"
+
+# Province 'north_dalmatia_province' () #
+knin.turkish_language: "Kin"
+novigrad.turkish_language: "Yeni Hisar"
+sibenik.turkish_language: "Sebenik"
+sinj.turkish_language: "Sin"
+zadar.turkish_language: "Zara"
+
+# Province 'south_dalmatia_province' () #
+dubrovnik.turkish_language: "Raguza"
+brac.turkish_language: "Baraç"
+makarska.turkish_language: "Makar"
+metkovic.turkish_language: "Metköy"
+slano.turkish_language: "Tuz Limanı"
+split.turkish_language: "İspalat"
+
+
+## Area 'bosnia_area' () ##
+# Province 'bosnia_province' () #
+vrhbosna.turkish_language: "Saraybosna"
+borac.turkish_language: "Savaşköy"
+konjic.turkish_language: "Atköy"
+olovo.turkish_language: "Kurşunlu"
+srebrenica.turkish_language: "Gümüşhisar"
+zenica.turkish_language: "Zeniçe"
+
+# Province 'donji_kraji_province' () #
+jajce.turkish_language: "Yayçe"
+glamoc.turkish_language: "Glamuç"
+kljuc.turkish_language: "Kılıçhisar"
+livno.turkish_language: "Livna"
+
+# Province 'hum_province' () #
+trebinje.turkish_language: "Trebinye"
+drijeva.turkish_language: "Diriyeva"
+gacko.turkish_language: "Gatska"
+mostar.turkish_language: "Mostar"
+nevesinje.turkish_language: "Nevşen"
+
+# Province 'podrinje_province' () #
+ustikolina.turkish_language: "Üstkol"
+pljevlja.turkish_language: "Taşlıca"
+soko_grad.turkish_language: "Şahinkale"
+
+# Province 'una_sana_province' () #
+bihac.turkish_language: "Bihaç"
+dubica.turkish_language: "Meşekent"
+gradiski_brod.turkish_language: "İskelehisar"
+kozara.turkish_language: "Keçiler"
+srb.turkish_language: "Alpova"
+
+# Province 'usora_and_soli_province' () #
+doboj.turkish_language: "Doboy"
+glaz.turkish_language: "Gölaz"
+soli.turkish_language: "Tuz Ovası"
+srebrenik.turkish_language: "Gümüşkale"
+teocak.turkish_language: "Tevak"
+
+
+## Area 'serbia_area' () ##
+# Province 'branicevo_province' () #
+branicevo.turkish_language: "Barniçe"
+kucevo.turkish_language: "Evköy"
+ravno.turkish_language: "Düzova"
+
+# Province 'kosovo_province' () #
+peja.turkish_language: "İpek"
+gjakova.turkish_language: "Yakova"
+mitrovica.turkish_language: "Mitroviçe"
+novo_brdo.turkish_language: "Yeni Tepe"
+pristina.turkish_language: "Priştine"
+prizren.turkish_language: "Prizren"
+
+# Province 'macva_province' () #
+debrc.turkish_language: "Debreç"
+krupanj.turkish_language: "Kurpan"
+sabac.turkish_language: "Böğürdelen"
+valjevo.turkish_language: "Valyevo"
+
+# Province 'nis_province' () #
+nis.turkish_language: "Niş"
+glubocica.turkish_language: "Derinçay"
+medveda.turkish_language: "Ayköy"
+prokuplje.turkish_language: "Prokuplu"
+vranje.turkish_language: "İvranye"
+
+# Province 'raska_province' () #
+trgoviste_SER.turkish_language: "Pazarkent"
+brskovo.turkish_language: "Bırsko"
+brvenik.turkish_language: "Bervenik"
+budimlja.turkish_language: "Budimlya"
+sjenica.turkish_language: "Seniçe"
+
+# Province 'sumadija_province' () #
+belgrad.turkish_language: "Belgrad"
+smederevo.turkish_language: "Semendire"
+rudnik.turkish_language: "Madenhisar"
+
+# Province 'toplica_province' () #
+krusevac.turkish_language: "Alacahisar"
+jagodina.turkish_language: "Çilekkent"
+stalac.turkish_language: "İstalaç"
+zica.turkish_language: "Zişe"
+
+# Province 'zeta_province' () #
+podgorica.turkish_language: "Dağaltı"
+bar_cg.turkish_language: "Bar"
+gradina.turkish_language: "Hisarcık"
+kotor.turkish_language: "Kotor"
+onogost.turkish_language: "Onogoş"
+
+# Province 'zlatibor_province' () #
+uzice.turkish_language: "Üziçe"
+arilje.turkish_language: "Arilye"
+gradac.turkish_language: "Küçükhisar"
+prijepolje.turkish_language: "Pazarova"
+visegrad.turkish_language: "Yüksekhisar"
+
+
+## Area 'bulgaria_area' () ##
+# Province 'north_dobruja_province' () #
+babadag.turkish_language: "Babadag"
+cernavoda.turkish_language: "Çernavoda"
+constanta.turkish_language: "Köstence"
+enisala.turkish_language: "Enisala"
+isaccea.turkish_language: "İsakça"
+tulcea.turkish_language: "Tulça"
+harsova.turkish_language: "Hırsova"
+
+# Province 'pleven_province' () #
+pleven.turkish_language: "Plevne"
+bozhenitsa.turkish_language: "Bojenitsa"
+dobrolak.turkish_language: "Dobrolak"
+gigen.turkish_language: "Gigen"
+hotalich.turkish_language: "Hotalik"
+lovech.turkish_language: "Loveç"
+oryahovo.turkish_language: "Oryahova"
+
+# Province 'preslav_province' () #
+veliki_preslav.turkish_language: "Büyük Preslav"
+ktenia.turkish_language: "Ktenya"
+ovech.turkish_language: "Oveç"
+razgrad.turkish_language: "Hezargrad"
+shumen.turkish_language: "Şumnu"
+targoviste_BUL.turkish_language: "Pazarcık"
+varna.turkish_language: "Varna"
+
+# Province 'sredets_province' () #
+sredets.turkish_language: "Sofya"
+dupnitsa.turkish_language: "Duptisa"
+pirot.turkish_language: "Şehirköy"
+tsaribrod.turkish_language: "Kralgeçidi"
+velbuzd.turkish_language: "Velbuzt"
+samokov.turkish_language: "Demirköy"
+svoge.turkish_language: "İsvoge"
+zemlungrad.turkish_language: "Toprakhisar"
+
+# Province 'south_dobruja_province' () #
+karvuna.turkish_language: "Karvuna"
+drastar.turkish_language: "Silistre"
+kaliakra.turkish_language: "Kalikra"
+kladentsi.turkish_language: "Pınarlı"
+pangalia.turkish_language: "Pangaliya"
+tutrakan.turkish_language: "Turtukay"
+
+# Province 'tarnovo_province' () #
+tarnovo.turkish_language: "Tırnova"
+cherven.turkish_language: "Çerven"
+lyaskovets.turkish_language: "Laskovets"
+nikopol.turkish_language: "Niğbolu"
+ruse.turkish_language: "Rusçuk"
+tryavna.turkish_language: "Tıravna"
+
+# Province 'vidin_province' () #
+vidin.turkish_language: "Vidin"
+archar.turkish_language: "Arçar"
+kozelj.turkish_language: "Kozelye"
+kutlovitsa.turkish_language: "Kutloviçe"
+lom.turkish_language: "Lom"
+svrljig.turkish_language: "Sivricik"
+visesav.turkish_language: "Viçesav"
+vratsa.turkish_language: "İvraca"
+
+
+## Area 'macedonia_area' () ##
+# Province 'central_macedonia_province' () #
+edessa.turkish_language: "Vodina"
+giannitsa.turkish_language: "Yenice"
+gynaikokastro.turkish_language: "Avrethisarı"
+hatera.turkish_language: "Hatere"
+kilkis.turkish_language: "Kılkış"
+veria.turkish_language: "Karaferye"
+
+# Province 'chalkidiki_province' () #
+thessaloniki.turkish_language: "Selanik"
+kassandreia.turkish_language: "Kesendire"
+mount_athos.turkish_language: "Aynoroz Dağı"
+polygyros.turkish_language: "Poligir"
+lake_volvi.turkish_language: "Volvi Gölü"
+
+# Province 'lower_macedonia_province' () #
+serres.turkish_language: "Serez"
+drama.turkish_language: "Drama"
+kavala.turkish_language: "Kavala"
+rentina.turkish_language: "Rentina"
+thasos.turkish_language: "Taşoz"
+
+# Province 'pirin_province' () #
+melnik.turkish_language: "Melniko"
+bansko.turkish_language: "Bansko"
+krupnik.turkish_language: "Kurupnik"
+dospat.turkish_language: "Despata"
+nevrokop.turkish_language: "Nevrekop"
+
+# Province 'prilep_province' () #
+prilep.turkish_language: "Pirlepe"
+bitola.turkish_language: "Manastır"
+florina.turkish_language: "Filorin"
+kicevo.turkish_language: "Kırçova"
+ohrid.turkish_language: "Ohri"
+tetovo.turkish_language: "Kalkandelen"
+
+# Province 'upper_macedonia_province' () #
+grevena.turkish_language: "Grevine"
+kastoria.turkish_language: "Kesriye"
+servia.turkish_language: "Servi"
+siatista.turkish_language: "Siyatista"
+ostrovo.turkish_language: "Ostrova"
+
+# Province 'vardar_province' () #
+skopje.turkish_language: "Üsküp"
+prosek.turkish_language: "Prosek"
+kocani.turkish_language: "Koçana"
+kratovo.turkish_language: "Kratova"
+kumanovo.turkish_language: "Kumanova"
+shtip.turkish_language: "İştib"
+strumica.turkish_language: "Ustrumca"
+veles.turkish_language: "Köprülü"
+
+
+## Area 'thrace_area' () ##
+# Province 'burgas_province' () #
+burgas.turkish_language: "Burgaz"
+anhialo.turkish_language: "Ahyolu"
+aytos.turkish_language: "Aytos"
+lardeja.turkish_language: "Larde"
+rusokastro.turkish_language: "Rus Kasrı"
+sozopol.turkish_language: "Süzebolu"
+
+# Province 'constantinople_province' () #
+constantinople.turkish_language: "İstanbul"
+vize.turkish_language: "Vize"
+catalca.turkish_language: "Çatalca"
+silivri.turkish_language: "Silivri"
+corlu.turkish_language: "Çorlu"
+
+# Province 'dardanelles_province' () #
+gallipoli.turkish_language: "Gelibolu"
+enez.turkish_language: "Enez"
+hayrabolu.turkish_language: "Hayrabolu"
+malgara.turkish_language: "Malkara"
+rodoscuk.turkish_language: "Rodosçuk"
+kesan.turkish_language: "Keşan"
+
+# Province 'edirne_province' () #
+edirne.turkish_language: "Edirne"
+ahtopol.turkish_language: "Ahtapolu"
+luleburgaz.turkish_language: "Lüleburgaz"
+kiyikoy.turkish_language: "Kıyıköy"
+kirklareli.turkish_language: "Kırklareli"
+
+# Province 'evros_province' () #
+demotica.turkish_language: "Dimetoka"
+traianopolis.turkish_language: "Trayanbolu"
+komotini.turkish_language: "Gümülcine"
+xanthia.turkish_language: "İskeçe"
+
+# Province 'rhodopes_province' () #
+stanimaka.turkish_language: "İstanimaka"
+beden.turkish_language: "Beden"
+haskovo.turkish_language: "Hasköy"
+ormenio.turkish_language: "Ormenyon"
+perperek.turkish_language: "Perperik"
+smolyan.turkish_language: "Paşmaklı"
+ustra.turkish_language: "Ustura"
+
+# Province 'sliven_province' () #
+sliven.turkish_language: "İslimye"
+boruy.turkish_language: "Boruy"
+bukelon.turkish_language: "Bukelon"
+constantia_bul.turkish_language: "Konstantia"
+elhovo.turkish_language: "Elhova"
+hiambouli.turkish_language: "Yanbolu"
+
+# Province 'zagore_province' () #
+plovdiv.turkish_language: "Filibe"
+kostenets.turkish_language: "Kösteneç"
+kran.turkish_language: "Kranova"
+stipon.turkish_language: "İstipan"
+strelcha.turkish_language: "Strelçe"
+tsepina.turkish_language: "Çepina"
+
+
+## Area 'albania_area' () ##
+# Province 'albania_province' () #
+durres.turkish_language: "Dıraç"
+ballsh.turkish_language: "Balış"
+berat.turkish_language: "Berat"
+debar.turkish_language: "Debre"
+devol.turkish_language: "Devollu"
+elbasan.turkish_language: "İlbasan"
+kavaje.turkish_language: "Kavaya"
+kruje.turkish_language: "Akçahisar"
+tirana.turkish_language: "Tiran"
+
+# Province 'illyria_province' () #
+shkoder.turkish_language: "İşkodra"
+dukagjini.turkish_language: "Dukakin"
+has.turkish_language: "Has"
+koman.turkish_language: "Koman"
+lezha.turkish_language: "Leş"
+
+# Province 'north_epirus_province' () #
+avlonya.turkish_language: "Avlonya"
+argyrokastro.turkish_language: "Ergiri"
+butrint.turkish_language: "Butrint"
+kleisoura_epirus.turkish_language: "Klisura"
+konitsa.turkish_language: "Konice"
+
+## Area 'northern_greece_area' () ##
+# Province 'aetolia_province' () #
+angelokastron.turkish_language: "Angelokastro"
+karpenisi.turkish_language: "Karpenis"
+loidoriki.turkish_language: "Lidoriki"
+nafpaktos.turkish_language: "İnebahtı"
+salona.turkish_language: "Salona"
+vonitsa.turkish_language: "Vonica"
+# Province 'attica_province' () #
+athens.turkish_language: "Atina"
+atalanti.turkish_language: "Atalandi"
+livadeia.turkish_language: "Livadiya"
+megara.turkish_language: "Megara"
+thebes.turkish_language: "Teb"
+
+# Province 'ionian_islands_province' () #
+corfu.turkish_language: "Korfu"
+cephalonia.turkish_language: "Kefalonya"
+leukas.turkish_language: "Ayamavra"
+zakynthos.turkish_language: "Zanta"
+
+# Province 'neopatras_province' () #
+neopatras.turkish_language: "Yenipetra"
+bodonitsa.turkish_language: "Vodonitsa"
+gravia.turkish_language: "Gravia"
+zetounion.turkish_language: "İzdin"
+
+# Province 'south_epirus_province' () #
+arta.turkish_language: "Narda"
+ioannina.turkish_language: "Yanya"
+parga.turkish_language: "Parga"
+preveza.turkish_language: "Preveze"
+pyli.turkish_language: "Pili"
+
+# Province 'thessaly_province' () #
+larissa.turkish_language: "Larisa"
+demetrias.turkish_language: "Demetrias"
+elassona.turkish_language: "Elasonya"
+farsala.turkish_language: "Farsala"
+karditsa.turkish_language: "Karditsa"
+stomio.turkish_language: "Stomio"
+trikala.turkish_language: "Tırhala"
+tyrnavos.turkish_language: "Tirnavo"
+mount_olympos.turkish_language: "Olimpos Dağı"
+
+
+## Area 'morea_area' () ##
+# Province 'achaea_province' () #
+patras.turkish_language: "Balyabadra"
+chalandritsa.turkish_language: "Halendrisa"
+kalavryta.turkish_language: "Kalavrita"
+vostitsa.turkish_language: "Vostiça"
+
+# Province 'arcadia_province' () #
+tripolitsa.turkish_language: "Tripoliçe"
+karytaina.turkish_language: "Karitena"
+veligosti.turkish_language: "Velgosti"
+
+# Province 'argolis_province' () #
+argos.turkish_language: "Argos"
+astros.turkish_language: "Astros"
+ermioni.turkish_language: "Ermiyon"
+nafplio.turkish_language: "Anabolu"
+
+# Province 'corinthia_province' () #
+corinth.turkish_language: "Korint"
+damala.turkish_language: "Damala"
+xylokastro.turkish_language: "Ksilokastro"
+
+# Province 'ilia_province' () #
+andravida.turkish_language: "Andravida"
+andritsaina.turkish_language: "Andritsena"
+pontikokastro.turkish_language: "Pontikokastro"
+
+# Province 'laconia_province' () #
+mystras.turkish_language: "Mistra"
+kythira.turkish_language: "Kithira"
+monemvasia.turkish_language: "Menekşe"
+oitylo.turkish_language: "Vitilo"
+
+# Province 'messenia_province' () #
+kalamata.turkish_language: "Kalamata"
+kyparissia.turkish_language: "Kiparissia"
+leuktron.turkish_language: "Levktron"
+modon.turkish_language: "Modon"
+
+
+## Area 'aegean_archipelago_area' () ##
+# Province 'chios_province' () #
+chios.turkish_language: "Sakız"
+ikaria.turkish_language: "İkarya"
+samos.turkish_language: "Sisam"
+
+# Province 'crete_province' () #
+candia.turkish_language: "Kandiye"
+chania.turkish_language: "Hanya"
+elounda.turkish_language: "Elunda"
+gergeri.turkish_language: "Gergiri"
+hagios_pavlos.turkish_language: "Aya Pavli"
+rethymno.turkish_language: "Resmo"
+siteia.turkish_language: "Sitya"
+viannos.turkish_language: "Viyanos"
+
+# Province 'euboea_province' () #
+negroponte.turkish_language: "Eğriboz"
+eretreia.turkish_language: "Eretria"
+karystos.turkish_language: "Karistos"
+kleisoura.turkish_language: "Klisura"
+kymi.turkish_language: "Kimi"
+oreos.turkish_language: "Oreo"
+
+# Province 'lemnos_province' () #
+mitilene.turkish_language: "Midilli"
+molyvos.turkish_language: "Molivos"
+imbros.turkish_language: "İmroz"
+lemnos.turkish_language: "Limni"
+sporades.turkish_language: "Sporad Adaları"
+
+# Province 'naxos_province' () #
+naxos.turkish_language: "Nakşa"
+amorgos.turkish_language: "Amorgos"
+andros.turkish_language: "Andros"
+kythnos.turkish_language: "Kithnos"
+milos.turkish_language: "Milos"
+mykonos.turkish_language: "Mikonos"
+
+# Province 'rodos_province' () #
+rodos.turkish_language: "Rodos"
+karpathos.turkish_language: "Kerpe"
+kos.turkish_language: "İstanköy"
+### Region 'italy_region' () ###
+
+## Area 'abruzzo_area' () ##
+# Province 'abruzzo_citra_province' () #
+chieti.turkish_language: "Kiyetikale"
+lanciano.turkish_language: "Lençanşehir"
+vasto.turkish_language: "Genişhisar"
+
+# Province 'abruzzo_ultra_province' () #
+aquila.turkish_language: "Kartalkent"
+atri.turkish_language: "Atrikent"
+celano.turkish_language: "Çelanova"
+cittaducale.turkish_language: "Beyşehir"
+csantangelo.turkish_language: "Melekkale"
+sulmona.turkish_language: "Sülmene"
+teramo.turkish_language: "Teremhisar"
+
+# Province 'molise_province' () #
+bojano.turkish_language: "Boyanşehir"
+isernia.turkish_language: "İserniye"
+larino.turkish_language: "Mehmetli"
+trivento.turkish_language: "Sinanköy"
+
+
+## Area 'apulia_area' () ##
+# Province 'bari_province' () #
+bari.turkish_language: "Barilimanı"
+altamura.turkish_language: "Yüksekduvar"
+andria.turkish_language: "Endriyekent"
+barletta.turkish_language: "Ahmetpazarı"
+monopoli.turkish_language: "Tekşehir"
+
+# Province 'capitanata_province' () #
+foggia.turkish_language: "Çukurkent"
+bovino.turkish_language: "Sığırkale"
+lucera.turkish_language: "Işıkkale"
+manfredonia.turkish_language: "Manfrediye"
+rotondo.turkish_language: "Yuvarlakköy"
+sansevero.turkish_language: "Severinkent"
+
+# Province 'otranto_province' () #
+lecce.turkish_language: "Leçe"
+brindisi.turkish_language: "Brindiş"
+francavilla.turkish_language: "Özgürkent"
+gallipoliita.turkish_language: "Güzellikale"
+martinafr.turkish_language: "Martinyayla"
+taranto.turkish_language: "Taranta Limanı"
+
+
+## Area 'basilicata_area' () ##
+# Province 'basilicata_province' () #
+potenza.turkish_language: "Güçhisar"
+acerenza.turkish_language: "Akerunhisar"
+lagonegro.turkish_language: "Karagöl"
+matera.turkish_language: "Matarakent"
+melfi.turkish_language: "Melfihisar"
+montepeloso.turkish_language: "Tüylüdağ"
+santarcangelo.turkish_language: "Başmelekhisar"
+
+# Province 'calabria_ultra_province' () #
+catanzaro.turkish_language: "Katanzara"
+cotrone.turkish_language: "Krotunkale"
+gerace.turkish_language: "Geracehisar"
+monteleone.turkish_language: "Aslandağ"
+nicastro.turkish_language: "Osmanhisarı"
+palmi.turkish_language: "Hurmalık"
+reggiocal.turkish_language: "Reciyekent"
+
+# Province 'calabria_citra_province' () #
+cosenza.turkish_language: "Kosenze"
+cassano.turkish_language: "Kasanhisar"
+castrovillari.turkish_language: "Kasraveli"
+scalea.turkish_language: "İskalea"
+paola.turkish_language: "Pavlaköy"
+rossano.turkish_language: "Rosanova"
+
+
+## Area 'campania_area' () ##
+# Province 'lavoro_province' () #
+naples.turkish_language: "Yenikent"
+caserta.turkish_language: "Kasertakale"
+gaeta.turkish_language: "Gayetkale"
+nola.turkish_language: "Nolakent"
+piedimonte.turkish_language: "Dağeteği"
+sora.turkish_language: "Soraova"
+venafro.turkish_language: "Venefrohisar"
+
+# Province 'principato_citra_province' () #
+salerno.turkish_language: "Selirne"
+campagna.turkish_language: "Kırkent"
+salacon.turkish_language: "Salakon"
+vallo.turkish_language: "Vadişehir"
+
+# Province 'principato_ultra_province' () #
+avellino.turkish_language: "Avelinova"
+ariano.turkish_language: "Ariyekent"
+benevento.turkish_language: "Uğurlukent"
+santangelo.turkish_language: "Melekova"
+
+
+## Area 'emilia_area' () ##
+# Province 'bologna_province' () #
+bologna.turkish_language: "Bolonya"
+medicina.turkish_language: "Şifahisar"
+vergato.turkish_language: "Vergatköy"
+
+# Province 'ferrara_province' () #
+ferrara.turkish_language: "Demirkent"
+argenta.turkish_language: "Gümüşova"
+comacchio.turkish_language: "Komakköy"
+ficarolo.turkish_language: "Fikarolu"
+rovigo.turkish_language: "Rovigokent"
+
+# Province 'modena_province' () #
+modena.turkish_language: "Modenahisar"
+frassinoro.turkish_language: "Dişbudakköy"
+nonantola.turkish_language: "Nonantoluk"
+mirandola.turkish_language: "Mirandil"
+
+# Province 'parma_province' () #
+parma.turkish_language: "Parmakent"
+berceto.turkish_language: "Berçetyayla"
+sandonnino.turkish_language: "Donninkale"
+
+# Province 'piacenza_province' () #
+piacenza.turkish_language: "Hoşova"
+bardi.turkish_language: "Bardıkale"
+bobbio.turkish_language: "Bobyaköy"
+fiorenzuola.turkish_language: "Çiçeklikent"
+
+# Province 'reggioem_province' () #
+reggioem.turkish_language: "Recemli"
+canossa.turkish_language: "Kanusakale"
+guastalla.turkish_language: "Gastalya"
+
+# Province 'romagna_province' () #
+rimini.turkish_language: "Riminikent"
+cesena.turkish_language: "Çezene"
+faenza.turkish_language: "Faenze"
+imola.turkish_language: "İmolakale"
+modigliana.turkish_language: "Modilya"
+ravenna.turkish_language: "Ravinne"
+
+# Province 'urbino_province' () #
+urbino.turkish_language: "Urbinkale"
+gubbio.turkish_language: "Gubyohisar"
+montefeltro.turkish_language: "Feltrodağ"
+pesaro.turkish_language: "Pezarolimani"
+
+
+## Area 'lazio_area' () ##
+# Province 'campagna_province' () #
+anagni.turkish_language: "Anagnihisar"
+palestrina.turkish_language: "Palestrine"
+sabina.turkish_language: "Sabinova"
+tivoli.turkish_language: "Tivolikale"
+
+# Province 'marittima_province' () #
+rome.turkish_language: "Roma"
+terracina.turkish_language: "Terracine"
+velletri.turkish_language: "Velletrikent"
+
+# Province 'patrimonio_province' () #
+bracciano.turkish_language: "Braçyano"
+civitavecchia.turkish_language: "Eskikent"
+corneto.turkish_language: "Kornetkale"
+orte.turkish_language: "Orteköy"
+orvietano.turkish_language: "Orviyetova"
+viterbo.turkish_language: "Viterbekale"
+
+
+## Area 'liguria_area' () ##
+# Province 'cismonte_province' () #
+bastia.turkish_language: "Bastiyakale"
+aleria.turkish_language: "Aleriyekent"
+calvi.turkish_language: "Kalvihisar"
+corte.turkish_language: "Korteşehir"
+
+# Province 'levante_province' () #
+genoa.turkish_language: "Cenova"
+lavagna.turkish_language: "Lavaniköy"
+sarzana.turkish_language: "Sarzanhisar"
+
+# Province 'pumonte_province' () #
+ajaccio.turkish_language: "Acakyo"
+bonifacio.turkish_language: "Bonifaşkale"
+sartene.turkish_language: "Sartenova"
+vico.turkish_language: "Vikokent"
+
+# Province 'punente_province' () #
+albenga.turkish_language: "Albengakale"
+cairo_montenotte.turkish_language: "Kayradağ"
+finalborgo.turkish_language: "Finalburgaz"
+savona.turkish_language: "Savonakent"
+ventimiglia.turkish_language: "Ventimilya"
+
+
+## Area 'lombardy_area' () ##
+# Province 'bergamo_province' () #
+bergamo.turkish_language: "Bergamohisar"
+cortenuova.turkish_language: "Kortenova"
+clusone.turkish_language: "Klusone"
+zogno.turkish_language: "Zonyaköy"
+
+# Province 'brescia_province' () #
+brescia.turkish_language: "Breşya"
+asola.turkish_language: "Asolaköy"
+palazzolo.turkish_language: "Palaskale"
+salo_ita.turkish_language: "Saloova"
+breno.turkish_language: "Brenokale"
+nozza.turkish_language: "Noccaköy"
+
+# Province 'cremona_province' () #
+cremona.turkish_language: "Kremonakent"
+casalmaggiore.turkish_language: "Hasanova"
+soncino.turkish_language: "Sonçinokale"
+lodi.turkish_language: "Lodiyeni"
+
+# Province 'mantua_province' () #
+mantova.turkish_language: "Mantovahisar"
+goito.turkish_language: "Goytokale"
+ostiglia.turkish_language: "Ostilya"
+
+# Province 'milano_province' () #
+milano.turkish_language: "Milano"
+legnano.turkish_language: "Legnanyeri"
+rho.turkish_language: "Roova"
+varese.turkish_language: "Varezekent"
+
+# Province 'monza_province' () #
+monza.turkish_language: "Monzakent"
+lecco.turkish_language: "Lekkohisar"
+treviglio.turkish_language: "Trevilköy"
+como.turkish_language: "Komokent"
+
+# Province 'pavia_province' () #
+pavia.turkish_language: "Pavyahisar"
+lomello.turkish_language: "Lomellokent"
+voghera.turkish_language: "Vogerakale"
+
+# Province 'valtellina_province' () #
+tresivio.turkish_language: "Trezivyoköy"
+bormio.turkish_language: "Yakupyayla"
+chiavenna.turkish_language: "Çiyavena"
+
+# Province 'ticino_province' () #
+lugano.turkish_language: "Luganokent"
+bellinzona.turkish_language: "Belinzona"
+locarno.turkish_language: "Lokarnokale"
+
+
+## Area 'marche_area' () ##
+# Province 'marche_province' () #
+ancona.turkish_language: "Ankona"
+ascolipiceno.turkish_language: "Askolihisar"
+camerino.turkish_language: "Kamerinova"
+fabriano.turkish_language: "Fabrilya"
+fermo.turkish_language: "Fermohisar"
+macerata.turkish_language: "Maçeratakent"
+
+# Province 'perugia_province' () #
+perugia.turkish_language: "Peruca"
+cittacastello.turkish_language: "Kalekent"
+marsciano.turkish_language: "Marşiyano"
+
+# Province 'spoleto_province' () #
+spoleto.turkish_language: "Spilet"
+assisi.turkish_language: "Asizi"
+narni.turkish_language: "Narnikale"
+rieti.turkish_language: "Riyetova"
+todi.turkish_language: "Todihisar"
+
+
+## Area 'piemonte_area' () ##
+# Province 'alessandria_province' () #
+alessandria.turkish_language: "Aleskenderiye"
+novi.turkish_language: "Yeniköy"
+rovegno.turkish_language: "Rovinyaköy"
+tortona.turkish_language: "Tortonakent"
+
+# Province 'aosta_province' () #
+aosta.turkish_language: "Aostakale"
+chatillonaos.turkish_language: "Şatilona"
+morgex.turkish_language: "Morgekyayla"
+
+# Province 'mondovi_province' () #
+mondovi.turkish_language: "Mondovikent"
+alba.turkish_language: "Albayeni"
+ceva.turkish_language: "Çevakale"
+
+# Province 'monferrato_province' () #
+casale.turkish_language: "Kasalehisar"
+acqui.turkish_language: "Akısu"
+asti.turkish_language: "Astikent"
+
+# Province 'novara_province' () #
+novara.turkish_language: "Novarakale"
+arona.turkish_language: "Aronakıyı"
+biella.turkish_language: "Biyelova"
+domodossola.turkish_language: "Dumdosla"
+varallo.turkish_language: "Varalliköy"
+vercelli.turkish_language: "Verçelikent"
+
+# Province 'torino_province' () #
+turin.turkish_language: "Torino"
+ivrea.turkish_language: "İvreayeni"
+lanzo.turkish_language: "Lanzoyayla"
+pinerolo.turkish_language: "Pinerolukale"
+susa.turkish_language: "Susahisar"
+
+# Province 'saluzzo_province' () #
+saluzzo.turkish_language: "Saluzohisar"
+carmagnola.turkish_language: "Karmanyol"
+chieri.turkish_language: "Çiyerikent"
+cuneo.turkish_language: "Kuneokale"
+
+
+## Area 'sardinia_area' () ##
+# Province 'arborea_province' () #
+oristano.turkish_language: "Oristan"
+ales.turkish_language: "Aleşkale"
+sorgono.turkish_language: "Sorgunova"
+terralba.turkish_language: "Toprakova"
+
+# Province 'cagliari_province' () #
+cagliari.turkish_language: "Kalgeri"
+tratalias.turkish_language: "Tratalya"
+villa_di_chiesa.turkish_language: "Kiliseliköy"
+isili.turkish_language: "İsilikent"
+muravera.turkish_language: "Muraverakıyı"
+seddori.turkish_language: "Seddoriköy"
+tortoli.turkish_language: "Tortolilimani"
+
+# Province 'gallura_province' () #
+terranova_pausania.turkish_language: "Yenitoprak"
+orosei.turkish_language: "Oroseykale"
+posada.turkish_language: "Muradkale"
+tempiopausania.turkish_language: "Mabedkent"
+
+# Province 'logudoro_province' () #
+sassari.turkish_language: "Sassarıkent"
+alghero.turkish_language: "Algerolimani"
+bosa.turkish_language: "Bosaköy"
+castelsardo.turkish_language: "Sardkalesi"
+macomer.turkish_language: "Makomerova"
+bitti.turkish_language: "Bittiköy"
+ozieri.turkish_language: "Özierikent"
+thiesi.turkish_language: "Tiyesiyeri"
+
+
+## Area 'sicily_area' () ##
+# Province 'demena_province' () #
+messina.turkish_language: "Mesine"
+catania.turkish_language: "Katanya"
+mistretta.turkish_language: "Hüdaverdi"
+nicosiasic.turkish_language: "Nikosyakale"
+patti.turkish_language: "Pattilimanı"
+piazza.turkish_language: "Meydanköy"
+
+# Province 'girgenti_province' () #
+girgenti.turkish_language: "Girgentikent"
+bivona.turkish_language: "Bivonaköy"
+caltanisetta.turkish_language: "Kaltanisekale"
+cefalu.turkish_language: "Cefalulimani"
+sciacca.turkish_language: "Şakkaköy"
+termini.turkish_language: "Termikent"
+
+# Province 'mazara_province' () #
+palermo.turkish_language: "Palermohisar"
+corleone.turkish_language: "Korleonkale"
+mazara.turkish_language: "Mazaralimani"
+salemi.turkish_language: "Selemi"
+trapani.turkish_language: "Trapanilimani"
+pantelleria.turkish_language: "Pantelerya"
+lampedusa.turkish_language: "Lampeduz"
+
+# Province 'noto_province' () #
+syracuse.turkish_language: "Sirakuza"
+caltagirone.turkish_language: "Kaltacirunkale"
+malta.turkish_language: "Melitakale"
+modica.turkish_language: "Modikakent"
+noto.turkish_language: "Notokale"
+terranovasic.turkish_language: "Yenisahil"
+
+
+## Area 'tuscany_area' () ##
+# Province 'arezzo_province' () #
+arezzo.turkish_language: "Aretso"
+cortona.turkish_language: "Kortonakale"
+sansepolcro.turkish_language: "Yusufkalesi"
+
+# Province 'florence_province' () #
+florence.turkish_language: "Floransa"
+mangona.turkish_language: "Mangonakale"
+poggibonsi.turkish_language: "Pocibonse"
+prato.turkish_language: "Pratokent"
+sanlorenzo.turkish_language: "Lorenzohisar"
+pistoia.turkish_language: "Pistoyakale"
+
+# Province 'grosseto_province' () #
+grosseto.turkish_language: "Grossetova"
+massamar.turkish_language: "Massamara"
+pitigliano.turkish_language: "Pitilyankale"
+piombino.turkish_language: "Piyombinolimani"
+
+# Province 'lucca_province' () #
+lucca.turkish_language: "Lukka"
+massa.turkish_language: "Massaova"
+fosdinovo.turkish_language: "Ayşekale"
+pescia.turkish_language: "Peşkya"
+
+# Province 'pisa_province' () #
+pisa.turkish_language: "Pisa"
+livorno.turkish_language: "Livornolimani"
+pontedera.turkish_language: "Köprüdere"
+volterra.turkish_language: "Volterrakale"
+
+# Province 'siena_province' () #
+siena.turkish_language: "Siyena"
+chiusi.turkish_language: "Kiyuzikent"
+montalcino.turkish_language: "Montalçinokale"
+
+
+## Area 'veneto_area' () ##
+# Province 'belluno_province' () #
+belluno.turkish_language: "Bellunokale"
+pieve.turkish_language: "Piyave"
+feltre.turkish_language: "Feltrehisar"
+
+# Province 'friuli_province' () #
+aquileia.turkish_language: "Akileya"
+cividale.turkish_language: "Çividelya"
+gemona.turkish_language: "Cemonayayla"
+tolmezzo.turkish_language: "Tolmezzokent"
+pordenone.turkish_language: "Pordenonova"
+spilimbergo.turkish_language: "Spilimburgaz"
+udine.turkish_language: "Udinehisar"
+
+# Province 'padua_province' () #
+padova.turkish_language: "Padova"
+este.turkish_language: "Estekale"
+monselice.turkish_language: "Monseliçe"
+
+# Province 'venice_province' () #
+venice.turkish_language: "Venedik"
+mestre.turkish_language: "Mestreköy"
+treviso.turkish_language: "Trevisokale"
+castelfranco.turkish_language: "Hürhisar"
+ceneda.turkish_language: "Çenedaköy"
+chioggia.turkish_language: "Kyoça"
+conegliano.turkish_language: "Konegyan"
+
+# Province 'verona_province' () #
+verona.turkish_language: "Veronakent"
+legnago.turkish_language: "Lenyagokale"
+peschiera.turkish_language: "Peşkirehisar"
+
+# Province 'vicenza_province' () #
+vicenza.turkish_language: "Vicenzakent"
+bassano.turkish_language: "Bassanoyayla"
+schio.turkish_language: "Skiyohisar"
+### Region 'carpathia_region' () ###
+
+## Area 'moldavia_area' () ##
+# Province 'bacau_province' () #
+bacau.turkish_language: "Bakova"
+hangu_romania.turkish_language: "Hanguköy"
+piatra_lui_craciun.turkish_language: "Doğantaşı"
+roman.turkish_language: "Urumkale"
+targu_neamt.turkish_language: "Nemçe Pazarı"
+targu_trotus.turkish_language: "Trotuş Pazarı"
+
+# Province 'balti_moldova_province' () #
+balti.turkish_language: "Bataklık"
+hotin.turkish_language: "Hotin"
+lipnic.turkish_language: "Lipnik"
+soroca.turkish_language: "Soroka"
+viadineti.turkish_language: "Saruhanlı"
+
+# Province 'barlad_province' () #
+barlad.turkish_language: "Barlad"
+adjud.turkish_language: "Acud"
+cudalbi.turkish_language: "Karacalı"
+focsani.turkish_language: "Fokşan"
+galati.turkish_language: "Galaç"
+oancea.turkish_language: "Vanca"
+tecuci.turkish_language: "Tekuç"
+tulnici.turkish_language: "Bayezid Ovası"
+
+# Province 'basarabia_province' () #
+cetatea_alba.turkish_language: "Akkerman"
+cahul.turkish_language: "Kagul"
+chilia.turkish_language: "Kili"
+ismail.turkish_language: "İsmail"
+palada.turkish_language: "Palada"
+reni.turkish_language: "Reni"
+sarata.turkish_language: "Tuzluca"
+
+# Province 'dorohei_province' () #
+dorohoi.turkish_language: "Dorohoj"
+cernauti.turkish_language: "Çernovi"
+cetatea_tetina.turkish_language: "Tetina Hisarı"
+cotnari.turkish_language: "Kotnar"
+harlau.turkish_language: "Hırlav"
+stefanesti.turkish_language: "İstefanlı"
+
+# Province 'iasi_province' () #
+iasi.turkish_language: "Yaş"
+husi.turkish_language: "Huşi"
+targul_saratii.turkish_language: "Tuz Pazarı"
+tutova.turkish_language: "Tutova"
+ungheni.turkish_language: "Ungeni"
+vaslui.turkish_language: "Vasluy"
+
+# Province 'orhei_province' () #
+orhei.turkish_language: "Orhey"
+chisinau.turkish_language: "Kişinev"
+gura_galbenei.turkish_language: "Sarıağız"
+targu_lapusnei.turkish_language: "Lapoşna Pazarı"
+tighina.turkish_language: "Bender"
+tuzara.turkish_language: "Tutora"
+
+# Province 'suceava_province' () #
+suceava.turkish_language: "Suçava"
+campulung_moldovenesc.turkish_language: "Uzunyayla"
+putna.turkish_language: "Putna"
+siret.turkish_language: "Siret"
+storozhynets.turkish_language: "Storojiçe"
+vatra_dornei.turkish_language: "Dorna Ocağı"
+
+
+## Area 'north_alfold_area' () ##
+# Province 'bihar_province' () #
+bihar.turkish_language: "Bihar"
+beius.turkish_language: "Beyuş"
+cheresig.turkish_language: "Kereşik"
+debrecen.turkish_language: "Debreçin"
+oradea.turkish_language: "Varat"
+
+# Province 'heves_province' () #
+eger.turkish_language: "Eğri"
+heves.turkish_language: "Heves"
+miskolc.turkish_language: "Mişkolç"
+borsod.turkish_language: "Borşod"
+
+# Province 'kraszna_province' () #
+crasna.turkish_language: "Krasna"
+hodod.turkish_language: "Hodod"
+zalau.turkish_language: "Zalav"
+
+# Province 'pest_province' () #
+pest.turkish_language: "Peşte"
+abrahamtelke.turkish_language: "İbrahimköyü"
+jaszbereny.turkish_language: "Yasberin"
+kecskemet.turkish_language: "Keçikent"
+
+# Province 'szabolcs_province' () #
+szabolcs.turkish_language: "Sabolç"
+hajduszoboszlo.turkish_language: "Haydusoboslo"
+nagyboszormeny.turkish_language: "Bözörmen"
+nagykallo.turkish_language: "Kallo"
+varda.turkish_language: "Varda"
+
+# Province 'szatmar_province' () #
+szatmar.turkish_language: "Satmar"
+baia_mare.turkish_language: "Büyük Maden"
+carei.turkish_language: "Karoy"
+nagyecsed.turkish_language: "Eçed"
+syvlyush.turkish_language: "Sivlyuş"
+
+# Province 'szolnok_province' () #
+szolnok.turkish_language: "Solnok"
+bekes.turkish_language: "Bekeş"
+karcag.turkish_language: "Karçag"
+szarvas.turkish_language: "Geyikli"
+
+
+## Area 'slovakia_area' () ##
+# Province 'hont_province' () #
+hont.turkish_language: "Hont"
+banska_bystrica.turkish_language: "Madeni"
+kremnica.turkish_language: "Kremnik"
+krupina.turkish_language: "Gündüzova"
+stary_tekov.turkish_language: "Eski Tekov"
+zvolen.turkish_language: "Zvolen"
+
+# Province 'maramaros_province' () #
+khust.turkish_language: "Hust"
+mezhorje.turkish_language: "Mejerye"
+sighet.turkish_language: "Siget"
+cuhea.turkish_language: "İsfendiyarhisarı"
+rakhiv.turkish_language: "Rahiv"
+
+# Province 'nograd_province' () #
+nograd.turkish_language: "Nograd"
+balassagyarmat.turkish_language: "Balaş"
+gemer.turkish_language: "Gemer"
+podmuran.turkish_language: "Orhanpazarı"
+rimavska_sobota.turkish_language: "Rima Pazarı"
+roznava.turkish_language: "Roznava"
+salgotarjan.turkish_language: "Şalgotarjan"
+
+# Province 'pozsony_province' () #
+bratislava.turkish_language: "Pozson"
+hlohovec.turkish_language: "Holok"
+holic.turkish_language: "Golıç"
+nitra.turkish_language: "Nitre"
+prievidza.turkish_language: "Prividze"
+samorin.turkish_language: "Şamorin"
+trnava.turkish_language: "Tırnava"
+
+# Province 'szepes_province' () #
+levoca.turkish_language: "Levoça"
+bardejov.turkish_language: "Bardeov"
+gonc.turkish_language: "Gönç"
+kosice.turkish_language: "Kaşa"
+lubica.turkish_language: "Lubiça"
+presov.turkish_language: "Eperiş"
+turna.turkish_language: "Torna"
+
+# Province 'trencsen_province' () #
+trencin.turkish_language: "Trençen"
+povazska_bystrica.turkish_language: "Povaj"
+zilina.turkish_language: "Jilina"
+oravsky_podzamok.turkish_language: "Hisarı"
+turciansky_svaty_martin.turkish_language: "Türçin"
+liptovsky_mikulas.turkish_language: "Mikulaş"
+
+# Province 'zemplen_province' () #
+zemplin.turkish_language: "Zemplen"
+beregovo.turkish_language: "Beregvár"
+humenne.turkish_language: "Humen"
+mukachevo.turkish_language: "Munkac"
+satoraljaujhely.turkish_language: "Çadıraltı"
+uzhorod.turkish_language: "Uzgarad"
+velikyi_bereznyi.turkish_language: "Büyük Berezni"
+
+
+## Area 'south_alfold_area' () ##
+# Province 'csanad_province' () #
+csanad.turkish_language: "Çanad"
+kikinda.turkish_language: "Kikinda"
+mako.turkish_language: "Mako"
+
+# Province 'csongrad_province' () #
+szeged.turkish_language: "Segedin"
+halas.turkish_language: "Balıklı"
+felegyhaza.turkish_language: "Tekkilise"
+zenta.turkish_language: "Zenta"
+
+# Province 'east_banat_province' () #
+timisoara.turkish_language: "Temeşvar"
+caransebes.turkish_language: "Karanşebeş"
+lugoj.turkish_language: "Lugoş"
+mihalt.turkish_language: "Muradbeyli"
+recas.turkish_language: "Rekaş"
+
+# Province 'zarand_hun_province' () #
+zarand.turkish_language: "Zarand"
+arad.turkish_language: "Arad"
+baia_crisului.turkish_language: "Kiriş Madeni"
+ineu.turkish_language: "İne"
+lipova.turkish_language: "Lippa"
+
+# Province 'west_banat_province' () #
+kovin.turkish_language: "Kovin"
+carasova.turkish_language: "Karaşova"
+modos.turkish_language: "Modoş"
+pancevo.turkish_language: "Pançevo"
+semlacu_mare.turkish_language: "Büyük Semlak"
+veliky_beckerek.turkish_language: "Büyük Beçkerek"
+
+# Province 'bacs_province' () #
+bacs.turkish_language: "Baç"
+baja_hungary.turkish_language: "Baya"
+bodrog.turkish_language: "Bodrog"
+titel.turkish_language: "Titel"
+
+
+## Area 'transdanubia_area' () ##
+# Province 'baranya_province' () #
+siklos.turkish_language: "Şikloş"
+mohacs.turkish_language: "Mohaç"
+pecs.turkish_language: "Peçuy"
+simontornya.turkish_language: "Simontorni"
+tolna.turkish_language: "Tolna"
+
+# Province 'buda_province' () #
+buda.turkish_language: "Budin"
+esztergom.turkish_language: "Estergon"
+komarom.turkish_language: "Komaron"
+tata.turkish_language: "Tata"
+
+# Province 'fejer_province' () #
+fehervar.turkish_language: "İstolni Belgrad"
+adony.turkish_language: "Adoni"
+kalocsa.turkish_language: "Kaloça"
+papa.turkish_language: "Papa"
+solt.turkish_language: "Solt"
+veszprem.turkish_language: "Vesprim"
+
+# Province 'somogy_province' () #
+somogyvar.turkish_language: "Şomogyvar"
+csurgo.turkish_language: "Çurgo"
+kaposvar.turkish_language: "Kapoşvar"
+segesd.turkish_language: "Şegeşt"
+
+# Province 'sopron_province' () #
+sopron.turkish_language: "Şopron"
+gyor.turkish_language: "Yanık"
+kapuvar.turkish_language: "Kapıvar"
+magyarovar.turkish_language: "Macarvar"
+
+# Province 'vas_province' () #
+vasvar.turkish_language: "Vaşvar"
+kormend.turkish_language: "Körmend"
+olsnica.turkish_language: "Olsinçe"
+szombathely.turkish_language: "Cumartesikent"
+
+# Province 'zala_province' () #
+zalavar.turkish_language: "Zalavar"
+cakovec.turkish_language: "Çakovec"
+nagykanizsa.turkish_language: "Büyük Kanize"
+zalaegerszeg.turkish_language: "Ersekiy"
+
+
+## Area 'transylvania_area' () ##
+# Province 'doboka_province' () #
+dabaca.turkish_language: "Dıbıka"
+baita.turkish_language: "Küçük Maden"
+bistrita.turkish_language: "Pistriçe"
+dej.turkish_language: "Dej"
+sic.turkish_language: "Sik"
+
+# Province 'feher_province' () #
+alba_iulia.turkish_language: "Erdel Belgradı"
+aiud.turkish_language: "Ayud"
+cetatea_balta.turkish_language: "Çamurhisar"
+deva.turkish_language: "Deva"
+felvint.turkish_language: "Felvinc"
+hateg.turkish_language: "Haçek"
+hunedoara.turkish_language: "Hunedoara"
+
+# Province 'kiralyfold_province' () #
+sibiu.turkish_language: "Sibyov"
+brasov.turkish_language: "Braşov"
+cincu.turkish_language: "Çinku"
+fagaras.turkish_language: "Fagaraş"
+medias.turkish_language: "Medyaş"
+sebes.turkish_language: "Sebeş"
+sighisoara.turkish_language: "Şikişvar"
+
+# Province 'szekelyfold_province' () #
+targu_mures.turkish_language: "Mareş Pazarı"
+chezdi_osorheiu.turkish_language: "Orhanhisarı"
+covasna.turkish_language: "Kovasna"
+cristuru_secuiesc.turkish_language: "Sekel Haçköyü"
+gheorgheni.turkish_language: "Görgöni"
+gurghiu.turkish_language: "Gurgu"
+odorhei.turkish_language: "Odarhey"
+sfantu_gheorghe.turkish_language: "Aya Yorgi"
+miercurea_cluc.turkish_language: "Çarşambaçik"
+
+# Province 'torda_province' () #
+turda.turkish_language: "Torda"
+baia_de_aries.turkish_language: "Eriş Madeni"
+cluj.turkish_language: "Kaloşvar"
+huedin.turkish_language: "Hüedin"
+reghin.turkish_language: "Rehin"
+
+
+## Area 'wallachia_area' () ##
+# Province 'east_muntenia_province' () #
+buzau.turkish_language: "Buzav"
+braila.turkish_language: "İbrail"
+bukov.turkish_language: "Kayınlık"
+parscov.turkish_language: "Parsko"
+ramnicu_sarat.turkish_language: "Tuzlu Rımnik"
+valenii_de_munte.turkish_language: "Dağvadisi"
+viziru.turkish_language: "Viziru"
+
+# Province 'north_muntenia_province' () #
+targoviste.turkish_language: "Tırgovişte"
+arges.turkish_language: "Argeş"
+campulung_muscel.turkish_language: "Uzunova"
+cetateni.turkish_language: "Kalecik"
+pitesti.turkish_language: "Piteş"
+ploesti.turkish_language: "Ployeş"
+poenari.turkish_language: "Ponari"
+slanic.turkish_language: "Tuzluk"
+
+# Province 'north_oltenia_province' () #
+craiova.turkish_language: "Karyova"
+cozia.turkish_language: "Kozya"
+dragasani.turkish_language: "Dragaşan"
+ramnicu_valcea.turkish_language: "Rımnik Vilçe"
+stramba.turkish_language: "Eğriköy"
+targu_jiu.turkish_language: "Ciyu Pazarı"
+targu_bengai.turkish_language: "Bengay Pazarı"
+
+# Province 'south_muntenia_province' () #
+bucharest.turkish_language: "Bükreş"
+cegani.turkish_language: "Çegani"
+gaiseni.turkish_language: "Gayseni"
+lichiresti.turkish_language: "Likireşti"
+meteleu.turkish_language: "Karamanoğlu"
+orasul_de_floci.turkish_language: "Yünşehir"
+slobozia.turkish_language: "Slobozya"
+
+# Province 'south_oltenia_province' () #
+calafat.turkish_language: "Kalafat"
+caracal.turkish_language: "Karakal"
+corabia.turkish_language: "Gemiköyü"
+plenita.turkish_language: "Yıldırımbeli"
+radovanu.turkish_language: "Radovan"
+severin.turkish_language: "Severin"
+strehaia.turkish_language: "Strehaya"
+
+# Province 'west_muntenia_province' () #
+turnu_magurele.turkish_language: "Kuletepe"
+comana.turkish_language: "Komana"
+glavacioc.turkish_language: "Glavaçok"
+gratia.turkish_language: "Grasya"
+giurgiu.turkish_language: "Yergöğü"
+rusii_de_vede.turkish_language: "Vederus"
+slatina.turkish_language: "Tuzlusu"
+zimnicea.turkish_language: "Zimniçe"
+### Region 'ruthenia_region' () ###
+
+## Area 'black_ruthenia_area' () ##
+# Province 'grodno_province' () #
+grodno.turkish_language: "Karayurt"
+bershty.turkish_language: "Karakent"
+grodek.turkish_language: "Hisarkent"
+masty.turkish_language: "Köprüce"
+sokolka.turkish_language: "Şahinkaya"
+
+# Province 'kletsk_province' () #
+kletsk.turkish_language: "Karakule"
+bolshie_krugovichi.turkish_language: "Büyükdöngü"
+kapyl.turkish_language: "Kapılı"
+lakhva.turkish_language: "Lahvadere"
+luninets.turkish_language: "Ayyurt"
+
+# Province 'mazyr_province' () #
+mazyr.turkish_language: "Mazıkale"
+buinovichi.turkish_language: "Bayırlı"
+lelchytsy.turkish_language: "Leylekli"
+kalinkavichy.turkish_language: "Güllüova"
+pietrykaw.turkish_language: "Taşpazar"
+rudobelka.turkish_language: "Bakırdere"
+zhytkavichy.turkish_language: "Buğdaylı"
+
+# Province 'novogrudok_province' () #
+novogrudok.turkish_language: "Yenigözet"
+lyakhavichy.turkish_language: "Yaylaköy"
+lyubcha.turkish_language: "Gönüllü"
+nyasvizh.turkish_language: "Sazhisar"
+turets.turkish_language: "Türkeli"
+
+# Province 'rechytsa_province' () #
+rechytsa.turkish_language: "Özüsuyu"
+babruysk.turkish_language: "Kunduzkale"
+luchin.turkish_language: "Işıklı"
+rahachow.turkish_language: "Rahatpınar"
+streshyn.turkish_language: "Serinyurt"
+svietlahorsk.turkish_language: "Güneşhisar"
+
+# Province 'slonin_province' () #
+slonim.turkish_language: "Arslanlı"
+dzyatlava.turkish_language: "Ağaçkaya"
+vyada.turkish_language: "Yazdere"
+zdzitov.turkish_language: "Ceditköy"
+
+# Province 'slutsk_province' () #
+slutsk.turkish_language: "Sulukale"
+hlusk.turkish_language: "Alçalık"
+starobin.turkish_language: "Eskiçınar"
+staryya_darohi.turkish_language: "Eskiyol"
+
+# Province 'vawkavysk_province' () #
+vawkavysk.turkish_language: "Kurtkale"
+porazava.turkish_language: "Yarbayır"
+vowpa.turkish_language: "Ovayurt"
+
+
+## Area 'left_bank_ukraine_area' () ##
+# Province 'ichnia_province' () #
+ichnia.turkish_language: "İçova"
+hadiach.turkish_language: "Hacıkent"
+romen.turkish_language: "Romenkale"
+pryluky.turkish_language: "Kılıçova"
+chornukhy.turkish_language: "Karaduman"
+lypova_dolyna.turkish_language: "Ihlamurdere"
+
+# Province 'lubny_province' () #
+lubny.turkish_language: "Lübnüköy"
+pyriatyn.turkish_language: "Börüklü"
+horodyshche.turkish_language: "Kalelik"
+horoshino.turkish_language: "Hoşhisar"
+zolotonosha.turkish_language: "Altınpazar"
+yahotyn.turkish_language: "Yağlıkent"
+
+# Province 'pereiaslav_province' () #
+pereiaslav.turkish_language: "Özühisar"
+boryspil.turkish_language: "Bursevil"
+oster.turkish_language: "Tesnehisar"
+kozelets.turkish_language: "Kuzuluk"
+yaroslavka.turkish_language: "Yarlıova"
+
+# Province 'poltava_province' () #
+poltava.turkish_language: "Boltabat"
+kremenchuk.turkish_language: "Özüköprü"
+myrhorod.turkish_language: "Barışkent"
+velyki_sorochyntsi.turkish_language: "Büyükyayla"
+hovtva.turkish_language: "Kavakdere"
+opishnya.turkish_language: "Topraklı"
+
+
+## Area 'podolia_area' () ##
+# Province 'bratslav_province' () #
+bratslav.turkish_language: "Boğhisar"
+balta.turkish_language: "Balta"
+bershad.turkish_language: "Behramköy"
+drahushiv.turkish_language: "Duraköy"
+karabul.turkish_language: "Karabulak"
+savran.turkish_language: "Savrankale"
+
+# Province 'eastern_podolia_province' () #
+ushytsia.turkish_language: "Turlasu"
+khmilnyk.turkish_language: "Şerbetli"
+letychiv.turkish_language: "Letikaya"
+mezhybozhe.turkish_language: "İkisu"
+mohyliv_podilskyi.turkish_language: "Turlahisar"
+rov.turkish_language: "Hendekköy"
+
+# Province 'torgovytsia_province' () #
+torhovytsia.turkish_language: "Pazarkent"
+teplyk.turkish_language: "Ilıkköy"
+tsybuliv.turkish_language: "Soğanköy"
+uman.turkish_language: "Orhankale"
+zavallia.turkish_language: "Yarlıkaya"
+
+# Province 'vinnytsia_province' () #
+vinnytsia.turkish_language: "Bağkent"
+buzhskyi.turkish_language: "Boğyaka"
+pohrebyshche.turkish_language: "Mahzenköy"
+sokilets.turkish_language: "Şahinköy"
+
+# Province 'western_podolia_province' () #
+bakota.turkish_language: "Turlakaya"
+horodok.turkish_language: "Kasabacık"
+kamianets_podilskyi.turkish_language: "Turlakale"
+zalishchyky.turkish_language: "Turlasahil"
+
+
+## Area 'polesia_area' () ##
+# Province 'bresta_province' () #
+brest_litowsk.turkish_language: "Boğkapı"
+biala_podlaska.turkish_language: "Akova"
+chernyany.turkish_language: "Karacık"
+malaryta.turkish_language: "Bataklık"
+wlodawa.turkish_language: "Boğkale"
+
+# Province 'kobryn_province' () #
+kobryn.turkish_language: "Sazköy"
+dabuchyn.turkish_language: "Çamlık"
+hajnowka.turkish_language: "Ormanlık"
+kamyenyets.turkish_language: "Taşkale"
+
+# Province 'pinsk_province' () #
+pinsk.turkish_language: "Batakpazar"
+drahichyn.turkish_language: "Kavaklık"
+liubeshiv.turkish_language: "Sevinyurt"
+motal.turkish_language: "Çamurköy"
+nobel.turkish_language: "Adaköy"
+
+# Province 'turov_province' () #
+turov.turkish_language: "Batakyurt"
+davyd_haradok.turkish_language: "Davudyeri"
+dubrovytsia.turkish_language: "Meşelik"
+hlynne.turkish_language: "Killik"
+stolin.turkish_language: "Taşkınköy"
+
+
+## Area 'red_ruthenia_area' () ##
+# Province 'belz_province' () #
+belz.turkish_language: "Kızılhisar"
+busk.turkish_language: "Alova"
+grabowiec.turkish_language: "Gürgenli"
+lubaczow.turkish_language: "Sevdaşehir"
+sokal.turkish_language: "Doğanpınar"
+
+# Province 'drohobych_province' () #
+drohobych.turkish_language: "Ziftkale"
+sambir.turkish_language: "Samyurt"
+stryi.turkish_language: "Sarıçay"
+turka.turkish_language: "Türkyayla"
+
+# Province 'halych_province' () #
+halych.turkish_language: "Kralhisar"
+bohorodchany.turkish_language: "Meryemkent"
+buchach.turkish_language: "Budakkale"
+rohatyn.turkish_language: "Rahatköy"
+
+# Province 'pocutia_province' () #
+kolomyia.turkish_language: "Kilimkale"
+kosiv.turkish_language: "Keçeköy"
+sniatyn.turkish_language: "Uykuluk"
+tysmenytsia.turkish_language: "Tismençay"
+
+# Province 'lviv_province' () #
+lviv.turkish_language: "Aslankale"
+bereschany.turkish_language: "Börtehisar"
+brody.turkish_language: "Sığgeçit"
+zhovkva.turkish_language: "Sapsarı"
+yavoriv.turkish_language: "Akçaköy"
+zvenyhorod.turkish_language: "Zilşehir"
+
+# Province 'przemysl_province' () #
+przemysl.turkish_language: "Sançay"
+piskorowice.turkish_language: "Kumlu"
+rzeszow.turkish_language: "Reşikent"
+yaroslav_poland.turkish_language: "Orhanyurt"
+
+# Province 'sanok_province' () #
+sanok.turkish_language: "Timuryurt"
+krosno.turkish_language: "Kargaköy"
+lesko.turkish_language: "Yapraklı"
+
+# Province 'terebovlia_province' () #
+terebovlia.turkish_language: "Dikenkale"
+khorostkiv.turkish_language: "Koruluk"
+ternopil.turkish_language: "Gölhisar"
+
+# Province 'zhydachiv_province' () #
+zhydachiv.turkish_language: "Turlasuyu"
+bolekhiv.turkish_language: "Bilekli"
+dolyna.turkish_language: "Ovadere"
+
+
+## Area 'severia_area' () ##
+# Province 'bryansk_province' () #
+bryansk.turkish_language: "Tesnekale"
+foshnya.turkish_language: "Köknarlı"
+knyazhichi.turkish_language: "Beyköy"
+pochep.turkish_language: "Poyrazköy"
+revny.turkish_language: "İsyanköy"
+vshchizh.turkish_language: "Uçhisar"
+
+# Province 'chernihiv_province' () #
+chernihiv.turkish_language: "Tesneşehir"
+horodnia.turkish_language: "Şehirce"
+liubech.turkish_language: "Sevgikent"
+lutava.turkish_language: "Yumuşakdere"
+sosnytsia.turkish_language: "Çamova"
+snovsk.turkish_language: "Sınırlıköy"
+
+# Province 'gomel_province' () #
+gomel.turkish_language: "Sözsu"
+chachersk.turkish_language: "Çakırhisar"
+dobrush.turkish_language: "Doğruluk"
+tereshkovichy.turkish_language: "Dervişköy"
+volosovichy.turkish_language: "Yünlüova"
+
+# Province 'nizhyn_province' () #
+nizhyn.turkish_language: "Aşağıkent"
+buryn.turkish_language: "Fırtınaköy"
+bakhmach.turkish_language: "Bakırkent"
+melnya.turkish_language: "Değirmendere"
+putyvl.turkish_language: "Yolhisar"
+
+# Province 'novhorod_siverskyi_province' () #
+novhorod_siverskyi.turkish_language: "Tesneyurt"
+hlukhiv.turkish_language: "Sağırköy"
+verba.turkish_language: "Söğütlü"
+voronizh_chernihiv.turkish_language: "Kargapınar"
+znobov.turkish_language: "Zemberek"
+
+# Province 'starodub_siverskyi_province' () #
+starodub_siverskyi.turkish_language: "Eskimeşe"
+drokov.turkish_language: "Deregözü"
+klintsy.turkish_language: "Kayalı"
+mglin.turkish_language: "Sislik"
+popowa_gora.turkish_language: "Papazdağı"
+ropsk.turkish_language: "Rüsköy"
+radogosch.turkish_language: "Şenpazar"
+
+# Province 'trubchevsk_province' () #
+trubchevsk.turkish_language: "Korukale"
+boldyzh.turkish_language: "Boldere"
+dmitriyev.turkish_language: "Bayezidköy"
+rylsk.turkish_language: "Sıraköy"
+sevsk.turkish_language: "Seyfiyurt"
+
+
+## Area 'volhynia_area' () ##
+# Province 'chelm_province' () #
+chelm.turkish_language: "Kireçtepe"
+krasnystaw.turkish_language: "Kızıltepe"
+liuboml.turkish_language: "Sevdam"
+ratne.turkish_language: "Boynuzlu"
+shatsk.turkish_language: "Çayırköy"
+ugrovesk.turkish_language: "Sınırhisar"
+
+# Province 'kremenets_province' () #
+kremenets.turkish_language: "Çakmakhisar"
+dubno.turkish_language: "Meşehisar"
+zbarazh.turkish_language: "Siperkale"
+tykhomel.turkish_language: "Sakinlik"
+
+# Province 'lutsk_province' () #
+lutsk.turkish_language: "Gökçehisar"
+chortoryisk.turkish_language: "Şeytanpınar"
+peremyl.turkish_language: "Geçitköy"
+rozhyshche.turkish_language: "Çavdarlı"
+stepan.turkish_language: "Süleymanköy"
+volodymyrets.turkish_language: "Murateli"
+
+# Province 'rivne_province' () #
+rivne.turkish_language: "Düztarla"
+kostopil.turkish_language: "Kemikköy"
+ostroh.turkish_language: "Keskinhisar"
+peresopnytsya.turkish_language: "Yazıkent"
+
+# Province 'volodymyr_province' () #
+volodymyr.turkish_language: "Osmaniye"
+kamin.turkish_language: "Taşova"
+kovel.turkish_language: "Demirlik"
+melnytsya.turkish_language: "Öğütköy"
+turiisk.turkish_language: "Boğalı"
+
+# Province 'zviahel_province' () #
+novohrad_volynskyi.turkish_language: "Yeniyurt"
+iziaslav.turkish_language: "İzzetbey"
+korets.turkish_language: "Köklü"
+liubar.turkish_language: "Hoşkale"
+polonne.turkish_language: "Tarlaköy"
+
+
+## Area 'right_bank_ukraine_area' () ##
+# Province 'porossia_province' () #
+bila_tserkva.turkish_language: "Akkilise"
+bohuslav.turkish_language: "Kutluova"
+kaharlyk.turkish_language: "Süvariköy"
+kaniv.turkish_language: "Özütepe"
+sherbiv.turkish_language: "Şerbetli"
+skvyra.turkish_language: "Sıkıdere"
+
+# Province 'cherkasy_province' () #
+cherkasy.turkish_language: "Çerkeskent"
+chyhyryn.turkish_language: "Çevirmehisar"
+korsun.turkish_language: "Roskale"
+lebedyn.turkish_language: "Kuğulu"
+rozkishna.turkish_language: "Zenginlik"
+smila.turkish_language: "Yiğitova"
+zvenyhorodka.turkish_language: "Çankent"
+
+# Province 'chornobyl_province' () #
+chornobyl.turkish_language: "Yavşanköy"
+belaya_soroka.turkish_language: "Akkarga"
+brahin.turkish_language: "Burunhisar"
+khoiniki.turkish_language: "Sakallı"
+kholmyech.turkish_language: "Tepeli"
+
+# Province 'kyiv_province' () #
+kyiv.turkish_language: "Özüşehir"
+desnyanskyi_horodok.turkish_language: "Tesnekasaba"
+dymer.turkish_language: "Dirimtepe"
+fastiv.turkish_language: "Çabukköy"
+zdvizhen.turkish_language: "İzdivkent"
+
+# Province 'olevsk_province' () #
+olevsk.turkish_language: "Yaşılova"
+kopyshche.turkish_language: "Köpüşdere"
+viry.turkish_language: "İnançköy"
+yemilchyne.turkish_language: "Emirkent"
+
+# Province 'ovruch_province' () #
+ovruch.turkish_language: "Avruhisar"
+bilokorovychi.turkish_language: "Akinek"
+korosten.turkish_language: "Uzlukale"
+malyn.turkish_language: "Küçükköy"
+narodychi.turkish_language: "Halkkent"
+stodolichi.turkish_language: "Ambarlı"
+
+# Province 'zhytomyr_province' () #
+zhytomyr.turkish_language: "Buğdayhisar"
+berdychiv.turkish_language: "Tüccarkent"
+chudniv.turkish_language: "Mucizeköy"
+chortolisy.turkish_language: "Şeytanorman"
+korostyshiv.turkish_language: "Kabukköy"
+mychesk.turkish_language: "Mızraktepe"
+
+
+## Area 'white_ruthenia_area' () ##
+# Province 'barysaw_province' () #
+barysaw.turkish_language: "Akbaryurt"
+bobr.turkish_language: "Kunduzlu"
+krupki.turkish_language: "Taneli"
+lukolm.turkish_language: "Akçayır"
+lyubashany.turkish_language: "Sevvalı"
+
+# Province 'dzisna_province' () #
+dzisna.turkish_language: "Dizinkent"
+asvieja.turkish_language: "Akpınar"
+nevel.turkish_language: "Nevkale"
+nekloch.turkish_language: "İnceova"
+rasony.turkish_language: "Yankent"
+vydritsa.turkish_language: "Sukunduz"
+
+# Province 'lahoysk_province' () #
+lahoysk.turkish_language: "Lağışehir"
+begoml.turkish_language: "Beygirköy"
+byerazino.turkish_language: "Beyrazkent"
+ilya.turkish_language: "İlyasköy"
+krasnoe.turkish_language: "Kızılova"
+smalyavichy.turkish_language: "Ziftova"
+
+# Province 'minsk_province' () #
+minsk.turkish_language: "Akşehir"
+chervyen.turkish_language: "Alköy"
+koidanova.turkish_language: "Koçhisar"
+marjina_horka.turkish_language: "Meryemtepe"
+rakau.turkish_language: "İstakozlu"
+stowbtsy.turkish_language: "Direkli"
+svislach.turkish_language: "Sivrikent"
+
+# Province 'mogilev_province' () #
+mogilev.turkish_language: "Özükent"
+bykhaw.turkish_language: "Baykuşhisar"
+chavusy.turkish_language: "Yulaflı"
+klichaw.turkish_language: "Çanlı"
+novy_bykhaw.turkish_language: "Yenibaykuş"
+slawharad.turkish_language: "Şankent"
+
+# Province 'mstsislaw_province' () #
+mstsislaw.turkish_language: "Akmeşe"
+kastsyukovichy.turkish_language: "Kazçiftlik"
+khotsimsk.turkish_language: "Hoşköy"
+krychaw.turkish_language: "Kırçayır"
+monastyrshchina.turkish_language: "Manastırköy"
+shumyachi.turkish_language: "Gürültü"
+
+# Province 'orsha_province' () #
+orsha.turkish_language: "Orkale"
+drutsk.turkish_language: "Durtköy"
+horki.turkish_language: "Yokuşköy"
+kopys.turkish_language: "Köpüsyurt"
+rudnya.turkish_language: "Madenli"
+tyatseryn.turkish_language: "Çeçerik"
+
+# Province 'polotsk_province' () #
+polotsk.turkish_language: "Akdiva"
+bocheikovo.turkish_language: "Bozköy"
+lyepyel.turkish_language: "Yaylatepe"
+ulla.turkish_language: "Ulutepe"
+ushachy.turkish_language: "Kulaklı"
+zabore.turkish_language: "Çitarkası"
+
+# Province 'vitebsk_province' () #
+vitebsk.turkish_language: "Divarsu"
+haradok.turkish_language: "Küçükkale"
+jeziarysca.turkish_language: "Yazıova"
+mikulino.turkish_language: "Mikailköy"
+syanno.turkish_language: "Otova"
+usvyaty.turkish_language: "Sazova"
+velizh.turkish_language: "Büyükkent"
+vydreya.turkish_language: "Samurlu"
+### Region 'steppes_region' () ###
+
+## Area 'crimea_area' () ##
+# Province 'gothia_province' () #
+theodoro.turkish_language: "Mangupkale"
+qirq_yer.turkish_language: "Kırkyer"
+lusta.turkish_language: "Aluşta"
+qarasuvbazar.turkish_language: "Karasubazar"
+
+# Province 'cafa_province' () #
+kaffa.turkish_language: "Kefe"
+soldaia.turkish_language: "Suğdak"
+vosporo.turkish_language: "Kerç"
+seyitler.turkish_language: "Seyitler"
+solkhat.turkish_language: "Solhat"
+
+# Province 'or_qapi_province' () #
+kalay.turkish_language: "Kalayhisar"
+kezlev.turkish_language: "Gözleve"
+aqmecit.turkish_language: "Akmescit"
+jurchi.turkish_language: "Yurcaköy"
+or_qapi.turkish_language: "Orkapı"
+
+
+## Area 'matrega_area' () ##
+# Province 'taman_province' () #
+taman.turkish_language: "Tamanburnu"
+mapa.turkish_language: "Mapakale"
+susaco.turkish_language: "Susakkale"
+shanjir.turkish_language: "Şencir"
+copa.turkish_language: "Kopalimanı"
+siba_circassia.turkish_language: "Sibayurt"
+
+# Province 'tuapse_province' () #
+tuapse.turkish_language: "Tuhapsu"
+costa.turkish_language: "Kostahisar"
+khadyzhi.turkish_language: "Hadıcı"
+kuzhyb.turkish_language: "Kuzubey"
+maykop.turkish_language: "Meykale"
+moschevo.turkish_language: "Mescitli"
+
+# Province 'akhtar_province' () #
+akhtar.turkish_language: "Akhtarhisar"
+kalininskaya.turkish_language: "Salkımköy"
+bryukhovetskaya.turkish_language: "Börüklü"
+bzhedygu_kal.turkish_language: "Beceğukale"
+ust_labinsk.turkish_language: "Labinağzı"
+pavlovskaya.turkish_language: "Emiralı"
+tbilisskaya.turkish_language: "Çınarkent"
+romanovsky_khutor.turkish_language: "Hızırçiftliği"
+
+# Province 'labinsk_province' () #
+chatyun.turkish_language: "Çatunköy"
+adyukh.turkish_language: "Adyukköy"
+armavir.turkish_language: "Armahisar"
+shkhancheriekhabl.turkish_language: "Hanşarık"
+belorechensk.turkish_language: "Akdere"
+
+
+## Area 'yedisan_area' () ##
+# Province 'khadjibey_province' () #
+khadjibey.turkish_language: "Hacıbey"
+teligol.turkish_language: "Teligöl"
+kuyanlik.turkish_language: "Kuyanlık"
+ananiv.turkish_language: "Enenlik"
+iagorlic.turkish_language: "Yağırgöl"
+
+# Province 'boh_province' () #
+dashev.turkish_language: "Taşköy"
+balikley.turkish_language: "Balıklı"
+aqmecit_prybuzhzhya.turkish_language: "Akmescit Buğboyu"
+argamakli_sarai.turkish_language: "Argamaklı Saray"
+vithold_hammami.turkish_language: "Hamamlı"
+harbuzynka.turkish_language: "Karpuzlu"
+
+# Province 'oleshia_province' () #
+oleshia.turkish_language: "Karaağaç"
+bereznehuvate.turkish_language: "Huşluca"
+bashtanka.turkish_language: "Kabaklı"
+tavan.turkish_language: "Tavankale"
+velyka_oleksandrivka.turkish_language: "Büyük İskenderköy"
+
+# Province 'qalancak_province' () #
+qalancaq.turkish_language: "Kalancak"
+aslan_horod.turkish_language: "Aslankent"
+ordu_bazar.turkish_language: "Ordubazar"
+rohat_kermen.turkish_language: "Rahatkermen"
+enice.turkish_language: "Yenice"
+velyka_lepetykha.turkish_language: "Büyükpınar"
+
+
+## Area 'zaporizhzhia_area' () ##
+# Province 'zaporizhzhia_province' () #
+kichkas.turkish_language: "Köprübaşı"
+rozdory.turkish_language: "Çatalköy"
+hryshyne.turkish_language: "Gerişli"
+pavlohrad.turkish_language: "Yusufşehir"
+
+# Province 'yelanets_province' () #
+yelanets.turkish_language: "Yılanlı"
+usivka.turkish_language: "Üzümköy"
+mala_vyska.turkish_language: "Küçükdere"
+umanske.turkish_language: "Oymaklı"
+ingul.turkish_language: "Engilhisar"
+petrove.turkish_language: "Bedirkent"
+
+# Province 'karlivka_province' () #
+karlivka.turkish_language: "Karlıkent"
+kolomak.turkish_language: "Kolmaköy"
+berestyn.turkish_language: "Karaağaçlı"
+samarchyk.turkish_language: "Samaraçık"
+oril.turkish_language: "Orilhisar"
+ternivka.turkish_language: "Dikenli"
+
+# Province 'kodaky_province' () #
+kodak.turkish_language: "Kodakkale"
+myshuryn_rih.turkish_language: "Mışur Burnu"
+sofiivka.turkish_language: "Sofuköy"
+kryvyi_rih.turkish_language: "Eğriburun"
+tomakivka.turkish_language: "Davullu"
+mykytyn_rih.turkish_language: "Mikdi Burun"
+
+
+## Area 'kursk_area' () ##
+# Province 'kursk_province' () #
+kursk.turkish_language: "Avşarhisar"
+fatezh.turkish_language: "Fetihköy"
+opalkova.turkish_language: "Közlük"
+kosozhichi.turkish_language: "Kozucu"
+manturovo_kursk.turkish_language: "Menteşköy"
+olgov.turkish_language: "Oğulhisar"
+oskol.turkish_language: "Oskolhisar"
+troitskoye_na_shchigrakh.turkish_language: "Üçkiliseçay"
+
+# Province 'belgorod_province' () #
+belgorod.turkish_language: "Akşehir"
+korocha.turkish_language: "Kuruçay"
+oboyan.turkish_language: "Obağan"
+muzhech.turkish_language: "Müjdeköy"
+rakitnoye.turkish_language: "Fındıklı"
+sudzha.turkish_language: "Sucakent"
+
+# Province 'yelets_province' () #
+yelets.turkish_language: "Yalçınkale"
+gogol.turkish_language: "Keklikli"
+talitsa_yelets.turkish_language: "Derecik"
+terbuny.turkish_language: "Terbent"
+ust_livny.turkish_language: "Livan Ağızı"
+zemlyansk.turkish_language: "Topraklı"
+
+# Province 'alexeyevka_province' () #
+alexeyevka.turkish_language: "İlyasköy"
+rovenki.turkish_language: "Düzlük"
+valuyki.turkish_language: "Valıklı"
+chernyanka.turkish_language: "Karaköy"
+kastornoye.turkish_language: "Kunduzdere"
+
+# Province 'voronezh_province' () #
+voronezh.turkish_language: "Yaranşehir"
+anna_russia.turkish_language: "Hannaköy"
+novaya_pokrovka.turkish_language: "Yenikoru"
+semidesyatnoye.turkish_language: "Yetmişoba"
+ostrogozhsk.turkish_language: "Sivrikale"
+rossosh.turkish_language: "Yosunlu"
+
+
+## Area 'sloboda_ukraine_area' () ##
+# Province 'bielska_sloboda_province' () #
+bielska_sloboda.turkish_language: "Akkışla"
+bilovodsk.turkish_language: "Akçay"
+novopskov.turkish_language: "Yenipazar"
+kalnivka.turkish_language: "Kamışlı"
+nyzhnia_duvanka.turkish_language: "Aşağı Duvan"
+konstantinovka.turkish_language: "Selimköy"
+
+# Province 'izium_province' () #
+izium.turkish_language: "Üzümlü"
+adalaga.turkish_language: "Adalağa"
+barvinkove.turkish_language: "Çiçekli"
+kupiansk.turkish_language: "Alımkent"
+sloviansk.turkish_language: "Türkmenhisar"
+vovchansk.turkish_language: "Kurtköy"
+
+# Province 'sumy_province' () #
+sumy.turkish_language: "Torbalı"
+glushkovo.turkish_language: "Uzakoba"
+krasnopillia.turkish_language: "Güzelyayla"
+vilshana.turkish_language: "Sögütlü"
+
+# Province 'donetsk_province' () #
+donets_kharkiv.turkish_language: "Küçükten"
+chuhuiv.turkish_language: "Çuhakale"
+khotmyzh.turkish_language: "Hotmış"
+kotelva.turkish_language: "Kazıklı"
+okhtyrka.turkish_language: "Oktırlı"
+zmiiv.turkish_language: "Yılanhisar"
+
+
+## Area 'pryazovia_area' () ##
+# Province 'berda_province' () #
+melitopol.turkish_language: "Balşehir"
+kyrylivka.turkish_language: "Denizköy"
+tokmak.turkish_language: "Tokmak"
+konski_vody.turkish_language: "Atpınarı"
+kuchugur.turkish_language: "Kumtepe"
+berdiansk.turkish_language: "Berdağzı"
+
+# Province 'kalmius_province' () #
+taganrog.turkish_language: "Takanburnu"
+velyka_novosilka.turkish_language: "Büyük Yeniköy"
+domakha.turkish_language: "Damlıköy"
+huliaipole.turkish_language: "Gezinyayla"
+shyrokyne.turkish_language: "Genişköy"
+vasylivka.turkish_language: "Bekirköy"
+
+# Province 'bakhmut_province' () #
+bakhmut.turkish_language: "Bahmut"
+lysychansk.turkish_language: "Tilkihisar"
+kreminna.turkish_language: "Ahlatlı"
+oleksandrivka.turkish_language: "İskenderli"
+posad.turkish_language: "Pazaraltı"
+
+
+## Area 'azov_area' () ##
+# Province 'azov_province' () #
+azok.turkish_language: "Azak"
+bagayevskaya.turkish_language: "Bağevler"
+shcherbinovka.turkish_language: "Şerbetli"
+balzimachi.turkish_language: "Balcılar"
+kanevskaya.turkish_language: "Kanlıdere"
+starominskaya.turkish_language: "Eskitaş"
+yegorlykskaya.turkish_language: "Yörükköy"
+
+# Province 'tana_province' () #
+tana.turkish_language: "Tana Limanı"
+krasny_sulin.turkish_language: "Kızılçay"
+shakhty.turkish_language: "Madenkent"
+rovenky.turkish_language: "Düzyayla"
+kalmius.turkish_language: "Kalemçay"
+kamenskaya.turkish_language: "Taşkale"
+
+# Province 'semikarakorsk_province' () #
+semikarakorsk.turkish_language: "Yedikarakent"
+bol_shaya_martynovka.turkish_language: "Büyük Turna"
+cheplak.turkish_language: "Çıplakdere"
+bolshoy_gashun.turkish_language: "Büyük Yaşun"
+dubovskoye.turkish_language: "Meşelik"
+yundin.turkish_language: "Yundular"
+
+# Province 'ust_tsimla_province' () #
+ust_tsimla.turkish_language: "Simlağızı"
+konstantinovsk.turkish_language: "Kasımkent"
+tatsinskaya.turkish_language: "Tatçiftliği"
+tormosin.turkish_language: "Tormuzlu"
+
+# Province 'luhan_province' () #
+luhansk.turkish_language: "Luhanlı"
+mityakinskaya.turkish_language: "Mıdıköy"
+novoaidar.turkish_language: "Yeni Aydar"
+belaya_kalitva.turkish_language: "Akkalita"
+millerovo.turkish_language: "Değirmenci"
+
+
+## Area 'lower_don_area' () ##
+# Province 'kremenskaya_province' () #
+kremenskaya.turkish_language: "Kireçlik"
+kletskaya.turkish_language: "Kilitli"
+ust_medveditskaya.turkish_language: "Ayıağızı"
+oblivskaya.turkish_language: "Issızoba"
+nizhny_chir.turkish_language: "Aşağı Çir"
+
+# Province 'kashary_province' () #
+kashary.turkish_language: "Kaşlık"
+chertkovo.turkish_language: "Çardaklı"
+bokovskaya.turkish_language: "Bozkent"
+milyutinskaya.turkish_language: "Meletyayla"
+boguchar.turkish_language: "Boğazköy"
+
+# Province 'borisoglebsk_province' () #
+borisoglebsk.turkish_language: "İkizhisar"
+bannoye.turkish_language: "Hamamgölü"
+kalach.turkish_language: "Kalacık"
+sadovoye.turkish_language: "Bahçeli"
+bolshaya_gribanovka.turkish_language: "Büyük Girben"
+buturlinovka.turkish_language: "Baturköy"
+verkhny_mamon.turkish_language: "Yukarı Maman"
+uryupin.turkish_language: "Urupe"
+
+# Province 'mikhaylovka_province' () #
+mikhaylovka.turkish_language: "Mikailköy"
+novoanninsky.turkish_language: "Yenianne"
+alexeyevskaya.turkish_language: "İlyaslı"
+veesky.turkish_language: "Yelköy"
+kumylzhenskaya.turkish_language: "Kumluk"
+zimnyatsky.turkish_language: "Kışla"
+malodelskaya.turkish_language: "Küçükoba"
+ilovlya.turkish_language: "Silteli"
+
+# Province 'beljamen_province' () #
+mechet.turkish_language: "Mescit"
+stepanevka.turkish_language: "İstefanlı"
+sarai_al_jadid.turkish_language: "Yenisaray"
+beljamen.turkish_language: "Belcamin"
+zenzevatka.turkish_language: "Zencevat"
+nagavskaya.turkish_language: "Nağayurt"
+aksay.turkish_language: "Aksay"
+
+# Province 'yelan_province' () #
+yelan.turkish_language: "Yalanyurt"
+machekha.turkish_language: "Üveyköy"
+novonikolayevsky.turkish_language: "Yeninikli"
+samoylovka.turkish_language: "Sahipli"
+rudnya_pontic.turkish_language: "Cevherli"
+danilovka.turkish_language: "Danyallı"
+kotovo.turkish_language: "Kedikli"
+kamyshin.turkish_language: "Kamışhisar"
+goly_karamysh.turkish_language: "Çıplak Karamış"
+
+
+## Area 'astrakhan_area' () ##
+# Province 'astrakhan_province' () #
+astrakhan.turkish_language: "Hacıtarhan"
+khosheutovo.turkish_language: "Hoşavut"
+krasny_yar.turkish_language: "Kızılbayır"
+ganyushkino.turkish_language: "Günüşkale"
+
+# Province 'pologoye_zaymishche_province' () #
+pologoye_zaymishche.turkish_language: "Yassıada"
+srednyaya_akhtuba.turkish_language: "Orta Ahtuba"
+bykovo.turkish_language: "Boğalı"
+elton.turkish_language: "Eltongöl"
+zolotari.turkish_language: "Altıncılar"
+berezhnovka.turkish_language: "Sahilköy"
+
+# Province 'zamyany_province' () #
+zamyany.turkish_language: "Zemani"
+yenotayevka.turkish_language: "Kunduzlu"
+sapara.turkish_language: "Saparbaşı"
+chernyye_zemli.turkish_language: "Karayer"
+ikryanoye.turkish_language: "Havyarlı"
+
+# Province 'chyorny_yar_province' () #
+chyorny_yar.turkish_language: "Karakayır"
+nikolskoye_pontic.turkish_language: "Nikollu"
+malye_derbety.turkish_language: "Küçük Derbet"
+sadovoye_kalmykia.turkish_language: "Bağçeeli"
+ded_khulsun.turkish_language: "Kulsunbaba"
+zavetnoye.turkish_language: "Ahidköy"
+
+# Province 'bolkhuny_province' () #
+bolkhuny.turkish_language: "Bolhunar"
+mikhaylovka_pontic.turkish_language: "Mikailkent"
+rechnoye.turkish_language: "Irmakbaşı"
+bokey.turkish_language: "Bökeyorda"
+botkul.turkish_language: "Batkulgöl"
+zhanybek.turkish_language: "Canıbek"
+
+# Province 'dardeling_province' () #
+dardeling.turkish_language: "Derdeli"
+mekletin.turkish_language: "Mekletli"
+kok_usn.turkish_language: "Gökuzun"
+yashkul.turkish_language: "Yaşgöl"
+iki_burul.turkish_language: "İkibüklü"
+
+# Province 'priyutnoye_province' () #
+priyutnoye.turkish_language: "Sığınak"
+elista.turkish_language: "Yelistan"
+remontnoye.turkish_language: "Onarımköy"
+gorodovikovsk.turkish_language: "Gordakent"
+raguli.turkish_language: "Ragul"
+
+
+## Area 'majar_area' () ##
+# Province 'majar_province' () #
+majar.turkish_language: "Macarkale"
+zelenokumsk.turkish_language: "Yeşilkuma"
+arzgir.turkish_language: "Arzgir"
+levokumskoye.turkish_language: "Solkuma"
+novopavlovsk.turkish_language: "Yenipaşah"
+yessentuq.turkish_language: "Yesentük"
+alexandrovskoye.turkish_language: "İskenderoba"
+blagodarnoye.turkish_language: "Şükürlü"
+novoselitskoye.turkish_language: "Yeniyurt"
+
+# Province 'terek_province' () #
+naurskaya.turkish_language: "Narlı"
+kara_bazaar.turkish_language: "Karapazar"
+terekli_mekteb.turkish_language: "Terek Mektebi"
+kurskaya.turkish_language: "Kuzköy"
+kamysh_burun.turkish_language: "Kamışburnu"
+
+# Province 'stavropol_province' () #
+stavropol.turkish_language: "Haçşehir"
+grigoropolisskaya.turkish_language: "Giraykent"
+uspenskoye.turkish_language: "Yükseliş"
+shad_kirman.turkish_language: "Şadkırman"
+petrovskoye_pontic.turkish_language: "Bedirhisar"
+
+# Province 'privolnoye_province' () #
+privolnoye.turkish_language: "Serbestoba"
+belaya_glina.turkish_language: "Akçamur"
+peschanokopskoye.turkish_language: "Kumkuyu"
+novo_alexandrovskoye.turkish_language: "Yeni İskenderiye"
+bezopasnoye.turkish_language: "Emniyetköy"
+ipatovo.turkish_language: "İpatlı"
+
+
+## Area 'lower_yik_area' () ##
+# Province 'kalmyk_province' () #
+kalmyk.turkish_language: "Kalmakeli"
+karatobe.turkish_language: "Karatöbe"
+shyngyrlau.turkish_language: "Çıngırlı"
+aksay_pointic.turkish_language: "Aksayboyu"
+zhympity.turkish_language: "Cimpeti"
+terekti.turkish_language: "Terekli"
+oral.turkish_language: "Yayık"
+
+# Province 'ryn_province' () #
+ryn.turkish_language: "Rınçöl"
+ushtagan.turkish_language: "Üçtağan"
+sarayjuk.turkish_language: "Saraycık"
+kisikkamys.turkish_language: "Kısık Kamış"
+kulagin.turkish_language: "Kulagün"
+saryadyn.turkish_language: "Sarıadın"
+talowski.turkish_language: "Talusköy"
+
+# Province 'piterka_province' () #
+piterka.turkish_language: "Bedirköy"
+krasny_kut_pontic.turkish_language: "Kızılçayır"
+mokrous.turkish_language: "Yaşoba"
+savinka.turkish_language: "Savunköy"
+rovnoye.turkish_language: "Düzyer"
+pokrovsk.turkish_language: "Koruşehir"
+baronsk.turkish_language: "Beykent"
+
+# Province 'taskala_province' () #
+taskala.turkish_language: "Taşkale"
+dergachi.turkish_language: "Dirgaci"
+chertanla.turkish_language: "Çertenli"
+alexandrov_gay.turkish_language: "İskenderkoru"
+ozinki.turkish_language: "Özenköy"
+
+# Province 'mechetnaya_province' () #
+mechetnaya.turkish_language: "Mescitli"
+perelyub.turkish_language: "Sevindik"
+ivanteyevka.turkish_language: "Vefaköy"
+balakovo.turkish_language: "Balaköy"
+dukhovnitskoye.turkish_language: "Ruhani"
+sakminskoye_vodokhranilishche.turkish_language: "Sakma Barajı"
+yershov.turkish_language: "Eryurt"
+
+### Region 'caucasus_region' () ###
+
+## Area 'armenian_highlands_area' () ##
+# Province 'amadiya_province' () #
+amadiya.turkish_language: "Amediye"
+baskale.turkish_language: "Başkale"
+hakkari.turkish_language: "Hakkari"
+semdinli.turkish_language: "Şemdinli"
+zakho.turkish_language: "Zaho"
+
+# Province 'bitlis_province' () #
+bitlis.turkish_language: "Bitlis"
+bahcesaray.turkish_language: "Bahçesaray"
+catak.turkish_language: "Çatak"
+hizan.turkish_language: "Hizan"
+mus.turkish_language: "Muş"
+
+# Province 'erzurum_province' () #
+erzurum.turkish_language: "Erzurum"
+bayburt.turkish_language: "Bayburt"
+erzincan.turkish_language: "Erzincan"
+ilic.turkish_language: "İliç"
+kelkit.turkish_language: "Kelkit"
+kemah.turkish_language: "Kemah"
+sebinkarahisar.turkish_language: "Şebinkarahisar"
+siran.turkish_language: "Şiran"
+tercan.turkish_language: "Tercan"
+
+# Province 'harput_province' () #
+harput.turkish_language: "Harput"
+adakli.turkish_language: "Adaklı"
+bingol.turkish_language: "Bingöl"
+cemisgezek.turkish_language: "Çemişgezek"
+genc.turkish_language: "Genç"
+keban.turkish_language: "Keban"
+kuzucan.turkish_language: "Kuzucan"
+palu.turkish_language: "Palu"
+pertek.turkish_language: "Pertek"
+sivrice.turkish_language: "Sivrice"
+
+# Province 'kars_province' () #
+kars.turkish_language: "Kars"
+kagizman.turkish_language: "Kağızman"
+surmali.turkish_language: "Sürmeli"
+
+# Province 'malazgirt_province' () #
+malazgirt.turkish_language: "Malazgirt"
+hinis.turkish_language: "Hınıs"
+karakilise.turkish_language: "Karakilise"
+hasankale.turkish_language: "Hasankale"
+tekman.turkish_language: "Tekman"
+tutak.turkish_language: "Tutak"
+varto.turkish_language: "Varto"
+
+# Province 'van_province' () #
+van.turkish_language: "Van"
+ahlat.turkish_language: "Ahlat"
+bargiri.turkish_language: "Bargiri"
+ercis.turkish_language: "Erciş"
+hosap.turkish_language: "Güzelsu"
+tatvan.turkish_language: "Tatvan"
+
+
+## Area 'armenia_area' () ##
+# Province 'ani_province' () #
+ani.turkish_language: "Ani"
+amberd.turkish_language: "Gökkale"
+artashavan.turkish_language: "Artaşova"
+kumayri.turkish_language: "Gümrü"
+
+# Province 'kachen_province' () #
+gandzasar.turkish_language: "Hazinedağ"
+goroz.turkish_language: "Görüz"
+haterk.turkish_language: "Haterik"
+kashatagh.turkish_language: "Kaştağı"
+shusha.turkish_language: "Şuşa"
+
+# Province 'syunik_province' () #
+kapan_armenia.turkish_language: "Kafan"
+gladzor.turkish_language: "Gılazor"
+goris.turkish_language: "Goriş"
+julfa.turkish_language: "Culfa"
+nakhchivan.turkish_language: "Nahçıvan"
+tatev.turkish_language: "Tadev"
+
+# Province 'tashir_province' () #
+lori.turkish_language: "Lori"
+gagi.turkish_language: "Bayezidköyü"
+kayen.turkish_language: "Kayan"
+khunani.turkish_language: "Orhankent"
+spitak.turkish_language: "Aktaş"
+
+# Province 'yerevan_province' () #
+yerevan.turkish_language: "Revan"
+bjni.turkish_language: "Becni"
+igdir.turkish_language: "Iğdır"
+khor_virap.turkish_language: "Derinkuyu"
+sotk.turkish_language: "Zod"
+
+
+## Area 'georgia_area' () ##
+# Province 'abkhazia_province' () #
+sukhumi.turkish_language: "Sohum"
+anacopia.turkish_language: "Anakopya"
+lata_georgia.turkish_language: "Karacaeli"
+pitsunda.turkish_language: "Pitsunda"
+
+# Province 'hereti_province' () #
+hereti.turkish_language: "Heret"
+balakan.turkish_language: "Balakan"
+bodbe.turkish_language: "Bodbe"
+khornabuji.turkish_language: "Hornabuji"
+qakh.turkish_language: "Kah"
+
+# Province 'imereti_province' () #
+kutaisi.turkish_language: "Kutays"
+lentekhi.turkish_language: "Lentek"
+skande.turkish_language: "İskende"
+shorapani.turkish_language: "Şorapan"
+tsageri.turkish_language: "Sageri"
+tsesi.turkish_language: "Timurbeyli"
+ushguli.turkish_language: "Uşguli"
+vartsikhe.turkish_language: "Varsike"
+
+# Province 'kakheti_province' () #
+telavi.turkish_language: "Telav"
+alaverdi.turkish_language: "Alaverdi"
+dusheti.turkish_language: "Duşeti"
+gremi.turkish_language: "Gremi"
+rustavi.turkish_language: "Rustav"
+shatili.turkish_language: "Şatili"
+
+# Province 'kartli_province' () #
+tbilisi.turkish_language: "Tiflis"
+dmanisi.turkish_language: "Dumanis"
+gori.turkish_language: "Gori"
+kasriskari.turkish_language: "Kasrikar"
+kldekari.turkish_language: "Keldekar"
+kvenipnevi.turkish_language: "Melikşahlı"
+mtskheta.turkish_language: "Mişheta"
+tsagvli.turkish_language: "Savgeli"
+
+# Province 'meskheti_province' () #
+artanuji.turkish_language: "Ardanuç"
+ispir.turkish_language: "İspir"
+khikhani.turkish_language: "Hihani"
+oltu.turkish_language: "Oltu"
+panaskerti.turkish_language: "Panaskert"
+parkhali.turkish_language: "Barhal"
+savsat.turkish_language: "Şavşat"
+tortum.turkish_language: "Tortum"
+
+# Province 'samegrelo_province' () #
+bedia.turkish_language: "Bediye"
+anaklia.turkish_language: "Anaklı"
+batumi.turkish_language: "Batum"
+ozurgeti.turkish_language: "Ozurgat"
+poti_caucasus.turkish_language: "Faş Limanı"
+tsalenjikha.turkish_language: "Salenjik"
+
+# Province 'samtskhe_province' () #
+akhaltsikhe.turkish_language: "Ahıska"
+akhalkalaki.turkish_language: "Ahılkelek"
+ardahan.turkish_language: "Ardahan"
+tmogvi.turkish_language: "Tamugi"
+
+
+## Area 'northern_caucasus_area' () ##
+# Province 'alania_province' () #
+dzhulat.turkish_language: "Culat"
+chegem.turkish_language: "Çegem"
+jariekhi.turkish_language: "Carık"
+karcha_kala.turkish_language: "Karçakale"
+koban.turkish_language: "Koban"
+tatartup.turkish_language: "Tatartüp"
+
+# Province 'avaria_province' () #
+khunzakh.turkish_language: "Hunzak"
+kumukh.turkish_language: "Kumuk"
+omalo.turkish_language: "Yıldırımbeli"
+tindi.turkish_language: "Tindi"
+
+# Province 'lezgistan_province' () #
+kubachi.turkish_language: "Kubacı"
+khuchni.turkish_language: "Huşni"
+kurakh.turkish_language: "Kurak"
+rutul.turkish_language: "Rutul"
+tpig.turkish_language: "Saruhanlı"
+
+# Province 'north_caucasus_province' () #
+khumar.turkish_language: "Humar"
+arkhyz.turkish_language: "Arkız"
+mamiya_kala.turkish_language: "Mamiyekale"
+rim_gora.turkish_language: "Emirdağı"
+
+# Province 'simsir_province' () #
+simsir.turkish_language: "Şimşir"
+alkhan_kala.turkish_language: "Alhankale"
+argun.turkish_language: "Argun"
+nazran.turkish_language: "Nazran"
+targim.turkish_language: "Targim"
+tsontaroy_kala.turkish_language: "Suntarukale"
+
+# Province 'tarki_province' () #
+tarki.turkish_language: "Tarki"
+boynak.turkish_language: "Boynak"
+endirey.turkish_language: "Endirey"
+temirkhan_shura.turkish_language: "Demirhanşura"
+terek.turkish_language: "Terekboyu"
+
+
+## Area 'shirvan_area' () ##
+# Province 'arran_province' () #
+ganja.turkish_language: "Gence"
+barda.turkish_language: "Berde"
+beylagan.turkish_language: "Beylegan"
+gardman.turkish_language: "Gerdman"
+lemberan.turkish_language: "Lemberan"
+shamkir.turkish_language: "Şemkir"
+
+# Province 'baku_province' () #
+baku.turkish_language: "Bakü"
+javad.turkish_language: "Cevad"
+mahmudabad.turkish_language: "Mahmutabad"
+maraza.turkish_language: "Maraza"
+qobustan.turkish_language: "Kobustan"
+shamakhi.turkish_language: "Şemahi"
+
+# Province 'mughan_province' () #
+mughan.turkish_language: "Muğan"
+baciravan.turkish_language: "Bacıravan"
+bilasuvar.turkish_language: "Bilesuvar"
+germi.turkish_language: "Germi"
+salyan.turkish_language: "Salyan"
+varsan.turkish_language: "Korkuteli"
+
+# Province 'shaki_province' () #
+shaki.turkish_language: "Şeki"
+agsu.turkish_language: "Ağsu"
+aresh.turkish_language: "Areş"
+goychay.turkish_language: "Göyçay"
+qabala.turkish_language: "Gebele"
+vartashen.turkish_language: "Oğuz"
+zardab.turkish_language: "Zerdab"
+
+# Province 'shirvan_province' () #
+shirvan.turkish_language: "Şirvan"
+derbent.turkish_language: "Derbend"
+niyazabad.turkish_language: "Niyazabad"
+quba.turkish_language: "Kuba"
+shabran.turkish_language: "Şabran"
+### Region 'anatolia_region' () ###
+
+## Area 'cappadocia_area' () ##
+# Province 'amasya_province' () #
+amasya.turkish_language: "Amasya"
+gadegara.turkish_language: "Gadegara"
+ladik_pontus.turkish_language: "Ladik"
+merzifon.turkish_language: "Merzifon"
+sonisa.turkish_language: "Sonisa"
+
+# Province 'bozok_province' () #
+bozok.turkish_language: "Bozok"
+baliseyh.turkish_language: "Balışeyh"
+candir.turkish_language: "Candır"
+dinek_keskin.turkish_language: "Dinek Keskin"
+sorgun.turkish_language: "Sorgun"
+
+# Province 'corum_province' () #
+corum.turkish_language: "Çorum"
+gumus.turkish_language: "Gümüş"
+huseyinabad.turkish_language: "Hüseyinabad"
+iskilip.turkish_language: "İskilip"
+sungurlu.turkish_language: "Sungurlu"
+
+# Province 'divrigi_province' () #
+divrigi.turkish_language: "Divriği"
+arapgir.turkish_language: "Arapgir"
+arguvan.turkish_language: "Arguvan"
+egin.turkish_language: "Eğin"
+
+# Province 'kayseri_province' () #
+kayseri.turkish_language: "Kayseri"
+bogazliyan.turkish_language: "Boğazlıyan"
+develi.turkish_language: "Develi"
+tomarza.turkish_language: "Tomarza"
+yahyali.turkish_language: "Yahyalı"
+
+# Province 'kirsehir_province' () #
+kirsehir.turkish_language: "Kırşehir"
+hacibektas.turkish_language: "Hacıbektaş"
+nevsehir.turkish_language: "Nevşehir"
+sariyahsi.turkish_language: "Sarıyahşi"
+urgup.turkish_language: "Ürgüp"
+
+# Province 'nigde_province' () #
+nigde.turkish_language: "Niğde"
+bekarlar.turkish_language: "Bekarlar"
+bor_tur.turkish_language: "Bor"
+
+# Province 'sivas_province' () #
+sivas.turkish_language: "Sivas"
+darende.turkish_language: "Darende"
+dasmenda.turkish_language: "Dasmenda"
+deliktash.turkish_language: "Deliktaş"
+gemerek.turkish_language: "Gemerek"
+gurun.turkish_language: "Gürün"
+hafik.turkish_language: "Hafik"
+sarkisla.turkish_language: "Şarkışla"
+zara.turkish_language: "Zara"
+
+# Province 'tokat_province' () #
+tokat.turkish_language: "Tokat"
+akdagmadeni.turkish_language: "Akdağmadeni"
+aydincik.turkish_language: "Aydıncık"
+koyulhisar.turkish_language: "Koyulhisar"
+niksar.turkish_language: "Niksar"
+sulusaray.turkish_language: "Sulusaray"
+zile.turkish_language: "Zile"
+
+
+## Area 'central_anatolia_area' () ##
+# Province 'aksaray_province' () #
+aksaray.turkish_language: "Aksaray"
+kochisar.turkish_language: "Koçhisar"
+kulu_turkey.turkish_language: "Kulu"
+insuyu.turkish_language: "İnsuyu"
+
+# Province 'ankara_province' () #
+ankara.turkish_language: "Ankara"
+cubuk.turkish_language: "Çubuk"
+haymana.turkish_language: "Haymana"
+kalecik.turkish_language: "Kalecik"
+karakecili.turkish_language: "Karakeçili"
+polatli.turkish_language: "Polatlı"
+
+# Province 'beysehir_province' () #
+beysehir.turkish_language: "Beyşehir"
+aksehir.turkish_language: "Akşehir"
+bolvadin.turkish_language: "Bolvadin"
+ilgin.turkish_language: "Ilgın"
+sarkikaraagac.turkish_language: "Şarkikaraağaç"
+seydisehir.turkish_language: "Seydişehir"
+yalvac.turkish_language: "Yalvaç"
+
+# Province 'cankiri_province' () #
+cankiri.turkish_language: "Çankırı"
+bayat.turkish_language: "Bayat"
+cerkes.turkish_language: "Çerkeş"
+kursunlu.turkish_language: "Kurşunlu"
+sabanozu.turkish_language: "Şabanözü"
+tosya.turkish_language: "Tosya"
+
+# Province 'karahisar_province' () #
+karahisar_i_sahib.turkish_language: "Karahisar-ı Sahib"
+altintas.turkish_language: "Altıntaş"
+emirdag.turkish_language: "Emirdağ"
+sandikli.turkish_language: "Sandıklı"
+seyitgazi.turkish_language: "Seyitgazi"
+suhut.turkish_language: "Şuhut"
+
+# Province 'konya_province' () #
+konya.turkish_language: "Konya"
+altinekin.turkish_language: "Altınekin"
+celtik.turkish_language: "Çeltik"
+cumra.turkish_language: "Çumra"
+ladik.turkish_language: "Ladik"
+suluklu.turkish_language: "Suluklu"
+turgut.turkish_language: "Turgut"
+
+# Province 'larende_province' () #
+larende.turkish_language: "Larende"
+eregli_kar.turkish_language: "Ereğli"
+eskil.turkish_language: "Eskil"
+hatunsaray.turkish_language: "Hatunsaray"
+karapinar.turkish_language: "Karapınar"
+obruk.turkish_language: "Obruk"
+pirloganda.turkish_language: "Pirloganda"
+
+# Province 'sivrihisar_province' () #
+sivrihisar.turkish_language: "Sivrihisar"
+beypazari.turkish_language: "Beypazarı"
+bozan.turkish_language: "Bozan"
+kaymaz.turkish_language: "Kaymaz"
+kibrus.turkish_language: "Kibrus"
+kizilca.turkish_language: "Kızılca"
+mihaliccik.turkish_language: "Mihalıçcık"
+
+
+## Area 'cilicia_area' () ##
+# Province 'adana_province' () #
+adana.turkish_language: "Adana"
+ayas.turkish_language: "Ayas"
+iskenderun.turkish_language: "İskenderun"
+kars_armenia.turkish_language: "Kars-ı Zülkadriye"
+
+# Province 'cyprus_province' () #
+nicosia_cyp.turkish_language: "Lefkoşa"
+famagusta.turkish_language: "Mağusa"
+kyrenia.turkish_language: "Girne"
+larnaca.turkish_language: "Larnaka"
+limassol.turkish_language: "Leymosun"
+morphou.turkish_language: "Güzelyurt"
+paphos.turkish_language: "Baf"
+
+# Province 'icel_province' () #
+silifke.turkish_language: "Silifke"
+anamur.turkish_language: "Anamur"
+ermenek.turkish_language: "Ermenek"
+mut.turkish_language: "Mut"
+
+# Province 'malatya_province' () #
+malatya.turkish_language: "Malatya"
+besni.turkish_language: "Besni"
+gerger.turkish_language: "Gerger"
+kahta.turkish_language: "Kahta"
+kaysun.turkish_language: "Kaysun"
+samsat.turkish_language: "Samsat"
+
+# Province 'marash_province' () #
+marash.turkish_language: "Maraş"
+afsin.turkish_language: "Afşin"
+elbistan.turkish_language: "Elbistan"
+enguzud.turkish_language: "Engüzüd"
+goksun.turkish_language: "Göksun"
+kapan.turkish_language: "Kapan"
+ulnia.turkish_language: "Ulnia"
+
+# Province 'sis_province' () #
+sis.turkish_language: "Sis"
+anavarza.turkish_language: "Anavarza"
+caxud.turkish_language: "Cahud"
+comana_cil.turkish_language: "Komana"
+hargan.turkish_language: "Hargan"
+
+# Province 'tarsus_province' () #
+tarsus.turkish_language: "Tarsus"
+candir_cil.turkish_language: "Candır"
+corycus.turkish_language: "Korykos"
+molevon.turkish_language: "Molevon"
+
+
+## Area 'marmara_area' () ##
+# Province 'biga_province' () #
+biga.turkish_language: "Biga"
+ayvacik.turkish_language: "Ayvacık"
+bandirma.turkish_language: "Bandırma"
+bayramic.turkish_language: "Bayramiç"
+can.turkish_language: "Çan"
+canakkale.turkish_language: "Çanakkale"
+gonen.turkish_language: "Gönen"
+lapseki.turkish_language: "Lapseki"
+
+# Province 'hudavendigar_province' () #
+bursa.turkish_language: "Bursa"
+adranos.turkish_language: "Adranos"
+dursunbey.turkish_language: "Dursunbey"
+harmancik.turkish_language: "Harmancık"
+iznik.turkish_language: "İznik"
+
+# Province 'karasi_province' () #
+balikesir.turkish_language: "Balıkesir"
+balya.turkish_language: "Balya"
+bergama.turkish_language: "Bergama"
+bigadic.turkish_language: "Bigadiç"
+edremit.turkish_language: "Edremit"
+manyas.turkish_language: "Manyas"
+mihalic.turkish_language: "Mihaliç"
+soma.turkish_language: "Soma"
+susurluk.turkish_language: "Susurluk"
+
+# Province 'kocaeli_province' () #
+izmit.turkish_language: "İzmit"
+atpazari.turkish_language: "Atpazarı"
+uskudar.turkish_language: "Üsküdar"
+silli.turkish_language: "Silli"
+
+# Province 'kutahya_province' () #
+kutahya.turkish_language: "Kütahya"
+aslanapa.turkish_language: "Aslanapa"
+domanic.turkish_language: "Domaniç"
+emet.turkish_language: "Emet"
+simav.turkish_language: "Simav"
+tavsanli.turkish_language: "Tavşanlı"
+
+# Province 'sultanonu_province' () #
+sultanonu.turkish_language: "Sultanönü"
+bilecik.turkish_language: "Bilecik"
+goynuk.turkish_language: "Göynük"
+eynegol.turkish_language: "İnegöl"
+inonu.turkish_language: "İnönü"
+nalli.turkish_language: "Nallı"
+sogut.turkish_language: "Söğüt"
+
+
+## Area 'pontus_area' () ##
+# Province 'bolu_province' () #
+bolu.turkish_language: "Bolu"
+akcasehir.turkish_language: "Akçaşehir"
+akyazi.turkish_language: "Akyazı"
+eregli.turkish_language: "Ereğli"
+konrapa.turkish_language: "Konrapa"
+mudurnu.turkish_language: "Mudurnu"
+
+# Province 'canik_province' () #
+giresun.turkish_language: "Giresun"
+akkus.turkish_language: "Akkuş"
+bayramlu.turkish_language: "Bayramlu"
+mesudiye.turkish_language: "Mesudiye"
+terme.turkish_language: "Terme"
+unye.turkish_language: "Ünye"
+
+# Province 'kastamonu_province' () #
+kastamonu.turkish_language: "Kastamonu"
+arac.turkish_language: "Araç"
+devrekani.turkish_language: "Devrekani"
+inebolu.turkish_language: "İnebolu"
+kure_i_mamure.turkish_language: "Küre-i Mamure"
+taskopru.turkish_language: "Taşköprü"
+
+# Province 'safranbolu_province' () #
+safranbolu.turkish_language: "Safranbolu"
+amasra.turkish_language: "Amasra"
+bartin.turkish_language: "Bartın"
+gerede.turkish_language: "Gerede"
+mengen.turkish_language: "Mengen"
+ulus.turkish_language: "Ulus"
+yenicepazari.turkish_language: "Yenicepazarı"
+
+# Province 'sinop_province' () #
+sinop.turkish_language: "Sinop"
+bafra.turkish_language: "Bafra"
+boyabat.turkish_language: "Boyabat"
+gerze.turkish_language: "Gerze"
+samsun.turkish_language: "Samsun"
+
+# Province 'trebizond_province' () #
+trebizond.turkish_language: "Trabzon"
+gorele.turkish_language: "Görele"
+gumushane.turkish_language: "Gümüşhane"
+khupati.turkish_language: "Hupat"
+rize.turkish_language: "Rize"
+surmene.turkish_language: "Sürmene"
+
+
+## Area 'west_anatolia_area' () ##
+# Province 'alaiye_province' () #
+alaiye.turkish_language: "Alaiye"
+karahisar_i_teke.turkish_language: "Karahisar-ı Teke"
+manavgat.turkish_language: "Manavgat"
+selinti.turkish_language: "Selinti"
+
+# Province 'antalya_province' () #
+antalya.turkish_language: "Antalya"
+elmali.turkish_language: "Elmalı"
+finike.turkish_language: "Finike"
+kas.turkish_language: "Kaş"
+istanoz.turkish_language: "İstanoz"
+
+# Province 'aydin_province' () #
+tire.turkish_language: "Tire"
+alasehir.turkish_language: "Alaşehir"
+balat.turkish_language: "Balat"
+birgi.turkish_language: "Birgi"
+cine.turkish_language: "Çine"
+guzelhisar.turkish_language: "Güzelhisar"
+milas.turkish_language: "Milas"
+nazilli.turkish_language: "Nazilli"
+
+# Province 'hamid_province' () #
+isparta.turkish_language: "Isparta"
+burdur.turkish_language: "Burdur"
+dinar.turkish_language: "Dinar"
+egirdir.turkish_language: "Eğirdir"
+stefani.turkish_language: "Stefani"
+uluborlu.turkish_language: "Uluborlu"
+
+# Province 'mugla_province' () #
+mugla.turkish_language: "Muğla"
+bodrum.turkish_language: "Bodrum"
+gokabat.turkish_language: "Gökabat"
+golhisar.turkish_language: "Gölhisar"
+marmaris.turkish_language: "Marmaris"
+megri.turkish_language: "Megri"
+tavas.turkish_language: "Tavas"
+yuksekkum.turkish_language: "Yüksekkum"
+
+# Province 'saruhan_province' () #
+manisa.turkish_language: "Manisa"
+akhisar.turkish_language: "Akhisar"
+demirci.turkish_language: "Demirci"
+foca.turkish_language: "Foça"
+gordes.turkish_language: "Gördes"
+kula.turkish_language: "Kula"
+
+# Province 'smyrna_province' () #
+smyrna.turkish_language: "İzmir"
+ayasuluk.turkish_language: "Ayasuluk"
+cesme.turkish_language: "Çeşme"
+menemen.turkish_language: "Menemen"
+urla.turkish_language: "Urla"
+
+# Province 'usak_province' () #
+usak.turkish_language: "Uşak"
+banaz.turkish_language: "Banaz"
+gediz.turkish_language: "Gediz"
+honaz.turkish_language: "Honaz"
+lazkiye.turkish_language: "Lazkiye"
+seyhli.turkish_language: "Şeyhli"
+
+
+## Area 'black_sea_area' () ##

@@ -1,0 +1,1818 @@
+﻿l_english:
+ ### Region 'iberia_region' () ###
+
+## Area 'galicia_area' () ##
+# Province 'coruna_province' () #
+coruna.arabic_language: "al-Quruniyya"
+betanzos.arabic_language: "Bitanthūs"
+ferrol.arabic_language: "Farūl"
+mondonedo.arabic_language: "Mundunīdu"
+vivero.arabic_language: "Bībīru"
+
+# Province 'lugo_province' () #
+lugo.arabic_language: "Lūghū"
+monforte_de_lemos.arabic_language: "Manfūrt Līmus"
+navia_de_suarna.arabic_language: "Nāfya Suārna"
+sarria.arabic_language: "Sāriyya"
+villalba.arabic_language: "Bilʿalba"
+
+# Province 'ourense_province' () #
+ourense.arabic_language: "Uransh"
+barco_de_valdeorras.arabic_language: "Bārkū Waldiūrras"
+ginzo_de_limia.arabic_language: "Jīnzu al-Līmya"
+monterrey.arabic_language: "Muntarrī"
+ribadavia.arabic_language: "Ribādāfya"
+viana_bolo.arabic_language: "Fiyāna Būlū"
+
+# Province 'santiago_province' () #
+santiago_compostela.arabic_language: "Sāntyāghū"
+finisterre.arabic_language: "Finistirr"
+lalin.arabic_language: "Lālīn"
+mellid.arabic_language: "Mallīd"
+noya.arabic_language: "Nūya"
+pontevedra.arabic_language: "Buntifadra"
+tuy.arabic_language: "Tūy"
+
+## Area 'leon_area' () ##
+# Province 'astorga_province' () #
+astorga.arabic_language: "Asturqa"
+castrocalbon.arabic_language: "Qasr Qalbūn"
+ponferrada.arabic_language: "Bunfarrāda"
+villablino.arabic_language: "Bilablīnū"
+villafranca_bierzo.arabic_language: "Bilafranga al-Bīrzū"
+ancares_range.arabic_language: "Jibāl Anqāris"
+leon_mountains.arabic_language: "Jibāl Lyūn"
+
+# Province 'benavente_province' () #
+benavente.arabic_language: "Banāfinta"
+alcanices.arabic_language: "Al-Qanīsh"
+puebla_de_sanabria.arabic_language: "Būbla Sanābrya"
+villalpando.arabic_language: "Bilalbāndū"
+cabrera_range.arabic_language: "Jibāl Qabrīra"
+
+# Province 'ciudad_rodrigo_province' () #
+ciudad_rodrigo.arabic_language: "Madīnat Rudrīghū"
+coria.arabic_language: "Qūrya"
+ledesma.arabic_language: "Ladisma"
+san_felices.arabic_language: "San Filīsh"
+yecla_de_yeltes.arabic_language: "Yakla Yiltis"
+francia_mountains.arabic_language: "Jibāl Faransiya"
+
+# Province 'east_asturias_province' () #
+villaviciosa.arabic_language: "Bilafisyūsa"
+cangas.arabic_language: "Khanghas"
+llanes.arabic_language: "Liyānis"
+mieres.arabic_language: "Miyāris"
+
+# Province 'leon_province' () #
+leon.arabic_language: "Lyūn"
+mansilla.arabic_language: "Mansīlla"
+riano.arabic_language: "Ryānū"
+sahagun.arabic_language: "Sahāghūn"
+east_cantabrian_mountains.arabic_language: "Jibāl Qantābrīyya al-Sharqiyya"
+
+# Province 'salamanca_province' () #
+salamanca.arabic_language: "Salamānqa"
+alba_de_tormes.arabic_language: "Alba Turmis"
+bejar.arabic_language: "Bījār"
+matilla_de_canos.arabic_language: "Matīlla Qānūs"
+piedrahita.arabic_language: "Piyidrahīta"
+bejar_mountains.arabic_language: "Jibāl Bījār"
+
+# Province 'west_asturias_province' () #
+oviedo.arabic_language: "Ufyādu"
+aviles.arabic_language: "Abīlīs"
+castropol.arabic_language: "Qastrūbāl"
+tineo.arabic_language: "Tīnīyū"
+west_cantabrian_mountains.arabic_language: "Jibāl Qantābrīyya al-Gharbiyya"
+
+# Province 'zamora_province' () #
+zamora.arabic_language: "Thamūra"
+alba_de_aliste.arabic_language: "Alba Alīst"
+fermoselle.arabic_language: "Farmusiyy"
+toro.arabic_language: "Tūrū"
+
+## Area 'castile_area' () ##
+# Province 'avila_province' () #
+avila.arabic_language: "Ābila"
+adrada.arabic_language: "Adrāda"
+arevalo.arabic_language: "Arābalu"
+las_navas.arabic_language: "al-Nawwās"
+oropesa.arabic_language: "Urūbīsa"
+villatoro.arabic_language: "Bilatūrū"
+western_central_system.arabic_language: "Jibāl Markaziyya Gharbiyya"
+
+# Province 'burgos_province' () #
+burgos.arabic_language: "Burgush"
+briviesca.arabic_language: "Baribyisqa"
+logrono.arabic_language: "Lūghrūnyū"
+miranda_de_ebro.arabic_language: "Mīranda al-Ibrū"
+najera.arabic_language: "Nājara"
+villarcayo.arabic_language: "Bilarqāyū"
+demanda_range.arabic_language: "Jibāl Dimanda"
+
+# Province 'lerma_province' () #
+lerma.arabic_language: "Lirma"
+aranda_de_duero.arabic_language: "Aranda al-Duwayrū"
+castrojeriz.arabic_language: "Qasrujīrith"
+sto_domingo_silos.arabic_language: "Sān Duminqu Silūs"
+villadiego.arabic_language: "Bilādiyghū"
+
+# Province 'palencia_province' () #
+palencia.arabic_language: "Balansiya al-Jadīda"
+aguilar_de_campoo.arabic_language: "Aghwīlār Qambū"
+carrion_de_los_condes.arabic_language: "Qarryūn al-Qundis"
+monzon_campos.arabic_language: "Munsūn Qambus"
+palenzuela.arabic_language: "Balanzūla"
+saldana.arabic_language: "Saldānya"
+reinosa.arabic_language: "Raynūsa"
+
+# Province 'segovia_province' () #
+segovia.arabic_language: "Saqūbya"
+cuellar.arabic_language: "Kuʿyār"
+fuentiduena.arabic_language: "Fwentidūnya"
+pedraza.arabic_language: "Bidrāsa"
+sepulveda.arabic_language: "Sibulbīda"
+eastern_central_system1.arabic_language: "Jibāl Markaziyya Sharqiyya 1"
+eastern_central_system2.arabic_language: "Jibāl Markaziyya Sharqiyya 2"
+eastern_central_system3.arabic_language: "Jibāl Markaziyya Sharqiyya 3"
+
+# Province 'soria_province' () #
+soria.arabic_language: "Sūrya"
+agreda.arabic_language: "Aghrīdha"
+almazan.arabic_language: "Almazān"
+arnedo.arabic_language: "Arnīdu"
+berlanga.arabic_language: "Barlānga"
+burgo_de_osma.arabic_language: "Burghu Uthmā"
+calahorra.arabic_language: "Qalahūrra"
+calatanazor.arabic_language: "Qalʿat an-Nāzūr"
+medinaceli.arabic_language: "Madīnat Salī"
+urbion_peaks.arabic_language: "Shurafāt Urbiyūn"
+
+# Province 'montana_province' () #
+santander.arabic_language: "Sāntandar"
+laredo.arabic_language: "Lārīdu"
+potes.arabic_language: "Būtis"
+san_vicente_barquera.arabic_language: "San Fisint Barkīra"
+picos_de_europa.arabic_language: "Shahāt Ūrūbbā"
+
+# Province 'valladolid_province' () #
+valladolid.arabic_language: "Balad al-Walīd"
+medina_de_rioseco.arabic_language: "Madīnat Rīūsīqu"
+medina_del_campo.arabic_language: "Madīnat al-Qambū"
+penafiel.arabic_language: "Banāfiyāl"
+tordesillas.arabic_language: "Turdasīyas"
+
+## Area 'extremadura_area' () ##
+# Province 'badajoz_province' () #
+badajoz.arabic_language: "Batalyaws"
+albuquerque.arabic_language: "Al-Burkīrki"
+barcarrota.arabic_language: "Barkarrūṭa"
+jerez_de_los_caballeros.arabic_language: "Sharīsh al-Kabālyarūs"
+villanueva_del_fresno.arabic_language: "Bilanūfa al-Farisnū"
+
+# Province 'caceres_province' () #
+caceres.arabic_language: "Qāsras"
+alcantara.arabic_language: "Al-Qanṭara"
+arroyo.arabic_language: "Arrūyū"
+brozas.arabic_language: "Brūzas"
+valencia_de_alcantara.arabic_language: "Balansiya al-Qanṭara"
+
+# Province 'merida_province' () #
+merida.arabic_language: "Māritiya"
+azuaga.arabic_language: "Azūāgha"
+llerena.arabic_language: "Lirīna"
+monesterio.arabic_language: "Munastīryū"
+montanchez.arabic_language: "Muntānchis"
+zafra.arabic_language: "Zafrā"
+
+# Province 'plasencia_province' () #
+plasencia.arabic_language: "Balāsinsya"
+galisteo.arabic_language: "Ghalistyū"
+granadilla.arabic_language: "Gharnadīlla"
+jaraicejo.arabic_language: "Jārāyjū"
+valverde.arabic_language: "Balbard"
+
+# Province 'trujillo_province' () #
+trujillo.arabic_language: "Turūjīlu"
+escurial.arabic_language: "Askuryāl"
+herrera.arabic_language: "Hirrīra"
+puebla_de_alcocer.arabic_language: "Būbla al-Qūthir"
+
+# Province 'villanueva_de_la_serena_province' () #
+villanueva_de_la_serena.arabic_language: "Bilanūfa as-Sirīna"
+belalcazar.arabic_language: "Bal al-Qasr"
+medellin.arabic_language: "Madillīn"
+zalamea.arabic_language: "Zalamīya"
+
+## Area 'navarre_area' () ##
+# Province 'alava_province' () #
+vitoria.arabic_language: "Bitūrya"
+anana.arabic_language: "ʿAnāna"
+laguardia.arabic_language: "Lagwardiya"
+salvatierra.arabic_language: "Salbatīra"
+
+# Province 'biscay_province' () #
+bilbao.arabic_language: "Bilbāw"
+durango.arabic_language: "Dūrānghū"
+valmaseda.arabic_language: "Balmāsīda"
+
+# Province 'gipuzkoa_province' () #
+san_sebastian.arabic_language: "San Sabyastyān"
+onate.arabic_language: "Unāta"
+tolosa.arabic_language: "Ṭūlūsa"
+
+# Province 'navarre_province' () #
+pamplona.arabic_language: "Bamplūna"
+elizondo.arabic_language: "Ilīzūndū"
+estella.arabic_language: "Istīlla"
+olite.arabic_language: "Ūlīt"
+roncesvalles.arabic_language: "Rūnsisvalis"
+sanguesa.arabic_language: "Sangwīsa"
+tudela.arabic_language: "Tudīla"
+viana.arabic_language: "Fiyāna"
+
+## Area 'aragon_area' () ##
+# Province 'alcaniz_province' () #
+alcaniz.arabic_language: "Al-Qanīs"
+cantavieja.arabic_language: "Qantafyikha"
+caspe.arabic_language: "Qasba"
+montalban.arabic_language: "Muntalbān"
+valderrobres.arabic_language: "Badrurrubris"
+
+# Province 'barbastro_province' () #
+barbastro.arabic_language: "Barbasṭrū"
+ainsa.arabic_language: "ʿAynsa"
+benabarre.arabic_language: "Banabār"
+fraga.arabic_language: "Farrāgha"
+monzon.arabic_language: "Munsūn"
+sarinena.arabic_language: "Sarīnina"
+south_western_pyrenees2.arabic_language: "Jibāl al-Barānīz al-Gharbiyya 2"
+
+# Province 'calatayud_province' () #
+calatayud.arabic_language: "Qalʿat Ayūb"
+ariza.arabic_language: "ʿArīza"
+carinena.arabic_language: "Karīnyāna"
+daroca.arabic_language: "Darūqa"
+
+# Province 'huesca_province' () #
+huesca.arabic_language: "Wiskā"
+almudevar.arabic_language: "Al-Mudawwar"
+anso.arabic_language: "Ansū"
+ejea_de_los_caballeros.arabic_language: "Ijyā al-Kabālyarūs"
+jaca.arabic_language: "Jāqa"
+sos.arabic_language: "Sūs"
+south_western_pyrenees1.arabic_language: "Jibāl al-Barānīz al-Gharbiyya 1"
+
+# Province 'teruel_province' () #
+teruel.arabic_language: "Turwīl"
+albarracin.arabic_language: "Al-Barrāsīn"
+alfambra.arabic_language: "Al-Famra"
+mora_de_rubielos.arabic_language: "Mūra Rubyīlus"
+
+# Province 'zaragoza_province' () #
+zaragoza.arabic_language: "Saraqusṭa"
+belchite.arabic_language: "Bilchīt"
+pina_de_ebro.arabic_language: "Bīna al-Ibrū"
+tarazona.arabic_language: "Ṭarazūna"
+zuera.arabic_language: "Zūyra"
+moncayo_range.arabic_language: "Jabal Munkāyu"
+
+## Area 'catalonia_area' () ##
+# Province 'barcelona_province' () #
+barcelona.arabic_language: "Barshalūna"
+sitges.arabic_language: "Sītjis"
+terrassa.arabic_language: "Tarrāssa"
+villafranca_del_penedes.arabic_language: "Bilafranka al-Binidīs"
+
+# Province 'girona_province' () #
+girona.arabic_language: "Jarūna"
+besalu.arabic_language: "Bīsālū"
+castellon_ampurias.arabic_language: "Qasṭalyūn Ambūryās"
+ripoll.arabic_language: "Ribūl"
+sant_feliu.arabic_language: "San Filyū"
+
+# Province 'new_catalonia_province' () #
+tarragona.arabic_language: "Ṭarraghūna"
+flix.arabic_language: "Flīks"
+lleida.arabic_language: "Liyda"
+montblanc.arabic_language: "Muntblānk"
+montblanc.arabic_language: "Muntblānk"
+tarrega.arabic_language: "Ṭāriga"
+tortosa.arabic_language: "Ṭurṭūsha"
+
+# Province 'osona_province' () #
+vic.arabic_language: "Bīk"
+berga.arabic_language: "Birgha"
+cardona.arabic_language: "Qardūna"
+cervera.arabic_language: "Sarvīra"
+manresa.arabic_language: "Manrīsa"
+
+# Province 'rosello_province' () #
+perpignan.arabic_language: "Barbinyān"
+prades.arabic_language: "Brādis"
+puigcerda.arabic_language: "Būj Sarda"
+lagoon_of_salses.arabic_language: "Buḥayra Salsis"
+south_eastern_pyrenees.arabic_language: "Jibāl al-Barānīz al-Janūbiyya al-Sharqiyya"
+
+# Province 'urgell_province' () #
+seu_durgell.arabic_language: "Siyū Durjīl"
+agramunt.arabic_language: "Aghramūnt"
+andorra_la_vella.arabic_language: "Andūra al-Kubrā"
+balaguer.arabic_language: "Balāghir"
+talarn.arabic_language: "Talārn"
+vielha.arabic_language: "Fiyilha"
+central_pyrenees.arabic_language: "Jibāl al-Barānīz al-Wusṭā"
+south_western_pyrenees3.arabic_language: "Jibāl al-Barānīz al-Gharbiyya 3"
+
+## Area 'valencia_area' () ##
+# Province 'castellon_province' () #
+castellon_de_la_plana.arabic_language: "Qasṭalyūn al-Balāna"
+ares_del_maestre.arabic_language: "Āris al-Maʿstrī"
+llucena.arabic_language: "Lūsīna"
+morella.arabic_language: "Mūrīyya"
+peniscola.arabic_language: "Banīsqūla"
+
+# Province 'jativa_province' () #
+jativa.arabic_language: "Shāṭiba"
+alcoy.arabic_language: "Al-Qūy"
+ayora.arabic_language: "Ayūra"
+denia.arabic_language: "Dāniya"
+gandia.arabic_language: "Jandiyya"
+
+# Province 'orihuela_province' () #
+orihuela.arabic_language: "Ūryihūla"
+alicante.arabic_language: "Al-Laqant"
+elche.arabic_language: "Ilsh"
+
+# Province 'valencia_province' () #
+valencia.arabic_language: "Balansiya"
+bunol.arabic_language: "Būnūl"
+chelva.arabic_language: "Shilfa"
+lliria.arabic_language: "Līrya"
+
+## Area 'balearics_area' () ##
+# Province 'mallorca_province' () #
+palma.arabic_language: "Bālma"
+ciudadela_de_menorca.arabic_language: "Madīnat Manūrqa"
+ibiza.arabic_language: "Yābisa"
+manacor.arabic_language: "Manāqūr"
+pollensa.arabic_language: "Bulānsa"
+
+## Area 'north_portugal_area' () ##
+# Province 'beira_alta_province' () #
+viseu.arabic_language: "Bisyū"
+besteiros.arabic_language: "Bistayrūs"
+guarda.arabic_language: "Wārda"
+lamego.arabic_language: "Lamīghū"
+meda.arabic_language: "Mīda"
+pinhel.arabic_language: "Binhīl"
+seia.arabic_language: "Sīya"
+trancoso.arabic_language: "Tarankūsu"
+estrela_mountains.arabic_language: "Jibāl Istrīla"
+
+# Province 'beira_baixa_province' () #
+castelo_branco.arabic_language: "Qasṭallu Branku"
+covilha.arabic_language: "Qubilya"
+idanha.arabic_language: "Idānha"
+proenca_nova.arabic_language: "Burūnsa Nūfa"
+sabugal.arabic_language: "Sabūghāl"
+
+# Province 'beira_litoral_province' () #
+coimbra.arabic_language: "Qulumriyya"
+chao_de_couce.arabic_language: "Shāw Qūs"
+esgueira.arabic_language: "Isghīra"
+feira.arabic_language: "Fayra"
+figueira.arabic_language: "Fīghīra"
+leiria.arabic_language: "Layrīya"
+
+# Province 'minho_province' () #
+porto.arabic_language: "Būrṭū"
+barcelos.arabic_language: "Barsīlūs"
+braga.arabic_language: "Brāgha"
+guimaraes.arabic_language: "Ghimārāysh"
+valenca.arabic_language: "Balansā"
+viana_do_castelo.arabic_language: "Fiyāna al-Qasṭallu"
+
+# Province 'tras_os_montes' () #
+braganca.arabic_language: "Braghānsa"
+aguiar.arabic_language: "Aghyār"
+chaves.arabic_language: "Shāvish"
+macedo.arabic_language: "Māsīdu"
+miranda_de_i_douro.arabic_language: "Mīranda al-Dūrū"
+mirandela.arabic_language: "Mīrandilla"
+moncorvo.arabic_language: "Munkurvū"
+montalegre.arabic_language: "Muntalighra"
+vila_real.arabic_language: "Fīla Rīyāl"
+
+## Area 'south_portugal_area' () ##
+# Province 'algarve_province' () #
+lagos.arabic_language: "Lāghush"
+faro.arabic_language: "Fāru"
+silves.arabic_language: "Shilb"
+tavira.arabic_language: "Ṭābīra"
+
+# Province 'alto_alentejo_province' () #
+evora.arabic_language: "Yābūra"
+avis.arabic_language: "Āfīs"
+crato.arabic_language: "Qrāṭū"
+elvas.arabic_language: "Ilbāsh"
+estremoz.arabic_language: "Istirmūsh"
+montemor.arabic_language: "Muntamūr"
+portalegre.arabic_language: "Burtalīghra"
+portel.arabic_language: "Burtīl"
+vila_vicosa.arabic_language: "Fīla Bīkūsa"
+
+# Province 'baixo_alentejo_province' () #
+beja.arabic_language: "Bāja"
+alvalade.arabic_language: "Al-Balād"
+alvito.arabic_language: "Albītu"
+mertola.arabic_language: "Martūla"
+moura.arabic_language: "Mawra"
+odemira.arabic_language: "Ūdamīra"
+ourique.arabic_language: "Ūrīka"
+serpa.arabic_language: "Sarbā"
+sines.arabic_language: "Sīnish"
+
+# Province 'estremadura_province' () #
+lisbon.arabic_language: "al-Ushbūna"
+alcacer_do_sal.arabic_language: "Al-Qāṣir aṣ-Ṣāl"
+alcobaca.arabic_language: "Al-Qubāsa"
+setubal.arabic_language: "Shīṭūbal"
+torres_vedras.arabic_language: "Turris Fidras"
+
+# Province 'ribatejo_province' () #
+santarem.arabic_language: "Shantarīn"
+mora_portugal.arabic_language: "Mawra Burtughāl"
+ponte_sor.arabic_language: "Būnta Sūr"
+salvaterra.arabic_language: "Salvatīra"
+tomar.arabic_language: "Ṭūmār"
+torres_novas.arabic_language: "Turris Nūfas"
+
+## Area 'toledo_area' () ##
+# Province 'alarcon_province' () #
+alarcon.arabic_language: "Al-ʿArqūn"
+belmonte.arabic_language: "Bilmunta"
+iniesta.arabic_language: "Inyista"
+jorquera.arabic_language: "Jūrqīra"
+moya.arabic_language: "Mūya"
+san_clemente.arabic_language: "San Kilmant"
+requena.arabic_language: "Rakīna"
+
+# Province 'east_mancha_province' () #
+alcaraz.arabic_language: "Al-Qarās"
+lezuza.arabic_language: "Lizūza"
+alhambra_location.arabic_language: "Al-Ḥamrāʾ"
+montiel.arabic_language: "Muntiyl"
+villapalacios.arabic_language: "Bīlapalāsiyūs"
+villarobledo.arabic_language: "Bīlarūblīdu"
+
+# Province 'guadalajara_province' () #
+guadalajara.arabic_language: "Wādī al-Ḥijāra"
+brihuega.arabic_language: "Brīhwīgha"
+buitrago_de_lozoya.arabic_language: "Būyitrāghu Luzūya"
+cobeta.arabic_language: "Qūbīta"
+siguenza.arabic_language: "Sighwinsa"
+zorita.arabic_language: "Zurīṭa"
+
+# Province 'cuenca_province' () #
+cuenca.arabic_language: "Qūnqa"
+beteta.arabic_language: "Bitīta"
+canete.arabic_language: "Qānīt"
+huete.arabic_language: "Hūyit"
+molina_de_aragon.arabic_language: "Mūlīna Araghūn"
+pareja.arabic_language: "Barīja"
+torralba.arabic_language: "Turrālba"
+iberian_system.arabic_language: "Jibāl Iberiyya"
+
+# Province 'madrid_province' () #
+madrid.arabic_language: "Majrīṭ"
+alcala_de_henares.arabic_language: "Al-Qalʿa Hīnārīs"
+colmenar.arabic_language: "Qulminār"
+el_escorial.arabic_language: "Al-Iskuryāl"
+maqueda.arabic_language: "Mākīda"
+
+# Province 'ocana_province' () #
+ocana.arabic_language: "Uqāniya"
+alcazar_de_san_juan.arabic_language: "Al-Qaṣr San Juān"
+chinchon.arabic_language: "Shinshūn"
+consuegra.arabic_language: "Kunswīghra"
+tomelloso.arabic_language: "Tumayyūsū"
+ucles.arabic_language: "Uqlīs"
+
+# Province 'toledo_province' () #
+toledo.arabic_language: "Ṭulayṭula"
+guadalupe.arabic_language: "Wādī al-Lubb"
+illescas.arabic_language: "Illishkas"
+los_yebenes.arabic_language: "Al-Yābinas"
+navalucillos.arabic_language: "Nabalūthīyūs"
+puebla_de_montalban.arabic_language: "Būbla Muntalbān"
+puente_arzobispo.arabic_language: "Būnt Arzubisqū"
+talavera_de_la_reina.arabic_language: "Talāfira ar-Rayyāna"
+
+# Province 'west_mancha_province' () #
+ciudad_real.arabic_language: "Madīnat Rīyāl"
+almaden.arabic_language: "Al-Maʿdin"
+almodovar_del_campo.arabic_language: "Al-Mudawwar al-Qambū"
+calatrava.arabic_language: "Qalāṭrāba"
+malagon.arabic_language: "Malaghūn"
+manzanares.arabic_language: "Manzanārīs"
+puertollano.arabic_language: "Būrtūlyānū"
+madrona_range.arabic_language: "Jibāl Madrūna"
+
+## Area 'andalusia_area' () ##
+# Province 'cadiz_province' () #
+cadiz.arabic_language: "Qādis"
+algeciras.arabic_language: "Al-Jazīra"
+arcos_de_la_frontera.arabic_language: "Arqūs al-Ḥudūd"
+gibraltar.arabic_language: "Jabal Ṭāriq"
+jerez_de_la_frontera.arabic_language: "Sharīsh al-Ḥudūd"
+medina_sidonia.arabic_language: "Madīnat Sīdūniya"
+sanlucar.arabic_language: "Sanlūkar"
+tarifa.arabic_language: "Ṭarīfa"
+
+# Province 'cordoba_province' () #
+cordoba.arabic_language: "Qurṭuba"
+baena.arabic_language: "Bāʾina"
+carpio.arabic_language: "Qarbiyū"
+espiel.arabic_language: "Isbīyal"
+fuenteovejuna.arabic_language: "Fuwanta Ufjūna"
+lucena.arabic_language: "Lusīna"
+palma_del_rio.arabic_language: "Bālma al-Riyū"
+pedroche.arabic_language: "Bidrūsh"
+santa_eufemia.arabic_language: "Sānta Ufīmya"
+
+# Province 'huelva_province' () #
+huelva.arabic_language: "Walba"
+almonaster_la_real.arabic_language: "Almunastir ar-Rīyāl"
+aracena.arabic_language: "Arasīna"
+aroche.arabic_language: "Arūsh"
+ayamonte.arabic_language: "Ayamūnt"
+niebla.arabic_language: "Nībla"
+puebla_de_guzman.arabic_language: "Būbla Ghuthmān"
+
+# Province 'jaen_province' () #
+jaen.arabic_language: "Jayyān"
+andujar.arabic_language: "Andūjar"
+baeza.arabic_language: "Bāyasa"
+cazorla.arabic_language: "Qaṣūrla"
+jodar.arabic_language: "Jūdar"
+martos.arabic_language: "Mārtus"
+ubeda.arabic_language: "Ūbida"
+
+# Province 'sevilla_province' () #
+sevilla.arabic_language: "Ishbīliya"
+carmona.arabic_language: "Qarmūna"
+constantina.arabic_language: "Qunsṭantīna"
+coria_del_rio.arabic_language: "Qūrya al-Riyū"
+ecija.arabic_language: "Astija"
+moron.arabic_language: "Mūrūn"
+olvera.arabic_language: "Ulfiṛa"
+osuna.arabic_language: "Ūsūna"
+sanlucar_la_mayor.arabic_language: "Sanlūkar al-Kubrā"
+
+## Area 'granada_area' () ##
+# Province 'almeria_province' () #
+almeria.arabic_language: "Al-Mariyya"
+almanzora.arabic_language: "Al-Manṣūra"
+baza.arabic_language: "Bāsa"
+gergal.arabic_language: "Jarjāl"
+huescar.arabic_language: "Waskar"
+mojacar.arabic_language: "Mujākar"
+velez_rubio.arabic_language: "Bālīs Rubyu"
+filambres_range.arabic_language: "Jibāl Fīlāmbiris"
+
+# Province 'granada_province' () #
+granada.arabic_language: "Gharnāṭa"
+adra.arabic_language: "Adra"
+almunecar.arabic_language: "Al-Munakkar"
+guadix.arabic_language: "Wādī Ash"
+guadix.arabic_language: "Wādīsh"
+illora.arabic_language: "Illūra"
+loja.arabic_language: "Lawsha"
+pinar.arabic_language: "Bīnar"
+orgiva.arabic_language: "Ūrjīva"
+nevada_range.arabic_language: "Jibāl Nifāda"
+subbetic_range.arabic_language: "Jibāl Subbātīka"
+
+# Province 'malaga_province' () #
+malaga.arabic_language: "Mālaqa"
+antequera.arabic_language: "Antaqīra"
+marbella.arabic_language: "Marbīya"
+ronda.arabic_language: "Runda"
+velez_malaga.arabic_language: "Bālīs Mālaqa"
+
+## Area 'murcia_area' () ##
+# Province 'albacete_province' () #
+albacete.arabic_language: "Al-Basīt"
+chinchilla.arabic_language: "Shinshīlla"
+jumilla.arabic_language: "Jumīlla"
+villena.arabic_language: "Bilyāna"
+
+# Province 'hellin_province' () #
+hellin.arabic_language: "Hallīn"
+caravaca.arabic_language: "Qarābāqa"
+cieza.arabic_language: "Sīyatha"
+segura_de_la_sierra.arabic_language: "Sighūra al-Jibāl"
+segura_range.arabic_language: "Jibāl Sighūra"
+
+# Province 'murcia_province' () #
+murcia.arabic_language: "Mursiya"
+cartagena.arabic_language: "Qarṭājanna"
+lorca.arabic_language: "Lūrqa"
+mula.arabic_language: "Mūla"
+
+## Area 'iberian_west_coast_area' () ##
+# Province 'gulf_cadiz_province' () #
+mouth_sebou.arabic_language: "Famm Sabū"
+coast_gharb.arabic_language: "Sāḥil al-Gharb"
+trafalgar.arabic_language: "Ṭaraf al-Ghār"
+bay_of_cadiz.arabic_language: "Khalīj Qādis"
+cape_st_mary.arabic_language: "Rās Sānta Māryā"
+cape_sao_vicente.arabic_language: "Rās Sāw Fīṣint"
+coast_tamasna.arabic_language: "Sāḥil Tāmasnā"
+north_eastern_atlantic46.arabic_language: "Atlāsīq Shamalī Sharqī 46"
+north_eastern_atlantic47.arabic_language: "Atlāsīq Shamalī Sharqī 47"
+north_eastern_atlantic48.arabic_language: "Atlāsīq Shamalī Sharqī 48"
+
+# Province 'coast_of_portugal_province' () #
+cape_sines.arabic_language: "Rās Sīnish"
+bay_setubal.arabic_language: "Khalīj Shīṭūbal"
+berlengas_islands.arabic_language: "Jazāʾir Birlingās"
+cape_mondego.arabic_language: "Rās Mundīghū"
+mouth_douro.arabic_language: "Famm Dūrū"
+rias_baixas.arabic_language: "Riyās Bāykhas"
+costa_da_morte.arabic_language: "Sāḥil al-Mawt"
+north_eastern_atlantic41.arabic_language: "Atlāsīq Shamalī Sharqī 41"
+north_eastern_atlantic42.arabic_language: "Atlāsīq Shamalī Sharqī 42"
+north_eastern_atlantic43.arabic_language: "Atlāsīq Shamalī Sharqī 43"
+north_eastern_atlantic44.arabic_language: "Atlāsīq Shamalī Sharqī 44"
+north_eastern_atlantic45.arabic_language: "Atlāsīq Shamalī Sharqī 45"
+
+## Area 'western_mediterranean_sea_area' () ##
+# Province 'sardinia_sea_province' () #
+corsica_west_coast.arabic_language: "Sāḥil Qūrsīka al-Gharbī"
+bay_alghero.arabic_language: "Khalīj Alghīru"
+gulf_asinara.arabic_language: "Khalīj Asināra"
+gulf_cagliari.arabic_language: "Khalīj Qalyārī"
+gulf_oristano.arabic_language: "Khalīj Ūristānū"
+strait_bonifacio.arabic_language: "Maḍīq Bunifāsyū"
+teulada_cape.arabic_language: "Rās Tawlāda"
+sardinian_sea1.arabic_language: "Baḥr Sardīniya 1"
+sardinian_sea2.arabic_language: "Baḥr Sardīniya 2"
+sardinian_sea3.arabic_language: "Baḥr Sardīniya 3"
+
+# Province 'balearic_sea_province' () #
+gulf_of_valencia.arabic_language: "Khalīj Balansiya"
+ebro_delta.arabic_language: "Daltā al-Ibrū"
+costa_daurada.arabic_language: "Sāḥil Dhahabī"
+costa_brava.arabic_language: "Sāḥil Brāfā"
+bay_palma.arabic_language: "Khalīj Bālma"
+bay_alcudia.arabic_language: "Khalīj Alqūdiya"
+favaritx_cape.arabic_language: "Rās Fāfāriks"
+
+# Province 'gulf_of_leon_province' () #
+gulf_of_roses.arabic_language: "Khalīj al-Wurūd"
+gulf_of_lion.arabic_language: "Khalīj al-Asad"
+coast_languedoc.arabic_language: "Sāḥil Langidūq"
+mouths_rhone.arabic_language: "Afwāh Rūn"
+cape_sicie.arabic_language: "Rās Sīsya"
+ligurian_sea_location_1.arabic_language: "Baḥr Lījūriyā 1"
+
+## Area 'anjou_area' () ##
+# Province 'anjou_province' () #
+angers.arabic_language: "Anjāra"
+bauge.arabic_language: "Bawjiyya"
+beaupreau.arabic_language: "Bubrāwu"
+chateau_gontier.arabic_language: "Qasr Guntīr"
+le_lude.arabic_language: "Lulūda"
+loudun.arabic_language: "Lūdhūn"
+passavant.arabic_language: "Basafānt"
+saumur.arabic_language: "Sawmīra"
+
+# Province 'lower_maine_province' () #
+mayenne.arabic_language: "Māyanna"
+laval.arabic_language: "Labāl"
+sainte_suzanne.arabic_language: "Saynt Sūzāna"
+villaines.arabic_language: "Fīlānīs"
+
+# Province 'upper_maine_province' () #
+le_mans.arabic_language: "Lamānis"
+beaumont_au_maine.arabic_language: "Bawmūna"
+chateau_du_loir.arabic_language: "Qasr al-Luwār"
+sable.arabic_language: "Sābila"
+st_calais.arabic_language: "Qalaysa"
+
+# Province 'perche_province' () #
+mortagne.arabic_language: "Murtāniya"
+alluyes.arabic_language: "Alūyis"
+belleme.arabic_language: "Billāma"
+senonches.arabic_language: "Sanūnsha"
+
+
+## Area 'auvergne_area' () ##
+# Province 'lower_auvergne_province' () #
+clermont.arabic_language: "Kilmūna"
+allegre.arabic_language: "Alāghra"
+brioude.arabic_language: "Baryūda"
+riom.arabic_language: "Riyūm"
+thiers.arabic_language: "Tiyāris"
+vic_le_comte.arabic_language: "Fīk al-Qūnta"
+vodable.arabic_language: "Fudābila"
+
+# Province 'bourbon_province' () #
+bourbon.arabic_language: "Burbūn"
+huriel.arabic_language: "Huriyāl"
+jaligny.arabic_language: "Jalīni"
+molins.arabic_language: "Mulīnas"
+montlucon.arabic_language: "Munt Lusūn"
+st_gerand.arabic_language: "Jarānda"
+vichy.arabic_language: "Fīshiyya"
+
+# Province 'combraille_province' () #
+chambon.arabic_language: "Shambūn"
+herment.arabic_language: "Haraminta"
+montaigut.arabic_language: "Muntāghūt"
+tour_auvergne.arabic_language: "Tūr Afirniya"
+dore_mountains.arabic_language: "Jibāl Dūra"
+
+# Province 'upper_auvergne_province' () #
+aurillac.arabic_language: "Awriyāq"
+mauriac.arabic_language: "Māriyāq"
+saint_flour.arabic_language: "San Flūra"
+
+
+## Area 'brittany_area' () ##
+# Province 'cornouaille_province' () #
+quimper.arabic_language: "Kimbāra"
+carhaix.arabic_language: "Karāhish"
+chateaulin.arabic_language: "Qasr Līn"
+le_faou.arabic_language: "Fāwū"
+quimperle.arabic_language: "Kimbārlī"
+
+# Province 'nantais_province' () #
+nantes.arabic_language: "Nāntis"
+blain.arabic_language: "Bālāyin"
+chateaubriant.arabic_language: "Qasr Biryānt"
+guerande.arabic_language: "Jarānda"
+machecoul.arabic_language: "Mashkūl"
+
+# Province 'ploermel_province' () #
+ploermel.arabic_language: "Bulramīl"
+josselin.arabic_language: "Jusilīn"
+monfort_sur_meu.arabic_language: "Mūnfūr"
+rohan.arabic_language: "Ruhān"
+
+# Province 'rennais_province' () #
+rennes.arabic_language: "Rinnis"
+dol.arabic_language: "Dūla"
+fougeres.arabic_language: "Fujayrīs"
+saint_malo.arabic_language: "Sān Mālāw"
+vitre.arabic_language: "Bitrā"
+
+# Province 'tregor_province' () #
+saint_brieuc.arabic_language: "Baryūk"
+brest.arabic_language: "Barasṭ"
+chatelaudren.arabic_language: "Qasr Lawdrīn"
+st_pol_de_leon.arabic_language: "Būl Liyūn"
+treguier.arabic_language: "Tirgīr"
+
+# Province 'vannetais_province' () #
+vannes.arabic_language: "Fannas"
+hennebont.arabic_language: "Hannabūnt"
+redon.arabic_language: "Ridūn"
+
+
+## Area 'burgundy_area' () ##
+# Province 'auxerrois_province' () #
+auxerre.arabic_language: "Awsirr"
+aignay.arabic_language: "Aghnā"
+arnay.arabic_language: "Arnāya"
+avallon.arabic_language: "Afallūn"
+chatillon_sur_seine.arabic_language: "Qasṭīlun"
+semur_en_auxois.arabic_language: "Samūra"
+
+# Province 'autunnais_province' () #
+autun.arabic_language: "Awtūn"
+charolles.arabic_language: "Sharūlis"
+macon.arabic_language: "Māqūn"
+montcenis.arabic_language: "Munsinis"
+semur_en_brionnais.arabic_language: "Samūr Barūnā"
+
+# Province 'dijonnais_province' () #
+dijon.arabic_language: "Dījūn"
+auxonne.arabic_language: "Awsūna"
+beaune.arabic_language: "Būna"
+chalon_sur_saone.arabic_language: "Shālūn"
+louhans.arabic_language: "Lūhānis"
+
+# Province 'nevernais_province' () #
+nevers.arabic_language: "Nifāris"
+cercy.arabic_language: "Sirsī"
+chateau_chinon.arabic_language: "Qasr Shinūn"
+donzy.arabic_language: "Dunziyya"
+montreuillon.arabic_language: "Munt Rayūlūn"
+st_pierre_de_moutier.arabic_language: "Biryā Mūtya"
+
+
+## Area 'champagne_area' () ##
+# Province 'bassigny_province' () #
+chaumont.arabic_language: "Shawmūn"
+choiseul.arabic_language: "Shūzal"
+grancey.arabic_language: "Ghransī"
+la_mothe_en_bassigny.arabic_language: "Al-Mūtha"
+langres.arabic_language: "Langrās"
+vaucouleurs.arabic_language: "Fawkulūr"
+
+# Province 'brie_champenois_province' () #
+meaux.arabic_language: "Mawūs"
+broyes.arabic_language: "Brūyis"
+chateau_thierry.arabic_language: "Qasr Tiyārī"
+nogent_sur_seine.arabic_language: "Nūjān"
+provins.arabic_language: "Barfān"
+
+# Province 'champagne_province' () #
+troyes.arabic_language: "Ṭuriyya"
+brienne.arabic_language: "Briyāna"
+villemaur.arabic_language: "Fīlmūr"
+
+# Province 'perthois_province' () #
+vitry_en_pertois.arabic_language: "Fitriyya"
+joinville.arabic_language: "Junfīl"
+bar_sur_aube.arabic_language: "Barr Aūba"
+rosnay.arabic_language: "Rūsnā"
+
+# Province 'remois_province' () #
+reims.arabic_language: "Rīms"
+chalons_champagne.arabic_language: "Shālūn"
+epernay.arabic_language: "Ibrnāya"
+menehould.arabic_language: "Manhūl"
+vertus.arabic_language: "Firtūs"
+
+# Province 'rethelois_province' () #
+rethel.arabic_language: "Rathīl"
+chateau_porcien.arabic_language: "Qasr Barsīn"
+grandpre.arabic_language: "Ghranbrī"
+mouzon.arabic_language: "Mūzūn"
+
+# Province 'senonais_province' () #
+sens.arabic_language: "Sānis"
+bar_sur_seine.arabic_language: "Barr Sīn"
+joigny.arabic_language: "Jūni"
+saint_florentin.arabic_language: "Flurāntīn"
+tonnerre.arabic_language: "Tunnār"
+
+
+## Area 'franche_comte_area' () ##
+# Province 'amont_province' () #
+vesoul.arabic_language: "Fusūl"
+baume.arabic_language: "Bawma"
+gray.arabic_language: "Gharāy"
+luxeuil.arabic_language: "Luksīl"
+montbeliard.arabic_language: "Munt Bilyār"
+montbozon.arabic_language: "Munt Buzūn"
+
+# Province 'aval_province' () #
+salins_les_bains.arabic_language: "Sālīns"
+orgelet.arabic_language: "Urjilāt"
+poligny.arabic_language: "Bulīni"
+pontarlier.arabic_language: "Buntarliyā"
+saint_claude.arabic_language: "San Qalūd"
+
+# Province 'millieu_province' () #
+besancon.arabic_language: "Basankūn"
+dole.arabic_language: "Dūla"
+ornans.arabic_language: "Urnānis"
+
+
+## Area 'gascony_area' () ##
+# Province 'armagnac_province' () #
+auch.arabic_language: "Awsh"
+lectoure.arabic_language: "Liktūra"
+lisle_jourdain.arabic_language: "Jurdāna"
+mirande.arabic_language: "Mirānda"
+nogaro.arabic_language: "Nughāru"
+
+# Province 'bearn_bigorre_province' () #
+pau.arabic_language: "Bāw"
+oloron.arabic_language: "Ulūrūn"
+orthez.arabic_language: "Urthāz"
+tarbes.arabic_language: "Tarbās"
+north_western_pyrenees.arabic_language: "Jibāl Gharbiyya"
+
+# Province 'comminges_province' () #
+muret.arabic_language: "Mūrat"
+aspet.arabic_language: "Asbāṭ"
+saint_lizier.arabic_language: "Lizīra"
+saint_gaudens.arabic_language: "Ghawdānis"
+north_eastern_pyrenees1.arabic_language: "Jibāl Sharqiyya"
+
+# Province 'tursan_province' () #
+dax.arabic_language: "Dāqis"
+aire.arabic_language: "Āyra"
+labrit.arabic_language: "Labrīt"
+mimizan.arabic_language: "Mimzān"
+mont_de_marsan.arabic_language: "Munt Marsān"
+tartas.arabic_language: "Tartāsh"
+tosse.arabic_language: "Tūsha"
+lagoon_of_sanguinet.arabic_language: "Lagūna Sangināt"
+
+# Province 'bayonne_province' () #
+bayonne.arabic_language: "Bayyūna"
+mauleon.arabic_language: "Mauliyūn"
+saint_jean_pied_de_port.arabic_language: "Sān Jān al-Bāb"
+
+
+## Area 'guyenne_area' () ##
+# Province 'agenais_province' () #
+agen.arabic_language: "Ājīn"
+marmande.arabic_language: "Marmanda"
+montflanquin.arabic_language: "Munt Falanqīn"
+
+# Province 'bazadais_province' () #
+bazas.arabic_language: "Bazāz"
+belin.arabic_language: "Balīn"
+condom.arabic_language: "Kundūm"
+nerac.arabic_language: "Nirāq"
+sauveterre_de_guyenne.arabic_language: "Sūtār"
+
+# Province 'bordelais_province' () #
+bordeaux.arabic_language: "Burdū"
+benauges.arabic_language: "Banūjis"
+castelnau_de_medoc.arabic_language: "Qasṭalnā"
+la_teste_de_buch.arabic_language: "Tast Būsh"
+lesparre_medoc.arabic_language: "Lisbār"
+libourne.arabic_language: "Libūrna"
+hourtin_carcans_lake.arabic_language: "Bahr Hūrtin"
+
+# Province 'perigord_province' () #
+perigueux.arabic_language: "Barjūz"
+bergerac.arabic_language: "Barjarāq"
+limeuil.arabic_language: "Limūl"
+riberac.arabic_language: "Ribārāq"
+sarlat.arabic_language: "Sarlāt"
+
+# Province 'quercy_province' () #
+cahors.arabic_language: "Qahūr"
+figeac.arabic_language: "Fajyāq"
+gourdon.arabic_language: "Gurdūn"
+montauban.arabic_language: "Muntūbān"
+
+# Province 'rouergue_province' () #
+rodez.arabic_language: "Rudāsh"
+entraigues.arabic_language: "Antrāghis"
+millau.arabic_language: "Milyāw"
+peyrusse.arabic_language: "Bayrūsha"
+st_affrique.arabic_language: "Afrīqa"
+villefranche.arabic_language: "Fīlfrānsha"
+
+
+## Area 'ile_de_france_area' () ##
+# Province 'beauvaisis_province' () #
+beauvais.arabic_language: "Buwābā"
+chaumont_vexin.arabic_language: "Shawmūn Faksīn"
+clermont_en_beauvaisis.arabic_language: "Kilmūn Buwābā"
+crepy.arabic_language: "Karībī"
+senlis.arabic_language: "Sanlīs"
+
+# Province 'gatinais_province' () #
+nemours.arabic_language: "Namūr"
+brie_comte_robert.arabic_language: "Briyya Rubārt"
+melun.arabic_language: "Malūn"
+
+# Province 'pays_france_province' () #
+paris.arabic_language: "Bārīs"
+corbeil.arabic_language: "Qurbayl"
+mantes.arabic_language: "Māntis"
+monfort_lamaury.arabic_language: "Mūnfūr"
+montmorency.arabic_language: "Munt Mūransī"
+
+# Province 'soissonais_province' () #
+soissons.arabic_language: "Sūsūn"
+braine.arabic_language: "Brayna"
+coucy.arabic_language: "Kūsiyya"
+laon.arabic_language: "Lāwna"
+noyon.arabic_language: "Nuyūn"
+roucy.arabic_language: "Rūsiyya"
+
+
+## Area 'languedoc_area' () ##
+# Province 'castres_province' () #
+castres.arabic_language: "Qasṭrās"
+albi.arabic_language: "Albiyya"
+lautrec.arabic_language: "Lawtriq"
+castres.arabic_language: "Qasṭrās"
+
+# Province 'foix_province' () #
+foix.arabic_language: "Fūsha"
+pamiers.arabic_language: "Bamyār"
+mirepoix.arabic_language: "Mirbūsh"
+
+# Province 'gevaudan_province' () #
+chateauneuf_de_randon.arabic_language: "Qasr Rāndūn"
+florac.arabic_language: "Flūrāq"
+mende.arabic_language: "Mindā"
+peyre.arabic_language: "Bayra"
+massif_central.arabic_language: "Jibāl Wasṭiyya"
+
+# Province 'narbonnais_province' () #
+narbonne.arabic_language: "Narbuuna"   # historical Arabic exonym for Narbonne
+agde.arabic_language: "Aghdā"
+beziers.arabic_language: "Bījīra"
+lodeve.arabic_language: "Lūdāfa"
+saint_pons.arabic_language: "Sān Būns"
+lagoon_of_bages_sigean.arabic_language: "Lagūnat Bājis"
+
+# Province 'nimois_province' () #
+nimes.arabic_language: "Nimsa"
+french_ales.arabic_language: "Ālis"
+melgueil.arabic_language: "Malgīl"
+montpellier.arabic_language: "Munt Balyā"
+st_ambroix.arabic_language: "Ambrūsh"
+uzes.arabic_language: "Uzzās"
+
+# Province 'razes_province' () #
+carcassonne.arabic_language: "Qarqashūna"   # known medieval Arabic exonym
+fenouillet.arabic_language: "Fanūliyya"
+limoux.arabic_language: "Limūk"
+north_eastern_pyrenees2.arabic_language: "Jibāl Sharqiyya"
+
+# Province 'toulousain_province' () #
+toulouse.arabic_language: "Ṭūlūsha"   # plausible Andalusi form
+castelnaudary.arabic_language: "Qasṭalnādariyya"
+lavaur.arabic_language: "Lawwār"
+verdun_sur_garonne.arabic_language: "Fardūn"
+villemur.arabic_language: "Fīlmūr"
+
+# Province 'vivarais_province' () #
+viviers.arabic_language: "Fīfiyār"
+chalancon.arabic_language: "Shalankūn"
+le_puy.arabic_language: "Labuya"
+montlaur.arabic_language: "Muntlār"
+privas.arabic_language: "Barībās"
+tournon.arabic_language: "Tūrnūn"
+vivarais_mountains.arabic_language: "Jibāl Fīvarā"
+
+
+## Area 'limousin_province' () ##
+# Province 'limousin_province' () #
+limoges.arabic_language: "Līmūj"
+aixe.arabic_language: "Ayykis"
+nontron.arabic_language: "Nuntarūn"
+segur.arabic_language: "Saghūr"
+st_leonard.arabic_language: "Liyūnār"
+thiviers.arabic_language: "Thibyār"
+
+# Province 'la_marche_province' () #
+gueret.arabic_language: "Jūrāt"
+aubusson.arabic_language: "Abūssūn"
+bellac.arabic_language: "Ballāq"
+bourganeuf.arabic_language: "Būrqānūf"
+brosse.arabic_language: "Brūsa"
+charroux.arabic_language: "Sharūkh"
+rochechouart.arabic_language: "Rūshuwār"
+
+# Province 'turenne_province' () #
+turenne.arabic_language: "Turinna"
+tulle.arabic_language: "Tūlla"
+ussel.arabic_language: "Ussil"
+ventadour.arabic_language: "Fintadūr"
+
+
+## Area 'lorraine_area' () ##
+# Province 'barrois_province' () #
+bar_le_duc.arabic_language: "Barr Ladūq"
+clermont_en_argonne.arabic_language: "Kilmūn Arghūn"
+ligny.arabic_language: "Ligniyya"
+saint_mihiel.arabic_language: "Mihyāl"
+
+# Province 'pays_messin_province' () #
+metz.arabic_language: "Mīts"
+morhange.arabic_language: "Murhānj"
+saint_avold.arabic_language: "Āfūld"
+vic_sur_seille.arabic_language: "Fīq Sayla"
+wallerfangen.arabic_language: "Walfāghan"
+# Province 'pays_nancy_province' () #
+nancy.arabic_language: "Nansiyya"
+luneville.arabic_language: "Lunafīl"
+salm.arabic_language: "Sālam"
+toul.arabic_language: "Tūla"
+
+# Province 'sarregueminois_province' () #
+sarreguemines.arabic_language: "Sarraghmīn"
+bitche.arabic_language: "Bīsha"
+saarwerden.arabic_language: "Sārwardān"
+sarrebourg.arabic_language: "Sarburgā"
+
+# Province 'verdunois_province' () #
+verdun.arabic_language: "Fardūn"
+longwy.arabic_language: "Lungwī"
+etain.arabic_language: "Itān"
+fresnes.arabic_language: "Frisna"
+
+# Province 'vosges_province' () #
+epinal.arabic_language: "Ibnāl"
+arches.arabic_language: "Arshās"
+darney.arabic_language: "Darnayya"
+mirecourt.arabic_language: "Mīrakūrt"
+neufchateau_des_vosges.arabic_language: "Nuf Shatū"
+saint_die.arabic_language: "Diyya"
+
+
+## Area 'lyonnais_area' () ##
+# Province 'bresse_province' () #
+bourg_en_bresse.arabic_language: "Būrj Barsa"
+belley.arabic_language: "Ballayya"
+gex.arabic_language: "Jakhs"
+bage.arabic_language: "Bāja"
+thoire.arabic_language: "Tuwīra"
+
+# Province 'beaujolais_province' () #
+beaujeu.arabic_language: "Būjū"
+perreux.arabic_language: "Birrū"
+trevoux.arabic_language: "Tarafū"
+villars.arabic_language: "Fīllār"
+
+# Province 'lyonnais_province' () #
+lyon.arabic_language: "Liyūna"
+feurs.arabic_language: "Fursā"
+montbrison.arabic_language: "Muntbrīsūn"
+riverie.arabic_language: "Rifiriyya"
+roanne.arabic_language: "Ru’āna"
+saint_etienne.arabic_language: "Ittiyān"
+
+
+## Area 'normandy_area' () ##
+# Province 'caennais_province' () #
+caen.arabic_language: "Qān"
+bayeux.arabic_language: "Bāyū"
+domfront.arabic_language: "Dumfrūnt"
+falaise.arabic_language: "Falaysa"
+pont_douilly.arabic_language: "Bunt Dūlī"
+vire.arabic_language: "Fīra"
+
+# Province 'caux_province' () #
+fecamp.arabic_language: "Fikāma"
+arques.arabic_language: "Arkās"
+aumale.arabic_language: "Awmāla"
+longueville.arabic_language: "Lunjfīl"
+tancarville.arabic_language: "Tankarwīl"
+
+# Province 'cotentin_province' () #
+coutances.arabic_language: "Kutāns"
+cherbourg.arabic_language: "Sharburg"
+avranches.arabic_language: "Aghrānsh"
+jersey.arabic_language: "Jirsiyya"
+mortain.arabic_language: "Murtayn"
+st_sauveur.arabic_language: "Sawfūr"
+
+# Province 'ebroicien_province' () #
+evreux.arabic_language: "Ifrū"
+alencon.arabic_language: "Alankūn"
+argentan.arabic_language: "Arjantān"
+bernay.arabic_language: "Barnāya"
+harcourt.arabic_language: "Harkūr"
+laigle.arabic_language: "La’īghl"
+
+# Province 'rouennais_province' () #
+rouen.arabic_language: "Ruwāna"
+gisors.arabic_language: "Jizūr"
+lisieux.arabic_language: "Līsū"
+louviers.arabic_language: "Lūfiyār"
+pont_audemer.arabic_language: "Bunt Udmar"
+
+
+## Area 'orleanais_area' () ##
+# Province 'lower_berry_province' () #
+chateauroux.arabic_language: "Qasrūkh"
+boussac.arabic_language: "Bussāq"
+issoudun.arabic_language: "Isdūn"
+lignieres.arabic_language: "Linjyār"
+
+# Province 'blois_province' () #
+blois.arabic_language: "Baluwa"
+chateaudun.arabic_language: "Qasr Dūn"
+romorantin.arabic_language: "Rumrantīn"
+st_aignan.arabic_language: "Aynān"
+vendome.arabic_language: "Fandūma"
+
+# Province 'chartrain_province' () #
+chartres.arabic_language: "Shartara"
+auneau.arabic_language: "Awnaw"
+dreux.arabic_language: "Drū"
+etampes.arabic_language: "Itāmbis"
+
+# Province 'upper_berry_province' () #
+bourges.arabic_language: "Burja"
+gien.arabic_language: "Jiyān"
+sancerre.arabic_language: "Sansīra"
+sancoins.arabic_language: "Sankwān"
+vierzon.arabic_language: "Fīrzūn"
+
+# Province 'orleanais_province' () #
+orleans.arabic_language: "Urliyāna"
+beaugency.arabic_language: "Bajinsī"
+montargis.arabic_language: "Muntargīs"
+sully.arabic_language: "Sulliyya"
+vitry_aux_loges.arabic_language: "Fitrī Lugās"
+
+# Province 'touraine_province' () #
+tours.arabic_language: "Tūrus"
+amboise.arabic_language: "Ambuwāza"
+chatillon_sur_indre.arabic_language: "Qasṭīlun Indra"
+chinon.arabic_language: "Shinūn"
+loches.arabic_language: "Lākish"
+## Area 'picardy_area' () ##
+# Province 'amienois_province' () #
+amiens.arabic_language: "Ammiyān"
+breteuil.arabic_language: "Bratīl"
+corbie.arabic_language: "Qurbiyya"
+
+# Province 'lower_artois_province' () #
+arras.arabic_language: "Arrās"
+bapaume.arabic_language: "Babūma"
+cambrai.arabic_language: "Qamrāy"
+lens.arabic_language: "Lans"
+
+# Province 'upper_artois_province' () #
+saint_omer.arabic_language: "Umarīya"
+bethune.arabic_language: "Bathūna"
+hesdin.arabic_language: "Hasdīn"
+saint_pol.arabic_language: "Būl"
+
+# Province 'ponthieu_province' () #
+abbeville.arabic_language: "Abbafīl"
+calais.arabic_language: "Qalīs"
+boulogne_sur_mer.arabic_language: "Bulūna"
+montreuil.arabic_language: "Muntrīl"
+
+# Province 'thierache_province' () #
+guise.arabic_language: "Jīz"
+hirson.arabic_language: "Hirsūn"
+marle.arabic_language: "Mārl"
+ribemont.arabic_language: "Ribmūn"
+
+# Province 'vermandois_province' () #
+saint_quentin.arabic_language: "Qantīn"
+nesle.arabic_language: "Nasla"
+peronne.arabic_language: "Barūna"
+
+
+## Area 'poitou_area' () ##
+# Province 'angouleme_province' () #
+angouleme.arabic_language: "Anjulīm"
+cognac.arabic_language: "Kunyāq"
+chabanais.arabic_language: "Shabnāy"
+
+# Province 'lower_poitou_province' () #
+thouars.arabic_language: "Thuwār"
+beauvoir.arabic_language: "Bawwār"
+fontenay.arabic_language: "Funtanāy"
+la_roche_sur_yon.arabic_language: "Rūsha Yan"
+mauleon_poitou.arabic_language: "Mauliyūn"
+montaigu.arabic_language: "Muntaqū"
+parthenay.arabic_language: "Barthanāy"
+talmont.arabic_language: "Talmūn"
+
+# Province 'upper_poitou_province' () #
+poitiers.arabic_language: "Buwāṭir"
+aulnay.arabic_language: "Awnāy"
+chatellerault.arabic_language: "Shatalrāw"
+lusignan.arabic_language: "Lusinyān"
+montmorillon.arabic_language: "Muntmuryūn"
+niort.arabic_language: "Niyūrt"
+
+# Province 'saintonge_province' () #
+saintes.arabic_language: "Sāntis"
+montendre.arabic_language: "Muntandra"
+la_rochelle.arabic_language: "Rūshīla"
+oleron.arabic_language: "Ulīrūn"
+royan.arabic_language: "Rūyān"
+st_jean_dangely.arabic_language: "Jannīlī"
+rochefort.arabic_language: "Rūshfūr"
+jonzac.arabic_language: "Junzāq"
+
+
+## Area 'provence_area' () ##
+# Province 'aquisextain_province' () #
+aix_en_provence.arabic_language: "Aks"
+arles.arabic_language: "Arlīs"
+marseille.arabic_language: "Marsīliya"     # real medieval exonym: Marsīliya
+tarascon.arabic_language: "Taraskūn"
+lagoon_of_berre.arabic_language: "Birr Bahr"
+lagoon_of_vaccares.arabic_language: "Fakkāris"
+
+# Province 'avignonnais_province' () #
+avignon.arabic_language: "Abinyūn"
+apt.arabic_language: "Abṭa"
+forcalquier.arabic_language: "Furqalqīr"
+orange.arabic_language: "Uranja"
+
+# Province 'dignois_province' () #
+digne.arabic_language: "Dīna"
+barcelonnette.arabic_language: "Barsalūna Ṣughra"
+castellane.arabic_language: "Qastalān"
+sisteron.arabic_language: "Sistrūn"
+
+# Province 'dracenois_province' () #
+draguignan.arabic_language: "Drajīnān"
+barjols.arabic_language: "Barjūs"
+brignoles.arabic_language: "Brinjūl"
+frejus.arabic_language: "Frījūs"
+toulon.arabic_language: "Ṭūlūn"      # historically plausible
+
+# Province 'nice_province' () #
+nice.arabic_language: "Nīza"
+grasse.arabic_language: "Ghrassa"
+
+## Area 'savoy_area' () ##
+# Province 'gresivaudan_province' () #
+grenoble.arabic_language: "Jarnūbal"
+briancon.arabic_language: "Bryansūn"
+gap.arabic_language: "Jāb"
+la_mure.arabic_language: "Lāmūra"
+pragelato.arabic_language: "Barjalātu"
+
+# Province 'savoy_province' () #
+chambery.arabic_language: "Shambriyya"
+annecy.arabic_language: "Annasī"
+evian.arabic_language: "Afyān"
+faucigny.arabic_language: "Fawsiqna"
+la_roche_sur_foron.arabic_language: "Rūsha Furūn"
+moutiers.arabic_language: "Mūtyār"
+saint_jean_de_maurienne.arabic_language: "Jann Mawriyān"
+sallanches.arabic_language: "Salansh"
+
+# Province 'valentinois_province' () #
+valence.arabic_language: "Fālansa"
+condorcet.arabic_language: "Qundurṣit"
+die.arabic_language: "Diyya"
+mevouillon.arabic_language: "Mifūlyūn"
+
+# Province 'viennois_province' () #
+vienne.arabic_language: "Fiyānna"
+romans.arabic_language: "Rumāns"
+saint_marceilin.arabic_language: "Marsilīn"
+la_tour_du_pin.arabic_language: "Tūr al-Bīn"
+
+### Region 'italy_region' () ###
+
+## Area 'abruzzo_area' () ##
+# Province 'abruzzo_citra_province' () #
+chieti.arabic_language: "Ḥiṣn Šiyāt"
+lanciano.arabic_language: "Madīnat ar-Rumūḥ"
+vasto.arabic_language: "Wāsiʿa"
+
+# Province 'abruzzo_ultra_province' () #
+aquila.arabic_language: "Madīnat an-Nisr"
+atri.arabic_language: "ʿAṭriyya"
+celano.arabic_language: "Makfīya"
+cittaducale.arabic_language: "Madīnat al-Amīr"
+csantangelo.arabic_language: "Sīdī l-Malak"
+sulmona.arabic_language: "Salmūna"
+teramo.arabic_language: "Bayn al-Anhār"
+
+# Province 'molise_province' () #
+bojano.arabic_language: "Bū Jāna"
+isernia.arabic_language: "ʿAyn Izrīn"
+larino.arabic_language: "Lārīn"
+trivento.arabic_language: "Ṯalāth ar-Rīyāḥ"
+
+
+## Area 'apulia_area' () ##
+# Province 'bari_province' () #
+bari.arabic_language: "Bārīya ʿalā l-Baḥr"
+altamura.arabic_language: "Sūr ʿĀlī"
+andria.arabic_language: "ʿAndariyya"
+barletta.arabic_language: "Barallat"
+monopoli.arabic_language: "Madīnat al-Wāḥida"
+
+# Province 'capitanata_province' () #
+foggia.arabic_language: "al-Ḥufra"
+bovino.arabic_language: "Qaryat al-Baqar"
+lucera.arabic_language: "Ghābat an-Nūr"
+manfredonia.arabic_language: "Madīnat Manfarid"
+rotondo.arabic_language: "Mudawwara"
+sansevero.arabic_language: "Sīdī Sābir"
+
+# Province 'otranto_province' () #
+lecce.arabic_language: "Qaryat adh-Dhiʾāb"
+brindisi.arabic_language: "Rās al-Ghazāl"
+francavilla.arabic_language: "Qaryat al-Faranj"
+gallipoliita.arabic_language: "Madīnat al-Jamīla"
+martinafr.arabic_language: "Mārtīna al-Faranjiyya"
+taranto.arabic_language: "Ṭarānt"
+
+
+## Area 'basilicata_area' () ##
+# Province 'basilicata_province' () #
+potenza.arabic_language: "Madīnat al-Quwwa"
+acerenza.arabic_language: "ʿAshjarā"
+lagonegro.arabic_language: "al-Buḥayra as-Sawdāʾ"
+matera.arabic_language: "Maṯīra"
+melfi.arabic_language: "Malfiyya"
+montepeloso.arabic_language: "Jabal Shaʿrān"
+santarcangelo.arabic_language: "Sīdī l-Malak al-Kabīr"
+
+# Province 'calabria_ultra_province' () #
+catanzaro.arabic_language: "Qaṭanṣār"
+cotrone.arabic_language: "Qurṭūna"
+gerace.arabic_language: "Ṣaqrīn"
+monteleone.arabic_language: "Jabal al-Asad"
+nicastro.arabic_language: "al-Maḥalla al-Jadīda"
+palmi.arabic_language: "Nakhlān"
+reggiocal.arabic_language: "al-Malikiyya al-Kalābriyya"
+
+# Province 'calabria_citra_province' () #
+cosenza.arabic_language: "Kūsanza"
+cassano.arabic_language: "Qasān"
+castrovillari.arabic_language: "Qalʿat al-Qurā"
+scalea.arabic_language: "ad-Darajāt"
+paola.arabic_language: "Bawla"
+rossano.arabic_language: "al-Ḥamrāʾ"
+
+
+## Area 'campania_area' () ##
+# Province 'lavoro_province' () #
+naples.arabic_language: "al-Madīna al-Jadīda ʿalā l-Baḥr"
+caserta.arabic_language: "Qaṣrāt"
+gaeta.arabic_language: "Jāyata"
+nola.arabic_language: "Nūla"
+piedimonte.arabic_language: "Qadam al-Jabal"
+sora.arabic_language: "Sūra"
+venafro.arabic_language: "Fanafra"
+
+# Province 'principato_citra_province' () #
+salerno.arabic_language: "Sahl an-Nūr"
+campagna.arabic_language: "al-Barriyya"
+salacon.arabic_language: "Sālākūn"
+vallo.arabic_language: "al-Wādī al-ʿAmīq"
+
+# Province 'principato_ultra_province' () #
+avellino.arabic_language: "Madīnat at-Tuffāḥ"
+ariano.arabic_language: "Aryān"
+benevento.arabic_language: "Manzil al-Yumn"
+santangelo.arabic_language: "Sīdī Jibrīl"
+
+
+## Area 'emilia_area' () ##
+# Province 'bologna_province' () #
+bologna.arabic_language: "Madīnat al-ʿIlm"
+medicina.arabic_language: "Ṭibbiyya"
+vergato.arabic_language: "Farjāta"
+
+# Province 'ferrara_province' () #
+ferrara.arabic_language: "Ḥadīdiyya ʿalā l-Baḥr"
+argenta.arabic_language: "Madīnat al-Fiḍḍa"
+comacchio.arabic_language: "Kūmakiyya"
+ficarolo.arabic_language: "Tīnā"
+rovigo.arabic_language: "Rūfīj"
+
+# Province 'modena_province' () #
+modena.arabic_language: "Mūtana"
+frassinoro.arabic_language: "Farāsnūr"
+nonantola.arabic_language: "Tisʿat Qurā"
+mirandola.arabic_language: "Maḥmūdiyya"
+
+# Province 'parma_province' () #
+parma.arabic_language: "Barma ʿalā n-Nahr"
+berceto.arabic_language: "Barjīt"
+sandonnino.arabic_language: "Sīdī Dunnīn"
+
+# Province 'piacenza_province' () #
+piacenza.arabic_language: "Madīnat ar-Riḍā"
+bardi.arabic_language: "Bardiyya"
+bobbio.arabic_language: "Būbbiyya"
+fiorenzuola.arabic_language: "Zahrā Ṣughra"
+
+# Province 'reggioem_province' () #
+reggioem.arabic_language: "al-Malikiyya al-Amīliyya"
+canossa.arabic_language: "Qanūsa"
+guastalla.arabic_language: "al-Kharābiyya"
+
+# Province 'romagna_province' () #
+rimini.arabic_language: "Rāmīnī"
+cesena.arabic_language: "Jisīna"
+faenza.arabic_language: "Madīnat al-Fakhkhār"
+imola.arabic_language: "Yamūla"
+modigliana.arabic_language: "Mudillāna"
+ravenna.arabic_language: "Rāwīna"
+
+# Province 'urbino_province' () #
+urbino.arabic_language: "ʿUrbīn"
+gubbio.arabic_language: "Jūbya"
+montefeltro.arabic_language: "Jabal al-Libd"
+pesaro.arabic_language: "Bīsārū"
+
+
+## Area 'lazio_area' () ##
+# Province 'campagna_province' () #
+anagni.arabic_language: "ʿAnājīn"
+palestrina.arabic_language: "Balastrīna"
+sabina.arabic_language: "Ṣabīniyya"
+tivoli.arabic_language: "Ṭībūr"
+
+# Province 'marittima_province' () #
+rome.arabic_language: "Rūmiyya al-Kubrā"
+terracina.arabic_language: "Sahl aṭ-Ṭīn"
+velletri.arabic_language: "Filātrī"
+
+# Province 'patrimonio_province' () #
+bracciano.arabic_language: "Ḏirāʿān"
+civitavecchia.arabic_language: "al-Madīna al-ʿAtīqa"
+corneto.arabic_language: "Qarnūta"
+orte.arabic_language: "Hūrta"
+orvietano.arabic_language: "ʿUrfiyyāt"
+viterbo.arabic_language: "Fitrāb"
+
+
+## Area 'liguria_area' () ##
+# Province 'cismonte_province' () #
+bastia.arabic_language: "al-Bastiyya"
+aleria.arabic_language: "ʿAlāliyya"
+calvi.arabic_language: "Qalfī"
+corte.arabic_language: "Qurṭa"
+
+# Province 'levante_province' () #
+genoa.arabic_language: "Jānūwa ʿalā l-Baḥr"
+lavagna.arabic_language: "Lawānīya"
+sarzana.arabic_language: "Sarzāniyya"
+
+# Province 'pumonte_province' () #
+ajaccio.arabic_language: "ʿAjjāshū"
+bonifacio.arabic_language: "Būnifāsiyya"
+sartene.arabic_language: "Sartān"
+vico.arabic_language: "Qaryat aṣ-Ṣaḫr"
+
+# Province 'punente_province' () #
+albenga.arabic_language: "Albīna"
+cairo_montenotte.arabic_language: "Qāhirat al-Jibāl"
+finalborgo.arabic_language: "Qalʿat an-Nihāya"
+savona.arabic_language: "Sāfūna"
+ventimiglia.arabic_language: "ʿIshrīn Mīl"
+
+
+## Area 'lombardy_area' () ##
+# Province 'bergamo_province' () #
+bergamo.arabic_language: "Barjāmū"
+cortenuova.arabic_language: "Ḥawš Jadīd"
+clusone.arabic_language: "Mughlaqa"
+zogno.arabic_language: "Zūnjū"
+
+# Province 'brescia_province' () #
+brescia.arabic_language: "Birīš"
+asola.arabic_language: "ʿAzūla"
+palazzolo.arabic_language: "Qaṣrayn"
+salo_ita.arabic_language: "Ṣalū"
+breno.arabic_language: "Birīnū"
+nozza.arabic_language: "Nūzza"
+
+# Province 'cremona_province' () #
+cremona.arabic_language: "Karmūna ʿalā n-Nahr"
+casalmaggiore.arabic_language: "ad-Dār al-Kubrā"
+soncino.arabic_language: "Sunkīnū"
+lodi.arabic_language: "Lūdhī"
+
+# Province 'mantua_province' () #
+mantova.arabic_language: "Mantūwa ʿalā n-Nahr"
+goito.arabic_language: "Jūytū"
+ostiglia.arabic_language: "Ustīliyya"
+
+# Province 'milano_province' () #
+milano.arabic_language: "Mīlān"
+legnano.arabic_language: "Linjānū"
+rho.arabic_language: "Rū"
+varese.arabic_language: "Fārīsa"
+
+# Province 'monza_province' () #
+monza.arabic_language: "Mūnza"
+lecco.arabic_language: "Likkū"
+treviglio.arabic_language: "Trafīlyū"
+como.arabic_language: "Kūmū"
+
+# Province 'pavia_province' () #
+pavia.arabic_language: "Bāfiyya ʿalā n-Nahr"
+lomello.arabic_language: "Lūmīla"
+voghera.arabic_language: "Fūghīra"
+
+# Province 'valtellina_province' () #
+tresivio.arabic_language: "Trīsīfiyū"
+bormio.arabic_language: "Būrmiyū"
+chiavenna.arabic_language: "Miftāḥa"
+
+# Province 'ticino_province' () #
+lugano.arabic_language: "Lūjānū"
+bellinzona.arabic_language: "Balinzūna"
+locarno.arabic_language: "Lūkārnū"
+
+
+## Area 'marche_area' () ##
+# Province 'marche_province' () #
+ancona.arabic_language: "ʿAnkūna"
+ascolipiceno.arabic_language: "Aškulī"
+camerino.arabic_language: "Ḥujrayn"
+fabriano.arabic_language: "Ḥaddādiyya"
+fermo.arabic_language: "Firmū"
+macerata.arabic_language: "Maskarāta"
+
+# Province 'perugia_province' () #
+perugia.arabic_language: "Barūjya"
+cittacastello.arabic_language: "Madīnat al-Qalʿa"
+marsciano.arabic_language: "Marsyānū"
+
+# Province 'spoleto_province' () #
+spoleto.arabic_language: "Isbūlītū"
+assisi.arabic_language: "ʿAssīziyya"
+narni.arabic_language: "Nārniyya"
+rieti.arabic_language: "Riyātī"
+todi.arabic_language: "Ṭūdī"
+
+
+## Area 'piemonte_area' () ##
+# Province 'alessandria_province' () #
+alessandria.arabic_language: "al-Iskandarīya as-Ṣughrā"
+novi.arabic_language: "an-Nawiyya"
+rovegno.arabic_language: "Rūfīnjū"
+tortona.arabic_language: "Dirtūna"
+
+# Province 'aosta_province' () #
+aosta.arabic_language: "Awsta"
+chatillonaos.arabic_language: "Šāṭilyūn"
+morgex.arabic_language: "Mūrjis"
+
+# Province 'mondovi_province' () #
+mondovi.arabic_language: "Mandūwī"
+alba.arabic_language: "al-Fajr"
+ceva.arabic_language: "Šīfa"
+
+# Province 'monferrato_province' () #
+casale.arabic_language: "Dūrā"
+acqui.arabic_language: "al-ʿUyūn"
+asti.arabic_language: "Āstī"
+
+# Province 'novara_province' () #
+novara.arabic_language: "Nawwāra"
+arona.arabic_language: "Arūna"
+biella.arabic_language: "Byālla"
+domodossola.arabic_language: "Dūmūḍuslā"
+varallo.arabic_language: "Farāllū"
+vercelli.arabic_language: "Farsīlī"
+
+# Province 'torino_province' () #
+turin.arabic_language: "Tūrīn"
+ivrea.arabic_language: "Īfrīya"
+lanzo.arabic_language: "Lanzū"
+pinerolo.arabic_language: "Ṣanawbarā"
+susa.arabic_language: "Sūsa al-Jabal"
+
+# Province 'saluzzo_province' () #
+saluzzo.arabic_language: "Salūṣū"
+carmagnola.arabic_language: "Karmanjūla"
+chieri.arabic_language: "Šīrī"
+cuneo.arabic_language: "Kūnyū"
+
+
+## Area 'sardinia_area' () ##
+# Province 'arborea_province' () #
+oristano.arabic_language: "Urīstānū"
+ales.arabic_language: "ʿĀlis"
+sorgono.arabic_language: "ʿUyūnān"
+terralba.arabic_language: "ar-Raml al-Abyaḍ"
+
+# Province 'cagliari_province' () #
+cagliari.arabic_language: "Kallārī ʿalā l-Baḥr"
+tratalias.arabic_language: "Tarṭālyās"
+villa_di_chiesa.arabic_language: "Qaryat al-Kanīsa"
+isili.arabic_language: "Īsīlī"
+muravera.arabic_language: "Murāfira"
+seddori.arabic_language: "Siddūrī"
+tortoli.arabic_language: "Ṭurtulī"
+
+# Province 'gallura_province' () #
+terranova_pausania.arabic_language: "Arḍ Jadīda Bawsāniyya"
+orosei.arabic_language: "Urūsī"
+posada.arabic_language: "Buṣāda"
+tempiopausania.arabic_language: "Haykal Bawsāniyya"
+
+# Province 'logudoro_province' () #
+sassari.arabic_language: "Sassārī"
+alghero.arabic_language: "Aljarū"
+bosa.arabic_language: "Būsa"
+castelsardo.arabic_language: "Qalʿat Sardāniya"
+macomer.arabic_language: "Mākūmir"
+bitti.arabic_language: "Bittī"
+ozieri.arabic_language: "Uzyārī"
+thiesi.arabic_language: "Ṯīsī"
+
+
+## Area 'sicily_area' () ##
+# Province 'demena_province' () #
+messina.arabic_language: "Maysīna ʿalā l-Baḥr"
+catania.arabic_language: "Qaṭāniya"
+mistretta.arabic_language: "Mistritta"
+nicosiasic.arabic_language: "Nīkūsiyya"
+patti.arabic_language: "Battī"
+piazza.arabic_language: "as-Sāḥa"
+
+# Province 'girgenti_province' () #
+girgenti.arabic_language: "Jirjant"
+bivona.arabic_language: "Bīfūna"
+caltanisetta.arabic_language: "Qalʿat an-Nisāʾ"
+cefalu.arabic_language: "Raʾs an-Nūr"
+sciacca.arabic_language: "Šaqqa"
+termini.arabic_language: "al-Ḥammāmāt"
+
+# Province 'mazara_province' () #
+palermo.arabic_language: "Balarm ʿalā l-Baḥr"
+corleone.arabic_language: "Qurliyūn"
+mazara.arabic_language: "Mazāra"
+salemi.arabic_language: "Salīmī"
+trapani.arabic_language: "Ṭarābani"
+pantelleria.arabic_language: "Bantalarya"
+lampedusa.arabic_language: "Lanbidūsa"
+
+# Province 'noto_province' () #
+syracuse.arabic_language: "Surāqūsa ʿalā l-Baḥr"
+caltagirone.arabic_language: "Qalʿat Jirūn"
+malta.arabic_language: "Mālṭa"
+modica.arabic_language: "Mūdīka"
+noto.arabic_language: "Maʿrūfa"
+terranovasic.arabic_language: "Arḍ Jadīda Sīqiliyya"
+
+
+## Area 'tuscany_area' () ##
+# Province 'arezzo_province' () #
+arezzo.arabic_language: "Arītsū"
+cortona.arabic_language: "Kūrtūna"
+sansepolcro.arabic_language: "al-Qabr al-Muqaddas"
+
+# Province 'florence_province' () #
+florence.arabic_language: "Madīnat az-Zuhūr"
+mangona.arabic_language: "Mangūna"
+poggibonsi.arabic_language: "Bujjībunsī"
+prato.arabic_language: "al-Marj"
+sanlorenzo.arabic_language: "Sīdī Lawrānṣ"
+pistoia.arabic_language: "Bisṭūya"
+
+# Province 'grosseto_province' () #
+grosseto.arabic_language: "Ghursīṭū"
+massamar.arabic_language: "Māsā al-Baḥriyya"
+pitigliano.arabic_language: "Biṭilyānū"
+piombino.arabic_language: "Biyūmnū"
+
+# Province 'lucca_province' () #
+lucca.arabic_language: "Lūkkā"
+massa.arabic_language: "Māsā"
+fosdinovo.arabic_language: "Fusdinūfū"
+pescia.arabic_language: "Bishya"
+
+# Province 'pisa_province' () #
+pisa.arabic_language: "Bīsa ʿalā l-Baḥr"
+livorno.arabic_language: "Lifūrnu ʿalā l-Baḥr"
+pontedera.arabic_language: "Qanṭarat Īrā"
+volterra.arabic_language: "Fulterra"
+
+# Province 'siena_province' () #
+siena.arabic_language: "Sīna"
+chiusi.arabic_language: "Kiyūsī"
+montalcino.arabic_language: "Jabal al-Balūṭ"
+
+
+## Area 'veneto_area' () ##
+# Province 'belluno_province' () #
+belluno.arabic_language: "Jamīlūna"
+pieve.arabic_language: "Ribāṭiyya"
+feltre.arabic_language: "Fīltrā"
+
+# Province 'friuli_province' () #
+aquileia.arabic_language: "Nisriyya"
+cividale.arabic_language: "Madīnat al-Wādī"
+gemona.arabic_language: "Jīmūna"
+tolmezzo.arabic_language: "Ṭūlmazū"
+pordenone.arabic_language: "Burdunūn"
+spilimbergo.arabic_language: "Sbilimbirgū"
+udine.arabic_language: "Ūdīnī"
+
+# Province 'padua_province' () #
+padova.arabic_language: "Badūwa"
+este.arabic_language: "Istī"
+monselice.arabic_language: "Munsalīj"
+
+# Province 'venice_province' () #
+venice.arabic_language: "al-Bunduqiyya ʿalā l-Baḥr"
+mestre.arabic_language: "Mistra"
+treviso.arabic_language: "Trafīsū"
+castelfranco.arabic_language: "Qalʿat al-Ḥurr"
+ceneda.arabic_language: "Sanīda"
+chioggia.arabic_language: "Šūjja"
+conegliano.arabic_language: "Kunilyānū"
+
+# Province 'verona_province' () #
+verona.arabic_language: "Fīrūna"
+legnago.arabic_language: "Lijnāgū"
+peschiera.arabic_language: "Marsa al-Ḥūt"
+
+# Province 'vicenza_province' () #
+vicenza.arabic_language: "Fījansā"
+bassano.arabic_language: "Bassānū"
+schio.arabic_language: "Sakhīyū"

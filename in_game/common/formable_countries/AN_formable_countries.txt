@@ -1,6 +1,6 @@
 ﻿DUA_f = {
 	level = 4
-	required_locations_fraction = 0.3
+	required_locations_fraction = 0.25
 
 	rule = historical
 	
@@ -62,20 +62,6 @@
 				}			
 			}
 		}
-		trigger_if = {
-			limit = { 
-				country_exists = c:SBL
-				this != c:SBL
-			}
-			custom_tooltip = {
-				text = GBR_f_trigger_sbl
-				OR = {
-					tag = SBL
-					NOT = { country_exists = c:SBL }
-					c:SBL = { is_subject_or_below_of = root }
-				}			
-			}
-		}
 	}
 	
 	name = DUA
@@ -94,6 +80,9 @@
 	}
 	form_effect = {
 		annex_country = { country = c:FRA }
+		annex_country = { country = c:NRM }
+		annex_country = { country = c:ANJ }
+		annex_country = { country = c:AQN }
 		change_culture = culture:anglois
 		hidden_effect = {
 			ruler = { change_character_culture = culture:anglois every_child = { change_character_culture = culture:anglois } }
@@ -101,22 +90,16 @@
 			spouse = { change_character_culture = culture:anglois }
 			every_cabinet_character = { change_character_culture = culture:anglois }
 			location:london = {
+				change_integration_level = core
 				every_pop = {
-					limit = {
-						culture = culture:english
-					}
 					change_pop_culture = culture:anglois
 				}
-				change_integration_level = core
 			}
 			location:paris = {
+				change_integration_level = core
 				every_pop = {
-					limit = {
-						culture = culture:english
-					}
 					change_pop_culture = culture:anglois
 				}
-				change_integration_level = core
 			}
 			every_owned_location = {
 				limit = {
@@ -131,21 +114,30 @@
 						owner = root
 						pop_type = pop_type:nobles
 					}
-					change_pop_culture = culture:anglois
+					split_pop = {
+						fraction = 0.25
+						culture = culture:anglois
+					}
 				}
 				random_pop = {
 					limit = {
 						owner = root
 						pop_type = pop_type:clergy
 					}
-					change_pop_culture = culture:anglois
+					split_pop = {
+						fraction = 0.5
+						culture = culture:anglois
+					}
 				}
 				random_pop = {
 					limit = {
 						owner = root
 						pop_type = pop_type:burghers
 					}
-					change_pop_culture = culture:anglois
+					split_pop = {
+						fraction = 0.35
+						culture = culture:anglois
+					}
 				}
 				
 				random_pop = {
@@ -153,14 +145,20 @@
 						owner = root
 						pop_type = pop_type:laborers
 					}
-					change_pop_culture = culture:anglois
+					split_pop = {
+						fraction = 0.15
+						culture = culture:anglois
+					}
 				}
 				random_pop = {
 					limit = {
 						owner = root
 						pop_type = pop_type:peasants
 					}
-					change_pop_culture = culture:anglois
+					split_pop = {
+						fraction = 0.10
+						culture = culture:anglois
+					}
 				}
 			}
 		}

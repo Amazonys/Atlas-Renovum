@@ -21,6 +21,7 @@
 		anglo_irish = kindred
 		norman = positive
 		northumbrian = kindred
+		anglois = kindred
 	}
 
 	culture_groups = {
@@ -213,7 +214,7 @@ anglo_irish = {
 }
 
 anglois = {
-	language = angevin_dialect
+	language = anglois_dialect
 	
 	color = map_DUA
 	

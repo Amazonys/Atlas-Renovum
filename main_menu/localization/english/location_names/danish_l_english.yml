@@ -1,0 +1,628 @@
+﻿l_english:
+### Region 'scandinavian_region' () ###
+
+## Area 'svealand_area' () ##
+# Province 'uppland_province' () #
+stockholm.danish_dialect: "Stockholm"
+norrtalje.danish_dialect: "Nørtælje"
+enkoping.danish_dialect: "Enkøbing"
+uppsala.danish_dialect: "Upsala"
+kastelholm.danish_dialect: "Kastelholm"
+tierp.danish_dialect: "Tirup"
+heby.danish_dialect: "Hedeby"
+
+# Province 'sodermanland_province' () #
+nykoping.danish_dialect: "Nykøbing"
+kolmarden.danish_dialect: "Kulskov"
+strangnas.danish_dialect: "Strængnæs"
+oppunda.danish_dialect: "Oppunddal"
+sodertalje.danish_dialect: "Sødertælje"
+
+# Province 'vastmanland_province' () #
+arboga.danish_dialect: "Arboga"
+vasteras.danish_dialect: "Vesterås"
+nora.danish_dialect: "Noraby"
+sala.danish_dialect: "Sala"
+skinskatteberg.danish_dialect: "Skatbjerg"
+linde.danish_dialect: "Linde"
+grythyttan.danish_dialect: "Grythytten"
+
+# Province 'nerike_province' () #
+orebro.danish_dialect: "Ørebro"
+riseberga.danish_dialect: "Risebjerg"
+goksholm.danish_dialect: "Goksholm"
+
+# Province 'varmland_province' () #
+varnum.danish_dialect: "Varnum"
+tingvalla.danish_dialect: "Tingvold"
+nas.danish_dialect: "Næs"
+nordmark.danish_dialect: "Nordmark"
+gillberg.danish_dialect: "Gilbjerg"
+farnebo.danish_dialect: "Knudsbø"
+fryksdal.danish_dialect: "Fryksdal"
+josse.danish_dialect: "Pederstrup"
+
+# Province 'dalarna_province' () #
+avesta.danish_dialect: "Avesteby"
+falun.danish_dialect: "Falen"
+leksand.danish_dialect: "Leksand"
+grange.danish_dialect: "Madsby"
+malung.danish_dialect: "Malung"
+mora.danish_dialect: "Moreby"
+idre.danish_dialect: "Iversdal"
+hedemora.danish_dialect: "Hedemora"
+orsa.danish_dialect: "Orsby"
+soderbarke.danish_dialect: "Søderbjerke"
+stora_tuna.danish_dialect: "Store Tune"
+floda.danish_dialect: "Flåda"
+
+# Province 'gastrikland_province' () #
+gefle.danish_dialect: "Gæfle"
+hedesunda.danish_dialect: "Hedsund"
+hamrange.danish_dialect: "Hamringe"
+ockelbo.danish_dialect: "Okkelbo"
+
+
+## Area 'gotaland_area' () ##
+# Province 'ostergotland_province' () #
+linkoping.danish_dialect: "Linkøbing"
+soderkoping.danish_dialect: "Sønderkøbing"
+norrkoping.danish_dialect: "Nørrekøbing"
+alvastra.danish_dialect: "Alvastrup"
+vadstena.danish_dialect: "Vadsten"
+
+# Province 'ostra_smaland_province' () #
+kalmar.danish_dialect: "Kalmar"
+tjust.danish_dialect: "Madsfjord"
+sevede.danish_dialect: "Seved"
+handbord.danish_dialect: "Handborg"
+kinda.danish_dialect: "Kindå"
+jonkoping.danish_dialect: "Jønkøbing"
+oland.danish_dialect: "Øland"
+
+# Province 'vastergotland_province' () #
+skara.danish_dialect: "Skare"
+hjo.danish_dialect: "Hjø"
+tiveden.danish_dialect: "Tiveden"
+vartofta.danish_dialect: "Vartoft"
+utlandet.danish_dialect: "Udeland"
+lodose.danish_dialect: "Lødøse"
+ekholm.danish_dialect: "Egholm"
+falkoping.danish_dialect: "Falkøbing"
+allingsas.danish_dialect: "Allingsås"
+bogesund.danish_dialect: "Bogesund"
+lidkoping.danish_dialect: "Lidkøbing"
+skene.danish_dialect: "Skene"
+
+# Province 'tioharad_province' () #
+vaxjo.danish_dialect: "Væxø"
+vallsjo.danish_dialect: "Vallsø"
+vetlanda.danish_dialect: "Vetland"
+albo.danish_dialect: "Albo"
+konga.danish_dialect: "Kongå"
+uppvidinge.danish_dialect: "Opvidinge"
+ljungby.danish_dialect: "Lyngby"
+trollaborg.danish_dialect: "Troldborg"
+waestbo.danish_dialect: "Vestbo"
+
+# Province 'gotland_province' () #
+slite.danish_dialect: "Slite"
+visby.danish_dialect: "Visby"
+hoborg.danish_dialect: "Hoborg"
+
+# Province 'dalsland_province' () #
+dalaborg.danish_dialect: "Daleborg"
+amal.danish_dialect: "Åmæl"
+vedbo.danish_dialect: "Vedbo"
+
+
+## Area 'denmark_area' () ##
+# Province 'sonderjylland_province' () #
+ribe.danish_dialect: "Ribe"
+haderslev.danish_dialect: "Haderslev"
+aabenraa.danish_dialect: "Aabenraa"
+tonder.danish_dialect: "Tønder"
+
+# Province 'norrejylland_province' () #
+randers.danish_dialect: "Randers"
+viborg.danish_dialect: "Viborg"
+aalborg.danish_dialect: "Aalborg"
+ars.danish_dialect: "Aars"
+
+# Province 'western_jutland_province' () #
+bolling.danish_dialect: "Bølling"
+ringkobing.danish_dialect: "Ringkøbing"
+holstebro_lundenes.danish_dialect: "Holstebro Lundenæs"
+varde.danish_dialect: "Varde"
+
+# Province 'eastern_jutland_province' () #
+kolding.danish_dialect: "Kolding"
+aarhus.danish_dialect: "Aarhus"
+grindsted.danish_dialect: "Grinsted"
+silkeborg.danish_dialect: "Silkeborg"
+kalo.danish_dialect: "Kalø Slot"
+
+# Province 'vendsyssel_thy_province' () #
+thisted.danish_dialect: "Thisted"
+skagen.danish_dialect: "Skagen"
+hjorring.danish_dialect: "Hjørring"
+
+# Province 'zealand_province' () #
+roskilde.danish_dialect: "Roskilde"
+ringsted.danish_dialect: "Ringsted"
+kalundborg.danish_dialect: "Kalundborg"
+helsingor.danish_dialect: "Helsingør"
+hammershus.danish_dialect: "Hammershus"
+kobenhavn.danish_dialect: "Kjøbenhavn"
+slagelse.danish_dialect: "Slagelse"
+vordingborg.danish_dialect: "Vordingborg"
+
+# Province 'funen_province' () #
+odense.danish_dialect: "Odense"
+navskov.danish_dialect: "Navskov"
+falster.danish_dialect: "Falster"
+assens.danish_dialect: "Assens"
+svendborg.danish_dialect: "Svendborg"
+
+# Province 'slesvig_province' () #
+slesvig.danish_dialect: "Slesvig"
+flensburg.danish_dialect: "Flensborg"
+eckernforde.danish_dialect: "Egernførde"
+husum.danish_dialect: "Husum"
+
+
+## Area 'skaneland_area' () ##
+# Province 'malmohus_province' () #
+helsingborg.danish_dialect: "Helsingborg"
+lund.danish_dialect: "Lund"
+malmo.danish_dialect: "Malmø"
+
+# Province 'gonge_province' () #
+gladsax.danish_dialect: "Gladsakse"
+osby.danish_dialect: "Osby"
+asbo.danish_dialect: "Asbø"
+
+# Province 'halland_province' () #
+varberg.danish_dialect: "Varberg"
+laholm.danish_dialect: "Laholm"
+halmstad.danish_dialect: "Halmstad"
+kungsbacka.danish_dialect: "Kongsbakke"
+
+# Province 'blekinge_province' () #
+ronneby.danish_dialect: "Ronneby"
+bregne.danish_dialect: "Karensund"
+solvesborg.danish_dialect: "Sølvesborg"
+
+
+## Area 'norrland_area' () ##
+# Province 'halsingland_province' () #
+hudiksvall.danish_dialect: "Hudiksvold"
+alfta.danish_dialect: "Alfte"
+soderala.danish_dialect: "Søderåla"
+hogdal.danish_dialect: "Høgdal"
+havero.danish_dialect: "Haverø"
+selanger.danish_dialect: "Selanger"
+
+# Province 'angermanland_province' () #
+harnosand.danish_dialect: "Hærnøsand"
+solatunum.danish_dialect: "Solatund"
+ramsele.danish_dialect: "Nielsrud"
+sjalevad.danish_dialect: "Skjælevad"
+anundsjo.danish_dialect: "Anundsjø"
+grundsunda.danish_dialect: "Grundsund"
+
+# Province 'vasterbotten_province' () #
+umea.danish_dialect: "Umeå"
+vindeln.danish_dialect: "Vindel"
+skelleftea.danish_dialect: "Skellefteå"
+tornea.danish_dialect: "Torneå"
+bygdea.danish_dialect: "Bygdeå"
+pitea.danish_dialect: "Piteå"
+lulea.danish_dialect: "Luleå"
+ranea.danish_dialect: "Råneå"
+gratesk.danish_dialect: "Erikshavn"
+hienatiemi.danish_dialect: "Sandnæs"
+branna.danish_dialect: "Brænne"
+byske.danish_dialect: "Byske"
+bodebyn.danish_dialect: "Bodeby"
+alvsby.danish_dialect: "Elvsby"
+kiemi.danish_dialect: "Kjemi"
+pajala.danish_dialect: "Pajeby"
+kittila.danish_dialect: "Kittil"
+rovaniemi.danish_dialect: "Rovanæs"
+
+# Province 'norra_osterbotten_province' () #
+simo.danish_dialect: "Simo"
+uleaborg.danish_dialect: "Uleborghavn"
+brahestad.danish_dialect: "Brahestad"
+utajarvi.danish_dialect: "Utjærvi"
+siikalatva.danish_dialect: "Sikalatve"
+taivalkoski.danish_dialect: "Tæivalkosk"
+kuivaniemi.danish_dialect: "Kuivanem"
+ranua.danish_dialect: "Rasmusdal"
+pudasjarvi.danish_dialect: "Pudasjærvi"
+posio.danish_dialect: "Jenså"
+
+# Province 'ume_lappmark_province' () #
+asele.danish_dialect: "Åsele"
+lycksele.danish_dialect: "Lyksæle"
+arvidsjaur.danish_dialect: "Arvidsjø"
+volgsjo.danish_dialect: "Volgsø"
+stensele.danish_dialect: "Stensæle"
+tarna.danish_dialect: "Tærnø"
+ortrask.danish_dialect: "Ortresk"
+
+# Province 'pite_lappmark_province' () #
+akkajaur.danish_dialect: "Akkesjø"
+arjeplog.danish_dialect: "Arjeplog"
+silbojock.danish_dialect: "Silbjøk"
+sorsele.danish_dialect: "Sørsæle"
+
+# Province 'lule_lappmark_province' () #
+socksjock.danish_dialect: "Sokksjøk"
+jokkmokk.danish_dialect: "Jokkmok"
+kvikkjock.danish_dialect: "Kviksjøk"
+porjus.danish_dialect: "Porius"
+gellivaara.danish_dialect: "Gellivare"
+sarek.danish_dialect: "Sarek"
+
+# Province 'torne_lappmark_province' () #
+nikkaluokta.danish_dialect: "Nikkalugte"
+kasivarren.danish_dialect: "Kassevarden"
+abisko.danish_dialect: "Abisko"
+raunala.danish_dialect: "Ravnåla"
+mourionska.danish_dialect: "Moriunska"
+enontakis.danish_dialect: "Enontak"
+nunnanen.danish_dialect: "Nunnanen"
+korpilombo.danish_dialect: "Korpelomb"
+juckasjarvi.danish_dialect: "Jukkasjærvi"
+
+# Province 'kemi_lappmark_province' () #
+salla.danish_dialect: "Salla"
+kemijarvi.danish_dialect: "Kemijærvi"
+korvala.danish_dialect: "Korvale"
+enare.danish_dialect: "Olufsø"
+sodankyla.danish_dialect: "Sodankyl"
+savukoski.danish_dialect: "Savukosk"
+ivalo.danish_dialect: "Ivalo"
+utsjoki.danish_dialect: "Utsjok"
+
+# Province 'kajanaland_province' () #
+paltamo.danish_dialect: "Paltam"
+kajana.danish_dialect: "Kajanaborg"
+sotkamo.danish_dialect: "Sotkam"
+kuhmo.danish_dialect: "Kuhmo"
+suomussalmi.danish_dialect: "Suomussalm"
+kuusamo.danish_dialect: "Kusamø"
+
+
+## Area 'finland_area' () ##
+# Province 'sodra_osterbotten_province' () #
+korsholm.danish_dialect: "Korsholm"
+koppo.danish_dialect: "Lauritsnæs"
+pedersore.danish_dialect: "Pedersøre"
+storkyro.danish_dialect: "Storkyrø"
+karleby.danish_dialect: "Karleby"
+kaustby.danish_dialect: "Kaustby"
+lappo.danish_dialect: "Lappø"
+vora.danish_dialect: "Våre"
+
+# Province 'finland_province' () #
+abo.danish_dialect: "Åbo"
+nystad.danish_dialect: "Nystad"
+poytis.danish_dialect: "Pøytis"
+sauvo.danish_dialect: "Savø"
+
+# Province 'nyland_province' () #
+helsinge.danish_dialect: "Helsinge"
+ekenas.danish_dialect: "Ekenæs"
+sjundea.danish_dialect: "Sjundeå"
+porvoo.danish_dialect: "Borgå"
+liljendal.danish_dialect: "Liljendal"
+
+# Province 'satakunta_province' () #
+ikalis.danish_dialect: "Ikalis"
+raumo.danish_dialect: "Raumo"
+bjorneborg.danish_dialect: "Bjørneborg"
+hvittis.danish_dialect: "Hvittis"
+sastmola.danish_dialect: "Sastmol"
+birkala.danish_dialect: "Birkala"
+sastamala.danish_dialect: "Sastmala"
+orivesi.danish_dialect: "Orives"
+
+# Province 'tavastland_province' () #
+hollola.danish_dialect: "Hollola"
+lohja.danish_dialect: "Lohja"
+tavastehus.danish_dialect: "Tavastehus"
+janakkala.danish_dialect: "Janakkal"
+forssa.danish_dialect: "Forssa"
+itis.danish_dialect: "Itis"
+jyvaskyla.danish_dialect: "Jyvæskyl"
+jamsa.danish_dialect: "Jæmså"
+saarijarvi.danish_dialect: "Saarijærvi"
+viitasaari.danish_dialect: "Viitasaari"
+laukas.danish_dialect: "Laukås"
+sysma.danish_dialect: "Sørensby"
+
+# Province 'savolax_province' () #
+mikkeli.danish_dialect: "Mikkeli"
+olofsborg.danish_dialect: "Olafsborg"
+heinola.danish_dialect: "Heinola"
+kangasniemi.danish_dialect: "Kangasniem"
+ristiina.danish_dialect: "Ristinø"
+joroinen.danish_dialect: "Jorøen"
+kuopio.danish_dialect: "Kuopiø"
+idensalmi.danish_dialect: "Idensalm"
+rautavaara.danish_dialect: "Rautavare"
+savonranta.danish_dialect: "Savonrand"
+
+# Province 'vyborg_province' () #
+kymi_fi.danish_dialect: "Kymelv"
+vyborg.danish_dialect: "Viborg Øst"
+villmanstrand.danish_dialect: "Vildmandsstrand"
+veckelax.danish_dialect: "Vekkelaks"
+elimaki.danish_dialect: "Elimæk"
+vederlax.danish_dialect: "Vederlaks"
+valkeasaari.danish_dialect: "Valkehavsø"
+kyyrola.danish_dialect: "Kyrelø"
+beryozovskoye.danish_dialect: "Birkholm"
+heinjoki.danish_dialect: "Heinsjø"
+jaskis.danish_dialect: "Jaskis"
+
+
+## Area 'syd_norge_area' () ##
+# Province 'bohus_province' () #
+konghalla.danish_dialect: "Konghelle"
+uddevalla.danish_dialect: "Uddevold"
+stromstad.danish_dialect: "Strømstad"
+hornborg.danish_dialect: "Hornborg"
+
+# Province 'ostfold_province' () #
+borg.danish_dialect: "Borg"
+halden.danish_dialect: "Halden"
+moss.danish_dialect: "Moss"
+trogstad.danish_dialect: "Trøgstad"
+
+# Province 'vestfold_province' () #
+tonsberg.danish_dialect: "Tønsberg"
+skien.danish_dialect: "Skien"
+sande.danish_dialect: "Sande"
+grenland.danish_dialect: "Grenland"
+
+# Province 'rogaland_province' () #
+stavanger.danish_dialect: "Stavanger"
+ryfylke.danish_dialect: "Ryfylke"
+suledal.danish_dialect: "Suldal"
+haugalandet.danish_dialect: "Haugeland"
+jaeren.danish_dialect: "Jæren"
+
+# Province 'agder_province' () #
+flekkefjord.danish_dialect: "Flekkerfjord"
+sirudal.danish_dialect: "Sirudal"
+otredal.danish_dialect: "Otradal"
+lindesnes.danish_dialect: "Lindesnæs"
+oddernes.danish_dialect: "Oddernæs"
+oyestad.danish_dialect: "Øiestad"
+sondeled.danish_dialect: "Søndele"
+amli.danish_dialect: "Åmli"
+
+# Province 'buskerud_province' () #
+kongsberg.danish_dialect: "Kongsberg"
+ringerike.danish_dialect: "Ringerike"
+hallingdal.danish_dialect: "Hallingdal"
+numedal.danish_dialect: "Numedal"
+sigdal.danish_dialect: "Sigdal"
+bragernes.danish_dialect: "Bragernæs"
+flesberg.danish_dialect: "Flesberg"
+
+# Province 'bergenhus_province' () #
+bergen.danish_dialect: "Bergen"
+fana.danish_dialect: "Fane"
+kvinnherad.danish_dialect: "Kvindherred"
+ullensvang.danish_dialect: "Ullensvang"
+moster.danish_dialect: "Mostrø"
+eidfjord.danish_dialect: "Eidfjord"
+nordhordland.danish_dialect: "Nordhordland"
+voss.danish_dialect: "Voss"
+
+# Province 'sogn_province' () #
+eid.danish_dialect: "Eid"
+stryn.danish_dialect: "Stryn"
+sunnfjord.danish_dialect: "Sunnfjord"
+sogndal.danish_dialect: "Sogndal"
+aurland.danish_dialect: "Aurland"
+vik.danish_dialect: "Vik"
+laerdal.danish_dialect: "Lærdal"
+
+# Province 'akershus_province' () #
+oslo.danish_dialect: "Oslo"
+ski.danish_dialect: "Ski"
+eidsvoll.danish_dialect: "Eidsvold"
+
+# Province 'oppland_province' () #
+vardal.danish_dialect: "Vardal"
+lillehammer.danish_dialect: "Lillehammer"
+valdres.danish_dialect: "Valdres"
+otta.danish_dialect: "Otta"
+imsdalen.danish_dialect: "Imsdalen"
+hedmarksvidda.danish_dialect: "Hedmarksvidde"
+
+# Province 'hedmark_province' () #
+hamar.danish_dialect: "Hamar"
+kongsvinger.danish_dialect: "Kongsvinger"
+elverum.danish_dialect: "Elverum"
+glommadal.danish_dialect: "Glommendal"
+trysil.danish_dialect: "Trysil"
+amot.danish_dialect: "Åmot"
+tynset.danish_dialect: "Tyndset"
+
+
+## Area 'nord_norge_area' () ##
+# Province 'sor_trondelag_province' () #
+nidaros.danish_dialect: "Nidaros"
+roros.danish_dialect: "Røros"
+stjordal.danish_dialect: "Stjørdal"
+oppdal.danish_dialect: "Oppdal"
+orkdal.danish_dialect: "Orkedal"
+skaun.danish_dialect: "Skaun"
+storen.danish_dialect: "Støren"
+holtalen.danish_dialect: "Holtålen"
+meraker.danish_dialect: "Meråker"
+alvdal.danish_dialect: "Alvdal"
+
+# Province 'nor_trondelag_province' () #
+levanger.danish_dialect: "Levanger"
+namdal.danish_dialect: "Namdal"
+orland.danish_dialect: "Ørland"
+snasa.danish_dialect: "Snåsa"
+lierne.danish_dialect: "Lierne"
+steinkjer.danish_dialect: "Steinkjær"
+
+# Province 'romsdalen_province' () #
+molde.danish_dialect: "Molde"
+fosna.danish_dialect: "Fosen"
+sunndal.danish_dialect: "Sunndal"
+rauma.danish_dialect: "Rauma"
+sunnmore.danish_dialect: "Sunnmør"
+borgund.danish_dialect: "Borgund"
+stordal.danish_dialect: "Stordal"
+tofte.danish_dialect: "Tofte"
+
+# Province 'troms_province' () #
+troms.danish_dialect: "Tromsø"
+trondenes.danish_dialect: "Trondenæs"
+senja.danish_dialect: "Senja"
+bardodalen.danish_dialect: "Bardudal"
+raisa.danish_dialect: "Rejsa"
+
+# Province 'jamtland_province' () #
+hammerdal.danish_dialect: "Hammerdal"
+offerdal.danish_dialect: "Offerdal"
+berg.danish_dialect: "Berg"
+froso.danish_dialect: "Frøsø"
+ragunda.danish_dialect: "Ragunda"
+sveg.danish_dialect: "Sveg"
+hede.danish_dialect: "Hede"
+oviken.danish_dialect: "Øviken"
+
+# Province 'nordland_province' () #
+bodo.danish_dialect: "Bodø"
+birndal.danish_dialect: "Bjørndal"
+hattfjelldal.danish_dialect: "Hattfjeldal"
+rana.danish_dialect: "Rana"
+alstahaug.danish_dialect: "Alstahaug"
+gildeskal.danish_dialect: "Gildeskål"
+steigen.danish_dialect: "Steigen"
+langenes.danish_dialect: "Langnæs"
+lofotr.danish_dialect: "Lofoten"
+hamaroy.danish_dialect: "Hamarøy"
+ofoti.danish_dialect: "Ofoten"
+
+# Province 'finnmark_province' () #
+kautokeino.danish_dialect: "Kautokeino"
+varanger.danish_dialect: "Varanger"
+vardo.danish_dialect: "Vardø"
+deatnu.danish_dialect: "Tanaelv"
+porsanger.danish_dialect: "Porsangerfjord"
+karasjok.danish_dialect: "Karasjok"
+hammerfest.danish_dialect: "Hammerfest"
+alta.danish_dialect: "Altafjord"
+kirkenes.danish_dialect: "Kirkenes"
+lebesby.danish_dialect: "Lebesby"
+
+
+## Area 'karelia_area' () ##
+# Province 'aunus_karelia_province' () #
+olonets.danish_dialect: "Aunusborg"
+kinerma.danish_dialect: "Kinærma"
+kondpoga.danish_dialect: "Kondboga"
+ostrechiny.danish_dialect: "Østrekind"
+pryazha.danish_dialect: "Prjas"
+shuya_karelia.danish_dialect: "Sjuja"
+shyoltozero.danish_dialect: "Sjoltsø"
+vazhiny.danish_dialect: "Vasjin"
+
+# Province 'inner_aunus_karelia_province' () #
+repola.danish_dialect: "Repola"
+karhumagi.danish_dialect: "Karhumæk"
+kizhi.danish_dialect: "Kisø"
+lindjarvi.danish_dialect: "Lindjærvi"
+nadvoitsy.danish_dialect: "Nadvitse"
+pieninka.danish_dialect: "Pjeninge"
+puatane.danish_dialect: "Puatan"
+sellinkyla.danish_dialect: "Sellinkyl"
+semcojarvi.danish_dialect: "Semkojærvi"
+
+# Province 'inner_white_karelia_province' () #
+rukajarvi.danish_dialect: "Rukajærvi"
+jyskyjarvi.danish_dialect: "Jyskijærvi"
+kiestinki.danish_dialect: "Kjesting"
+ontajarvi.danish_dialect: "Ontajærvi"
+paanajarvi.danish_dialect: "Paanajærvi"
+suikujarvi.danish_dialect: "Suikujærvi"
+tunkuo.danish_dialect: "Tunkå"
+uhtuo.danish_dialect: "Uhtå"
+
+# Province 'korela_province' () #
+korela.danish_dialect: "Korela"
+kurkijoki.danish_dialect: "Kurkijok"
+konevets.danish_dialect: "Konevets"
+joensuu.danish_dialect: "Joensu"
+sordavala.danish_dialect: "Sordavala"
+vartsila.danish_dialect: "Vartsil"
+ilomantsi.danish_dialect: "Ilomants"
+lieksa.danish_dialect: "Ljeksa"
+juuka.danish_dialect: "Juka"
+salmi.danish_dialect: "Salmi"
+loimola.danish_dialect: "Løimola"
+mohko.danish_dialect: "Mohkø"
+suojarvi.danish_dialect: "Suojærvi"
+nurmes.danish_dialect: "Nurmes"
+
+# Province 'white_karelia_province' () #
+kem.danish_dialect: "Kjem"
+keret.danish_dialect: "Keret"
+kovda.danish_dialect: "Kovda"
+kriitina.danish_dialect: "Kritina"
+saarijoki.danish_dialect: "Saarjok"
+
+
+## Area 'kola_area' () ##
+# Province 'north_kola_province' () #
+kola.danish_dialect: "Kola"
+dalniye_zelentsy.danish_dialect: "Ingeborgfjord"
+kiltina.danish_dialect: "Kiltina"
+luujarvi.danish_dialect: "Lujjærvi"
+maaselka.danish_dialect: "Maaselke"
+ponoi.danish_dialect: "Pono"
+semiostrov.danish_dialect: "Semiøen"
+svyatoy_nos.danish_dialect: "Hellignæs"
+
+# Province 'south_kola_province' () #
+umba.danish_dialect: "Umba"
+kantalahti.danish_dialect: "Kantalagt"
+kashkarantsy.danish_dialect: "Kaskerand"
+olenitsa.danish_dialect: "Olenits"
+pyalitsa.danish_dialect: "Pjalits"
+raivke.danish_dialect: "Rajvike"
+tetrino.danish_dialect: "Tetrinø"
+varzuga.danish_dialect: "Torkelsstrand"
+
+# Province 'western_kola_province' () #
+pechenga.danish_dialect: "Petsamo"
+akkala.danish_dialect: "Akkala"
+alakurti.danish_dialect: "Alakurt"
+koliskoj.danish_dialect: "Koliskøj"
+mootka.danish_dialect: "Motka"
+nuorttijarvi.danish_dialect: "Nuortijærvi"
+prirechnyi.danish_dialect: "Randselv"
+suonikyla.danish_dialect: "Suonikyl"
+
+
+## Area 'scandinavian_sea_zones_area' () ##
+
+
+## Area 'western_baltic_sea' () ##
+
+
+## Area 'russian_coastline' () ##

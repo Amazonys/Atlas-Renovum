@@ -1,0 +1,462 @@
+﻿l_english:
+### Region 'great_britain_region' () ###
+
+## Area 'home_counties_area' () ##
+# Province 'middlesex_province' () #
+london.irish_language: "Londain"
+harrow.irish_language: "Cnoc na Harraí"
+kingston.irish_language: "Baile an Rí"
+
+# Province 'surrey_province' () #
+reigate.irish_language: "Ráth Gheata"
+guildford.irish_language: "Áth an Ghilda"
+woking.irish_language: "Uachainn"
+
+# Province 'hampshire_province' () #
+southampton.irish_language: "Hamtún Theas"
+portsmouth.irish_language: "Béal an Phoirt"
+winchester.irish_language: "Céastar Uinseann"
+lymington.irish_language: "Léim na Toinne"
+wight.irish_language: "Oileán Faoite"
+basingstoke.irish_language: "Stóc Bhéasainn"
+
+# Province 'kent_province' () #
+dover.irish_language: "Dúbhar"
+canterbury.irish_language: "Caindéarbhrí"
+rochester.irish_language: "Róistear"
+hythe.irish_language: "An Caladh"
+tonbridge.irish_language: "Droichead Thuin"
+
+# Province 'sussex_province' () #
+shoreham.irish_language: "Port na Trá"
+lewes.irish_language: "Lúis"
+hastings.irish_language: "Héistinn"
+chichester.irish_language: "Céastar Coille"
+
+# Province 'bedfordshire_province' () #
+dunstable.irish_language: "Dún Stábla"
+bedford.irish_language: "Áth na Leapa"
+
+# Province 'oxfordshire_province' () #
+oxford.irish_language: "Áth na mBó"
+henley.irish_language: "Inbhear Sheanlae"
+banbury.irish_language: "Bánbairí"
+
+# Province 'berkshire_province' () #
+windsor.irish_language: "Dún na gCoill"
+reading.irish_language: "Réadán"
+abingdon.irish_language: "Ábington"
+
+# Province 'buckinghamshire_province' () #
+buckingham.irish_language: "Bucaingham"
+aylesbury.irish_language: "Ailísbrí"
+wycombe.irish_language: "Uícum"
+
+
+## Area 'midlands_area' () ##
+# Province 'leicestershire_province' () #
+leicester.irish_language: "Leistre"
+loughborough.irish_language: "Loch Bhoró"
+bosworth.irish_language: "Bóthar na mBosc"
+rutland.irish_language: "Rútlann"
+
+# Province 'derbyshire_province' () #
+derby.irish_language: "Dearbaí"
+glossop.irish_language: "Gleann Ghlais"
+chesterfield.irish_language: "Gort an Chéastair"
+
+# Province 'nottinghamshire_province' () #
+nottingham.irish_language: "Nótacham"
+newark.irish_language: "Port Nua"
+retford.irish_language: "Áth Reite"
+
+# Province 'lincolnshire_province' () #
+lincoln.irish_language: "Lincoll"
+boston.irish_language: "Bóistín"
+grimsby.irish_language: "Baile Ghrima"
+grantham.irish_language: "Grántham"
+louth.irish_language: "Lúit"
+spalding.irish_language: "Spáltaigh"
+
+# Province 'northamptonshire_province' () #
+northampton.irish_language: "Hamtún Thuaidh"
+daventry.irish_language: "Dáimhtír"
+kettering.irish_language: "Ceatrainn"
+warwick.irish_language: "Buiric an Chogaidh"  # used conceptually for region
+# Province 'warwickshire_province' () #
+coventry.irish_language: "Cómhantraí"
+birmingham.irish_language: "Birmingeam"
+stratford.irish_language: "Áth an tSratha"
+
+# Province 'shropshire_province' () #
+shrewsbury.irish_language: "Sruisbrí"
+oswestry.irish_language: "Easbhaile"
+ludlow.irish_language: "An Lúd"
+
+# Province 'herefordshire_province' () #
+hereford.irish_language: "Áth Here"
+ewyas.irish_language: "Eamhnais"
+wigmore.irish_language: "Móin na mBíc"
+# 'Wigmore' becomes more literal-ish: field of warriors
+wigmore.irish_language: "Machaire na mBíodh"
+
+# Province 'worcestershire_province' () #
+worcester.irish_language: "Vuirstir"
+kidderminster.irish_language: "Ceadar-Mhinster"
+
+# Province 'staffordshire_province' () #
+stafford.irish_language: "Áth an tSlata"
+stoke.irish_language: "Stóc"
+tamworth.irish_language: "Tamrach"
+
+
+## Area 'northumbria_area' () ##
+# Province 'lancashire_province' () #
+lancaster.irish_language: "Lancastra"
+blackburn.irish_language: "Sruthán Dubh"
+liverpool.irish_language: "Port an Leamhain"
+preston.irish_language: "Preastal"
+manchester.irish_language: "Manchastar"
+pennines_01.irish_language: "Sliabh Peannáin Thuaidh"
+pennines_02.irish_language: "Sliabh Peannáin Láir"
+
+# Province 'north_riding_province' () #
+york.irish_language: "Eabhraic"
+scarborough.irish_language: "Port na Scairbhe"
+bedale.irish_language: "Gleann an Leapa"
+richmond.irish_language: "Rísheamond"
+whitby.irish_language: "Baile Bán"
+north_york_moors.irish_language: "Móinéir Eabhraic Thuaidh"
+
+# Province 'east_riding_province' () #
+hull.irish_language: "An Chuall"
+bridlington.irish_language: "Droichead Linnte"
+selby.irish_language: "Sailbhe"
+norton.irish_language: "Baile an Tuaiscirt"
+
+# Province 'west_riding_province' () #
+leeds.irish_language: "Líodais"
+pontefract.irish_language: "Droichead Briste"
+skipton.irish_language: "Bothar na Scipe"
+wakefield.irish_language: "Machaire Dúisigh"
+doncaster.irish_language: "Dún Chastar"
+ripon.irish_language: "Ríopa"
+pennines_04.irish_language: "Sliabh Peannáin Thiar"
+pennines_05.irish_language: "Sliabh Peannáin Garbh"
+pennines_06.irish_language: "Sliabh Peannáin Ceo"
+
+# Province 'northumberland_province' () #
+newcastle.irish_language: "Caisleán Nua"
+hexham.irish_language: "Teach na hEics"
+alnwick.irish_language: "Álnach"
+morpeth.irish_language: "Mórpeit"
+billingham.irish_language: "Baile Bile"
+
+# Province 'cumberland_province' () #
+carlisle.irish_language: "Cathair Lís"
+cockermouth.irish_language: "Béal na Coicre"
+penrith.irish_language: "Ceann an Riaith"
+egremont.irish_language: "Eaghramón"
+derwent_water.irish_language: "Loch Dearbhainne"
+
+# Province 'westmorland_province' () #
+kendal.irish_language: "Ceann Dála"
+appleby.irish_language: "Baile na nÚll"
+
+# Province 'durham_province' () #
+durham.irish_language: "Dúrchroich"
+darlington.irish_language: "Dairlíntún"
+stockton.irish_language: "Baile na Stoca"
+pennines_03.irish_language: "Ard-Peannáin"
+
+# Province 'cheshire_province' () #
+chester.irish_language: "Céastar"
+macclesfield.irish_language: "Machaigh"
+nantwich.irish_language: "Baile na nAibhne"
+
+
+## Area 'east_anglia_area' () ##
+# Province 'norfolk_province' () #
+norwich.irish_language: "Norbach"
+lynn.irish_language: "Linn Mhór"
+yarmouth.irish_language: "Béal Iáirm"
+thetford.irish_language: "Áth Téite"
+fakenham.irish_language: "Baile na bhFá"
+
+# Province 'essex_province' () #
+colchester.irish_language: "Cúltchéastair"
+chelmsford.irish_language: "Áth Sheilm"
+prittlewell.irish_language: "Tobar na gCoill"
+hedingham.irish_language: "Baile na hAite"
+walden.irish_language: "Faillín"
+barking.irish_language: "Coill na Madraí"
+
+# Province 'suffolk_province' () #
+ipswich.irish_language: "Íosbach"
+bury.irish_language: "An Reilig"
+lowestoft.irish_language: "Port Íseal"
+lavenham.irish_language: "Leamhcúm"
+
+# Province 'cambridgeshire_province' () #
+cambridge.irish_language: "Droichead na Cam"
+ely.irish_language: "Oileán na nEalaí"
+huntingdon.irish_language: "Dún na dFianna"
+royston.irish_language: "Róistín"
+
+# Province 'hertfordshire_province' () #
+hertford.irish_language: "Áth na hEirte"
+st_albans.irish_language: "Naomh Ailbhe"
+
+
+## Area 'west_country_area' () ##
+# Province 'cornwall_province' () #
+launceston.irish_language: "Lánstún"
+truro.irish_language: "Trúr"
+bodmin.irish_language: "Bódmhín"
+scilly_isles.irish_language: "Oileáin na Saile"
+
+# Province 'somerset_province' () #
+wells.irish_language: "Tobair"
+taunton.irish_language: "Tántún"
+bath.irish_language: "An Folcadán"
+portishead.irish_language: "Ceann na Porta"
+minehead.irish_language: "Ceann na Mianaigh"
+
+# Province 'devon_province' () #
+plymouth.irish_language: "Béal Pléime"
+exeter.irish_language: "Exeitír"
+barnstaple.irish_language: "Bearnstábla"
+bideford.irish_language: "Áth Bídí"
+bampton.irish_language: "Baile Bámh"
+okehampton.irish_language: "Dún na hÓc"
+dartmoor.irish_language: "Mór-Dhart"
+
+# Province 'dorset_province' () #
+poole.irish_language: "An Pholl"
+weymouth.irish_language: "Béal na mBé"
+dorchester.irish_language: "Dórchastar"
+shaftesbury.irish_language: "Bearna an tSléibhe"
+
+# Province 'wiltshire_province' () #
+salisbury.irish_language: "Sáilsbhrí"
+trowbridge.irish_language: "Droichead Tró"
+chippenham.irish_language: "Baile an tSíobáin"
+amesbury.irish_language: "Ámasbrí"
+
+# Province 'gloucestershire_province' () #
+bristol.irish_language: "Briostó"
+gloucester.irish_language: "Glócastar"
+cheltenham.irish_language: "Cealtan"
+cirencester.irish_language: "Sairinn Chéastar"
+
+
+## Area 'scottish_highlands_area' () ##
+# Province 'moray_province' () #
+inverness.irish_language: "Inbhear Nis"
+urquhart.irish_language: "Urchard"
+elgin.irish_language: "Ailginn"
+badenoch.irish_language: "Badanaoch"
+loch_ness.irish_language: "Loch Nis"
+cairngorm.irish_language: "Cairngorm"
+
+# Province 'ross_province' () #
+dingwall.irish_language: "Dinnbhalla"
+gairloch.irish_language: "Gairloch"
+ullapool.irish_language: "Ullapholl"
+fannichs.irish_language: "Fánacha"
+
+# Province 'sutherland_province' () #
+dornoch.irish_language: "Dórnach"
+durness.irish_language: "Dúirnis"
+tongue.irish_language: "Tonga"
+thurso.irish_language: "Tursa"
+ben_klibreck.irish_language: "Beann Clibreac"
+
+# Province 'argyll_province' () #
+inverary.irish_language: "Inbhear Aora"
+oban.irish_language: "An tÓbán"
+cowal.irish_language: "Cúbhail"
+lochaber.irish_language: "Loch Abair"
+ardtornish.irish_language: "Ard Thornais"
+kintyre.irish_language: "Cinn Tíre"
+ben_nevis.irish_language: "Beann Nibheis"
+carn_eige.irish_language: "Carn Aigí"
+
+
+## Area 'hebrides_area' () ##
+# Province 'outer_hebrides_province' () #
+lewis.irish_language: "Leòdhas"
+uist.irish_language: "Uibhist"
+harris.irish_language: "Na Hearra"
+skye.irish_language: "An tEilean Sgitheanach"
+
+# Province 'inner_hebrides_province' () #
+arran.irish_language: "Arann"
+mull.irish_language: "Maol"
+islay.irish_language: "Íle"
+mann.irish_language: "Oileán Mhanann"
+
+
+## Area 'scottish_lowlands_area' () ##
+# Province 'lothian_province' () #
+edinburgh.irish_language: "Dún Éideann"
+dunbar.irish_language: "Dún Barr"
+linlithgow.irish_language: "Lionn Lioch"
+stirling.irish_language: "Sruirling"
+
+# Province 'galloway_province' () #
+stranraer.irish_language: "An tSrannáir"
+ayr.irish_language: "Inbhir Àir"
+kirkcudbright.irish_language: "Cill Chuibhrí"
+irvine.irish_language: "Iorbhaín"
+kenmure.irish_language: "Ceann Múir"
+dumfries.irish_language: "Dún Phreasa"
+
+# Province 'strathclyde_province' () #
+glasgow.irish_language: "Glaschú"
+lanark.irish_language: "Lannarc"
+paisley.irish_language: "Péislí"
+dumbarton.irish_language: "Dún Bhreatann"
+loch_lomond.irish_language: "Loch Laomainn"
+
+# Province 'teviotdale_province' () #
+roxburgh.irish_language: "Rócsburr"
+selkirk.irish_language: "Seilchirc"
+duns.irish_language: "Dúinse"
+berwick.irish_language: "Bearaic"
+
+# Province 'fife_province' () #
+dunfermline.irish_language: "Dún Fhermhlinn"
+st_andrews.irish_language: "Naomh Aindrias"
+cupar.irish_language: "Cúpair"
+
+# Province 'perthshire_province' () #
+perth.irish_language: "Peart"
+aberfeldy.irish_language: "Obar Fealda"
+clackmannan.irish_language: "Clac Mhanainn"
+scone.irish_language: "Sgón"
+strathearn.irish_language: "Srath Éireann"
+ochil_hills.irish_language: "Cnocanna Ochail"
+
+# Province 'angus_province' () #
+dundee.irish_language: "Dún Dé"
+forfar.irish_language: "Forfar"
+arbroath.irish_language: "Arbród"
+stonehaven.irish_language: "Cuan na gCloch"
+
+# Province 'aberdeenshire_province' () #
+aberdeen.irish_language: "Obar Dheathain"
+buchan.irish_language: "Buachán"
+banff.irish_language: "Banbh"
+mar.irish_language: "Már"
+inverurie.irish_language: "Inbhear Uraidh"
+
+
+## Area 'wales_area' () ##
+# Province 'deheubarth_province' () #
+carmarthen.irish_language: "Caer Mhairthin"
+pembroke.irish_language: "Penbroc"
+fishguard.irish_language: "Garda Iasc"
+kidwelly.irish_language: "Céid Mhaol"
+cardigan.irish_language: "Cairdeagán"
+aberystwyth.irish_language: "Aber Iost"
+dyfi_estuary.irish_language: "Inbhear Dhubhthaigh"
+
+# Province 'gwynedd_province' () #
+carnarvon.irish_language: "Caer Narbhán"
+anglesey.irish_language: "Oileán Aingil"
+conwy.irish_language: "Conbhaoi"
+harlech.irish_language: "Ard Leac"
+flint.irish_language: "Clachán"
+penllyn.irish_language: "Ceann Línn"
+denbigh.irish_language: "Déanbach"
+snowdon.irish_language: "Sliabh na Sneachta"
+
+# Province 'powys_province' () #
+montgomery.irish_language: "Móin Gamhra"
+machynlleth.irish_language: "Machanlit"
+llangollen.irish_language: "Lann Gollain"
+berwyn_range.irish_language: "Sléibhte Bearbhuinn"
+
+# Province 'brecon_province' () #
+brecknock.irish_language: "Breacnach"
+builth.irish_language: "Builte"
+radnor.irish_language: "Rádnóir"
+brecon_beacons.irish_language: "Soinn Breacain"
+cambrian_mountains.irish_language: "Sléibhte na Cambria"
+
+# Province 'glamorgan_province' () #
+cardiff.irish_language: "Cairdibh"
+monmouth.irish_language: "Béal na Móna"
+newport.irish_language: "Port Nua"
+neath.irish_language: "Neathach"
+swansea.irish_language: "Baile an Eala"
+caerphilly.irish_language: "Caer Fílí"
+
+
+## Area 'north_sea_area' () ##
+# Province 'holland_coastal_sea_zones_province' () #
+rhine_estuary.irish_language: "Inbhear na Réine"
+scheldt_estuary.irish_language: "Inbhear na Sceilte"
+holland_coast.irish_language: "Costa na hÍsiltíre"
+wadden_sea.irish_language: "Muir na mbochna"
+zuiderzee.irish_language: "Muir an Deiscirt"
+west_frisian_islands.irish_language: "Oileáin Fhríse Thiar"
+east_frisian_islands.irish_language: "Oileáin Fhríse Thoir"
+
+# Province 'danmark_coastal_sea_zones_province' () #
+emms_estuary.irish_language: "Inbhear na hEms"
+jade_bay.irish_language: "Cuan na Séide"
+north_frisian_islands.irish_language: "Oileáin Fhríse Thuaidh"
+heligoland_island.irish_language: "Oileán Heilige"
+esperance_bay.irish_language: "Cuan an Dóchais"
+ringkobing_fjord.irish_language: "Fjórd Rincóibhin"
+elbe_estuary.irish_language: "Inbhear na hEilbe"
+north_sea2.irish_language: "Muir Thuaidh Láir"
+north_sea3.irish_language: "Muir Thuaidh Thoir"
+north_sea6.irish_language: "Muir Thuaidh Iarthair"
+
+# Province 'mercia_coastal_sea_zones_province' () #
+thames.irish_language: "Abhainn na Téimse"
+anglian_coast.irish_language: "Costa Anglach"
+wash.irish_language: "Cuan na nGaill"
+humber_estuary.irish_language: "Inbhear na Humbaire"
+flamborough_head.irish_language: "Ceann Flamra"
+north_sea1.irish_language: "Muir Thuaidh Theas"
+north_sea7.irish_language: "Muir Thuaidh Fada"
+
+# Province 'scotland_coastal_sea_zones_province' () #
+firth_of_forth.irish_language: "Inbhear Foirthe"
+moray_firth.irish_language: "Inbhear Mhoraidh"
+northumbrian_coast.irish_language: "Costa Northumbria"
+kinnaird_head.irish_language: "Ceann Cinaird"
+firth_of_tay.irish_language: "Inbhear na Tá"
+north_sea9.irish_language: "Muir Thuaidh Thuaidh"
+
+
+## Area 'english_channel_area' () ##
+# Province 'eastern_channel_province' () #
+solent.irish_language: "Muir Solannt"
+seine_bay.irish_language: "Cuan na Séine"
+alabaster_coast.irish_language: "Costa an Alabastair"
+seven_sisters.irish_language: "Na Seacht Siúr"
+strait_of_dover.irish_language: "Caolas Dhúbhair"
+
+# Province 'western_channel_province' () #
+lyme_bay.irish_language: "Cuan Líom"
+lizard_point.irish_language: "Ceann an Liosaird"
+saint_malo_gulf.irish_language: "Cuan Naomh Malo"
+breton_sea.irish_language: "Muir na mBriotánach"
+
+
+## Area 'hebridean_sea_area' () ##
+# Province 'hebridean_sea_province' () #
+north_uist.irish_language: "Uibhist Thuaidh"
+south_uist.irish_language: "Uibhist Theas"
+little_minch.irish_language: "An Mínse Beag"
+north_minch.irish_language: "An Mínse Thuaidh"
+firth_of_lorne.irish_language: "Inbhear Latharna"
+butt_of_lewis.irish_language: "Béal Leòdhais"
+north_eastern_atlantic25.irish_language: "Aigéan Thoir Thuaidh 25"
+north_eastern_atlantic26.irish_language: "Aigéan Thoir Thuaidh 26"
+north_eastern_atlantic27.irish_language: "Aigéan Thoir Thuaidh 27"

@@ -8,3 +8,14 @@
  forest_village_game_maintenance: "Hunting Grounds"
  forest_village_lumber_maintenance: "Logging"
  
+ #
+ not_in_capital_area: "Cannot be built in the [area|e] of the [capital|e]"
+ one_per_area: "Only one may be built per [area|e]"
+ 
+ #Unique
+ 
+ #DUA
+ parlement_general: "Parlement-General"
+ parlement_general_desc: "The $parlement_general$ is a local legislative center developed from a hybridization of French and British traditions. While the votes of different estates within the Parlement-General are weighed differently, they are apportioned by relative size of each faction. Parlement-Generals are tasked with local governance of an area, and provide autonomous control through such legislative apparatus."
+ 
+ 

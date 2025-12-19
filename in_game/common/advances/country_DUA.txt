@@ -1,0 +1,52 @@
+﻿
+
+dua_dual_crowns = {
+	age = age_1_traditions
+	potential = { has_or_had_tag = DUA }
+	requires = subjects_advance
+	icon = crown_power_advance_renaissance
+	
+	global_crown_estate_power = 0.05
+	subject_loyalty = 5
+}
+
+dua_anglois_realm = {
+	age = age_1_traditions
+	potential = { has_or_had_tag = DUA }
+	requires = government_size_renaissance
+
+	cultures_capacity = 2
+}
+
+dua_crown_consolidation = {
+	age = age_2_renaissance
+	potential = { has_or_had_tag = DUA }
+	global_integration_speed_modifier = 0.1
+	diplomatic_annexation_cost = -0.1
+}
+
+
+dua_parlement_general = {
+	age = age_2_renaissance
+
+	potential = { has_or_had_tag = DUA }
+
+	unlock_building = parlement_general
+}
+
+dua_channel_commerce = {
+	age = age_3_discovery
+
+	potential = { has_or_had_tag = DUA }
+
+	trade_efficiency = medium_trade_efficiency_bonus
+}
+
+dua_state_ports = {
+	age = age_3_discovery
+
+	potential = { has_or_had_tag = DUA }
+
+	port_cost_distance_from_capital = -0.25
+	global_maritime_presence_modifier = 0.05
+}
