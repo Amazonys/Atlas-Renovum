@@ -1,0 +1,51 @@
+﻿### ATLAS RENOVUM
+
+parlement_general = {
+	is_foreign = no
+	pop_type = nobles
+	max_levels = 1
+	
+	category = government_category
+	
+	employment_size = normal_noble_employment
+	
+	city = yes
+	
+	expensive = yes
+	build_time = government_build_time
+	
+	location_potential = {
+		custom_tooltip = {
+			text = not_in_capital_area
+			NOT = { area = scope:actor.capital.area }
+		}
+		custom_tooltip = {
+			text = one_per_area
+			NOT = { any_location_in_area = { has_building = parlement_general } }
+		}
+		
+	}
+	country_potential = {
+		culture = culture:anglois
+
+		OR = {
+			government_type = government_type:monarchy
+			government_type = government_type:theocracy
+			government_type = government_type:republic
+		}
+	}
+
+	
+	modifier = {
+		local_proximity_source = 50
+		local_nobles_estate_power = 0.2
+		local_clergy_estate_power = 0.2
+		local_burghers_estate_power = 0.2
+
+	}
+		
+	possible_production_methods = {
+		expensive_capital_administration_maintenance
+	}
+	construction_demand = early_capital_building_construction
+}

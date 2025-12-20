@@ -2,7 +2,7 @@
 	level = 4
 	required_locations_fraction = 0.25
 
-	rule = historical
+	rule = plausible
 	
 	potential = {
 		any_primary_or_accepted_or_tolerated_culture = { has_culture_group = culture_group:british_group }
@@ -10,9 +10,9 @@
 
 	allow = {
 		culture = { has_culture_group = culture_group:british_group }
-		situation:hundred_years_war = {
-			situation_has_ended = yes
-		}
+		#situation:hundred_years_war = {
+		#	situation_has_ended = yes
+		#}
 		OR = {
 			AND = {
 				owns = location:paris
