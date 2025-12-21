@@ -85,6 +85,7 @@ catalan = {
 	}
 	
 	culture_groups = {
+		occitan_group
 		iberian_group
 	}
 }

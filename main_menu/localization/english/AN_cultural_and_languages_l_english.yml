@@ -1,2 +1,9 @@
 ﻿l_english:
+ #Culture
  anglois: "Anglois"
+ 
+ #Culture Group
+ occitan_group: "Occitanic"
+ 
+ #Dialect
+ anglois_dialect: "Anglois"

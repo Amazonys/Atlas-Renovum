@@ -231,6 +231,7 @@ auvergnat = {
 	}
 	
 	culture_groups = {
+		occitan_group
 		french_group
 	}
 }
@@ -280,6 +281,7 @@ limousin = {
 	}
 	
 	culture_groups = {
+		occitan_group
 		french_group
 	}
 }
@@ -385,6 +387,7 @@ gascon = {
 	
 	culture_groups = {
 		pyrenean_group
+		occitan_group
 		french_group
 	}	
 }
@@ -407,6 +410,7 @@ languedocien = {
 	}
 	
 	culture_groups = {
+		occitan_group
 		french_group
 	}
 }
@@ -451,6 +455,7 @@ vivaro_alpine = {
 	}
 	
 	culture_groups = {
+		occitan_group
 		french_group
 	}
 }
@@ -533,6 +538,7 @@ provencal = {
 	}
 	
 	culture_groups = {
+		occitan_group
 		french_group
 	}
 }
