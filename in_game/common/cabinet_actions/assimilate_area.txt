@@ -45,7 +45,7 @@
 	}
 
 	location_modifier = {
-		local_pop_assimilation_speed = 0.02
+		local_pop_assimilation_speed = 0.01
 	}
 
 
