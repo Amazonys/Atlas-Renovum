@@ -1,4 +1,4 @@
-stockholm = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = swedish raw_material = clay natural_harbor_suitability = 0.75}
+stockholm = { topography = flatland vegetation = farmland climate = continental religion = catholic culture = swedish raw_material = clay natural_harbor_suitability = 0.75}
 norrtalje = { topography = flatland vegetation = forest climate = continental religion = catholic culture = swedish raw_material = fish natural_harbor_suitability = 0.00}
 enkoping = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = swedish raw_material = millet}
 uppsala = { topography = flatland vegetation = farmland climate = continental religion = catholic culture = swedish raw_material = wheat}
@@ -116,7 +116,7 @@ helsingor = { topography = flatland vegetation = grasslands climate = continenta
 hammershus = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = danish raw_material = fish natural_harbor_suitability = 0.00}
 kobenhavn = { topography = flatland vegetation = farmland climate = continental religion = catholic culture = danish raw_material = wheat natural_harbor_suitability = 1.00}
 slagelse = { topography = wetlands vegetation = grasslands climate = continental religion = catholic culture = danish raw_material = medicaments natural_harbor_suitability = 0.00}
-vordingborg = { topography = flatland vegetation = farmland climate = continental religion = catholic culture = danish raw_material = wheat natural_harbor_suitability = 0.00}
+vordingborg = { topography = flatland vegetation = farmland climate = continental religion = catholic culture = danish raw_material = beeswax natural_harbor_suitability = 0.00}
 odense = { topography = flatland vegetation = farmland climate = continental religion = catholic culture = danish raw_material = wheat natural_harbor_suitability = 0.50}
 navskov = { topography = flatland vegetation = farmland climate = oceanic religion = catholic culture = danish raw_material = legumes natural_harbor_suitability = 0.00}
 falster = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = danish raw_material = fish natural_harbor_suitability = 0.00}
@@ -168,18 +168,18 @@ bodebyn = { topography = flatland vegetation = forest climate = boreal religion 
 alvsby = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
 kiemi = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = finnish raw_material = lumber natural_harbor_suitability = 0.00}
 pajala = { topography = wetlands vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
-kittila = { topography = wetlands vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = fur}
+kittila = { topography = wetlands vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
 rovaniemi = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = finnish raw_material = wild_game}
-simo = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = finnish raw_material = fur natural_harbor_suitability = 0.00}
+simo = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = finnish raw_material = lumber natural_harbor_suitability = 0.00}
 uleaborg = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = lumber natural_harbor_suitability = 0.75}
 brahestad = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = swedish raw_material = fish natural_harbor_suitability = 0.00}
 utajarvi = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = finnish raw_material = lumber}
-siikalatva = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = finnish raw_material = fur}
+siikalatva = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = finnish raw_material = lumber}
 taivalkoski = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = finnish raw_material = wild_game}
 kuivaniemi = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = kvens raw_material = fish natural_harbor_suitability = 0.00}
 ranua = { topography = wetlands vegetation = forest climate = boreal religion = sapmi_shamanism culture = finnish raw_material = lumber}
 pudasjarvi = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = finnish raw_material = fur}
-posio = { topography = wetlands vegetation = forest climate = boreal religion = sapmi_shamanism culture = finnish raw_material = fish}
+posio = { topography = wetlands vegetation = forest climate = boreal religion = sapmi_shamanism culture = finnish raw_material = fur}
 asele = { topography = wetlands vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
 lycksele = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
 arvidsjaur = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
@@ -189,7 +189,7 @@ tarna = { topography = mountains vegetation = forest climate = boreal religion =
 ortrask = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
 akkajaur = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
 arjeplog = { topography = plateau vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
-silbojock = { topography = mountains vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
+silbojock = { topography = mountains vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = silver}
 sorsele = { topography = plateau vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
 storavan = { topography = lakes climate = boreal}
 uddjaur = { topography = lakes climate = boreal}
@@ -199,7 +199,7 @@ kvikkjock = { topography = mountains vegetation = forest climate = boreal religi
 porjus = { topography = plateau vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
 gellivaara = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
 sarek = { topography = mountains vegetation = sparse climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = stone}
-nikkaluokta = { topography = hills vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = fur}
+nikkaluokta = { topography = hills vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = iron}
 kasivarren = { topography = plateau vegetation = sparse climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = stone}
 torne_trask = { topography = lakes climate = boreal}
 vastenjaure = { topography = lakes climate = boreal}

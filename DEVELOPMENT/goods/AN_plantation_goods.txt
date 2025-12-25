@@ -1,0 +1,37 @@
+﻿cinnamon = {
+	method = farming
+	category = raw_material
+	color = goods_cotton
+	default_market_price = 3
+
+
+	custom_tags = { old_world_goods }
+}
+opium = {
+	method = farming
+	category = raw_material
+	color = goods_cotton
+	default_market_price = 3
+
+
+	custom_tags = { old_world_goods }
+}
+
+vanilla = {
+	method = farming
+	category = raw_material
+	color = goods_cotton
+	default_market_price = 3
+
+
+	custom_tags = { new_world_goods }
+}
+rubber = {
+	method = farming
+	category = raw_material
+	color = goods_cotton
+	default_market_price = 3
+
+
+	custom_tags = { new_world_goods }
+}

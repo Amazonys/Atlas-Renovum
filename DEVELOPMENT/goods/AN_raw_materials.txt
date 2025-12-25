@@ -1,0 +1,70 @@
+﻿sulphur = {
+	method = mining
+	category = raw_material
+	color = goods_saltpeter
+	default_market_price = 2
+	
+	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
+	ai_rgo_expansion_priority = 0.01
+}
+zinc = {
+	method = mining
+	category = raw_material
+	color = goods_lead
+	default_market_price = 2
+	transport_cost = 2
+
+}
+bauxite = {
+	method = mining
+	category = raw_material
+	color = goods_lead
+	default_market_price = 2
+	transport_cost = 2
+
+}
+chromite = {
+	method = mining
+	category = raw_material
+	color = goods_lead
+	default_market_price = 2
+	transport_cost = 2
+
+}
+phosphate = {
+	method = mining
+	category = raw_material
+	color = goods_lead
+	default_market_price = 2
+	transport_cost = 2
+
+}
+
+camels = { #
+	method = farming
+	category = raw_material
+	color = goods_horses
+	default_market_price = 3
+	transport_cost = 2
+	
+	demand_add = {
+		nobles =  0.25
+	}	
+
+	custom_tags = { old_world_goods }
+
+}
+llamas = { #
+	method = farming
+	category = raw_material
+	color = goods_horses
+	default_market_price = 3
+	transport_cost = 2
+	
+	demand_add = {
+		nobles =  0.25
+	}	
+
+	custom_tags = { new_world_goods }
+
+}
