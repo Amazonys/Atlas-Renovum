@@ -1,0 +1,36 @@
+﻿perfume = { 	#
+	category = produced
+	color = goods_steel
+	default_market_price = 5
+	transport_cost = 2
+}
+soap = { 	#
+	category = produced
+	color = goods_steel
+	default_market_price = 5
+	transport_cost = 2
+}
+cigars = { 	#
+	category = produced
+	color = goods_steel
+	default_market_price = 5
+	transport_cost = 2
+}
+artifices = { 	#
+	category = produced
+	color = goods_steel
+	default_market_price = 5
+	transport_cost = 2
+}
+chemicals = { 	#
+	category = produced
+	color = goods_steel
+	default_market_price = 5
+	transport_cost = 2
+}
+fertilizer = { 	#
+	category = produced
+	color = goods_steel
+	default_market_price = 5
+	transport_cost = 2
+}

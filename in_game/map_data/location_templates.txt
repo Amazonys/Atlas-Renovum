@@ -127,8 +127,8 @@ flensburg = { topography = flatland vegetation = grasslands climate = oceanic re
 eckernforde = { topography = flatland vegetation = woods climate = oceanic religion = catholic culture = holsatian raw_material = lumber natural_harbor_suitability = 0.50}
 amrum_island_wasteland = { topography = wetlands vegetation = grasslands climate = oceanic}
 husum = { topography = wetlands vegetation = grasslands climate = oceanic religion = catholic culture = frisian raw_material = millet natural_harbor_suitability = 0.00}
-helsingborg = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = danish raw_material = wheat natural_harbor_suitability = 0.25}
-lund = { topography = flatland vegetation = farmland climate = continental religion = catholic culture = danish raw_material = wheat}
+helsingborg = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = danish raw_material = barley natural_harbor_suitability = 0.25}
+lund = { topography = flatland vegetation = farmland climate = continental religion = catholic culture = danish raw_material = barley}
 malmo = { topography = flatland vegetation = farmland climate = continental religion = catholic culture = danish raw_material = fish natural_harbor_suitability = 0.25}
 gladsax = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = danish raw_material = amber natural_harbor_suitability = 0.00}
 osby = { topography = flatland vegetation = forest climate = continental religion = catholic culture = danish raw_material = clay}
@@ -196,7 +196,7 @@ uddjaur = { topography = lakes climate = boreal}
 socksjock = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
 jokkmokk = { topography = plateau vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
 kvikkjock = { topography = mountains vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = fur}
-porjus = { topography = plateau vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
+porjus = { topography = plateau vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = iron}
 gellivaara = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
 sarek = { topography = mountains vegetation = sparse climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = stone}
 nikkaluokta = { topography = hills vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = iron}
@@ -411,7 +411,7 @@ n_jamtland_wasteland = { topography = mountain_wasteland vegetation = sparse cli
 bodo = { topography = hills vegetation = woods climate = boreal religion = catholic culture = norwegian raw_material = marble natural_harbor_suitability = 0.25}
 birndal = { topography = hills vegetation = grasslands climate = hemiboreal religion = catholic culture = norwegian raw_material = stone natural_harbor_suitability = 0.00}
 hattfjelldal = { topography = mountains vegetation = sparse climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
-rana = { topography = mountains vegetation = sparse climate = boreal religion = sapmi_shamanism culture = norwegian raw_material = wild_game}
+rana = { topography = mountains vegetation = sparse climate = boreal religion = sapmi_shamanism culture = norwegian raw_material = iron}
 alstahaug = { topography = hills vegetation = woods climate = hemiboreal religion = catholic culture = norwegian raw_material = fish natural_harbor_suitability = 0.00}
 gildeskal = { topography = mountains vegetation = sparse climate = boreal religion = catholic culture = norwegian raw_material = fish natural_harbor_suitability = 0.00}
 steigen = { topography = mountains vegetation = woods climate = boreal religion = catholic culture = norwegian raw_material = fish natural_harbor_suitability = 0.00}
@@ -14555,20 +14555,20 @@ trincomalee = { topography = flatland vegetation = jungle climate = calidic reli
 vavuniya = { topography = flatland vegetation = jungle climate = calidic religion = hindu culture = tamil raw_material = clay}
 mahatittha = { topography = flatland vegetation = grasslands climate = calidic religion = hindu culture = tamil raw_material = pearls natural_harbor_suitability = 0.00}
 medawachchiya = { topography = flatland vegetation = jungle climate = calidic religion = theravada culture = sinhalese raw_material = rice}
-yapavu = { topography = flatland vegetation = jungle climate = calidic religion = theravada culture = sinhalese raw_material = rice}
+yapavu = { topography = flatland vegetation = jungle climate = calidic religion = theravada culture = sinhalese raw_material = cinnamon}
 anuradhapura = { topography = flatland vegetation = jungle climate = calidic religion = theravada culture = sinhalese raw_material = beeswax}
 salavata = { topography = flatland vegetation = jungle climate = calidic religion = theravada culture = sinhalese raw_material = sand natural_harbor_suitability = 0.00}
-kurunegala = { topography = flatland vegetation = jungle climate = tropical religion = theravada culture = sinhalese raw_material = gems}
-polonnaruva = { topography = flatland vegetation = jungle climate = calidic religion = theravada culture = sinhalese raw_material = gems}
-madakalapu = { topography = flatland vegetation = farmland climate = calidic religion = hindu culture = tamil raw_material = fish natural_harbor_suitability = 0.00}
+kurunegala = { topography = flatland vegetation = jungle climate = tropical religion = theravada culture = sinhalese raw_material = rice}
+polonnaruva = { topography = flatland vegetation = jungle climate = calidic religion = theravada culture = sinhalese raw_material = rice}
+madakalapu = { topography = flatland vegetation = farmland climate = calidic religion = hindu culture = tamil raw_material = pepper natural_harbor_suitability = 0.00}
 hatthigiripura = { topography = hills vegetation = jungle climate = tropical religion = theravada culture = sinhalese raw_material = elephants}
 kotte = { topography = flatland vegetation = farmland climate = tropical religion = theravada culture = sinhalese raw_material = rice natural_harbor_suitability = 0.00}
-negombo = { topography = flatland vegetation = grasslands climate = tropical religion = theravada culture = sinhalese raw_material = pepper natural_harbor_suitability = 0.20}
-sitavaka = { topography = hills vegetation = grasslands climate = tropical religion = theravada culture = sinhalese raw_material = fruit}
-kandy = { topography = mountains vegetation = jungle climate = oceanic religion = theravada culture = sinhalese raw_material = pepper}
-gampola = { topography = mountains vegetation = jungle climate = tropical religion = hindu culture = sinhalese raw_material = pepper}
-ratnapura_LKA = { topography = hills vegetation = farmland climate = tropical religion = theravada culture = sinhalese raw_material = pepper}
-galle = { topography = hills vegetation = grasslands climate = tropical religion = theravada culture = sinhalese raw_material = fish natural_harbor_suitability = 0.00}
+negombo = { topography = flatland vegetation = grasslands climate = tropical religion = theravada culture = sinhalese raw_material = cinnamon natural_harbor_suitability = 0.20}
+sitavaka = { topography = hills vegetation = grasslands climate = tropical religion = theravada culture = sinhalese raw_material = nuts}
+kandy = { topography = mountains vegetation = jungle climate = oceanic religion = theravada culture = sinhalese raw_material = gems}
+gampola = { topography = mountains vegetation = jungle climate = tropical religion = hindu culture = sinhalese raw_material = cinnamon}
+ratnapura_LKA = { topography = hills vegetation = farmland climate = tropical religion = theravada culture = sinhalese raw_material = gems}
+galle = { topography = hills vegetation = grasslands climate = tropical religion = theravada culture = sinhalese raw_material = cinnamon natural_harbor_suitability = 0.00}
 hambantota = { topography = flatland vegetation = jungle climate = calidic religion = theravada culture = sinhalese raw_material = fruit natural_harbor_suitability = 0.00}
 badulla = { topography = hills vegetation = jungle climate = tropical religion = theravada culture = sinhalese raw_material = medicaments}
 devanagara = { topography = flatland vegetation = grasslands climate = tropical religion = theravada culture = sinhalese raw_material = beeswax natural_harbor_suitability = 0.00}
