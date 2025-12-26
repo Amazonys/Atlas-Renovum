@@ -3,7 +3,7 @@
 rye = {
 	method = farming
 	category = raw_material
-	color = goods_wheat
+	color = goods_rye
 	
 	food = 8.0
 	
@@ -31,7 +31,7 @@ rye = {
 oats = {
 	method = farming
 	category = raw_material
-	color = goods_wheat
+	color = goods_oats
 	
 	food = 8.0
 	
@@ -59,7 +59,7 @@ oats = {
 barley = {
 	method = farming
 	category = raw_material
-	color = goods_wheat
+	color = goods_barley
 	
 	food = 8.0
 	
@@ -86,10 +86,35 @@ barley = {
 }
 
 #supplemental
+tomato = {
+	method = farming
+	category = raw_material
+	color = goods_tomato
+
+	food = 2.5
+
+	default_market_price = 2
+	
+	demand_add = {
+		all = 0.001
+	}
+	demand_multiply = {
+		upper = 2
+		slaves = 0
+		tribesmen = 0
+
+	}
+	
+	wealth_impact_threshold = {
+		peasants = 1.1
+		laborers = 1.1
+		soldiers = 1.1
+	}	
+}
 beans = {
 	method = farming
 	category = raw_material
-	color = goods_beeswax
+	color = goods_beans
 
 	food = 2.5
 
@@ -114,7 +139,7 @@ beans = {
 nuts = {
 	method = gathering
 	category = raw_material
-	color = goods_beeswax
+	color = goods_nuts
 
 	food = 2.5
 
@@ -139,7 +164,7 @@ nuts = {
 tubers = {
 	method = farming
 	category = raw_material
-	color = goods_beeswax
+	color = goods_tubers
 
 	food = 2.5
 
@@ -164,7 +189,7 @@ tubers = {
 palm = {
 	method = farming
 	category = raw_material
-	color = goods_beeswax
+	color = goods_palm
 
 	food = 2.5
 
@@ -189,7 +214,7 @@ palm = {
 dates = {
 	method = farming
 	category = raw_material
-	color = goods_fruit
+	color = goods_dates
 	
 	food = 4
 	default_market_price = 1
@@ -209,7 +234,7 @@ dates = {
 pelagic_fish = {
 	method = gathering
 	category = raw_material
-	color = goods_fish
+	color = goods_pelagic_fish
 	
 	food = 5.0
 	
@@ -227,7 +252,7 @@ pelagic_fish = {
 shoal_fish = {
 	method = gathering
 	category = raw_material
-	color = goods_fish
+	color = goods_shoal_fish
 	
 	food = 5.0
 	
@@ -245,7 +270,7 @@ shoal_fish = {
 cetaceans = {
 	method = hunting
 	category = raw_material
-	color = goods_fish
+	color = goods_cetaceans
 	
 	food = 5.0
 	
@@ -263,7 +288,7 @@ cetaceans = {
 crustaceans = {
 	method = gathering
 	category = raw_material
-	color = goods_fish
+	color = goods_crustaceans
 	
 	food = 5.0
 	
@@ -283,7 +308,7 @@ crustaceans = {
 poultry = {
 	method = farming
 	category = raw_material
-	color = goods_livestock
+	color = goods_poultry
 	
 	food = 8
 	default_market_price = 1.5
@@ -313,7 +338,7 @@ poultry = {
 swine = {
 	method = farming
 	category = raw_material
-	color = goods_livestock
+	color = goods_swine
 	
 	food = 8
 	default_market_price = 1.5
@@ -343,7 +368,7 @@ swine = {
 buffalo = {
 	method = hunting
 	category = raw_material
-	color = goods_livestock
+	color = goods_buffalo
 	
 	food = 8
 	default_market_price = 1.5
@@ -373,7 +398,7 @@ buffalo = {
 reindeer = {
 	method = hunting
 	category = raw_material
-	color = goods_wild_game
+	color = goods_reindeer
 	
 	food = 3.5
 	
@@ -391,7 +416,7 @@ reindeer = {
 exotica = {
 	method = gathering
 	category = raw_material
-	color = goods_wild_game
+	color = goods_exotica
 	
 	food = 3.5
 	
@@ -411,7 +436,7 @@ exotica = {
 dairy = {
 	method = produced
 	category = raw_material
-	color = goods_wild_game
+	color = goods_dairy
 	
 	food = 10
 	
@@ -429,7 +454,7 @@ dairy = {
 bread = {
 	method = produced
 	category = raw_material
-	color = goods_wild_game
+	color = goods_bread
 	
 	food = 10
 	
@@ -450,7 +475,7 @@ bread = {
 meat = {
 	method = produced
 	category = raw_material
-	color = goods_wild_game
+	color = goods_meat
 	
 	food = 10
 	

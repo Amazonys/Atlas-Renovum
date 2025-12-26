@@ -1,7 +1,7 @@
 ﻿cinnamon = {
 	method = farming
 	category = raw_material
-	color = goods_cotton
+	color = goods_cinnamon
 	default_market_price = 3
 
 
@@ -10,7 +10,7 @@
 opium = {
 	method = farming
 	category = raw_material
-	color = goods_cotton
+	color = goods_opium
 	default_market_price = 3
 
 
@@ -20,7 +20,7 @@ opium = {
 vanilla = {
 	method = farming
 	category = raw_material
-	color = goods_cotton
+	color = goods_vanilla
 	default_market_price = 3
 
 
@@ -29,7 +29,7 @@ vanilla = {
 rubber = {
 	method = farming
 	category = raw_material
-	color = goods_cotton
+	color = goods_rubber
 	default_market_price = 3
 
 

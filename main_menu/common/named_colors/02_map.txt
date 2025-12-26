@@ -4072,6 +4072,51 @@ colors = {
 	goods_cloves = hsv360 { 110 87 75 }	
 	goods_pottery = rgb { 160 192 192 }	
 	goods_furniture = rgb { 130 192 192 }	
+	
+	#Atlas Renovum goods
+	goods_rye = rgb { 213 148 69 }	
+	goods_oats = rgb { 233 214 161 }	
+	goods_barley = rgb { 231 203 140 }	
+	goods_tomato = rgb { 205 49 24 }	
+	goods_beans = rgb { 140 179 71 }	
+	goods_nuts = rgb { 145 69 59 }	
+	goods_tubers = rgb { 158 117 92 }	
+	goods_palm = rgb { 227 150 69 }	
+	goods_dates = rgb { 122 49 36 }	
+	goods_pelagic_fish = rgb { 89 209 196 }	
+	goods_shoal_fish = rgb { 56 153 173 }	
+	goods_cetaceans = rgb { 115 235 247 }	
+	goods_crustaceans = rgb { 252 115 94 }	
+	#
+	goods_poultry = rgb { 173 192 192 }	
+	goods_swine = rgb { 173 192 192 }	
+	goods_buffalo = rgb { 173 192 192 }	
+	goods_reindeer = rgb { 173 192 192 }	
+	goods_exotica = rgb { 173 192 192 }	
+	goods_dairy = rgb { 173 192 192 }	
+	goods_bread = rgb { 173 192 192 }	
+	goods_meat = rgb { 173 192 192 }	
+	#
+	goods_camels = rgb { 173 192 192 }
+	goods_llamas = rgb { 173 192 192 }
+	#	
+	goods_sulphur = rgb { 173 192 192 }
+	goods_zinc = rgb { 173 192 192 }
+	goods_bauxite = rgb { 173 192 192 }
+	goods_chromite = rgb { 173 192 192 }
+	goods_phosphate = rgb { 173 192 192 }
+	#
+	goods_cinnamon = rgb { 143 87 43 }	
+	goods_opium = rgb { 173 192 192 }	
+	goods_vanilla = rgb { 173 192 192 }	
+	goods_rubber = rgb { 173 192 192 }	
+	#
+	goods_perfume = rgb { 173 192 192 }	
+	goods_soap = rgb { 173 192 192 }	
+	goods_cigars = rgb { 173 192 192 }	
+	goods_artifices = rgb { 173 192 192 }	
+	goods_chemicals = rgb { 173 192 192 }	
+	goods_fertilizer = rgb { 173 192 192 }	
 
 	#SUBJECT TYPES
 	subject_vassal = rgb { 51 204 204 }
