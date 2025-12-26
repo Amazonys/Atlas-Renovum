@@ -1,7 +1,7 @@
 ﻿sulphur = {
 	method = mining
 	category = raw_material
-	color = goods_saltpeter
+	color = goods_sulphur
 	default_market_price = 2
 	
 	ai_rgo_size_importance = 10 # ai preference to avoid building a city on this rgo
@@ -10,7 +10,7 @@
 zinc = {
 	method = mining
 	category = raw_material
-	color = goods_lead
+	color = goods_zinc
 	default_market_price = 2
 	transport_cost = 2
 
@@ -18,7 +18,7 @@ zinc = {
 bauxite = {
 	method = mining
 	category = raw_material
-	color = goods_lead
+	color = goods_bauxite
 	default_market_price = 2
 	transport_cost = 2
 
@@ -26,7 +26,7 @@ bauxite = {
 chromite = {
 	method = mining
 	category = raw_material
-	color = goods_lead
+	color = goods_chromite
 	default_market_price = 2
 	transport_cost = 2
 
@@ -34,7 +34,7 @@ chromite = {
 phosphate = {
 	method = mining
 	category = raw_material
-	color = goods_lead
+	color = goods_phosphate
 	default_market_price = 2
 	transport_cost = 2
 
@@ -43,7 +43,7 @@ phosphate = {
 camels = { #
 	method = farming
 	category = raw_material
-	color = goods_horses
+	color = goods_camels
 	default_market_price = 3
 	transport_cost = 2
 	
@@ -57,7 +57,7 @@ camels = { #
 llamas = { #
 	method = farming
 	category = raw_material
-	color = goods_horses
+	color = goods_llamas
 	default_market_price = 3
 	transport_cost = 2
 	
