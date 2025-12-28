@@ -1,0 +1,2775 @@
+﻿### Illustration Lists ###
+
+# weather = {
+#	tag = "weather"
+
+#	illustration_image = {
+#		texture_file = "gfx/interface/illustrations/location/weather/placeholder.dds"
+#		priority = 10
+#		scope = location
+#	}
+
+# }
+
+status = {
+	tag = "status"
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/sea/ocean_bigger.dds"
+		priority = 101
+		scope = location
+
+		trigger = {
+			OR = {
+				topography = deep_ocean
+				topography = ocean_wasteland
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/sea/ocean.dds"
+		priority = 101
+		scope = location
+
+		trigger = {
+			topography = ocean
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/sea/sea_bigger.dds"
+		priority = 101
+		scope = location
+
+		trigger = {
+			topography = coastal_ocean
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/sea/inland_sea.dds"
+		priority = 100
+		scope = location
+
+		trigger = {
+			is_land = no
+		}
+	}
+
+	
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/sea/atoll.dds"
+		priority = 100
+		scope = location
+
+		trigger = {
+			topography = atoll
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/sea/narrowsea.dds"
+		priority = 100
+		scope = location
+
+		trigger = {
+			topography = narrows
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/sea/lakes.dds"
+		priority = 100
+		scope = location
+
+		trigger = {
+			topography = lakes
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/sea/salt_pans.dds"
+		priority = 100
+		scope = location
+
+		trigger = {
+			topography = salt_pans
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/status/ashes_metadata_os2654x440_d700x0.dds"
+		priority = 20
+		scope = location
+
+		trigger = {
+			has_volcano = yes
+			has_variable = volcano_erupted_major
+			var:volcano_erupted_major = yes
+		}
+	}
+
+	# SIEGES
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/status/siege2_metadata_os2654x440_d528x0.dds"
+		priority = 12
+		scope = location
+
+		trigger = {
+			has_siege = yes
+			siege = {
+				has_breach = yes
+				any_besieging_unit = {
+					any_sub_unit = {
+						sub_unit_category = sub_unit_category:army_artillery
+					}
+				}
+			}
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/status/siege1_metadata_os2654x440_d844x0.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			has_siege = yes
+			siege = {
+				has_breach = no
+				any_besieging_unit = {
+					any_sub_unit = {
+						sub_unit_category = sub_unit_category:army_artillery
+					}
+				}
+			}
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/status/siege0_metadata_os2654x440_d530x0.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			has_siege = yes
+		}
+	}
+
+	# illustration_image = { #Alpha 0
+	# 	texture_file = "gfx/interface/illustrations/location/ground3/farmlands_metadata_os2654x440_d0x102.dds"
+	# 	priority = 5
+	# 	scope = location
+
+	# 	trigger = {
+	# 		vegetation = farmland
+	# 	}
+	# }
+
+	illustration_image = {
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+}
+
+farmland = {
+	tag = "farmland"
+
+	illustration_image = {#Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/interface/illustrations/location/ground3/farmlands_metadata_os2654x440_d0x102.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = farmland
+		}
+	}
+}
+
+roads = {
+	tag = "roads"
+
+	#illustration_image = { #Alpha 0
+	#	texture_file = "gfx/interface/illustrations/location/roads/placeholder.dds"
+	#	priority = 10
+	#	scope = location
+	#}
+
+	illustration_image = {
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+}
+
+ground1 = {
+	tag = "ground1"
+
+	illustration_image = {
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 10000
+		scope = location
+		trigger = { is_coastal = yes }
+	}
+
+	illustration_image = {#fallback
+		texture_file = "gfx/interface/illustrations/location/ground1/continental/continental_grassland_ground1_metadata_os2654x440_d0x310.dds"
+		priority = 1
+		scope = location
+	}
+
+	#############################################################################################################################	###CONTINENTAL GROUND1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/continental/continental_grassland_ground1_metadata_os2654x440_d0x310.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = continental
+				climate = hemiboreal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/continental/continental_woods_ground1_metadata_os2654x440_d0x64.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = continental
+				climate = hemiboreal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/continental/continental_forest_ground1_metadata_os2654x440_d0x64.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = continental
+				climate = hemiboreal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/continental/continental_sparse_ground1_metadata_os2654x440_d0x310.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = continental
+				climate = hemiboreal
+			}
+		}
+	}
+
+	#############################################################################################################################	###OCEANIC GROUND1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/oceanic/oceanic_grassland_ground1_metadata_os2654x440_d0x288.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = oceanic
+				climate = cascadic
+				climate = maritime
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/oceanic/oceanic_woods_ground1_metadata_os2654x440_d0x58.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = oceanic
+				climate = cascadic
+				climate = maritime
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/oceanic/oceanic_forest_ground1_metadata_os2654x440_d0x58.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = oceanic
+				climate = cascadic
+				climate = maritime
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/oceanic/oceanic_sparse_ground1_metadata_os2654x440_d0x288.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = oceanic
+				climate = cascadic
+				climate = maritime
+			}
+		}
+	}
+
+	#############################################################################################################################	###MEDITERRANEAN GROUND1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/mediterranean/mediterranean_grassland_ground1_metadata_os2654x440_d0x288.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = mediterranean
+				climate = cold_arid
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/mediterranean/mediterranean_woods_ground1_metadata_os2654x440_d0x58.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = mediterranean
+				climate = cold_arid
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/mediterranean/mediterranean_forest_ground1_metadata_os2654x440_d0x58.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = mediterranean
+				climate = cold_arid
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/mediterranean/mediterranean_sparse_ground1_metadata_os2654x440_d0x288.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = mediterranean
+				climate = cold_arid
+			}
+		}
+	}
+
+	###############################################################################################################################################	###ARCTIC GROUND1
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/arctic/arctic_grassland_ground1_metadata_os2654x440_d0x292.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = arctic
+				climate = boreal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/arctic/arctic_sparse_ground1_metadata_os2654x440_d0x292.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = arctic
+				climate = boreal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/arctic/arctic_forest_ground1_metadata_os2654x440_d0x70.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = arctic
+				climate = boreal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/arctic/arctic_woods_ground1_metadata_os2654x440_d0x70.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = arctic
+				climate = boreal
+			}
+		}
+	}
+
+	#############################################################################################################################	###ARID GROUND1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/arid/arid_desert_ground1_metadata_os2654x440_d0x304.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = desert
+			OR = {
+				climate = arid
+				climate = sicco
+				climate = xeric
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/arid/arid_grassland_ground1_metadata_os2654x440_d0x304.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = arid
+				climate = sicco
+				climate = xeric
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/arid/arid_sparse_ground1_metadata_os2654x440_d0x304.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = arid
+				climate = sicco
+				climate = xeric
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/arid/arid_forest_ground1_metadata_os2654x440_d0x66.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = arid
+				climate = sicco
+				climate = xeric
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/arid/arid_woods_ground1_metadata_os2654x440_d0x66.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = arid
+				climate = sicco
+				climate = xeric
+			}
+		}
+	}
+
+	#############################################################################################################################	###TROPICAL GROUND1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/tropical/tropical_jungle_ground1_metadata_os2654x440_d0x58.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = jungle
+			OR = {
+				climate = tropical
+				climate = calidic
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/tropical/tropical_grassland_ground1_metadata_os2654x440_d0x288.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = tropical
+				climate = calidic
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/tropical/tropical_sparse_ground1_metadata_os2654x440_d0x288.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = tropical
+				climate = calidic
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/tropical/tropical_forest_ground1_metadata_os2654x440_d0x58.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = tropical
+				climate = calidic
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/tropical/tropical_woods_ground1_metadata_os2654x440_d0x58.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = tropical
+				climate = calidic
+			}
+		}
+	}
+
+	#############################################################################################################################	###SUBTROPICAL GROUND1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/subtropical/subtropical_jungle_ground1_metadata_os2654x440_d0x58.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = jungle
+			OR = {
+				climate = subtropical
+				climate = mesothermal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/subtropical/subtropical_grassland_ground1_metadata_os2654x440_d0x288.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = subtropical
+				climate = mesothermal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/subtropical/subtropical_sparse_ground1_metadata_os2654x440_d0x288.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = subtropical
+				climate = mesothermal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/subtropical/subtropical_forest_ground1_metadata_os2654x440_d0x58.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = subtropical
+				climate = mesothermal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground1/subtropical/subtropical_woods_ground1_metadata_os2654x440_d0x58.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = subtropical
+				climate = mesothermal
+			}
+		}
+	}
+}
+
+location_fx = {
+	tag = "location_fx"
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/interface/illustrations/location/fx/location_fx_metadata_os2654x440_d0x180.dds"
+		priority = 10
+		scope = location
+	}
+}
+
+dock = {
+	tag = "dock"
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+
+	###ASHANTI DOCK 1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/ashanti/ashanti_dock1_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 1
+			gfx_culture_applicable = african_gfx
+		}
+	}
+
+	###ASHANTI DOCK 2
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/ashanti/ashanti_dock2_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 5
+			gfx_culture_applicable = african_gfx
+		}
+	}
+
+	###ASHANTI DOCK 3
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/ashanti/ashanti_dock3_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 10
+			gfx_culture_applicable = african_gfx
+		}
+	}
+
+	###ASIAN DOCK 1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/asian/asian_dock1_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 1
+			gfx_culture_applicable = east_asian_gfx
+		}
+	}
+
+	###ASIAN DOCK 2
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/asian/asian_dock2_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 5
+			gfx_culture_applicable = east_asian_gfx
+		}
+	}
+
+	###ASIAN DOCK 3
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/asian/asian_dock3_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 10
+			gfx_culture_applicable = east_asian_gfx
+		}
+	}
+
+	###AZTEC DOCK 1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/aztec/aztec_dock1_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 1
+			gfx_culture_applicable = south_american_gfx
+		}
+	}
+
+	###AZTEC DOCK 2
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/aztec/aztec_dock2_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 5
+			gfx_culture_applicable = south_american_gfx
+		}
+	}
+
+	###AZTEC DOCK 3
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/aztec/aztec_dock3_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 10
+			gfx_culture_applicable = south_american_gfx
+		}
+	}
+
+	###DECCAN DOCK 1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/deccan/deccan_dock1_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 1
+			gfx_culture_applicable = indian_gfx
+		}
+	}
+
+	###DECCAN DOCK 2
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/deccan/deccan_dock2_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 5
+			gfx_culture_applicable = indian_gfx
+		}
+	}
+
+	###DECCAN DOCK 3
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/deccan/deccan_dock3_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 10
+			gfx_culture_applicable = indian_gfx
+		}
+	}
+
+	###IROQUOIS DOCK 1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/iroquois/iroquois_dock1_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 1
+			gfx_culture_applicable = north_american_gfx
+		}
+	}
+
+	###IROQUOIS DOCK 2
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/iroquois/iroquois_dock2_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 5
+			gfx_culture_applicable = north_american_gfx
+		}
+	}
+
+	###IROQUOIS DOCK 3
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/iroquois/iroquois_dock3_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 10
+			gfx_culture_applicable = north_american_gfx
+		}
+	}
+
+	###SYRIAN DOCK 1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/syrian/syrian_dock1_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 1
+			gfx_culture_applicable = middle_east_gfx
+		}
+	}
+
+	###SYRIAN DOCK 2
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/syrian/syrian_dock2_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 5
+			gfx_culture_applicable = middle_east_gfx
+		}
+	}
+
+	###SYRIAN DOCK 3
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/syrian/syrian_dock3_metadata_os2654x440_d326x140_t.dds"
+		priority = 20
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 10
+			gfx_culture_applicable = middle_east_gfx
+		}
+	}
+
+	###NORTH GERMAN DOCK 1
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/north_german/north_german_dock1_metadata_os2654x440_d326x140_t.dds"
+		priority = 5
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 1
+		}
+	}
+
+	###NORTH GERMAN DOCK 2
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/north_german/north_german_dock2_metadata_os2654x440_d326x140_t.dds"
+		priority = 5
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 5
+		}
+	}
+
+	###NORTH GERMAN DOCK 3
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/dock/north_german/north_german_dock3_metadata_os2654x440_d326x140_t.dds"
+		priority = 5
+		scope = location
+		trigger = {
+			modifier:max_ships_built_at_same_time > 10
+		}
+	}
+}
+
+water = {
+	tag = "water"
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+
+	###RIVER
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/water/river/river_metadata_os2654x440_d0x190.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			has_river = yes
+		}
+	}
+
+	###OCEAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/water/ocean/ocean_metadata_os2654x440_d0x204.dds"
+		priority = 20
+		scope = location
+
+		trigger = {
+			OR = {
+				is_coastal = yes
+				any_neighbor_location = {
+					OR = {
+						topography = lakes
+						topography = high_lakes
+					}
+				}
+			}
+		}
+	}
+
+	###OCEAN AND RIVER
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/water/river_ocean/river_ocean_metadata_os2654x440_d0x208.dds"
+		priority = 40
+		scope = location
+
+		trigger = {
+			AND = {
+				OR = {
+					is_coastal = yes
+					any_neighbor_location = {
+						OR = {
+							topography = lakes
+							topography = high_lakes
+						}
+					}
+				}
+				has_river = yes
+			}
+		}
+	}
+
+	###WETLANDS AND RIVER
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/water/river_wetlands/river_wetlands_metadata_os2654x440_d0x108.dds"
+		priority = 40
+		scope = location
+
+		trigger = {
+			AND = {
+				topography = wetlands
+				has_river = yes
+			}
+		}
+	}
+
+	###WETLANDS AND OCEAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/water/ocean_wetlands/ocean_wetlands_metadata_os2654x440_d0x110.dds"
+		priority = 40
+		scope = location
+
+		trigger = {
+			AND = {
+				topography = wetlands
+				is_coastal = yes
+			}
+		}
+	}
+
+	###WETLANDS AND OCEAN AND RIVER
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/water/river_ocean_wetlands/river_ocean_wetlands_metadata_os2654x440_d0x134.dds"
+		priority = 50
+		scope = location
+
+		trigger = {
+			AND = {
+				topography = wetlands
+				is_coastal = yes
+				has_river = yes
+			}
+		}
+	}
+
+	###WETLANDS
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/water/wetlands/wetlands_metadata_os2654x440_d0x108.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			topography = wetlands
+		}
+	}
+}
+
+settlement1 = {
+	tag = "settlement1"
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+	###ASIAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/asian/city/asian_city1_metadata_os2654x440_d0x122.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = east_asian_gfx }
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/asian/town/asian_town1_metadata_os2654x440_d0x56.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = east_asian_gfx }
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/asian/rural/asian_rural1_metadata_os2654x440_d304x136.dds"
+		priority = 5
+		scope = location
+
+		trigger = {
+			has_owner = yes
+			population > 1.000
+			gfx_culture_applicable = east_asian_gfx
+		}
+	}
+
+	###ASHANTI
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/ashanti/city/ashanti_city1_metadata_os2654x440_d0x126.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = african_gfx }
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/ashanti/town/ashanti_town1_metadata_os2654x440_d0x154.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = african_gfx }
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/ashanti/rural/ashanti_rural1_metadata_os2654x440_d210x170.dds"
+		priority = 5
+		scope = location
+
+		trigger = {
+			has_owner = yes
+			population > 1.000
+			gfx_culture_applicable = african_gfx
+		}
+	}
+
+	###AZTEC
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/aztec/city/aztec_city1_metadata_os2654x440_d0x126.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = south_american_gfx }
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/aztec/town/aztec_town1_metadata_os2654x440_d0x126.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = south_american_gfx }
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/aztec/rural/aztec_rural1_metadata_os2654x440_d0x128.dds"
+		priority = 5
+		scope = location
+
+		trigger = {
+			has_owner = yes
+			population > 1.000
+			gfx_culture_applicable = south_american_gfx
+		}
+	}
+
+	###DECCAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/deccan/city/deccan_city1_metadata_os2654x440_d0x124.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = indian_gfx }
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/deccan/town/deccan_town1_metadata_os2654x440_d0x134.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = indian_gfx }
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/deccan/rural/deccan_rural1_metadata_os2654x440_d216x166.dds"
+		priority = 5
+		scope = location
+
+		trigger = {
+			has_owner = yes
+			population > 1.000
+			gfx_culture_applicable = indian_gfx
+		}
+	}
+
+	###SYRIAN
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/interface/illustrations/location/settlement1/syrian/city/syrian_city1_metadata_os2654x440_d0x114.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = middle_east_gfx }
+		}
+	}
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/interface/illustrations/location/settlement1/syrian/town/syrian_town1_metadata_os2654x440_d104x150.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = middle_east_gfx }
+		}
+	}
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/interface/illustrations/location/settlement1/syrian/rural/syrian_rural1_metadata_os2654x440_d178x144.dds"
+		priority = 5
+		scope = location
+
+		trigger = {
+			has_owner = yes
+			population > 1.000
+			gfx_culture_applicable = middle_east_gfx
+		}
+	}
+
+	#IROQUOIS
+		illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/iroquois/city/iroquois_city1_metadata_os2654x440_d0x136.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = north_american_gfx }
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/iroquois/town/iroquois_town1_metadata_os2654x440_d0x140.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = north_american_gfx }
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/iroquois/rural/iroquois_rural1_metadata_os2654x440_d190x160.dds"
+		priority = 5
+		scope = location
+
+		trigger = {
+			has_owner = yes
+			population > 1.000
+			gfx_culture_applicable = north_american_gfx
+		}
+	}
+
+
+	###NORTH GERMAN
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/interface/illustrations/location/settlement1/north_german/city/north_german_city1_metadata_os2654x440_d0x96.dds"
+		priority = 3
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+		}
+	}
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/interface/illustrations/location/settlement1/north_german/town/north_german_town1_metadata_os2654x440_d0x106.dds"
+		priority = 2
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+		}
+	}
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/interface/illustrations/location/settlement1/north_german/rural/north_german_rural11_metadata_os2654x440_d0x148.dds"
+		priority = 1
+		scope = location
+
+		trigger = {
+			has_owner = yes
+			population > 1.000
+		}
+	}
+}
+
+fortifications = {
+	tag = "fortifications"
+	###ASIAN castle
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/asian/asian_castle_metadata_os2654x440_d0x50.dds"
+		priority = 10
+		scope = location
+		trigger = {
+			modifier:fort_level >= 2
+			gfx_culture_applicable = east_asian_gfx
+		}
+	}
+	###ASIAN bastion
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/asian/asian_bastion_metadata_os2654x440_d0x80.dds"
+		priority = 11
+		scope = location
+		trigger = {
+			modifier:fort_level >= 4
+			gfx_culture_applicable = east_asian_gfx
+		}
+	}
+	###ASIAN star fort
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/asian/asian_starfort_metadata_os2654x440_d0x55.dds"
+		priority = 12
+		scope = location
+		trigger = {
+			modifier:fort_level >= 6
+			gfx_culture_applicable = east_asian_gfx
+		}
+	}
+	###ASIAN fortress
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/asian/asian_fortress_metadata_os2654x440_d0x20.dds"
+		priority = 13
+		scope = location
+		trigger = {
+			modifier:fort_level >= 8
+			gfx_culture_applicable = east_asian_gfx
+		}
+	}
+	############################
+	###SYRIAN castle
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/syrian/syrian_castle_metadata_os2654x440_d0x60.dds"
+		priority = 10
+		scope = location
+		trigger = {
+			modifier:fort_level >= 2
+			gfx_culture_applicable = middle_east_gfx
+		}
+	}
+	###SYRIAN bastion
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/syrian/syrian_bastion_metadata_os2654x440_d0x40.dds"
+		priority = 11
+		scope = location
+		trigger = {
+			modifier:fort_level >= 4
+			gfx_culture_applicable = middle_east_gfx
+		}
+	}
+	###SYRIAN star fort
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/syrian/syrian_starfort_metadata_os2654x440_d0x50.dds"
+		priority = 12
+		scope = location
+		trigger = {
+			modifier:fort_level >= 6
+			gfx_culture_applicable = middle_east_gfx
+		}
+	}
+	###SYRIAN fortress
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/syrian/syrian_fortress_metadata_os2654x440_d0x20.dds"
+		priority = 13
+		scope = location
+		trigger = {
+			modifier:fort_level >= 8
+			gfx_culture_applicable = middle_east_gfx
+		}
+	}
+	############################
+	###ASHANTI castle
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/ashanti/ashanti_castle_metadata_os2654x440_d0x85.dds"
+		priority = 10
+		scope = location
+		trigger = {
+			modifier:fort_level >= 2
+			gfx_culture_applicable = african_gfx
+		}
+	}
+	###ASHANTI bastion
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/ashanti/ashanti_bastion_metadata_os2654x440_d0x50.dds"
+		priority = 11
+		scope = location
+		trigger = {
+			modifier:fort_level >= 4
+			gfx_culture_applicable = african_gfx
+		}
+	}
+	###ASHANTI star fort
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/ashanti/ashanti_starfort_metadata_os2654x440_d0x80.dds"
+		priority = 12
+		scope = location
+		trigger = {
+			modifier:fort_level >= 6
+			gfx_culture_applicable = african_gfx
+		}
+	}
+	###ASHANTI fortress
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/ashanti/ashanti_fortress_metadata_os2654x440_d0x85.dds"
+		priority = 13
+		scope = location
+		trigger = {
+			modifier:fort_level >= 8
+			gfx_culture_applicable = african_gfx
+		}
+	}
+	############################
+	###INDIAN castle
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/indian/indian_castle_metadata_os2654x440_d0x50.dds"
+		priority = 10
+		scope = location
+		trigger = {
+			modifier:fort_level >= 2
+			gfx_culture_applicable = indian_gfx
+		}
+	}
+	###INDIAN bastion
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/indian/indian_bastion_metadata_os2654x440_d0x40.dds"
+		priority = 11
+		scope = location
+		trigger = {
+			modifier:fort_level >= 4
+			gfx_culture_applicable = indian_gfx
+		}
+	}
+	###INDIAN star fort
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/indian/indian_starfort_metadata_os2654x440_d0x55.dds"
+		priority = 12
+		scope = location
+		trigger = {
+			modifier:fort_level >= 6
+			gfx_culture_applicable = indian_gfx
+		}
+	}
+	###INDIAN fortress
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/indian/indian_fortress_metadata_os2654x440_d0x35.dds"
+		priority = 13
+		scope = location
+		trigger = {
+			modifier:fort_level >= 8
+			gfx_culture_applicable = indian_gfx
+		}
+	}
+	############################
+	###AZTEC castle
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/aztec/aztec_castle_metadata_os2654x440_d0x100.dds"
+		priority = 10
+		scope = location
+		trigger = {
+			modifier:fort_level >= 2
+			gfx_culture_applicable = south_american_gfx
+		}
+	}
+	###AZTEC bastion
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/aztec/aztec_bastion_metadata_os2654x440_d0x65.dds"
+		priority = 11
+		scope = location
+		trigger = {
+			modifier:fort_level >= 4
+			gfx_culture_applicable = south_american_gfx
+		}
+	}
+	###AZTEC star fort
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/aztec/aztec_starfort_metadata_os2654x440_d0x80.dds"
+		priority = 12
+		scope = location
+		trigger = {
+			modifier:fort_level >= 6
+			gfx_culture_applicable = south_american_gfx
+		}
+	}
+	###AZTEC fortress
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/aztec/aztec_fortress_metadata_os2654x440_d0x50.dds"
+		priority = 13
+		scope = location
+		trigger = {
+			modifier:fort_level >= 8
+			gfx_culture_applicable = south_american_gfx
+		}
+	}
+	############################
+	###IROQUOIS castle
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/iroquois/iroquois_castle_metadata_os2654x440_d0x70.dds"
+		priority = 10
+		scope = location
+		trigger = {
+			modifier:fort_level >= 2
+			gfx_culture_applicable = north_american_gfx
+		}
+	}
+	###IROQUOIS bastion
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/iroquois/iroquois_bastion_metadata_os2654x440_d0x70.dds"
+		priority = 11
+		scope = location
+		trigger = {
+			modifier:fort_level >= 4
+			gfx_culture_applicable = north_american_gfx
+		}
+	}
+	###IROQUOIS star fort
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/iroquois/iroquois_starfort_metadata_os2654x440_d0x50.dds"
+		priority = 12
+		scope = location
+		trigger = {
+			modifier:fort_level >= 6
+			gfx_culture_applicable = north_american_gfx
+		}
+	}
+	###IROQUOIS fortress
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/iroquois/iroquois_fortress_metadata_os2654x440_d0x50.dds"
+		priority = 13
+		scope = location
+		trigger = {
+			modifier:fort_level >= 8
+			gfx_culture_applicable = north_american_gfx
+		}
+	}
+
+	############################
+	#STOCKADE
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/stockade/stockade_metadata_os2654x440_d0x90.dds"
+		priority = 5
+		scope = location
+		trigger = {
+			modifier:fort_level = 1
+		}
+	}
+
+	###NORTH GERMAN castle
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/north_german/north_german_castle_metadata_os2654x440_d0x75.dds"
+		priority = 6
+		scope = location
+		trigger = {
+			modifier:fort_level >= 2
+		}
+	}
+	###NORTH GERMAN bastion
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/north_german/north_german_bastion_metadata_os2654x440_d0x50.dds"
+		priority = 7
+		scope = location
+		trigger = {
+			modifier:fort_level >= 4
+		}
+	}
+	###NORTH GERMAN star fort
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/north_german/north_german_starfort_metadata_os2654x440_d0x80.dds"
+		priority = 8
+		scope = location
+		trigger = {
+			modifier:fort_level >= 6
+		}
+	}
+	###NORTH GERMAN fortress
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/fortifications/north_german/north_german_fortress_metadata_os2654x440_d0x95.dds"
+		priority = 9
+		scope = location
+		trigger = {
+			modifier:fort_level >= 8
+		}
+	}
+
+	# FALLBACK
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+}
+
+monuments1 = {
+	tag = "monuments1"
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+}
+
+monuments2 = {
+	tag = "monuments2"
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+}
+
+monuments3 = {
+	tag = "monuments3"
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+}
+
+factories = {
+	tag = "factories"
+
+	
+
+	#ASHANTI factories
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/factories/ashanti_factory_metadata_os2654x440_d0x10.dds"
+		priority = 10
+		scope = location
+		trigger = {
+			gfx_culture_applicable = african_gfx
+			show_production_building_trigger = yes
+		}
+	}
+	#ASIAN factories
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/factories/asian_factory_metadata_os2654x440_d0x10.dds"
+		priority = 10
+		scope = location
+		trigger = {
+			gfx_culture_applicable = east_asian_gfx
+			show_production_building_trigger = yes
+		}
+	}
+	#INDIAN factories causing errors
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/factories/indian_factory_metadata_os2654x440_d0x00.dds"
+		priority = 10
+		scope = location
+		trigger = {
+			gfx_culture_applicable = indian_gfx
+			show_production_building_trigger = yes
+		}
+	}
+	#IROQUOIS factories
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/factories/iroquois_factory_metadata_os2654x440_d0x0.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = north_american_gfx
+			show_production_building_trigger = yes
+		}
+	}
+	#AZTEC factories
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/factories/aztec_factory_metadata_os2654x440_d0x00.dds"
+		priority = 9
+		scope = location
+		trigger = {
+			gfx_culture_applicable = american_gfx
+			show_production_building_trigger = yes
+		}
+	}
+	#SYRIAN factories
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/factories/syrian_factory_metadata_os2654x440_d0x00.dds"
+		priority = 9
+		scope = location
+		trigger = {
+			gfx_culture_applicable = middle_east_gfx
+			show_production_building_trigger = yes
+		}
+	}
+	#NORTH GERMAN factories
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/factories/north_german_factory_metadata_os2654x440_d0x00.dds"
+		priority = 5
+		scope = location
+		trigger = {
+			#gfx_culture_applicable = european_gfx
+			show_production_building_trigger = yes
+		}
+	}
+	# FALLBACK
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+}
+
+religious_buildings = {
+	tag = "religious_buildings"
+
+	####CHRISTIAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/north_german/north_german_religious3_metadata_os2654x440_d0x40.dds"
+		priority = 32
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = christian_gfx
+			has_building_with_graphical_tag = large_religious
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/north_german/north_german_religious2_metadata_os2654x440_d0x20.dds"
+		priority = 31
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = christian_gfx
+			has_building_with_graphical_tag = medium_religious
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/north_german/north_german_religious1_metadata_os2654x440_d0x40.dds"
+		priority = 30
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = christian_gfx
+			has_building_with_graphical_tag = small_religious
+		}
+	}
+
+	####MUSLIM
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/syrian/syrian_religious3_metadata_os2654x440_d0x15.dds"
+		priority = 22
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = abrahamic_gfx
+			has_building_with_graphical_tag = large_religious
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/syrian/syrian_religious2_metadata_os2654x440_d0x40.dds"
+		priority = 21
+		scope = location
+
+		trigger = {
+			has_building_with_graphical_tag = medium_religious
+			gfx_culture_applicable = abrahamic_gfx
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/syrian/syrian_religious1_metadata_os2654x440_d0x40.dds"
+		priority = 20
+		scope = location
+
+		trigger = {
+			has_building_with_graphical_tag = small_religious
+			gfx_culture_applicable = abrahamic_gfx
+		}
+	}
+
+	####INDIAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/deccan/deccan_religious1_metadata_os2654x440_d0x40.dds"
+		priority = 20
+		scope = location
+
+		trigger = {
+			has_building_with_graphical_tag = small_religious
+			gfx_culture_applicable = dharmic_gfx
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/deccan/deccan_religious2_metadata_os2654x440_d0x55.dds"
+		priority = 21
+		scope = location
+
+		trigger = {
+			has_building_with_graphical_tag = medium_religious
+			gfx_culture_applicable = dharmic_gfx
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/deccan/deccan_religious3_metadata_os2654x440_d0x30.dds"
+		priority = 22
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = dharmic_gfx
+			has_building_with_graphical_tag = large_religious
+		}
+	}
+
+	####ASIAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/asian/asian_religious1_metadata_os2654x440_d0x40.dds"
+		priority = 20
+		scope = location
+
+		trigger = {
+			has_building_with_graphical_tag = small_religious
+			gfx_culture_applicable = buddhist_gfx
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/asian/asian_religious2_metadata_os2654x440_d0x50.dds"
+		priority = 21
+		scope = location
+
+		trigger = {
+			has_building_with_graphical_tag = medium_religious
+			gfx_culture_applicable = buddhist_gfx
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/asian/asian_religious3_metadata_os2654x440_d0x60.dds"
+		priority = 22
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = buddhist_gfx
+			has_building_with_graphical_tag = large_religious
+		}
+	}
+	####AZTEC
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/aztec/aztec_religious1_metadata_os2654x440_d0x60.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			has_building_with_graphical_tag = small_religious
+			gfx_culture_applicable = aztec_gfx
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/aztec/aztec_religious2_metadata_os2654x440_d0x60.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			has_building_with_graphical_tag = medium_religious
+			gfx_culture_applicable = aztec_gfx
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/aztec/aztec_religious3_metadata_os2654x440_d0x60.dds"
+		priority = 12
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = aztec_gfx
+			has_building_with_graphical_tag = large_religious
+		}
+	}
+
+	####ASHANTI
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/ashanti/ashanti_religious1_metadata_os2654x440_d0x60.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			has_building_with_graphical_tag = small_religious
+			gfx_culture_applicable = african_gfx
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/ashanti/ashanti_religious2_metadata_os2654x440_d0x60.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			has_building_with_graphical_tag = medium_religious
+			gfx_culture_applicable = african_gfx
+		}
+	}
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+}
+
+settlement2 = {
+	tag = "settlement2"
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+
+	#NORTH GERMAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/north_german/city/north_german_city2_metadata_os2654x440_d0x34.dds"
+		priority = 2
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+		}
+	}
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/north_german/town/north_german_town2_metadata_os2654x440_d0x54.dds"
+		priority = 2
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+		}
+	}
+
+	###SYRIAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/syrian/city/syrian_city2_metadata_os2654x440_d0x52.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+			gfx_culture_applicable = middle_east_gfx
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/syrian/town/syrian_town2_metadata_os2654x440_d90x66.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+			gfx_culture_applicable = middle_east_gfx
+		}
+	}
+	###DECCAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/deccan/city/deccan_city2_metadata_os2654x440_d0x64.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+			gfx_culture_applicable = indian_gfx
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/deccan/town/deccan_town2_metadata_os2654x440_d0x94.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+			gfx_culture_applicable = indian_gfx
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/deccan/rural/deccan_rural2_metadata_os2654x440_d470x116.dds"
+		priority = 5
+		scope = location
+
+		trigger = {
+			has_owner = yes
+			population > 1.000
+			gfx_culture_applicable = indian_gfx
+		}
+	}
+
+	#ASIAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/asian/city/asian_city2_metadata_os2654x440_d0x54.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+			gfx_culture_applicable = east_asian_gfx
+		}
+	}
+		illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/asian/town/asian_town2_metadata_os2654x440_d50x80.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+			gfx_culture_applicable = east_asian_gfx
+		}
+	}
+		illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/asian/rural/asian_rural2_metadata_os2654x440_d100x104.dds"
+		priority = 5
+		scope = location
+
+		trigger = {
+			has_owner = yes
+			population > 1.000
+			gfx_culture_applicable = east_asian_gfx
+		}
+	}
+
+	###ASHANTI
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/ashanti/city/ashanti_city2_metadata_os2654x440_d0x68.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+			gfx_culture_applicable = african_gfx
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/ashanti/town/ashanti_town2_metadata_os2654x440_d0x80.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+			gfx_culture_applicable = african_gfx
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/ashanti/rural/ashanti_rural2_metadata_os2654x440_d250x116.dds"
+		priority = 5
+		scope = location
+
+		trigger = {
+			has_owner = yes
+			population > 1.000
+			gfx_culture_applicable = african_gfx
+		}
+	}
+
+	###AZTEC
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/aztec/city/aztec_city2_metadata_os2654x440_d0x60.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+			gfx_culture_applicable = south_american_gfx
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/aztec/town/aztec_town2_metadata_os2654x440_d0x96.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+			gfx_culture_applicable = south_american_gfx
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/aztec/rural/aztec_rural2_metadata_os2654x440_d888x104.dds"
+		priority = 5
+		scope = location
+
+		trigger = {
+			has_owner = yes
+			population > 1.000
+			gfx_culture_applicable = south_american_gfx
+		}
+	}
+
+	#IROQUOIS
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/iroquois/city/iroquois_city2_metadata_os2654x440_d0x64.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:city
+			gfx_culture_applicable = north_american_gfx
+		}
+	}
+		illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/iroquois/town/iroquois_town2_metadata_os2654x440_d146x104.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			is_city = yes
+			location_rank = location_rank:town
+			gfx_culture_applicable = north_american_gfx
+		}
+	}
+		illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/iroquois/rural/iroquois_rural2_metadata_os2654x440_d346x138.dds"
+		priority = 5
+		scope = location
+
+		trigger = {
+			has_owner = yes
+			population > 1.000
+			gfx_culture_applicable = north_american_gfx
+		}
+	}
+}
+
+ground3 = {
+	tag = "ground3"
+
+	illustration_image = {
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+
+	###############################################################################################################################################	###CONTINENTAL GROUND3
+
+	illustration_image = {#fallback
+		texture_file = "gfx/interface/illustrations/location/ground3/continental/continental_grassland_ground3_metadata_os2654x440_d0x66.dds"
+		priority = 1
+		scope = location
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/continental/continental_grassland_ground3_metadata_os2654x440_d0x66.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = continental
+				climate = hemiboreal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/continental/continental_forest_ground3_metadata_os2654x440_d0x62.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = continental
+				climate = hemiboreal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/continental/continental_woods_ground3_metadata_os2654x440_d0x56.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = continental
+				climate = hemiboreal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/continental/continental_sparse_ground3_metadata_os2654x440_d0x70.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = continental
+				climate = hemiboreal
+			}
+		}
+	}
+
+	###############################################################################################################################################	###OCEANIC GROUND3
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/oceanic/oceanic_grassland_ground3_metadata_os2654x440_d0x68.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = oceanic
+				climate = cascadic
+				climate = maritime
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/oceanic/oceanic_sparse_ground3_metadata_os2654x440_d0x66.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = oceanic
+				climate = cascadic
+				climate = maritime
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/oceanic/oceanic_forest_ground3_metadata_os2654x440_d0x64.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = oceanic
+				climate = cascadic
+				climate = maritime
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/oceanic/oceanic_woods_ground3_metadata_os2654x440_d0x64.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = oceanic
+				climate = cascadic
+				climate = maritime
+			}
+		}
+	}
+
+	#############################################################################################################################	###MEDITERRANEAN GROUND3
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/mediterranean/mediterranean_grassland_ground3_metadata_os2654x440_d0x70.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = mediterranean
+				climate = cold_arid
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/mediterranean/mediterranean_woods_ground3_metadata_os2654x440_d0x74.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = mediterranean
+				climate = cold_arid
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/mediterranean/mediterranean_forest_ground3_metadata_os2654x440_d0x66.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = mediterranean
+				climate = cold_arid
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/mediterranean/mediterranean_sparse_ground3_metadata_os2654x440_d0x78.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = mediterranean
+				climate = cold_arid
+			}
+		}
+	}
+
+	###############################################################################################################################################	###ARCTIC GROUND3
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/arctic/arctic_grassland_ground3_metadata_os2654x440_d0x76.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = arctic
+				climate = boreal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/arctic/arctic_sparse_ground3_metadata_os2654x440_d0x76.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = arctic
+				climate = boreal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/arctic/arctic_forest_ground3_metadata_os2654x440_d0x34.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = arctic
+				climate = boreal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/arctic/arctic_woods_ground3_metadata_os2654x440_d0x82.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = arctic
+				climate = boreal
+			}
+		}
+	}
+
+	###############################################################################################################################################	###ARID GROUND3
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/arid/arid_desert_ground3_metadata_os2654x440_d0x74.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = desert
+			OR = {
+				climate = arid
+				climate = sicco
+				climate = xeric
+				climate = cold_arid
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/arid/arid_grassland_ground3_metadata_os2654x440_d0x80.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = arid
+				climate = sicco
+				climate = xeric
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/arid/arid_sparse_ground3_metadata_os2654x440_d0x80.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = arid
+				climate = sicco
+				climate = xeric
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/arid/arid_forest_ground3_metadata_os2654x440_d0x78.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = arid
+				climate = sicco
+				climate = xeric
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/arid/arid_woods_ground3_metadata_os2654x440_d0x70.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = arid
+				climate = sicco
+				climate = xeric
+			}
+		}
+	}
+
+	###############################################################################################################################################	###TROPICAL GROUND3
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/tropical/tropical_jungle_ground3_metadata_os2654x440_d0x58.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = jungle
+			OR = {
+				climate = tropical
+				climate = calidic
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/tropical/tropical_grassland_ground3_metadata_os2654x440_d0x70.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = tropical
+				climate = calidic
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/tropical/tropical_sparse_ground3_metadata_os2654x440_d0x70.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = tropical
+				climate = calidic
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/tropical/tropical_forest_ground3_metadata_os2654x440_d0x70.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = tropical
+				climate = calidic
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/tropical/tropical_woods_ground3_metadata_os2654x440_d0x70.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = tropical
+				climate = calidic
+			}
+		}
+	}
+
+	###############################################################################################################################################	###SUBTROPICAL GROUND3
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/subtropical/subtropical_jungle_ground3_metadata_os2654x440_d0x56.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = jungle
+			OR = {
+				climate = subtropical
+				climate = mesothermal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/subtropical/subtropical_grassland_ground3_metadata_os2654x440_d0x76.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = grasslands
+			OR = {
+				climate = subtropical
+				climate = mesothermal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/subtropical/subtropical_sparse_ground3_metadata_os2654x440_d0x76.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = sparse
+			OR = {
+				climate = subtropical
+				climate = mesothermal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/subtropical/subtropical_forest_ground3_metadata_os2654x440_d0x70.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = forest
+			OR = {
+				climate = subtropical
+				climate = mesothermal
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/ground3/subtropical/subtropical_woods_ground3_metadata_os2654x440_d0x74.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			vegetation = woods
+			OR = {
+				climate = subtropical
+				climate = mesothermal
+			}
+		}
+	}
+
+}
+
+topology = {
+	tag = "topology"
+
+	illustration_image = {
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/topology/mountains/mountains_metadata_os2654x440_d0x0.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			OR = {
+				topography = mountains
+				topography = mountain_wasteland
+				any_neighbor_location = {
+					OR = {
+						topography = mountains
+						topography = mountain_wasteland
+					}
+				}
+			}
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/topology/flatlands/flatlands_metadata_os2654x440_d0x60.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			topography = flatland
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/topology/plateau/plateau_metadata_os2654x440_d0x62.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			topography = plateau
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/topology/hills/hills_metadata_os2654x440_d0x15.dds"
+		priority = 10
+		scope = location
+
+		trigger = {
+			topography = hills
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/topology/hills/hills_arid_metadata_os2654x440_d0x40.dds"
+		priority = 15
+		scope = location
+
+		trigger = {
+			topography = hills
+			OR = {
+				climate = arid
+				climate = sicco
+				climate = xeric
+			}
+		}
+	}
+
+	
+}
+
+statusback = {
+	tag = "statusback"
+
+	illustration_image = {
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/topology/volcano/volcano_lava_metadata_os2654x440_d520x0.dds"
+		priority = 30
+		scope = location
+
+		trigger = {
+			has_volcano = yes
+			has_variable = volcano_erupted_major
+			var:volcano_erupted_major = yes
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/topology/volcano/volcano_erupt_metadata_os2654x440_d800x0.dds"
+		priority = 25
+		scope = location
+
+		trigger = {
+			has_volcano = yes
+			has_variable = volcano_erupted_minor
+			var:volcano_erupted_minor = yes
+		}
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/topology/volcano/volcano_metadata_os2654x440_d890x16.dds"
+		priority = 20
+		scope = location
+
+		trigger = {
+			has_volcano = yes
+		}
+	}
+}
+
+skyv2 = {
+	tag = "skyv2"
+
+	illustration_image = {
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/sky/sky_regular_metadata_os2654x440_d0x0.dds"
+		priority = 10
+		scope = location
+	}
+
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/sky/sky_regular2_metadata_os2654x440_d0x0.dds"
+		priority = 10
+		scope = location
+	}
+}
