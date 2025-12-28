@@ -1,0 +1,43 @@
+pdxmesh = {
+	name = "wheat_field_01_b_mesh"
+	file = "wheat_field_01_b.mesh"
+
+	meshsettings = {
+		name = "decalShape"
+		index = 0
+		texture_diffuse =	"decal_wheatfield_01_b_diffuse.dds"
+		texture_normal =	"decal_wheatfield_01_b_normal.dds"
+		texture_specular =	"decal_wheatfield_01_b_properties.dds"
+		shader = "decal_local"
+		shader_file = "gfx/FX/pdxmesh_decal.shader"
+		subpass = "LocalDecals"
+	}
+
+	meshsettings = {
+		name = "wheat_field_01_b|pasted__wheat_base|pasted__wheat_baseShape"
+		index = 0
+		texture_diffuse = "wheat_field_diffuse.dds"
+		texture_normal = "wheat_field_normal.dds"
+		texture_specular = "wheat_field_properties.dds"
+		shader = "snap_to_terrain"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "wheat_bladeShape"
+		index = 0
+		texture_diffuse = "billboard_wheat_diffuse.dds"
+		texture_normal = "billboard_wheat_normal.dds"
+		texture_specular = "billboard_wheat_properties.dds"
+		shader = "billboard_test"
+		shader_file = "gfx/FX/tree.shader"
+		additional_shader_defines = { "TEXTURE_TILE_ROWS 2" "TEXTURE_TILE_COLUMNS 2" }
+		additional_shader_defines = { "PDX_MESH_SNAP_VERTICES_TO_TERRAIN" }	
+		additional_shader_defines = { "BILLBOARD_DISABLE_TINT" }
+	}
+}
+
+entity = {
+	name = "wheat_field_01_b_entity"
+	pdxmesh = "wheat_field_01_b_mesh"
+}

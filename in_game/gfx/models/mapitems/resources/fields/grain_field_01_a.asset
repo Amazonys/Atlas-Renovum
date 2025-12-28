@@ -1,0 +1,47 @@
+pdxmesh = {
+	name = "grain_field_01_a_mesh"
+	file = "wheat_field_01_a.mesh"
+
+
+	meshsettings = {
+		name = "pasted__pasted__vegetation_diorama_tree_real_pPlane113Shape"
+		index = 0
+		texture_diffuse = "billboard_grain_diffuse.dds"
+		texture_normal = "billboard_grain_normal.dds"
+		texture_specular = "billboard_grain_properties.dds"
+		shader = "billboard_test"
+		shader_file = "gfx/FX/tree.shader"
+		additional_shader_defines = { "TEXTURE_TILE_ROWS 2" "TEXTURE_TILE_COLUMNS 2" }
+		additional_shader_defines = { "PDX_MESH_SNAP_VERTICES_TO_TERRAIN" }	
+		additional_shader_defines = { "BILLBOARD_DISABLE_TINT" }
+	}
+
+	meshsettings = {
+		name = "pasted__wheat_base2Shape"
+		index = 0
+		texture_diffuse = "grain_field_diffuse.dds"
+		texture_normal = "grain_field_normal.dds"
+		texture_specular = "grain_field_properties.dds"
+		shader = "snap_to_terrain"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "pasted__pasted__pasted__decalShape"
+		index = 0
+		texture_diffuse = "decal_wheatfield_01_a_diffuse.dds"
+		texture_normal = "decal_wheatfield_01_a_normal.dds"
+		texture_specular = "decal_wheatfield_01_a_properties.dds"
+		shader = "decal_local"
+		shader_file = "gfx/FX/pdxmesh_decal.shader"
+		subpass = "LocalDecals"
+	}
+
+
+
+}
+
+entity = {
+	name = "grain_field_01_a_entity"
+	pdxmesh = "grain_field_01_a_mesh"
+}

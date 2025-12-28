@@ -4067,14 +4067,14 @@ colors = {
 
 	goods_beeswax = hsv360 { 37 82 80 }	
 	goods_saffron = hsv360 { 22 86 75 }	
-	goods_pepper = rgb { 173 192 192 }	
+	goods_pepper = rgb { 102 63 63 }	#goods_pepper = rgb { 173 192 192 }		
 	goods_chili = hsv360 { 10 87 75 }	
 	goods_cloves = hsv360 { 110 87 75 }	
 	goods_pottery = rgb { 160 192 192 }	
 	goods_furniture = rgb { 130 192 192 }	
 	
 	#Atlas Renovum goods
-	goods_rye = rgb { 213 148 69 }	
+	goods_rye = rgb { 155 105 59 }	
 	goods_oats = rgb { 233 214 161 }	
 	goods_barley = rgb { 231 203 140 }	
 	goods_tomato = rgb { 205 49 24 }	
@@ -4087,20 +4087,20 @@ colors = {
 	goods_shoal_fish = rgb { 56 153 173 }	
 	goods_cetaceans = rgb { 115 235 247 }	
 	goods_crustaceans = rgb { 252 115 94 }	
+	goods_poultry = rgb { 230 166 82 }	
+	goods_swine = rgb { 203 133 113 }	
+	goods_buffalo = rgb { 112 64 46 }	
+	goods_reindeer = rgb { 90 60 40 }	
+	goods_exotica = rgb { 212 3 3 }	
 	#
-	goods_poultry = rgb { 173 192 192 }	
-	goods_swine = rgb { 173 192 192 }	
-	goods_buffalo = rgb { 173 192 192 }	
-	goods_reindeer = rgb { 173 192 192 }	
-	goods_exotica = rgb { 173 192 192 }	
-	goods_dairy = rgb { 173 192 192 }	
+	goods_dairy = rgb { 252 192 54 }	
 	goods_bread = rgb { 173 192 192 }	
 	goods_meat = rgb { 173 192 192 }	
 	#
 	goods_camels = rgb { 173 192 192 }
 	goods_llamas = rgb { 173 192 192 }
 	#	
-	goods_sulphur = rgb { 173 192 192 }
+	goods_sulphur = rgb { 192 165 65 }
 	goods_zinc = rgb { 173 192 192 }
 	goods_bauxite = rgb { 173 192 192 }
 	goods_chromite = rgb { 173 192 192 }

@@ -18,3 +18,17 @@
  saltpeter: "Niter"
  saltpeter_desc: "Niter has been known since antiquity, and its uses have been varied such as a fertilizer or as salt for meat processing. However, it was the invention of gunpowder and firearms during the Middle Ages that really raised its importance, as it is one of the main components of it, together with charcoal and sulfur. Mined in great quantities around the world, this metal will go on to acquire an infamous reputation."
  
+ iron: "Iron Ore"
+ iron_desc: "Iron represents not just iron, but other ferrous metals. Iron formed the basis of the metallurgical industry and was used extensively in the production of weapons and other military equipment."
+ copper: "Copper Ore"
+ copper_desc: "Copper has been one of the most important materials since the invention and diffusion of metallurgy thousands of years ago. Its use is very varied, as it can be worked alone, but also in alloys, such as bronze. This makes it especially important for weaponry, being essential in the early production of cannons."
+ tin: "Tin Ore"
+ tin_desc: "Tin was used extensively for the first time in metallurgy as part of the alloy to obtain bronze 5000 years ago. Later it has been widely used to coat other metals and alloys, such as iron, lead or steel, to prevent corrosion, as well as to make pewter, very common in tableware."
+ lead: "Lead Ore"
+ lead_desc: "Lead has been obtained since ancient times as a by-product of silver extraction by burning galena. Lead was then used in a wide range of household and manufactured products, especially by the Romans, whose levels of lead production were not reached until the Industrial Revolution. In the Modern Age, it became the main material for making bullets for firearms."
+ 
+# goods_gold: "Gold"
+# goods_gold_desc: "Gold has traditionally been the most valued metal, widely used for trade and the accumulation of wealth in the form of coins or various types of prestige objects. Its use as the main currency in bimetallic or trimetallic systems leads to a very high demand, making it an object of desire during the exploration of new territories."
+# silver: "Silver"
+# silver_desc: "Silver was one of the first metals used as money and the most successful along with gold. Central Europe became the center of silver production during the Middle Ages, although the Columbian Exchange shifted the focus of world production to the Americas, making it the main production center of a newborn global network since the 16th century."
+ 

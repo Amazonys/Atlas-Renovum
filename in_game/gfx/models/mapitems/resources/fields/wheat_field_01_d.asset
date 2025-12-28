@@ -1,0 +1,92 @@
+pdxmesh = {
+	name = "wheat_field_01_d_mesh"
+	file = "wheat_field_01_d.mesh"
+
+	lod_percentages = {
+		lod = { index = 1 percent = 8.0 }
+		lod = { index = 2 percent = 3.0 }
+	}
+
+	meshsettings = {
+		name = "wheat_field_01_d|LOD_0|wheat_field|wheat_heads|wheat_headsShape"
+		index = 0
+		texture_diffuse = "billboard_wheat_diffuse.dds"
+		texture_normal = "billboard_wheat_normal.dds"
+		texture_specular = "billboard_wheat_properties.dds"
+		shader = "billboard_test"
+		shader_file = "gfx/FX/tree.shader"
+		additional_shader_defines = { "TEXTURE_TILE_ROWS 2" "TEXTURE_TILE_COLUMNS 2" }
+		additional_shader_defines = { "PDX_MESH_SNAP_VERTICES_TO_TERRAIN" }
+		additional_shader_defines = { "BILLBOARD_DISABLE_PITCH" }
+		additional_shader_defines = { "BILLBOARD_DISABLE_TINT" }
+	}
+
+	meshsettings = {
+		name = "wheat_field_01_d|LOD_0|wheat_field|wheat_base|wheat_baseShape"
+		index = 0
+		texture_diffuse = "wheat_field_diffuse.dds"
+		texture_normal = "wheat_field_normal.dds"
+		texture_specular = "wheat_field_properties.dds"
+		shader = "snap_to_terrain"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "wheat_field_01_d|LOD_0|wheat_field|decal_01_d|decal_01_dShape"
+		index = 0
+		texture_diffuse = "decal_wheatfield_01_d_diffuse.dds"
+		texture_normal = "decal_wheatfield_01_d_normal.dds"
+		texture_specular = "decal_wheatfield_01_d_properties.dds"
+		shader = "decal_local"
+		shader_file = "gfx/FX/pdxmesh_decal.shader"
+		subpass = "LocalDecals"
+	}
+
+	meshsettings = {
+		name = "wheat_field_01_d|LOD_1|wheat_field|wheat_base|wheat_baseShape"
+		index = 0
+		texture_diffuse = "wheat_field_diffuse.dds"
+		texture_normal = "wheat_field_normal.dds"
+		texture_specular = "wheat_field_properties.dds"
+		shader = "snap_to_terrain"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "wheat_field_01_d|LOD_1|wheat_field|decal_01_d|decal_01_dShape"
+		index = 0
+		texture_diffuse = "decal_wheatfield_01_d_diffuse.dds"
+		texture_normal = "decal_wheatfield_01_d_normal.dds"
+		texture_specular = "decal_wheatfield_01_d_properties.dds"
+		shader = "decal_local"
+		shader_file = "gfx/FX/pdxmesh_decal.shader"
+		subpass = "LocalDecals"
+	}
+
+	meshsettings = {
+		name = "wheat_field_01_d|LOD_2|wheat_field|wheat_base|wheat_baseShape"
+		index = 0
+		texture_diffuse = "wheat_field_diffuse.dds"
+		texture_normal = "wheat_field_normal.dds"
+		texture_specular = "wheat_field_properties.dds"
+		shader = "snap_to_terrain"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "wheat_field_01_d|LOD_2|wheat_field|decal_01_d|decal_01_dShape"
+		index = 0
+		texture_diffuse = "decal_wheatfield_01_d_diffuse.dds"
+		texture_normal = "decal_wheatfield_01_d_normal.dds"
+		texture_specular = "decal_wheatfield_01_d_properties.dds"
+		shader = "decal_local"
+		shader_file = "gfx/FX/pdxmesh_decal.shader"
+		subpass = "LocalDecals"
+	}
+
+}
+
+entity = {
+	name = "wheat_field_01_d_entity"
+	pdxmesh = "wheat_field_01_d_mesh"
+}
