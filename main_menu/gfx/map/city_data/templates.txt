@@ -772,7 +772,6 @@ template raw_resource_seeded {
 }
 
 
-
 # Raw resources
 template lions {
 	default_variables {
@@ -1039,7 +1038,7 @@ template parrots {
 
 template elk {
 	default_variables {
-		contributor = raw_resource:wild_game
+		contributor = raw_resource:reindeer
 		scale = 0.05
 		mesh_list = elk_mesh_list
 		size = small
@@ -1068,6 +1067,64 @@ template elk {
 
 template deer {
 	default_variables {
+		contributor = raw_resource:reindeer
+		scale = 0.2
+		mesh_list = raw_reindeer_mesh_list
+		size = small
+		can_build_over = yes
+	}
+	code [[
+		raw_resource = {
+			order = 19
+			size = @size
+			contributors = { @@contributor = @scale }
+			required_contributors = {climate:arctic = -1 continent:europe = 1}			
+			mesh_list = @mesh_list
+			
+			filter_func = seed_neighborhood_filter   
+			weight_func = far_from_everything_weights 
+			
+			
+			allow_demote = yes	# Other buildings can be placed on raw resources
+			allow_promote = no
+			allow_first_pass_replacement = @can_build_over # usually we only demote/promote if there's no good spot to put the new mesh. This enables promotion/demotion always
+			can_grow_neighborhood = no #prevents buildings from counting this as a good "neighbor"
+			permanent_replacement = yes #prevents this module from re-spawning a mesh after it has been demoted/promoted. E.g if we first spawn 10 "iron deposit" meshes, the rgo-module replaces 2 of them, it will still count as if 10 iron deposits exist
+		}
+	]]
+}
+
+template deer_seeded {
+	default_variables {
+		contributor = raw_resource:reindeer
+		scale = 0.02
+		mesh_list = raw_reindeer_mesh_list
+		size = small
+		can_build_over = yes
+	}
+	code [[
+		raw_resource = {
+			order = 20
+			size = @size
+			contributors = { @@contributor = @scale }
+			required_contributors = {climate:arctic = -1 continent:europe = 1}			
+			mesh_list = @mesh_list
+			
+			filter_func = any_free_socket_filter   
+			weight_func = next_to_same_mesh_list_weights_priorize_loneliness 
+			
+			
+			allow_demote = yes	# Other buildings can be placed on raw resources
+			allow_promote = no
+			allow_first_pass_replacement = @can_build_over # usually we only demote/promote if there's no good spot to put the new mesh. This enables promotion/demotion always
+			can_grow_neighborhood = no #prevents buildings from counting this as a good "neighbor"
+			permanent_replacement = yes #prevents this module from re-spawning a mesh after it has been demoted/promoted. E.g if we first spawn 10 "iron deposit" meshes, the rgo-module replaces 2 of them, it will still count as if 10 iron deposits exist
+		}
+	]]
+}
+
+template boar {
+	default_variables {
 		contributor = raw_resource:wild_game
 		scale = 0.2
 		mesh_list = raw_wild_game_mesh_list
@@ -1095,7 +1152,7 @@ template deer {
 	]]
 }
 
-template deer_seeded {
+template boar_seeded {
 	default_variables {
 		contributor = raw_resource:wild_game
 		scale = 0.02
@@ -1190,7 +1247,8 @@ template rgo_all {
 		llamas_mesh_list		= raw_llama_wool_mesh_list
 		parrots_mesh_list		= parrots_mesh_list
 		rye_mesh_list			= rye_farming_mesh_list
-		barley_mesh_list		= barley_farming_mesh_list
+		barley_mesh_list		= zinc_mesh_list
+		zinc_mesh_list			= barley_farming_mesh_list
 	}
 	code [[
 	# "farming" rgos (gathered)
@@ -1237,6 +1295,7 @@ template rgo_all {
 		load_template rgo_generic { rgo_contributor = rgo_workers:stone			mesh_list = @stone_mesh_list 		size = small 	filter = replace_raw_resource_filter scale = 0.5}
 		load_template rgo_generic { rgo_contributor = rgo_workers:saltpeter     mesh_list = @saltpeter_mesh_list 		size = small 	filter = replace_raw_resource_filter scale = 0.5}
 		load_template rgo_generic { rgo_contributor = rgo_workers:tin           mesh_list = @tin_mesh_list 		size = small 	filter = replace_raw_resource_filter scale = 0.5}
+		load_template rgo_generic { rgo_contributor = rgo_workers:zinc          mesh_list = @zinc_mesh_list 		size = small 	filter = replace_raw_resource_filter scale = 0.5}
 		load_template rgo_generic { rgo_contributor = rgo_workers:mercury     	mesh_list = @mercury_mesh_list 		size = small 	filter = replace_raw_resource_filter scale = 0.5}
 		load_template rgo_generic { rgo_contributor = rgo_workers:sand    		mesh_list = @sand_mesh_list 		size = small 	filter = replace_raw_resource_filter scale = 0.5}
 		load_template rgo_generic { rgo_contributor = rgo_workers:salt    		mesh_list = @salt_mesh_list 		size = small 	filter = replace_raw_resource_filter scale = 0.5}
@@ -1309,6 +1368,12 @@ template rgo_all {
 		load_template raw_resource_seed { contributor = raw_resource:wheat 			mesh_list = raw_wheat_mesh_list 		scale = 0.05	size = small can_build_over = yes }
 		load_template raw_resource { contributor = raw_resource:cloves 			mesh_list = raw_cloves_mesh_list 		scale = 0.05	size = small can_build_over = yes }
 		
+		#
+		load_template raw_resource_seeded { contributor = raw_resource:barley 			mesh_list = raw_barley_mesh_list 		scale = 0.65	size = small can_build_over = yes }
+		load_template raw_resource_seed { contributor = raw_resource:barley 			mesh_list = raw_barley_mesh_list 		scale = 0.05	size = small can_build_over = yes }
+		load_template raw_resource_seeded { contributor = raw_resource:rye 			mesh_list = raw_rye_mesh_list 		scale = 0.65	size = small can_build_over = yes }
+		load_template raw_resource_seed { contributor = raw_resource:rye 			mesh_list = raw_rye_mesh_list 		scale = 0.05	size = small can_build_over = yes }
+		
 		#grounds
 
 		load_template raw_resource_seeded { contributor = raw_resource:alum			mesh_list = raw_alum_mesh_list			scale = 0.03 	size = small	can_build_over = no}
@@ -1335,6 +1400,8 @@ template rgo_all {
 		load_template raw_resource_seed { contributor = raw_resource:saltpeter			mesh_list = raw_saltpeter_mesh_list			scale = 0.01	size = small	can_build_over = no}
 		load_template raw_resource_seeded { contributor = raw_resource:tin				mesh_list = raw_tin_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
 		load_template raw_resource_seed { contributor = raw_resource:tin			mesh_list = raw_tin_mesh_list			scale = 0.01	size = small	can_build_over = no}
+		load_template raw_resource_seeded { contributor = raw_resource:zinc				mesh_list = raw_zinc_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:zinc		mesh_list = raw_zinc_mesh_list			scale = 0.01	size = small	can_build_over = no}
 		load_template raw_resource_seeded { contributor = raw_resource:mercury			mesh_list = raw_mercury_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
 		load_template raw_resource_seed { contributor = raw_resource:mercury			mesh_list = raw_mercury_mesh_list			scale = 0.01	size = small	can_build_over = no}
 		load_template raw_resource_seeded { contributor = raw_resource:sand			mesh_list = raw_sand_mesh_list			scale = 0.04 	size = small	can_build_over = no}
@@ -1367,6 +1434,8 @@ template rgo_all {
 		load_template raw_resource_seed { contributor = raw_resource:fur		required_contributor = continent:america		mesh_list = raw_fur_mesh_list			scale = 0.02 	size = small	can_build_over = yes	}
 		load_template raw_resource_seeded { contributor = raw_resource:horses			mesh_list = raw_horses_mesh_list			scale = 0.05 	size = small	can_build_over = no}
 		load_template raw_resource_seed { contributor = raw_resource:horses			mesh_list = raw_horses_mesh_list			scale = 0.01 	size = small	can_build_over = no}
+		load_template raw_resource_seeded { contributor = raw_resource:wild_game		required_contributor = continent:europe	mesh_list = raw_wild_game_mesh_list			scale = 0.05 	size = small	can_build_over = no}
+		load_template raw_resource_seed { contributor = raw_resource:wild_game		required_contributor = continent:europe	mesh_list = raw_wild_game_mesh_list			scale = 0.02 	size = small	can_build_over = no}
 		load_template raw_resource_seeded { contributor = raw_resource:wild_game		required_contributor = continent:asia	mesh_list = raw_wild_game_mesh_list			scale = 0.05 	size = small	can_build_over = no}
 		load_template raw_resource_seed { contributor = raw_resource:wild_game		required_contributor = continent:asia	mesh_list = raw_wild_game_mesh_list			scale = 0.02 	size = small	can_build_over = no}
 		load_template raw_resource_seeded { contributor = raw_resource:wild_game		required_contributor = subcontinent:north_america	mesh_list = raw_wild_game_america_mesh_list			scale = 0.05 	size = small	can_build_over = no}
@@ -1390,8 +1459,18 @@ template rgo_all {
 		load_template raw_resource_seeded { contributor = raw_resource:ivory			required_contributor = climate:tropical 	mesh_list = raw_ivory_elephant_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
 		load_template raw_resource_seed { contributor = raw_resource:ivory			required_contributor = climate:tropical 	mesh_list = raw_ivory_elephant_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
 		load_template raw_resource { contributor = raw_resource:elephants		mesh_list = raw_elephant_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
-		load_template raw_resource_seeded { contributor = raw_resource:beeswax			mesh_list = raw_beeswax_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
-		load_template raw_resource_seed { contributor = raw_resource:beeswax			mesh_list = raw_beeswax_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
+		load_template raw_resource_seeded { contributor = raw_resource:livestock		mesh_list = raw_livestock_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:livestock			mesh_list = raw_livestock_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
+		load_template raw_resource_seeded { contributor = raw_resource:swine			mesh_list = raw_swine_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:swine			mesh_list = raw_swine_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
+		load_template raw_resource_seeded { contributor = raw_resource:poultry			mesh_list = raw_turkey_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:poultry			mesh_list = raw_turkey_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
+		load_template raw_resource_seeded { contributor = raw_resource:reindeer			mesh_list = raw_reindeer_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:reindeer			mesh_list = raw_reindeer_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
+		load_template raw_resource_seeded { contributor = raw_resource:llamas			mesh_list = raw_llama_wool_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:llamas			mesh_list = raw_llama_wool_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
+		load_template raw_resource_seeded { contributor = raw_resource:exotica			mesh_list = parrots_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:exotica			mesh_list = parrots_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
 		load_template lions {}
 		load_template lions_seeded {}
 		load_template platypus {}
@@ -1401,7 +1480,6 @@ template rgo_all {
 		load_template bear {}
 		load_template bear_seeded {}
 		load_template parrots {}
-		load_template deer {}
 		load_template elk {}
 		#load_template raw_resource { contributor = raw_resource:lumber			mesh_list = raw_lumber_mesh_list		scale = 0.01 	size = small	can_build_over = no}
 

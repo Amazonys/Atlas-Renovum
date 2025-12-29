@@ -1,0 +1,118 @@
+pdxmesh = {
+	name = "zinc_mines_mesh"
+	file = "zinc_mines.mesh"
+
+	lod_percentages = {
+		lod = { index = 1 percent = 5.0 }
+		lod = { index = 2 percent = 2.0 }
+	}
+
+	animation = { id = "zinc_mines_anim" type = "zinc_mines.anim" }
+
+	meshsettings = {
+		name = "mines_lod0Shape"
+		index = 0
+		texture_diffuse = "atlas_master_diffuse.dds"
+		texture_normal = "atlas_master_normal.dds"
+		texture_specular = "atlas_master_properties.dds"
+		texture = { file = "building_northgerman_mines_b_ao_unique.dds" index = 5 }
+		shader = "snap_to_terrain_atlas"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "zinc_lod0Shape"
+		index = 0
+		texture_diffuse = "resource_zinc_diffuse.dds"
+		texture_normal = "resource_zinc_normal.dds"
+		texture_specular = "resource_zinc_properties.dds"
+		shader = "snap_to_terrain"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "decal_lod0Shape"
+		index = 0
+		texture_diffuse = "building_northgerman_mines_b_decal_diffuse.dds"
+		texture_normal = "building_northgerman_mines_b_decal_normal.dds"
+		texture_specular = "building_northgerman_mines_b_decal_properties.dds"
+		shader = "decal_local"
+		shader_file = "gfx/FX/pdxmesh_decal.shader"
+		subpass = "LocalDecals"
+	}
+
+	meshsettings = {
+		name = "mines_lod1Shape"
+		index = 0
+		texture_diffuse = "atlas_master_diffuse.dds"
+		texture_normal = "atlas_master_normal.dds"
+		texture_specular = "atlas_master_properties.dds"
+		texture = { file = "building_northgerman_mines_b_ao_unique.dds" index = 5 }
+		shader = "snap_to_terrain_atlas"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "zinc_lod1Shape"
+		index = 0
+		texture_diffuse = "resource_zinc_diffuse.dds"
+		texture_normal = "resource_zinc_normal.dds"
+		texture_specular = "resource_zinc_properties.dds"
+		shader = "snap_to_terrain"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "decal_lod1Shape"
+		index = 0
+		texture_diffuse = "building_northgerman_mines_b_decal_diffuse.dds"
+		texture_normal = "building_northgerman_mines_b_decal_normal.dds"
+		texture_specular = "building_northgerman_mines_b_decal_properties.dds"
+		shader = "decal_local"
+		shader_file = "gfx/FX/pdxmesh_decal.shader"
+		subpass = "LocalDecals"
+	}
+
+	meshsettings = {
+		name = "mines_lod2Shape"
+		index = 0
+		texture_diffuse = "atlas_master_diffuse.dds"
+		texture_normal = "atlas_master_normal.dds"
+		texture_specular = "atlas_master_properties.dds"
+		texture = { file = "building_northgerman_mines_b_ao_unique.dds" index = 5 }
+		shader = "snap_to_terrain_atlas"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "zinc_lod2Shape"
+		index = 0
+		texture_diffuse = "resource_zinc_diffuse.dds"
+		texture_normal = "resource_zinc_normal.dds"
+		texture_specular = "resource_zinc_properties.dds"
+		shader = "snap_to_terrain"
+		shader_file = "gfx/FX/pdxmesh.shader"
+	}
+
+	meshsettings = {
+		name = "decal_lod2Shape"
+		index = 0
+		texture_diffuse = "building_northgerman_mines_b_decal_diffuse.dds"
+		texture_normal = "building_northgerman_mines_b_decal_normal.dds"
+		texture_specular = "building_northgerman_mines_b_decal_properties.dds"
+		shader = "decal_local"
+		shader_file = "gfx/FX/pdxmesh_decal.shader"
+		subpass = "LocalDecals"
+	}
+}
+
+entity = {
+	name = "zinc_mines_entity"
+	pdxmesh = "zinc_mines_mesh"
+
+	default_state = "zinc_mines_idle"
+	state = {
+		name = "zinc_mines_idle"
+		animation = "zinc_mines_anim"
+	}
+}

@@ -1,0 +1,20 @@
+pdxmesh = {
+	name = "resource_raw_zinc_decal_mesh"
+	file = "resource_raw_zinc_decal.mesh"
+
+	meshsettings = {
+		name = "resource_raw_zinc_decalShape"
+		index = 0
+		texture_diffuse = "resource_raw_zinc_decal_diffuse.dds"
+		texture_normal = "resource_raw_zinc_decal_normal.dds"
+		texture_specular = "resource_raw_zinc_decal_properties.dds"
+		shader = "decal_local"
+		shader_file = "gfx/FX/pdxmesh_decal.shader"
+		subpass = "LocalDecals"
+	}
+}
+
+entity = {
+	name = "resource_raw_zinc_decal_entity"
+	pdxmesh = "resource_raw_zinc_decal_mesh"
+}

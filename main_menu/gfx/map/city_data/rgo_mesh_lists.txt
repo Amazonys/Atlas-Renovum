@@ -439,6 +439,15 @@ mesh_list = {
 }
 
 mesh_list = {
+	name = "zinc_mesh_list"
+	scale_settings_small = { bias = -0.5 min = 0.9 max = 10 }
+	
+	building_northgerman_gather_mines_tin_mesh = 1
+	building_northgerman_gather_mines_tin_schematics = 1
+}
+
+
+mesh_list = {
 	name = "mercury_mesh_list"
 	scale_settings_small = { bias = -0.5 min = 0.9 max = 10 }
 	
@@ -691,6 +700,14 @@ mesh_list = {	name = "raw_wheat_mesh_list"		scale_settings_small = { bias = 0.0 
 	raw_wheat_mesh = 1
 }
 
+mesh_list = {	name = "raw_barley_mesh_list"		scale_settings_small = { bias = 0.0 min = 0.7 max = 0.7 }	connect_to_road_network = no	rotation = random	tag = raw_resource	spawn_count = { curve = "standard_rgo_curve" }
+	raw_barley_mesh = 1
+}
+
+mesh_list = {	name = "raw_rye_mesh_list"		scale_settings_small = { bias = 0.0 min = 0.7 max = 0.7 }	connect_to_road_network = no	rotation = random	tag = raw_resource	spawn_count = { curve = "standard_rgo_curve" }
+	raw_rye_mesh = 1
+}
+
 mesh_list = {	name = "raw_saffron_mesh_list"		scale_settings_small = { bias = 0.5 min = 1 max = 10 }	connect_to_road_network = no	rotation = random	tag = raw_resource	spawn_count = { curve = "standard_rgo_curve" }
 	raw_saffron_a_mesh = 1
 	raw_saffron_b_mesh = 1
@@ -795,6 +812,12 @@ mesh_list = {	name = "raw_tin_mesh_list"			scale_settings_small = { bias = -0.0 
 	resource_raw_tin_c_mesh = 1
 }
 
+mesh_list = {	name = "raw_zinc_mesh_list"			scale_settings_small = { bias = -0.0 min = 1.2 max = 1.2 }	connect_to_road_network = no	rotation = random	tag = raw_resource
+	resource_raw_zinc_a_mesh = 0.1
+	resource_raw_zinc_b_mesh = 0.1
+	resource_raw_zinc_c_mesh = 1
+}
+
 mesh_list = {	name = "raw_mercury_mesh_list"			scale_settings_small = { bias = -0.5 min = 1 max = 1 }	connect_to_road_network = no	rotation = random	tag = raw_resource
 	resource_raw_mercury_a_mesh = 1
 	resource_raw_mercury_b_mesh = 0.5
@@ -850,8 +873,8 @@ mesh_list = {	name = "raw_swine_mesh_list"			scale_settings_small = { bias = -0.
 }
 mesh_list = {	name = "raw_livestock_mesh_list"			scale_settings_small = { bias = -0.5 min = 0.4 max = 0.5 }	connect_to_road_network = no	rotation = random	tag = raw_resource	spawn_count = { curve = "standard_rgo_curve" }
 	mm_cow_group_a_schematic  = 1
-	resource_european_cow_b_mesh = 1
-	resource_european_cow_c_mesh = 1
+	#resource_european_cow_b_mesh = 1
+	#resource_european_cow_c_mesh = 1
 }
 
 mesh_list = {	name = "raw_turkey_mesh_list"			scale_settings_small = { bias = -0.5 min = 0.4 max = 0.5 }	connect_to_road_network = no	rotation = random	tag = raw_resource	spawn_count = { curve = "standard_rgo_curve" }
