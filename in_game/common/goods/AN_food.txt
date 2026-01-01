@@ -33,7 +33,7 @@ oats = {
 	category = raw_material
 	color = goods_oats
 	
-	food = 8.0
+	food = 10.0
 	
 	default_market_price = 1
 	
@@ -61,7 +61,7 @@ barley = {
 	category = raw_material
 	color = goods_barley
 	
-	food = 8.0
+	food = 8.5
 	
 	default_market_price = 1
 	
@@ -91,9 +91,9 @@ tomato = {
 	category = raw_material
 	color = goods_tomato
 
-	food = 2.5
-
-	default_market_price = 2
+	food = 7
+	default_market_price = 1.5
+	transport_cost = 0.5
 	
 	demand_add = {
 		all = 0.001
@@ -116,9 +116,9 @@ nuts = {
 	category = raw_material
 	color = goods_nuts
 
-	food = 2.5
-
-	default_market_price = 2
+	food = 2
+	default_market_price = 1
+	transport_cost = 0.25
 	
 	demand_add = {
 		all = 0.001
@@ -141,9 +141,9 @@ tubers = {
 	category = raw_material
 	color = goods_tubers
 
-	food = 2.5
-
-	default_market_price = 2
+	food = 3
+	default_market_price = 1
+	transport_cost = 0.5
 	
 	demand_add = {
 		all = 0.001
@@ -166,9 +166,9 @@ palm = {
 	category = raw_material
 	color = goods_palm
 
-	food = 2.5
-
-	default_market_price = 2
+	food = 3.5
+	default_market_price = 1
+	transport_cost = 0.5
 	
 	demand_add = {
 		all = 0.001
@@ -191,8 +191,9 @@ dates = {
 	category = raw_material
 	color = goods_dates
 	
-	food = 4
-	default_market_price = 1
+	food = 3.5
+	default_market_price = 1.5
+	transport_cost = 0.25
 	
 	demand_add = {	
 		all = 0.002
@@ -211,9 +212,9 @@ pelagic_fish = {
 	category = raw_material
 	color = goods_pelagic_fish
 	
-	food = 5.0
-	
-	default_market_price = 1
+	food = 8.0	
+	default_market_price = 1.5
+	transport_cost = 1.5
 	demand_add = {
 		all = 0.001
 	}
@@ -229,9 +230,9 @@ shoal_fish = {
 	category = raw_material
 	color = goods_shoal_fish
 	
-	food = 5.0
-	
+	food = 4.0	
 	default_market_price = 1
+	transport_cost = 0.5
 	demand_add = {
 		all = 0.001
 	}
@@ -247,9 +248,9 @@ cetaceans = {
 	category = raw_material
 	color = goods_cetaceans
 	
-	food = 5.0
-	
-	default_market_price = 1
+	#food = 5.0
+	default_market_price = 2
+	transport_cost = 10
 	demand_add = {
 		all = 0.001
 	}
@@ -265,8 +266,7 @@ crustaceans = {
 	category = raw_material
 	color = goods_crustaceans
 	
-	food = 5.0
-	
+	food = 6.0	
 	default_market_price = 1
 	demand_add = {
 		all = 0.001
@@ -285,8 +285,9 @@ poultry = {
 	category = raw_material
 	color = goods_poultry
 	
-	food = 8
-	default_market_price = 1.5
+	#food = 8
+	default_market_price = 1
+	transport_cost = 0.75
 	ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
 	
 	demand_add = {	
@@ -315,8 +316,9 @@ swine = {
 	category = raw_material
 	color = goods_swine
 	
-	food = 8
+	#food = 8
 	default_market_price = 1.5
+	transport_cost = 2
 	ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
 	
 	demand_add = {	
@@ -345,8 +347,9 @@ buffalo = {
 	category = raw_material
 	color = goods_buffalo
 	
-	food = 8
+	#food = 8
 	default_market_price = 1.5
+	transport_cost = 10	
 	ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
 	
 	demand_add = {	
@@ -375,9 +378,11 @@ reindeer = {
 	category = raw_material
 	color = goods_reindeer
 	
-	food = 3.5
+	#food = 3.5
 	
-	default_market_price = 1
+	default_market_price = 1.5
+	
+	transport_cost = 5
 	demand_add = {
 		all =  0.0004
 	}
@@ -393,9 +398,10 @@ exotica = {
 	category = raw_material
 	color = goods_exotica
 	
-	food = 3.5
+	food = 1	
+	default_market_price = 4	
+	transport_cost = 2.5
 	
-	default_market_price = 1
 	demand_add = {
 		all =  0.0004
 	}
@@ -413,9 +419,10 @@ dairy = {
 	category = raw_material
 	color = goods_dairy
 	
-	food = 10
+	food = 4	
+	default_market_price = 1.5	
+	transport_cost = 1.5
 	
-	default_market_price = 1
 	demand_add = {
 		all =  0.0002
 	}
@@ -431,9 +438,10 @@ bread = {
 	category = raw_material
 	color = goods_bread
 	
-	food = 10
+	food = 5	
+	default_market_price = 1.5	
+	transport_cost = 1.5
 	
-	default_market_price = 1
 	demand_add = {
 		all =  0.0005
 	}
@@ -452,9 +460,10 @@ meat = {
 	category = raw_material
 	color = goods_meat
 	
-	food = 10
+	food = 6	
+	default_market_price = 2	
+	transport_cost = 1.5
 	
-	default_market_price = 1
 	demand_add = {
 		all =  0.0003
 	}

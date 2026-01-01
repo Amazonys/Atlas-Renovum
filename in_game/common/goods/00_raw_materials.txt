@@ -299,8 +299,9 @@ medicaments = { #Medicinal plants, Pills, Opium, Mummy Powder, etc
 	method = gathering
 	category = raw_material
 	color = goods_medicaments
+	food = 1.5
 	default_market_price = 1
-	transport_cost = 0.5
+	transport_cost = 0.25
 	
 	demand_add = {
 		all = 0.0004
@@ -346,6 +347,8 @@ pearls = {
 	method = gathering
 	category = raw_material
 	color = goods_pearls
+	
+	food = 1
 	default_market_price = 4
 	
 	demand_add = {

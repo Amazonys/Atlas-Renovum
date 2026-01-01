@@ -143,7 +143,7 @@ solvesborg = { topography = flatland vegetation = grasslands climate = continent
 hudiksvall = { topography = flatland vegetation = woods climate = hemiboreal religion = catholic culture = swedish raw_material = shoal_fish natural_harbor_suitability = 0.00}
 alfta = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = lumber}
 soderala = { topography = flatland vegetation = woods climate = hemiboreal religion = catholic culture = swedish raw_material = fiber_crops natural_harbor_suitability = 0.00}
-hogdal = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = reindeer}
+hogdal = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = wild_game}
 havero = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = lumber}
 selanger = { topography = flatland vegetation = woods climate = hemiboreal religion = catholic culture = swedish raw_material = medicaments natural_harbor_suitability = 0.00}
 harnosand = { topography = flatland vegetation = woods climate = hemiboreal religion = catholic culture = swedish raw_material = shoal_fish natural_harbor_suitability = 0.00}
@@ -153,23 +153,23 @@ sjalevad = { topography = flatland vegetation = forest climate = hemiboreal reli
 anundsjo = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = lumber}
 grundsunda = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = lumber natural_harbor_suitability = 0.00}
 umea = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = swedish raw_material = wild_game natural_harbor_suitability = 0.25}
-vindeln = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
+vindeln = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = reindeer}
 skelleftea = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = lumber natural_harbor_suitability = 0.00}
 tornea = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = finnish raw_material = shoal_fish natural_harbor_suitability = 0.00}
 bygdea = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = shoal_fish natural_harbor_suitability = 0.00}
 pitea = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = lumber natural_harbor_suitability = 0.25}
 lulea = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = swedish raw_material = lumber natural_harbor_suitability = 0.25}
 ranea = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = shoal_fish natural_harbor_suitability = 0.00}
-gratesk = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
+gratesk = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = reindeer}
 hienatiemi = { topography = wetlands vegetation = forest climate = boreal religion = sapmi_shamanism culture = finnish raw_material = lumber}
-branna = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
+branna = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = reindeer}
 byske = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = shoal_fish natural_harbor_suitability = 0.00}
 bodebyn = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
-alvsby = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
+alvsby = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = reindeer}
 kiemi = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = finnish raw_material = lumber natural_harbor_suitability = 0.00}
-pajala = { topography = wetlands vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
+pajala = { topography = wetlands vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = reindeer}
 kittila = { topography = wetlands vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
-rovaniemi = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = finnish raw_material = wild_game}
+rovaniemi = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = finnish raw_material = reindeer}
 simo = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = finnish raw_material = lumber natural_harbor_suitability = 0.00}
 uleaborg = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = lumber natural_harbor_suitability = 0.75}
 brahestad = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = swedish raw_material = shoal_fish natural_harbor_suitability = 0.00}
@@ -183,14 +183,14 @@ posio = { topography = wetlands vegetation = forest climate = boreal religion = 
 asele = { topography = wetlands vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
 lycksele = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
 arvidsjaur = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
-volgsjo = { topography = hills vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
+volgsjo = { topography = hills vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = reindeer}
 stensele = { topography = plateau vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
 tarna = { topography = mountains vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
-ortrask = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
+ortrask = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = reindeer}
 akkajaur = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
-arjeplog = { topography = plateau vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
+arjeplog = { topography = plateau vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = reindeer}
 silbojock = { topography = mountains vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = silver}
-sorsele = { topography = plateau vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = wild_game}
+sorsele = { topography = plateau vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = reindeer}
 storavan = { topography = lakes climate = boreal}
 uddjaur = { topography = lakes climate = boreal}
 socksjock = { topography = flatland vegetation = forest climate = boreal religion = sapmi_shamanism culture = sapmi raw_material = lumber}
@@ -236,7 +236,7 @@ koppo = { topography = flatland vegetation = woods climate = hemiboreal religion
 pedersore = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = swedish raw_material = shoal_fish natural_harbor_suitability = 0.00}
 storkyro = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = swedish raw_material = reindeer}
 karleby = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = swedish raw_material = lumber natural_harbor_suitability = 0.00}
-kaustby = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = finnish raw_material = wild_game}
+kaustby = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = finnish raw_material = reindeer}
 lappo = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = finnish raw_material = fur}
 vora = { topography = flatland vegetation = woods climate = boreal religion = catholic culture = swedish raw_material = livestock natural_harbor_suitability = 0.00}
 abo = { topography = flatland vegetation = woods climate = hemiboreal religion = catholic culture = swedish raw_material = wheat natural_harbor_suitability = 0.50}
@@ -265,7 +265,7 @@ forssa = { topography = wetlands vegetation = forest climate = boreal religion =
 itis = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = tavastian raw_material = livestock}
 jyvaskyla = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = tavastian raw_material = fur}
 jamsa = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = tavastian raw_material = lumber}
-saarijarvi = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = tavastian raw_material = wild_game}
+saarijarvi = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = tavastian raw_material = reindeer}
 viitasaari = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = tavastian raw_material = lumber}
 laukas = { topography = wetlands vegetation = forest climate = boreal religion = catholic culture = tavastian raw_material = lumber}
 sysma = { topography = flatland vegetation = forest climate = boreal religion = catholic culture = tavastian raw_material = wild_game}
@@ -432,12 +432,12 @@ kirkenes = { topography = hills vegetation = sparse climate = boreal religion = 
 lebesby = { topography = hills vegetation = sparse climate = boreal religion = catholic culture = norwegian raw_material = shoal_fish natural_harbor_suitability = 0.00}
 olonets = { topography = flatland vegetation = forest climate = hemiboreal religion = orthodox culture = novgorodian raw_material = sand}
 kinerma = { topography = flatland vegetation = forest climate = hemiboreal religion = orthodox culture = novgorodian raw_material = fish}
-kondpoga = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = karelian raw_material = wild_game}
+kondpoga = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = karelian raw_material = reindeer}
 ostrechiny = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = fiber_crops}
 pryazha = { topography = wetlands vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = lumber}
 shuya_karelia = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = karelian raw_material = fur}
 shyoltozero = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = iron}
-vazhiny = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = wild_game}
+vazhiny = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = reindeer}
 lake_konchozero = { topography = lakes climate = boreal}
 lake_lizhmozero = { topography = lakes climate = boreal}
 lake_onega = { topography = lakes climate = boreal}
@@ -494,12 +494,12 @@ joensuu = { topography = wetlands vegetation = forest climate = boreal religion 
 sordavala = { topography = flatland vegetation = forest climate = hemiboreal religion = orthodox culture = karelian raw_material = fiber_crops}
 vartsila = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = karelian raw_material = fish}
 ilomantsi = { topography = wetlands vegetation = forest climate = boreal religion = orthodox culture = karelian raw_material = fur}
-lieksa = { topography = wetlands vegetation = forest climate = boreal religion = orthodox culture = karelian raw_material = wild_game}
+lieksa = { topography = wetlands vegetation = forest climate = boreal religion = orthodox culture = karelian raw_material = reindeer}
 juuka = { topography = wetlands vegetation = forest climate = boreal religion = orthodox culture = karelian raw_material = lumber}
 salmi = { topography = flatland vegetation = forest climate = hemiboreal religion = orthodox culture = karelian raw_material = tin}
 loimola = { topography = flatland vegetation = forest climate = hemiboreal religion = orthodox culture = karelian raw_material = lumber}
 mohko = { topography = wetlands vegetation = forest climate = boreal religion = orthodox culture = karelian raw_material = lumber}
-suojarvi = { topography = wetlands vegetation = forest climate = boreal religion = orthodox culture = karelian raw_material = wild_game}
+suojarvi = { topography = wetlands vegetation = forest climate = boreal religion = orthodox culture = karelian raw_material = reindeer}
 yanis_jarvi = { topography = lakes climate = boreal}
 lake_orivesi = { topography = lakes climate = boreal}
 lake_suoyarvi = { topography = lakes climate = boreal}
@@ -630,22 +630,22 @@ varzuga_estuary = { topography = inland_sea climate = boreal}
 holar = { topography = hills vegetation = sparse climate = boreal religion = catholic culture = icelandic raw_material = livestock natural_harbor_suitability = 0.00}
 husavik = { topography = flatland vegetation = sparse climate = boreal religion = catholic culture = icelandic raw_material = stone natural_harbor_suitability = 0.00}
 akureyri = { topography = mountains vegetation = woods climate = maritime religion = catholic culture = icelandic raw_material = lumber natural_harbor_suitability = 0.00}
-blonduos = { topography = hills vegetation = sparse climate = boreal religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = 0.00}
-torshofn = { topography = flatland vegetation = sparse climate = boreal religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = 0.00}
-vopnafjordur = { topography = hills vegetation = sparse climate = boreal religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = 0.00}
+blonduos = { topography = hills vegetation = sparse climate = boreal religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = 0.00}
+torshofn = { topography = flatland vegetation = sparse climate = boreal religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = 0.00}
+vopnafjordur = { topography = hills vegetation = sparse climate = boreal religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 egilsstadir = { topography = hills vegetation = woods climate = boreal religion = catholic culture = icelandic raw_material = lumber}
 seydisfjordur = { topography = mountains vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = stone natural_harbor_suitability = 0.00}
-reydarfjordur = { topography = mountains vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = 0.00}
+reydarfjordur = { topography = mountains vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 holmur = { topography = mountains vegetation = sparse climate = maritime religion = catholic culture = icelandic raw_material = stone natural_harbor_suitability = 0.00}
-kirkjubaejar = { topography = wetlands vegetation = sparse climate = maritime religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = 0.00}
+kirkjubaejar = { topography = wetlands vegetation = sparse climate = maritime religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 borgarnes = { topography = hills vegetation = sparse climate = boreal religion = catholic culture = icelandic raw_material = stone natural_harbor_suitability = 0.00}
 olavsvik = { topography = hills vegetation = sparse climate = boreal religion = catholic culture = icelandic raw_material = ivory natural_harbor_suitability = 0.00}
-isafjordur = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = 0.00}
+isafjordur = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = shoal_fish natural_harbor_suitability = 0.00}
 hvamstangi = { topography = flatland vegetation = sparse climate = boreal religion = catholic culture = icelandic raw_material = livestock natural_harbor_suitability = 0.00}
 skalholt = { topography = hills vegetation = grasslands climate = boreal religion = catholic culture = icelandic raw_material = wool}
 selfoss = { topography = flatland vegetation = grasslands climate = maritime religion = catholic culture = icelandic raw_material = horses natural_harbor_suitability = 0.00}
 keflavik = { topography = flatland vegetation = sparse climate = maritime religion = catholic culture = icelandic raw_material = ivory natural_harbor_suitability = 0.20}
-reikjavik = { topography = hills vegetation = grasslands climate = maritime religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = 0.20}
+reikjavik = { topography = hills vegetation = grasslands climate = maritime religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = 0.20}
 thingvellir = { topography = hills vegetation = grasslands climate = boreal religion = catholic culture = icelandic raw_material = wool}
 hvolsvollur = { topography = flatland vegetation = grasslands climate = maritime religion = catholic culture = icelandic raw_material = wool natural_harbor_suitability = 0.00}
 vattnajokull = { topography = mountain_wasteland vegetation = desert climate = arctic}
@@ -657,24 +657,24 @@ bear_island = { topography = hills vegetation = sparse climate = arctic}
 jan_mayen = { topography = hills vegetation = sparse climate = arctic}
 gardr = { topography = hills vegetation = sparse climate = boreal religion = catholic culture = icelandic raw_material = ivory natural_harbor_suitability = 0.50}
 brattahlid = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = wool natural_harbor_suitability = -0.10}
-dyrnes = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = 0.20}
+dyrnes = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = 0.20}
 hvalsey = { topography = flatland vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = ivory natural_harbor_suitability = 0.20}
-einarsfjord = { topography = flatland vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = 0.10}
+einarsfjord = { topography = flatland vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = 0.10}
 vatnahverfi = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = stone natural_harbor_suitability = 0.20}
-herjolfsnes = { topography = plateau vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = -0.10}
-petursvik = { topography = flatland vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = -0.10}
-lundey = { topography = plateau vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = 0.20}
+herjolfsnes = { topography = plateau vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = -0.10}
+petursvik = { topography = flatland vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = -0.10}
+lundey = { topography = plateau vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = 0.20}
 altafjord = { topography = mountains vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = wild_game natural_harbor_suitability = -0.10}
 ketilsfjord = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = wool natural_harbor_suitability = -0.10}
 siglufjord = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = stone natural_harbor_suitability = 0.20}
 eggers_o = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = stone natural_harbor_suitability = -0.10}
 arsuk = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = stone natural_harbor_suitability = -0.10}
-gronnedal = { topography = plateau vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = -0.10}
+gronnedal = { topography = plateau vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = -0.10}
 ivituut = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = lead natural_harbor_suitability = 0.10}
 sandnes = { topography = plateau vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = wool natural_harbor_suitability = -0.10}
-lysufjord = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = -0.10}
+lysufjord = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = -0.10}
 godthab = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = stone natural_harbor_suitability = 0.30}
-kapisillit = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = fish natural_harbor_suitability = -0.10}
+kapisillit = { topography = hills vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = pelagic_fish natural_harbor_suitability = -0.10}
 anavik = { topography = plateau vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = wool natural_harbor_suitability = -0.10}
 kangeq = { topography = flatland vegetation = sparse climate = arctic religion = catholic culture = icelandic raw_material = ivory natural_harbor_suitability = -0.10}
 eiriksfjord = { topography = mountain_wasteland vegetation = sparse climate = arctic}
@@ -1010,7 +1010,7 @@ stade = { topography = flatland vegetation = grasslands climate = oceanic religi
 hamburg = { topography = wetlands vegetation = farmland climate = oceanic religion = catholic culture = lower_saxon raw_material = wheat natural_harbor_suitability = 0.75}
 neuhaus = { topography = wetlands vegetation = grasslands climate = oceanic religion = catholic culture = frisian raw_material = sand natural_harbor_suitability = 0.00}
 ritzebuttel = { topography = wetlands vegetation = grasslands climate = oceanic religion = catholic culture = frisian raw_material = pelagic_fish natural_harbor_suitability = 0.00}
-bremervorde = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = lower_saxon raw_material = millet}
+bremervorde = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = lower_saxon raw_material = oats}
 hildesheim = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = lower_saxon raw_material = legumes}
 hanover = { topography = flatland vegetation = farmland climate = oceanic religion = catholic culture = lower_saxon raw_material = fiber_crops}
 burgdorf = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = lower_saxon raw_material = millet}
@@ -1041,7 +1041,7 @@ celle = { topography = flatland vegetation = grasslands climate = continental re
 fallingbostel = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = lower_saxon raw_material = legumes}
 verden = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = lower_saxon raw_material = fiber_crops}
 zeven = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = lower_saxon raw_material = legumes}
-achim = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = lower_saxon raw_material = millet}
+achim = { topography = flatland vegetation = grasslands climate = oceanic religion = catholic culture = lower_saxon raw_material = rye}
 nordhausen = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = saxon raw_material = legumes}
 sangerhausen = { topography = hills vegetation = grasslands climate = continental religion = catholic culture = saxon raw_material = horses}
 goslar = { modifier = rammelsberg_silver_mines_base topography = flatland vegetation = woods climate = continental religion = catholic culture = lower_saxon raw_material = silver}
@@ -1115,7 +1115,7 @@ doberan = { topography = flatland vegetation = grasslands climate = continental 
 grabow = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = lower_saxon raw_material = livestock}
 rostock = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = western_pomeranian raw_material = fiber_crops natural_harbor_suitability = 0.75}
 butzow = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = western_pomeranian raw_material = livestock}
-gustrow = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = western_pomeranian raw_material = millet}
+gustrow = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = western_pomeranian raw_material = barley}
 parchim = { topography = flatland vegetation = woods climate = continental religion = catholic culture = western_pomeranian raw_material = lumber}
 malchin = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = western_pomeranian raw_material = wheat}
 waren = { topography = flatland vegetation = forest climate = continental religion = catholic culture = western_pomeranian raw_material = livestock}
@@ -1124,7 +1124,7 @@ strelitz = { topography = flatland vegetation = forest climate = continental rel
 malchow = { topography = flatland vegetation = woods climate = continental religion = catholic culture = western_pomeranian raw_material = fish}
 lake_muritz = { topography = lakes climate = continental}
 stralsund = { topography = flatland vegetation = woods climate = continental religion = catholic culture = western_pomeranian raw_material = amber natural_harbor_suitability = 0.50}
-ribnitz = { topography = flatland vegetation = woods climate = continental religion = catholic culture = western_pomeranian raw_material = wild_game natural_harbor_suitability = 0.00}
+ribnitz = { topography = flatland vegetation = woods climate = continental religion = catholic culture = western_pomeranian raw_material = swine natural_harbor_suitability = 0.00}
 grimmen = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = western_pomeranian raw_material = sand natural_harbor_suitability = 0.00}
 rugen = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = western_pomeranian raw_material = shoal_fish natural_harbor_suitability = 0.00}
 swinousjcie = { topography = flatland vegetation = grasslands climate = continental religion = catholic culture = western_pomeranian raw_material = amber natural_harbor_suitability = 0.00}
@@ -5202,7 +5202,7 @@ kubenskoye = { topography = flatland vegetation = forest climate = boreal religi
 shuyskoye = { topography = flatland vegetation = forest climate = hemiboreal religion = orthodox culture = muscovite raw_material = lumber}
 ustye = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = muscovite raw_material = fur}
 lake_kubenskoye = { topography = lakes climate = boreal}
-velsk = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = wild_game}
+velsk = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = reindeer}
 sumino = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = muscovite raw_material = lumber}
 tavrenga = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = lumber}
 verkhovazhye = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = lumber}
@@ -5221,19 +5221,19 @@ kichmengsky_gorodok = { topography = flatland vegetation = forest climate = bore
 nikolsk = { topography = flatland vegetation = forest climate = hemiboreal religion = orthodox culture = muscovite raw_material = wild_game}
 pyras = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = lumber}
 krasavino = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = muscovite raw_material = fiber_crops}
-uftyuga = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = wild_game}
+uftyuga = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = reindeer}
 verkhnyaya_toyma = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = lumber}
 malaya_ilesha = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = novgorodian raw_material = lumber}
 vyya = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = novgorodian raw_material = fur}
 koryazhma = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = lumber}
 yarensk = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = lumber}
-ilyinsko_podomskoye = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = wild_game}
+ilyinsko_podomskoye = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = reindeer}
 russian_wastelands_9 = { topography = flatland_wasteland vegetation = forest climate = boreal}
 zaostrovskoye = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = clay}
 alferovskaya = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = fur}
 ileza = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = fur}
 shangaly = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = fur}
-krasny_bor = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = wild_game}
+krasny_bor = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = reindeer}
 nizhnyaya_toyma = { topography = wetlands vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = lumber}
 shenga_kurya = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = fiber_crops}
 voznesenskoye = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = fur}
@@ -5363,19 +5363,19 @@ russian_wastelands_1 = { topography = wetlands vegetation = forest climate = bor
 lake_kozhozero = { topography = lakes climate = boreal}
 vaga = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = fur}
 bereznik = { topography = wetlands vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = lumber}
-rovdino = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = wild_game}
+rovdino = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = reindeer}
 sogra = { topography = wetlands vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = lumber}
 ust_vayenga = { topography = wetlands vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = lumber}
 yemetsk = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = pomor raw_material = fur}
 sheleksa = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = pomor raw_material = fur}
-navolok = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = wild_game}
+navolok = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = reindeer}
 shalakusha = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = fur}
 pudoga = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = lumber}
 andomsky_pogost = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = fish}
 chelmuzhi = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = clay}
 shalskii = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = fur}
-vodlozero = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = wild_game}
-vytegra = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = wild_game}
+vodlozero = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = reindeer}
+vytegra = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = novgorodian raw_material = reindeer}
 lake_sumozero = { topography = lakes climate = boreal}
 kholmogory = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = pomor raw_material = lumber}
 arkhangelsk = { topography = flatland vegetation = forest climate = boreal religion = orthodox culture = pomor raw_material = fish natural_harbor_suitability = 0.50}
@@ -5393,10 +5393,10 @@ russian_wastelands_5 = { topography = flatland_wasteland vegetation = forest cli
 russian_wastelands_6 = { topography = flatland_wasteland vegetation = forest climate = boreal}
 okladnikova_sloboda = { topography = wetlands vegetation = forest climate = boreal religion = shamanism culture = pomor raw_material = fish natural_harbor_suitability = 0.00}
 nes = { topography = flatland vegetation = sparse climate = boreal religion = shamanism culture = pomor raw_material = fur natural_harbor_suitability = 0.00}
-khimzha = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = pomor raw_material = wild_game}
+khimzha = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = pomor raw_material = reindeer}
 vizhas = { topography = flatland vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = fur}
 oma = { topography = flatland vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = fur}
-leshukonskoye = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = pomor raw_material = wild_game}
+leshukonskoye = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = pomor raw_material = reindeer}
 kanin_peninsula = { topography = flatland_wasteland vegetation = sparse climate = arctic}
 russian_wastelands_8 = { topography = flatland_wasteland vegetation = forest climate = boreal}
 kolguyev = { topography = flatland_wasteland vegetation = sparse climate = arctic}
@@ -5571,26 +5571,26 @@ koygorodok = { topography = flatland vegetation = forest climate = boreal religi
 vizinga = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = fur}
 siberian_wasteland_1 = { topography = flatland_wasteland vegetation = forest climate = boreal}
 cherdyn = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = salt}
-lupya = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = wild_game}
+lupya = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = reindeer}
 ust_kulom = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = fur}
 chernaya = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = lumber}
 nyrob = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = salt}
-vorkuta = { topography = hills vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = wild_game}
+vorkuta = { topography = hills vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = reindeer}
 pechora = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = nenets_culture raw_material = silver}
-usa_reka = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = wild_game}
+usa_reka = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = reindeer}
 siberian_wasteland_4 = { topography = flatland_wasteland vegetation = forest climate = boreal}
 ural_mountains = { topography = mountain_wasteland vegetation = forest climate = boreal}
 ural_mountains2 = { topography = mountain_wasteland vegetation = forest climate = boreal}
 ural_forest = { topography = hills_wasteland vegetation = forest climate = boreal}
 izhma = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = nenets_culture raw_material = lumber}
-ust_tsilma = { topography = flatland vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = wild_game}
+ust_tsilma = { topography = flatland vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = reindeer}
 pustozersk = { topography = flatland vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = fish}
 nenets = { topography = flatland vegetation = sparse climate = arctic}
 west_siberian_forests = { topography = flatland_wasteland vegetation = forest climate = boreal}
 lake_golodnaya_guba = { topography = lakes climate = boreal}
 vukyl = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = fur}
 troitsko_pechorsk = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = lumber}
-ukhta = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = wild_game}
+ukhta = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = reindeer}
 uktus = { topography = flatland vegetation = forest climate = hemiboreal religion = shamanism culture = mansi_culture raw_material = goods_gold}
 kalatay = { topography = flatland vegetation = forest climate = hemiboreal religion = shamanism culture = mansi_culture raw_material = lead}
 rezh = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = mansi_culture raw_material = fur}
@@ -5604,7 +5604,7 @@ sosva = { topography = flatland vegetation = forest climate = boreal religion = 
 verkhoturye = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = mansi_culture raw_material = medicaments}
 ponil = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = mansi_culture raw_material = lumber}
 ivdel = { topography = hills vegetation = forest climate = boreal religion = shamanism culture = mansi_culture raw_material = fur}
-pelym = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = wild_game}
+pelym = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = komi raw_material = reindeer}
 gari = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = mansi_culture raw_material = lumber}
 pelymskiy_tuman = { topography = lakes climate = boreal}
 turinsk = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = mansi_culture raw_material = lumber}
@@ -11414,9 +11414,9 @@ skardu = { topography = mountains vegetation = sparse climate = cold_arid religi
 khaplu = { topography = mountains vegetation = desert climate = xeric religion = tibetan_buddhism culture = ladakh_culture raw_material = livestock}
 shigar = { topography = mountains vegetation = sparse climate = cold_arid religion = tibetan_buddhism culture = ladakh_culture raw_material = livestock}
 karakoram3 = { topography = mountain_wasteland vegetation = desert climate = arctic}
-toling = { topography = hills vegetation = desert climate = hemiboreal religion = tibetan_buddhism culture = utsang_culture raw_material = wool}
-dungkar = { topography = hills vegetation = desert climate = hemiboreal religion = tibetan_buddhism culture = utsang_culture raw_material = livestock}
-tsaparang = { topography = mountains vegetation = desert climate = hemiboreal religion = tibetan_buddhism culture = utsang_culture raw_material = wheat}
+toling = { topography = hills vegetation = sparse climate = hemiboreal religion = tibetan_buddhism culture = utsang_culture raw_material = wool}
+dungkar = { topography = hills vegetation = sparse climate = hemiboreal religion = tibetan_buddhism culture = utsang_culture raw_material = livestock}
+tsaparang = { topography = mountains vegetation = sparse climate = hemiboreal religion = tibetan_buddhism culture = utsang_culture raw_material = wheat}
 himalaya7 = { topography = mountain_wasteland vegetation = sparse climate = arctic}
 leh = { topography = mountains vegetation = desert climate = xeric religion = tibetan_buddhism culture = ladakh_culture raw_material = wheat}
 charasa = { topography = mountains vegetation = desert climate = xeric religion = tibetan_buddhism culture = ladakh_culture raw_material = wild_game}
@@ -12149,11 +12149,11 @@ shish = { topography = wetlands vegetation = forest climate = hemiboreal religio
 muromtsevo = { topography = flatland vegetation = forest climate = hemiboreal religion = shamanism culture = khanty_culture raw_material = fur}
 mangazeya = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = fish}
 pur = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = fish}
-yevoyakha = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = wild_game}
+yevoyakha = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = reindeer}
 siberian_wasteland_10 = { topography = flatland vegetation = sparse climate = boreal}
 voikar = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = fish}
 voykarskiy_sor = { topography = lakes climate = boreal}
-synya = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = komi raw_material = wild_game}
+synya = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = komi raw_material = reindeer}
 synya_lake = { topography = lakes climate = boreal}
 shuryshkar = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = fish}
 shuryshkarskiy_sor = { topography = lakes climate = boreal}
@@ -12175,12 +12175,12 @@ siberian_wasteland_11 = { topography = flatland_wasteland vegetation = forest cl
 chebar_yugan = { topography = lakes climate = boreal}
 nadym = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = fish}
 pravaya_khetta = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = fish}
-levaya_khetta = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = wild_game}
+levaya_khetta = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = reindeer}
 nyurum_yegan = { topography = wetlands vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = lumber}
 dudinka = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = enets_culture raw_material = fish}
 khantayskoye = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = enets_culture raw_material = copper}
 turukhansk = { topography = wetlands vegetation = forest climate = boreal religion = shamanism culture = nganasan_culture raw_material = lumber}
-messoyakha = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = wild_game}
+messoyakha = { topography = wetlands vegetation = sparse climate = boreal religion = shamanism culture = nenets_culture raw_material = reindeer}
 makovskoye = { topography = lakes climate = boreal}
 siberian_lakes_3 = { topography = lakes climate = boreal}
 siberian_wasteland_12 = { topography = flatland vegetation = sparse climate = arctic}
@@ -12196,7 +12196,7 @@ itatsky = { topography = flatland vegetation = forest climate = boreal religion 
 tyukhtet = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = lumber}
 makovskoe = { topography = flatland vegetation = forest climate = boreal religion = tengri culture = ket_culture raw_material = fur}
 kazachinskoye = { topography = flatland vegetation = forest climate = boreal religion = tengri culture = ket_culture raw_material = lumber}
-komsa = { topography = flatland vegetation = forest climate = boreal religion = tengri culture = khakas_culture raw_material = wild_game}
+komsa = { topography = flatland vegetation = forest climate = boreal religion = tengri culture = khakas_culture raw_material = reindeer}
 siberia_bor = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = fish}
 bakhtinsky = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = copper}
 verkhneimbatsk = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = iron}
@@ -12206,16 +12206,16 @@ nazimovo = { topography = flatland vegetation = forest climate = boreal religion
 ust_ozernoye = { topography = wetlands vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = iron}
 selo_yartsevo = { topography = flatland vegetation = forest climate = boreal religion = tengri culture = khakas_culture raw_material = copper}
 siberian_wasteland_15 = { topography = flatland_wasteland vegetation = forest climate = boreal}
-verkh_chebula = { topography = plateau vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = wild_game}
+verkh_chebula = { topography = plateau vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = reindeer}
 mariinsk = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = fur}
-verkhotomsk = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = wild_game}
+verkhotomsk = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = reindeer}
 kolchugino = { topography = flatland vegetation = forest climate = hemiboreal religion = tengri culture = teleut_culture raw_material = lumber}
 siberian_wasteland_14 = { topography = flatland_wasteland vegetation = forest climate = boreal}
 omsk = { topography = flatland vegetation = forest climate = continental religion = shamanism culture = khanty_culture raw_material = lumber}
 kamyshnoye = { topography = flatland vegetation = woods climate = continental religion = shamanism culture = khanty_culture raw_material = wild_game}
 ebeyty = { topography = lakes climate = continental}
 cherlak = { topography = flatland vegetation = woods climate = continental religion = shamanism culture = khanty_culture raw_material = fur}
-tyukalinsk = { topography = flatland vegetation = forest climate = hemiboreal religion = shamanism culture = khanty_culture raw_material = wild_game}
+tyukalinsk = { topography = flatland vegetation = forest climate = hemiboreal religion = shamanism culture = khanty_culture raw_material = reindeer}
 okoneshnikovo = { topography = flatland vegetation = woods climate = continental religion = shamanism culture = khanty_culture raw_material = clay}
 kolosovka = { topography = flatland vegetation = forest climate = hemiboreal religion = shamanism culture = khanty_culture raw_material = lumber}
 gorkovskoye = { topography = flatland vegetation = forest climate = hemiboreal religion = shamanism culture = khanty_culture raw_material = lumber}
@@ -12320,7 +12320,7 @@ barnaul = { topography = flatland vegetation = forest climate = hemiboreal relig
 krivoshchekovo = { topography = flatland vegetation = forest climate = hemiboreal religion = tengri culture = teleut_culture raw_material = fur}
 kamen = { topography = flatland vegetation = forest climate = hemiboreal religion = tengri culture = teleut_culture raw_material = lumber}
 dovolnoye = { topography = flatland vegetation = forest climate = hemiboreal religion = tengri culture = teleut_culture raw_material = lumber}
-kozhevnikovo = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = wild_game}
+kozhevnikovo = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = reindeer}
 bolotnye = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = selkup_culture raw_material = fur}
 altayskoye = { topography = hills vegetation = forest climate = hemiboreal religion = tengri culture = telengit_culture raw_material = fur}
 onguday = { topography = mountains vegetation = forest climate = boreal religion = tengri culture = telengit_culture raw_material = iron}
@@ -12377,26 +12377,26 @@ syuldyukar = { topography = flatland vegetation = forest climate = boreal religi
 kuchugunnur = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = lumber}
 delinde = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = fish}
 batyr = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = fur}
-olguydakh = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
-syrgan = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
+olguydakh = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
+syrgan = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
 emyakhsin = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = lumber}
 khakhsyk = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = copper}
-alymdya = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
-morkoka = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
+alymdya = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
+morkoka = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
 tangkhay = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = lumber}
 ulakhan_vava = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = lumber}
-aikhal = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
-udachny = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
-kharyyalakh = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
+aikhal = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
+udachny = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
+kharyyalakh = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
 siberian_forests_4 = { topography = flatland vegetation = forest climate = boreal}
-zhilinda = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
-ebelyakh = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
+zhilinda = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
+ebelyakh = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
 saskylakh = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = fish}
 yunyung_khaya = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = ivory}
 anabar = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = fish}
-uele = { topography = wetlands vegetation = sparse climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
-udya = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
-puur_trail = { topography = wetlands vegetation = sparse climate = boreal religion = tungusic_shamanism culture = sakkyryr_culture raw_material = wild_game}
+uele = { topography = wetlands vegetation = sparse climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
+udya = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
+puur_trail = { topography = wetlands vegetation = sparse climate = boreal religion = tungusic_shamanism culture = sakkyryr_culture raw_material = reindeer}
 siberian_tundra_3 = { topography = flatland vegetation = sparse climate = boreal}
 kiya = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = lumber}
 yeruda = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = fur}
@@ -12416,32 +12416,32 @@ icheda = { topography = plateau vegetation = forest climate = hemiboreal religio
 chambeta = { topography = plateau vegetation = forest climate = hemiboreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
 sekili = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
 neryunda_uplands = { topography = flatland_wasteland vegetation = forest climate = boreal}
-chemal = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
-chadobets = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
-tsentral = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
+chemal = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
+chadobets = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
+tsentral = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
 oskoba = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = fur}
 irkineieva = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = fur}
-tayga = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
+tayga = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
 belya = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = lumber}
-kamenka = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
+kamenka = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
 kazhma = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = fur}
-tokhomo = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
-turama = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
+tokhomo = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
+turama = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
 baykit = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = lumber}
 poligus = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = goods_gold}
 macha = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = lumber}
-tinnaya = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
+tinnaya = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
 patom = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = fur}
-nyuya = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
-lensk = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
+nyuya = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
+lensk = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
 chamcha = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = fur}
 nakhara = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = fur}
-khamra = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
+khamra = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
 witym = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = lumber}
 chuya = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = lumber}
-peledui = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
+peledui = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
 vitim = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = fur}
-alysardakh = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
+alysardakh = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
 yukte = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = fish}
 vitim_upplands = { topography = flatland_wasteland vegetation = woods climate = boreal}
 uel_tympychan = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = lumber}
@@ -12454,38 +12454,38 @@ makarixa_uplands = { topography = flatland_wasteland vegetation = woods climate 
 makarikha = { topography = plateau vegetation = forest climate = hemiboreal religion = tungusic_shamanism culture = sym_culture raw_material = lumber}
 yerema = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = fur}
 os_kino = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = fish}
-chona_trail = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = wild_game}
-markhaya_trail = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
+chona_trail = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = sym_culture raw_material = reindeer}
+markhaya_trail = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
 xamaxar_uplands1 = { topography = hills_wasteland vegetation = woods climate = boreal}
 xamaxar_uplands2 = { topography = hills_wasteland vegetation = forest climate = boreal}
-irelyakh = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
+irelyakh = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
 zarya = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = fur}
-tegelspit = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
+tegelspit = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
 dyunkun = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = fur}
-ulegir = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
+ulegir = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
 kuchaky = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = lumber}
-siyene = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
+siyene = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
 khamakar = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = fur}
 inarigda = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = fish}
 yukta = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = lumber}
 ilimpeya = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = fish}
-kudepyapka = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = wild_game}
+kudepyapka = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = ilimpeya_culture raw_material = reindeer}
 ekonda = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = uchami_culture raw_material = lumber}
 turu = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = uchami_culture raw_material = fur}
-tunguska_trail6 = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = wild_game}
-tunguska_trail5 = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = wild_game}
-vilyuy_trail = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = wild_game}
+tunguska_trail6 = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = reindeer}
+tunguska_trail5 = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = reindeer}
+vilyuy_trail = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = reindeer}
 siberian_forests_6 = { topography = hills_wasteland vegetation = forest climate = boreal}
 nidym = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = uchami_culture raw_material = fish}
 uchami = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = uchami_culture raw_material = fur}
 tutonchany = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism culture = uchami_culture raw_material = fur}
 nimde = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism culture = uchami_culture raw_material = fur}
-erachimo = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = nganasan_culture raw_material = wild_game}
+erachimo = { topography = flatland vegetation = forest climate = boreal religion = shamanism culture = nganasan_culture raw_material = reindeer}
 munduyskoye_lake = { topography = lakes climate = boreal}
-tunguska_trail1 = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = wild_game}
-tunguska_trail2 = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = wild_game}
-tunguska_trail3 = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = wild_game}
-tunguska_trail4 = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = wild_game}
+tunguska_trail1 = { topography = plateau vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = reindeer}
+tunguska_trail2 = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = reindeer}
+tunguska_trail3 = { topography = flatland vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = reindeer}
+tunguska_trail4 = { topography = hills vegetation = forest climate = boreal religion = tungusic_shamanism raw_material = reindeer}
 siberian_forests_5 = { topography = flatland_wasteland vegetation = forest climate = boreal}
 siberian_forests_2 = { topography = flatland_wasteland vegetation = forest climate = boreal}
 siberian_tundra_2 = { topography = flatland vegetation = sparse climate = arctic}
@@ -13084,39 +13084,39 @@ ozero_sytygan_lake = { topography = lakes climate = arctic}
 ozero_kubuy_lake = { topography = lakes climate = arctic}
 ozero_orotko_lake = { topography = lakes climate = arctic}
 ozero_laydy_kyuyel_lake = { topography = lakes climate = arctic}
-altaikha = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
-oymyakon = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
-berelekh = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
-baky = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
-uyandi = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
-yrgychen = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
+altaikha = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
+oymyakon = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
+berelekh = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
+baky = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
+uyandi = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
+yrgychen = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
 kurannakh = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = fur}
-uyandina_trail = { topography = flatland vegetation = forest climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
-salylyk = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
-selennyakh = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
-nemkuchen = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
+uyandina_trail = { topography = flatland vegetation = forest climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
+salylyk = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
+selennyakh = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
+nemkuchen = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
 khabzhylakh = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = fur}
 chondon = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = fur}
-ukyulyakh = { topography = wetlands vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
+ukyulyakh = { topography = wetlands vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
 yarok = { topography = wetlands vegetation = sparse climate = arctic religion = yukaghir_shamanism culture = khoromboy_culture raw_material = fur}
-ol_de_trail = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
+ol_de_trail = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
 siberian_hills_6 = { topography = mountain_wasteland vegetation = sparse climate = arctic}
 siberian_tundra_7 = { topography = hills_wasteland vegetation = sparse climate = arctic}
 kuogastakh = { topography = wetlands vegetation = sparse climate = arctic religion = yukaghir_shamanism culture = khoromboy_culture raw_material = fish}
-kazachye = { topography = wetlands vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
-kular = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
+kazachye = { topography = wetlands vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
+kular = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
 ust_kuiga = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = tin}
 spirka = { topography = wetlands vegetation = sparse climate = arctic religion = yukaghir_shamanism culture = khoromboy_culture raw_material = ivory}
 kel_tegey = { topography = flatland vegetation = sparse climate = arctic religion = yukaghir_shamanism culture = khoromboy_culture raw_material = fish}
-khayyr = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = wild_game}
+khayyr = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = khoromboy_culture raw_material = reindeer}
 siberian_tundra_6 = { topography = flatland vegetation = sparse climate = arctic}
 bestyakh = { topography = wetlands vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = fur}
 bakhanay = { topography = flatland vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = fish}
 jigansk = { topography = flatland vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = lumber}
 kystatyam = { topography = flatland vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = fur}
-lena_trail1 = { topography = wetlands vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = wild_game}
-lena_trail2 = { topography = wetlands vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = wild_game}
-lena_trail3 = { topography = wetlands vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = wild_game}
+lena_trail1 = { topography = wetlands vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = reindeer}
+lena_trail2 = { topography = wetlands vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = reindeer}
+lena_trail3 = { topography = wetlands vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = reindeer}
 ecigeen_upplands = { topography = flatland_wasteland vegetation = forest climate = arctic}
 sakha_uplands = { topography = flatland_wasteland vegetation = forest climate = boreal}
 siberian_hills_1 = { topography = mountain_wasteland vegetation = forest climate = arctic}
@@ -13134,10 +13134,10 @@ olenyok = { topography = wetlands vegetation = sparse climate = arctic religion 
 taymylyr = { topography = hills vegetation = sparse climate = arctic religion = tungusic_shamanism culture = sakkyryr_culture raw_material = fish}
 noyuo = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = sakkyryr_culture raw_material = fur}
 sklad = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = sakkyryr_culture raw_material = fur}
-kelimyar = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = sakkyryr_culture raw_material = wild_game}
+kelimyar = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = sakkyryr_culture raw_material = reindeer}
 khorbusuonka = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = sakkyryr_culture raw_material = fur}
-reka_pur = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = sakkyryr_culture raw_material = wild_game}
-uolya_trail = { topography = hills vegetation = sparse climate = boreal religion = tungusic_shamanism culture = sakkyryr_culture raw_material = wild_game}
+reka_pur = { topography = flatland vegetation = sparse climate = boreal religion = tungusic_shamanism culture = sakkyryr_culture raw_material = reindeer}
+uolya_trail = { topography = hills vegetation = sparse climate = boreal religion = tungusic_shamanism culture = sakkyryr_culture raw_material = reindeer}
 siberian_tundra_9 = { topography = hills_wasteland vegetation = sparse climate = arctic}
 siberian_tundra_10 = { topography = flatland vegetation = sparse climate = arctic}
 kele = { topography = flatland vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = fish}
@@ -13147,11 +13147,11 @@ batamay = { topography = flatland vegetation = forest climate = boreal religion 
 sangar = { topography = wetlands vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = fish}
 kuturga = { topography = wetlands vegetation = forest climate = boreal religion = tengri culture = sakha_culture raw_material = lead}
 omoloy = { topography = wetlands vegetation = sparse climate = arctic religion = yukaghir_shamanism culture = yandyr_culture raw_material = fish}
-dyagaryn = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = yandyr_culture raw_material = wild_game}
+dyagaryn = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = yandyr_culture raw_material = reindeer}
 urasalakh = { topography = wetlands vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = yandyr_culture raw_material = fur}
-namy = { topography = wetlands vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = yandyr_culture raw_material = wild_game}
+namy = { topography = wetlands vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = yandyr_culture raw_material = reindeer}
 tyul_gyar = { topography = hills vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = yandyr_culture raw_material = fur}
-kuolay = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = yandyr_culture raw_material = wild_game}
+kuolay = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = yandyr_culture raw_material = reindeer}
 naiba = { topography = flatland vegetation = sparse climate = boreal religion = yukaghir_shamanism culture = yandyr_culture raw_material = fish}
 siberian_hills_7 = { topography = mountain_wasteland vegetation = forest climate = arctic}
 enurmino_point = { topography = coastal_ocean climate = arctic}
@@ -13568,7 +13568,7 @@ taplejung = { topography = mountains vegetation = forest climate = continental r
 sinja = { topography = mountains vegetation = forest climate = continental religion = mahayana culture = khas_culture raw_material = livestock}
 bajura = { topography = mountains vegetation = forest climate = continental religion = mahayana culture = khas_culture raw_material = stone}
 dullu = { topography = mountains vegetation = forest climate = continental religion = mahayana culture = khas_culture raw_material = wild_game}
-jumla = { topography = mountains vegetation = forest climate = continental religion = mahayana culture = khas_culture raw_material = wild_game}
+jumla = { topography = mountains vegetation = forest climate = continental religion = mahayana culture = khas_culture raw_material = opium}
 kharpunath = { topography = mountains vegetation = woods climate = boreal religion = mahayana culture = khas_culture raw_material = wool}
 yanal_densa = { topography = mountains vegetation = woods climate = boreal religion = mahayana culture = khas_culture raw_material = wild_game}
 dudhakunda = { topography = mountains vegetation = forest climate = continental religion = shamanism culture = gurung_culture raw_material = wool}
@@ -19697,11 +19697,11 @@ amadjuak_lake = { topography = lakes climate = arctic}
 lake_minto = { topography = lakes climate = boreal}
 lake_payne = { topography = lakes climate = boreal}
 pangnirtung = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = ivory natural_harbor_suitability = 0.00}
-iglunga = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = fish natural_harbor_suitability = 0.00}
-iqaluit = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = fish natural_harbor_suitability = 0.00}
-kimmirut = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = fish natural_harbor_suitability = 0.00}
-amadjuak = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = fish natural_harbor_suitability = 0.00}
-kinngait = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = fish natural_harbor_suitability = 0.00}
+iglunga = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
+iqaluit = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
+kimmirut = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
+amadjuak = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
+kinngait = { topography = flatland vegetation = sparse climate = arctic religion = inuit_religion culture = inuit_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 baffin_island = { topography = plateau_wasteland vegetation = sparse climate = arctic}
 caniapiscau = { topography = plateau vegetation = sparse climate = boreal religion = midewiwin_religion culture = naskapi_culture raw_material = fur}
 kasakaupuyau = { topography = flatland vegetation = sparse climate = boreal religion = midewiwin_religion culture = naskapi_culture raw_material = wild_game}
@@ -19806,21 +19806,21 @@ baie_verte = { topography = hills vegetation = forest climate = boreal religion 
 walnaypek = { topography = flatland vegetation = forest climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = lumber natural_harbor_suitability = 0.75}
 akilasiewakik = { topography = wetlands vegetation = forest climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = fish natural_harbor_suitability = 0.75}
 newfoundland_highlands = { topography = hills_wasteland vegetation = forest climate = hemiboreal}
-cape_spear = { topography = flatland vegetation = woods climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = fish natural_harbor_suitability = 0.00}
+cape_spear = { topography = flatland vegetation = woods climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 bacalhieu = { topography = flatland vegetation = woods climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = lumber natural_harbor_suitability = 0.00}
 mekwiskajk = { topography = flatland vegetation = forest climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = lumber natural_harbor_suitability = 0.00}
-mollyhuajeck = { topography = flatland vegetation = forest climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = fish natural_harbor_suitability = 0.00}
+mollyhuajeck = { topography = flatland vegetation = forest climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 placentia = { topography = flatland vegetation = woods climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = wild_game natural_harbor_suitability = 0.00}
-cape_race = { topography = flatland vegetation = woods climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = fish natural_harbor_suitability = 0.00}
+cape_race = { topography = flatland vegetation = woods climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 maqtewey = { topography = flatland vegetation = forest climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = lumber natural_harbor_suitability = 0.00}
-nukamkiajijk = { topography = hills vegetation = woods climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = fish natural_harbor_suitability = 0.00}
-miquelon = { topography = hills vegetation = woods climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = fish natural_harbor_suitability = 0.00}
-elsiktuk = { topography = flatland vegetation = woods climate = hemiboreal religion = midewiwin_religion culture = mikmaq_culture raw_material = fish natural_harbor_suitability = 0.00}
+nukamkiajijk = { topography = hills vegetation = woods climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
+miquelon = { topography = hills vegetation = woods climate = boreal religion = midewiwin_religion culture = beothuk_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
+elsiktuk = { topography = flatland vegetation = woods climate = hemiboreal religion = midewiwin_religion culture = mikmaq_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 tignish = { topography = flatland vegetation = woods climate = hemiboreal religion = midewiwin_religion culture = mikmaq_culture raw_material = lumber natural_harbor_suitability = 0.00}
-malpeque = { topography = flatland vegetation = woods climate = hemiboreal religion = midewiwin_religion culture = mikmaq_culture raw_material = fish natural_harbor_suitability = 0.00}
+malpeque = { topography = flatland vegetation = woods climate = hemiboreal religion = midewiwin_religion culture = mikmaq_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 tapu_tuitn = { topography = flatland vegetation = woods climate = hemiboreal religion = midewiwin_religion culture = mikmaq_culture raw_material = lumber natural_harbor_suitability = 0.00}
-pukusamkek = { topography = flatland vegetation = woods climate = hemiboreal religion = midewiwin_religion culture = mikmaq_culture raw_material = fish natural_harbor_suitability = 0.00}
-menageesenog = { topography = flatland vegetation = woods climate = hemiboreal religion = midewiwin_religion culture = mikmaq_culture raw_material = fish natural_harbor_suitability = 0.00}
+pukusamkek = { topography = flatland vegetation = woods climate = hemiboreal religion = midewiwin_religion culture = mikmaq_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
+menageesenog = { topography = flatland vegetation = woods climate = hemiboreal religion = midewiwin_religion culture = mikmaq_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 ainslie_lake = { topography = lakes climate = hemiboreal}
 askataliank = { topography = flatland vegetation = forest climate = hemiboreal religion = midewiwin_religion culture = mikmaq_culture raw_material = lumber natural_harbor_suitability = 0.00}
 cheticamp = { topography = hills vegetation = forest climate = hemiboreal religion = midewiwin_religion culture = mikmaq_culture raw_material = lumber natural_harbor_suitability = 0.00}
@@ -21878,7 +21878,7 @@ tillantonco = { topography = mountains vegetation = forest climate = subtropical
 amoltepec = { topography = mountains vegetation = forest climate = calidic religion = mesoamerican culture = mixtec_culture raw_material = copper}
 teozacualco = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = mixtec_culture raw_material = dyes}
 jaltepec = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = mixtec_culture raw_material = lumber}
-yucucui = { topography = plateau vegetation = forest climate = arid religion = mesoamerican culture = mixtec_culture raw_material = livestock}
+yucucui = { topography = plateau vegetation = forest climate = arid religion = mesoamerican culture = mixtec_culture raw_material = poultry}
 coixtlahuacan = { topography = mountains vegetation = sparse climate = subtropical religion = mesoamerican culture = mixtec_culture raw_material = maize}
 yucundaa = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = mixtec_culture raw_material = stone}
 yucundeq = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = mixtec_culture raw_material = beeswax}
@@ -21888,11 +21888,11 @@ sosola = { topography = plateau vegetation = forest climate = arid religion = me
 ixtlan = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = mixtec_culture raw_material = maize}
 zaachila = { topography = plateau vegetation = forest climate = subtropical religion = mesoamerican culture = mixtec_culture raw_material = maize}
 miahuatlan = { topography = hills vegetation = woods climate = arid religion = mesoamerican culture = mixtec_culture raw_material = wild_game}
-totolapan = { topography = mountains vegetation = woods climate = arid religion = mesoamerican culture = mixtec_culture raw_material = livestock}
+totolapan = { topography = mountains vegetation = woods climate = arid religion = mesoamerican culture = mixtec_culture raw_material = poultry}
 mictlan = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = mixtec_culture raw_material = dyes}
 yautepec = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = mixtec_culture raw_material = silver}
 tlacolula = { topography = plateau vegetation = forest climate = arid religion = mesoamerican culture = mixtec_culture raw_material = lumber}
-teotitlan = { topography = mountains vegetation = forest climate = arid religion = mesoamerican culture = popoloca_culture raw_material = livestock}
+teotitlan = { topography = mountains vegetation = forest climate = arid religion = mesoamerican culture = popoloca_culture raw_material = poultry}
 ixcatlan = { topography = mountains vegetation = forest climate = tropical religion = mesoamerican culture = popoloca_culture raw_material = silver}
 oxitlan = { topography = flatland vegetation = forest climate = tropical religion = mesoamerican culture = popoloca_culture raw_material = wild_game}
 xicaltepec = { topography = hills vegetation = forest climate = tropical religion = mesoamerican culture = mixtec_culture raw_material = dyes}
@@ -21957,7 +21957,7 @@ tuzapan = { topography = flatland vegetation = jungle climate = mesothermal reli
 papantla = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = totonac_culture raw_material = maize natural_harbor_suitability = 0.00}
 tlapacoyan = { topography = flatland vegetation = jungle climate = mesothermal religion = mayan culture = totonac_culture raw_material = cocoa}
 cuyuxquihui = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = totonac_culture raw_material = fish natural_harbor_suitability = 0.00}
-xalapa = { topography = mountains vegetation = jungle climate = oceanic religion = nahuatl culture = nahua_culture raw_material = livestock}
+xalapa = { topography = mountains vegetation = jungle climate = oceanic religion = nahuatl culture = nahua_culture raw_material = poultry}
 xalacinco = { topography = plateau vegetation = woods climate = oceanic religion = nahuatl culture = nahua_culture raw_material = fiber_crops}
 mizantla = { topography = hills vegetation = jungle climate = mesothermal religion = mayan culture = totonac_culture raw_material = vanilla}
 teziutlan = { topography = hills vegetation = forest climate = oceanic religion = mayan culture = totonac_culture raw_material = wild_game}
@@ -21968,7 +21968,7 @@ taximaroa = { topography = hills vegetation = forest climate = subtropical relig
 tzitacuaro = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = purepecha_culture raw_material = gems}
 zinapecuaro = { topography = plateau vegetation = forest climate = subtropical religion = chichimecah_religion culture = otomanguean_culture raw_material = lumber}
 guayangareo = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = purepecha_culture raw_material = lumber}
-tiripetio = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = purepecha_culture raw_material = livestock}
+tiripetio = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = purepecha_culture raw_material = poultry}
 tacambaro = { topography = hills vegetation = forest climate = subtropical religion = mesoamerican culture = purepecha_culture raw_material = lumber}
 tzintzuntzan = { topography = hills vegetation = forest climate = subtropical religion = mesoamerican culture = purepecha_culture raw_material = dyes}
 patzcuaro_lake = { topography = lakes climate = subtropical}
@@ -22009,20 +22009,20 @@ tetellan = { topography = mountains vegetation = forest climate = calidic religi
 zompanco = { topography = mountains vegetation = forest climate = calidic religion = nahuatl culture = nahua_culture raw_material = incense}
 oztoman = { topography = plateau vegetation = forest climate = calidic religion = nahuatl culture = nahua_culture raw_material = fiber_crops}
 tlachco = { topography = mountains vegetation = forest climate = subtropical religion = nahuatl culture = chontal_culture raw_material = silver}
-temascaltepec = { topography = mountains vegetation = forest climate = subtropical religion = nahuatl culture = nahua_culture raw_material = livestock}
+temascaltepec = { topography = mountains vegetation = forest climate = subtropical religion = nahuatl culture = nahua_culture raw_material = poultry}
 zacazonapan = { topography = mountains vegetation = forest climate = subtropical religion = nahuatl culture = nahua_culture raw_material = lumber}
-malinalco = { topography = mountains vegetation = forest climate = subtropical religion = nahuatl culture = matlatzinca_culture raw_material = livestock}
+malinalco = { topography = mountains vegetation = forest climate = subtropical religion = nahuatl culture = matlatzinca_culture raw_material = poultry}
 tlalpujahua = { topography = mountains vegetation = forest climate = subtropical religion = nahuatl culture = nahua_culture raw_material = dyes}
 tollohcan = { topography = plateau vegetation = woods climate = subtropical religion = nahuatl culture = matlatzinca_culture raw_material = maize}
 ixtlahuaca = { topography = plateau vegetation = forest climate = subtropical religion = nahuatl culture = matlatzinca_culture raw_material = lumber}
 ninil = { topography = hills vegetation = forest climate = subtropical religion = nahuatl culture = matlatzinca_culture raw_material = silver}
 teotenanco = { topography = plateau vegetation = forest climate = subtropical religion = nahuatl culture = matlatzinca_culture raw_material = beeswax}
 toluca_mountains = { topography = mountain_wasteland vegetation = sparse climate = subtropical}
-mixquiahuala = { topography = hills vegetation = sparse climate = cold_arid religion = nahuatl culture = nahua_culture raw_material = livestock}
+mixquiahuala = { topography = hills vegetation = sparse climate = cold_arid religion = nahuatl culture = nahua_culture raw_material = poultry}
 tollan = { topography = plateau vegetation = sparse climate = subtropical religion = nahuatl culture = nahua_culture raw_material = gems}
 cuauhtitlan = { topography = hills vegetation = grasslands climate = subtropical religion = nahuatl culture = nahua_culture raw_material = cotton}
 xilotepec = { topography = hills vegetation = grasslands climate = subtropical religion = chichimecah_religion culture = otomanguean_culture raw_material = copper}
-ixtachichimecapan = { topography = plateau vegetation = sparse climate = cold_arid religion = chichimecah_religion culture = otomanguean_culture raw_material = livestock}
+ixtachichimecapan = { topography = plateau vegetation = sparse climate = cold_arid religion = chichimecah_religion culture = otomanguean_culture raw_material = poultry}
 kerhiretarhu = { topography = mountains vegetation = sparse climate = arid religion = chichimecah_religion culture = otomanguean_culture raw_material = sand}
 tetzapotitlan = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = huastec_culture raw_material = lumber}
 huayacocotla = { topography = hills vegetation = jungle climate = mesothermal religion = mayan culture = huastec_culture raw_material = dyes}
@@ -22032,7 +22032,7 @@ jalpan = { topography = mountains vegetation = forest climate = subtropical reli
 tziuhcoac = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = huastec_culture raw_material = beeswax}
 oxtlipan = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = huastec_culture raw_material = gems}
 copuz = { topography = hills vegetation = sparse climate = cold_arid religion = chichimecah_religion culture = iztachichimecah_culture raw_material = wild_game}
-cocomacan = { topography = plateau vegetation = sparse climate = cold_arid religion = chichimecah_religion culture = guamar_culture raw_material = livestock}
+cocomacan = { topography = plateau vegetation = sparse climate = cold_arid religion = chichimecah_religion culture = guamar_culture raw_material = poultry}
 mo_o_ti = { modifier = guanajuato_base topography = mountains vegetation = grasslands climate = subtropical religion = chichimecah_religion culture = guamar_culture raw_material = silver}
 pechichitane = { topography = plateau vegetation = grasslands climate = arid religion = chichimecah_religion culture = guamar_culture raw_material = cotton}
 xiriquitzio = { topography = plateau vegetation = grasslands climate = arid religion = chichimecah_religion culture = pame_culture raw_material = legumes}
@@ -22082,7 +22082,7 @@ kalotmul = { topography = flatland vegetation = woods climate = calidic religion
 zaci = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = cocoa}
 kaan_peech = { topography = flatland vegetation = woods climate = calidic religion = mayan culture = putun_culture raw_material = legumes natural_harbor_suitability = 0.00}
 calkini = { topography = wetlands vegetation = woods climate = calidic religion = mayan culture = yucatec_culture raw_material = fruit natural_harbor_suitability = 0.00}
-edzna = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = putun_culture raw_material = wild_game}
+edzna = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = putun_culture raw_material = poultry}
 hochob = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = putun_culture raw_material = maize}
 dzibilnocac = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = fiber_crops}
 chakan_putum = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = putun_culture raw_material = chili natural_harbor_suitability = 0.00}
@@ -22096,8 +22096,8 @@ colha = { topography = wetlands vegetation = jungle climate = calidic religion =
 nohmul = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = mopan_culture raw_material = cocoa natural_harbor_suitability = 0.00}
 chakanbakan = { topography = plateau vegetation = jungle climate = calidic religion = mayan culture = kowoj_culture raw_material = maize}
 xpuhil = { topography = plateau vegetation = jungle climate = calidic religion = mayan culture = kowoj_culture raw_material = lumber}
-dzibanche = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = kowoj_culture raw_material = wild_game}
-bakhalal = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = putun_culture raw_material = wild_game natural_harbor_suitability = 0.00}
+dzibanche = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = kowoj_culture raw_material = poultry}
+bakhalal = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = putun_culture raw_material = poultry natural_harbor_suitability = 0.00}
 chacchoben = { topography = wetlands vegetation = jungle climate = calidic religion = mayan culture = yucatec_culture raw_material = fish natural_harbor_suitability = 0.00}
 tixmul = { topography = wetlands vegetation = jungle climate = calidic religion = mayan culture = yucatec_culture raw_material = cocoa natural_harbor_suitability = 0.00}
 xpaicheil = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = kowoj_culture raw_material = lumber}
@@ -22107,10 +22107,10 @@ labcah = { topography = flatland vegetation = forest climate = calidic religion 
 zama = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = yucatec_culture raw_material = beeswax natural_harbor_suitability = 0.00}
 coba = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = yucatec_culture raw_material = chili}
 chakan_yucatan = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = yucatec_culture raw_material = fish natural_harbor_suitability = 0.00}
-jootsuuk = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = wild_game}
+jootsuuk = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = poultry}
 tlayolan = { topography = plateau vegetation = forest climate = subtropical religion = nahuatl culture = nahua_culture raw_material = maize}
-tochpan = { topography = plateau vegetation = forest climate = calidic religion = nahuatl culture = nahua_culture raw_material = livestock}
-tlamazolan = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = purepecha_culture raw_material = maize}
+tochpan = { topography = plateau vegetation = forest climate = calidic religion = nahuatl culture = nahua_culture raw_material = poultry}
+tlamazolan = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = purepecha_culture raw_material = tomato}
 sayula = { topography = hills vegetation = forest climate = subtropical religion = nahuatl culture = nahua_culture raw_material = tobacco}
 cuzalapa = { topography = hills vegetation = forest climate = subtropical religion = nahuatl culture = otomanguean_culture raw_material = maize}
 amollan = { topography = plateau vegetation = forest climate = calidic religion = nahuatl culture = nahua_culture raw_material = gems}
@@ -22129,14 +22129,14 @@ autlan = { topography = mountains vegetation = forest climate = subtropical reli
 tenamaxtlan = { topography = hills vegetation = forest climate = subtropical religion = nahuatl culture = nahua_culture raw_material = gems}
 ameca = { topography = plateau vegetation = forest climate = subtropical religion = nahuatl culture = nahua_culture raw_material = maize}
 huitzquilic = { topography = plateau vegetation = forest climate = subtropical religion = nahuatl culture = nahua_culture raw_material = dyes}
-etzatlan = { topography = hills vegetation = forest climate = subtropical religion = nahuatl culture = nahua_culture raw_material = livestock}
+etzatlan = { topography = hills vegetation = forest climate = subtropical religion = nahuatl culture = nahua_culture raw_material = poultry}
 tala_mx = { topography = hills vegetation = forest climate = subtropical religion = chichimecah_religion culture = huichol_culture raw_material = maize}
 ahuacatlan = { topography = plateau vegetation = forest climate = subtropical religion = chichimecah_religion culture = huichol_culture raw_material = maize}
 tzapotzingo = { topography = hills vegetation = forest climate = calidic religion = chichimecah_religion culture = huichol_culture raw_material = maize}
-hostoticpac = { topography = mountains vegetation = forest climate = calidic religion = nahuatl culture = nahua_culture raw_material = livestock}
+hostoticpac = { topography = mountains vegetation = forest climate = calidic religion = nahuatl culture = nahua_culture raw_material = poultry}
 hostotipaquillo = { topography = mountains vegetation = forest climate = calidic religion = chichimecah_religion culture = huichol_culture raw_material = gems}
 xalisco = { topography = hills vegetation = forest climate = calidic religion = nahuatl culture = totorame_culture raw_material = salt natural_harbor_suitability = 0.10}
-magdalenas = { topography = hills vegetation = jungle climate = arid religion = nahuatl culture = nahua_culture raw_material = fish natural_harbor_suitability = 0.00}
+magdalenas = { topography = hills vegetation = jungle climate = arid religion = nahuatl culture = nahua_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 aztatlan = { topography = wetlands vegetation = sparse climate = calidic religion = chichimecah_religion culture = naayeri_culture raw_material = pearls natural_harbor_suitability = 0.00}
 sentispac = { topography = hills vegetation = forest climate = calidic religion = chichimecah_religion culture = huichol_culture raw_material = salt natural_harbor_suitability = 0.10}
 tonala = { topography = plateau vegetation = forest climate = subtropical religion = chichimecah_religion culture = tonala_culture raw_material = maize}
@@ -22144,7 +22144,7 @@ tlaxomulco = { topography = plateau vegetation = forest climate = subtropical re
 chapallan = { topography = plateau vegetation = forest climate = subtropical religion = chichimecah_religion culture = tonala_culture raw_material = legumes}
 acatic = { topography = plateau vegetation = forest climate = subtropical religion = chichimecah_religion culture = tonala_culture raw_material = beeswax}
 ixtlahuacan = { topography = plateau vegetation = forest climate = subtropical religion = chichimecah_religion culture = tonala_culture raw_material = maize}
-coinan = { topography = plateau vegetation = grasslands climate = subtropical religion = chichimecah_religion culture = tonala_culture raw_material = livestock}
+coinan = { topography = plateau vegetation = grasslands climate = subtropical religion = chichimecah_religion culture = tonala_culture raw_material = poultry}
 chapala_lake = { topography = lakes climate = subtropical}
 mextiacan = { topography = hills vegetation = forest climate = subtropical religion = chichimecah_religion culture = tonala_culture raw_material = wild_game}
 mitic = { topography = plateau vegetation = forest climate = subtropical religion = chichimecah_religion culture = tonala_culture raw_material = maize}
@@ -22185,7 +22185,7 @@ east_pacific_high_sea5 = { topography = ocean climate = calidic}
 noh_peten = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = itza_culture raw_material = cotton}
 namaan = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = itza_culture raw_material = clay}
 yax_mutal = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = itza_culture raw_material = dyes}
-pachan = { topography = hills vegetation = jungle climate = tropical religion = mayan culture = itza_culture raw_material = wild_game}
+pachan = { topography = hills vegetation = jungle climate = tropical religion = mayan culture = itza_culture raw_material = poultry}
 wak_kabnal = { topography = hills vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = lumber}
 ceibal = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = fruit}
 ixtutz = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = medicaments}
@@ -22196,7 +22196,7 @@ paliac = { topography = flatland vegetation = jungle climate = tropical religion
 cockscomb_jungle = { topography = hills_wasteland vegetation = jungle climate = tropical}
 tzunuun = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = beeswax}
 altun_ha = { topography = wetlands vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = fruit natural_harbor_suitability = 0.00}
-lamanai = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = wild_game}
+lamanai = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = poultry}
 xunantunich = { topography = hills vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = maize natural_harbor_suitability = 0.00}
 uxwitza = { topography = hills vegetation = jungle climate = tropical religion = mayan culture = mopan_culture raw_material = marble}
 acasaguastlan = { topography = plateau vegetation = forest climate = calidic religion = mayan culture = poqom_culture raw_material = maize}

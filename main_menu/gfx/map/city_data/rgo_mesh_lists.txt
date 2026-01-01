@@ -912,6 +912,9 @@ mesh_list = {	name = "raw_wild_game_oceania_mesh_list"			scale_settings_small = 
 	resource_wild_moa_a_schematic = 1
 }
 
+mesh_list = {	name = "raw_poultry_mesh_list"			scale_settings_small = { bias = -0.5 min = 0.04 max = 0.075 }	connect_to_road_network = no	rotation = random	tag = raw_resource	spawn_count = { curve = "standard_rgo_curve" }
+	resource_wild_moa_a_schematic = 1
+}
 
 mesh_list = {	name = "raw_wild_game_america_mesh_list"			scale_settings_small = { bias = -0.5 min = 0.3 max = 0.4 }	connect_to_road_network = no	rotation = random	tag = raw_resource	spawn_count = { curve = "standard_rgo_curve" }
 	mm_american_bison_group_a_schematic = 1

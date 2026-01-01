@@ -1242,6 +1242,7 @@ template rgo_all {
 		beeswax_mesh_list		= beeswax_mesh_list
 		cloves_mesh_list		= cloves_mesh_list
 		swine_mesh_list 		= raw_swine_mesh_list
+		poultry_mesh_list		= raw_poultry_mesh_list
 		turkey_mesh_list		= raw_turkey_mesh_list
 		reindeer_mesh_list		= raw_reindeer_mesh_list
 		llamas_mesh_list		= raw_llama_wool_mesh_list
@@ -1312,7 +1313,7 @@ template rgo_all {
 		load_template rgo_generic { rgo_contributor = rgo_workers:reindeer		mesh_list = @reindeer_mesh_list	filter = next_to_anything_filter 	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:livestock		mesh_list = @livestock_mesh_list 	filter = closest_to_center_tile_filter  		scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:swine			mesh_list = @swine_mesh_list 	filter = closest_to_center_tile_filter  		scale = 1.0 }
-		load_template rgo_generic { rgo_contributor = rgo_workers:poultry		mesh_list = @turkey_mesh_list 	filter = closest_to_center_tile_filter  		scale = 1.0 }
+		load_template rgo_generic { rgo_contributor = rgo_workers:poultry		mesh_list = @poultry_mesh_list 	filter = closest_to_center_tile_filter  		scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:horses		mesh_list = @horses_mesh_list 	filter = next_to_anything_filter	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:wild_game		mesh_list = @wild_game_mesh_list filter = next_to_anything_filter	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:ivory			mesh_list = @ivory_mesh_list 	filter = next_to_anything_filter	scale = 1.0 }
@@ -1463,8 +1464,10 @@ template rgo_all {
 		load_template raw_resource_seed { contributor = raw_resource:livestock			mesh_list = raw_livestock_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
 		load_template raw_resource_seeded { contributor = raw_resource:swine			mesh_list = raw_swine_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
 		load_template raw_resource_seed { contributor = raw_resource:swine			mesh_list = raw_swine_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
-		load_template raw_resource_seeded { contributor = raw_resource:poultry			mesh_list = raw_turkey_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
-		load_template raw_resource_seed { contributor = raw_resource:poultry			mesh_list = raw_turkey_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
+		load_template raw_resource_seeded { contributor = raw_resource:poultry		required_contributor = continent:america	mesh_list = raw_turkey_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:poultry		required_contributor = continent:america	mesh_list = raw_turkey_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
+		load_template raw_resource_seeded { contributor = raw_resource:poultry		required_contributor = continent:europe	mesh_list = raw_poultry_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:poultry		required_contributor = continent:europe	mesh_list = raw_poultry_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
 		load_template raw_resource_seeded { contributor = raw_resource:reindeer			mesh_list = raw_reindeer_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
 		load_template raw_resource_seed { contributor = raw_resource:reindeer			mesh_list = raw_reindeer_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
 		load_template raw_resource_seeded { contributor = raw_resource:llamas			mesh_list = raw_llama_wool_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
