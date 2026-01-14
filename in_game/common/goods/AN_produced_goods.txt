@@ -1,4 +1,59 @@
-﻿perfume = { 	#
+﻿copper_metal = {
+	category = produced
+	color = goods_copper
+	default_market_price = 5
+	transport_cost = 2
+}
+tin_metal = {
+	category = produced
+	color = goods_tin
+	default_market_price = 5
+	transport_cost = 2
+}
+iron_metal = {
+	category = produced
+	color = goods_iron
+	default_market_price = 5
+	transport_cost = 2
+}
+lead_metal = {
+	category = produced
+	color = goods_lead
+	default_market_price = 5
+	transport_cost = 2
+}
+zinc_metal = {
+	category = produced
+	color = goods_zinc
+	default_market_price = 5
+	transport_cost = 2
+}
+bronze = {
+	category = produced
+	color = goods_bronze
+	default_market_price = 5
+	transport_cost = 2
+}
+brass = {
+	category = produced
+	color = goods_brass
+	default_market_price = 5
+	transport_cost = 2
+}
+aluminum = {
+	category = produced
+	color = goods_alum
+	default_market_price = 5
+	transport_cost = 2
+}
+gunpowder = {
+	category = produced
+	color = goods_gunpowder
+	default_market_price = 5
+	transport_cost = 2
+}
+
+perfume = { 	#
 	category = produced
 	color = goods_perfume
 	default_market_price = 5
@@ -31,6 +86,18 @@ chemicals = { 	#
 fertilizer = { 	#
 	category = produced
 	color = goods_fertilizer
+	default_market_price = 5
+	transport_cost = 2
+}
+chocolate = { 	#
+	category = produced
+	color = goods_chocolate
+	default_market_price = 5
+	transport_cost = 2
+}
+oils = { 	#
+	category = produced
+	color = goods_oils
 	default_market_price = 5
 	transport_cost = 2
 }

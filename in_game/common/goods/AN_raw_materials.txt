@@ -1,4 +1,46 @@
-﻿sulphur = {
+﻿softwood = {
+	method = forestry
+	category = raw_material
+	color = goods_softwood
+	default_market_price = 1.5
+	base_production = 0.1
+	ai_rgo_size_importance = 3 # ai preference to avoid building a city on this rgo
+
+	ai_rgo_expansion_priority = 0.025
+
+	demand_add = {
+		all = 0.00025
+	}
+	
+
+	
+	demand_multiply = {
+		upper = 5
+	}	
+}
+hardwood = {
+	method = forestry
+	category = raw_hardwood
+	color = goods_lumber
+	default_market_price = 1.5
+	base_production = 0.1
+	ai_rgo_size_importance = 3 # ai preference to avoid building a city on this rgo
+
+	ai_rgo_expansion_priority = 0.025
+
+	demand_add = {
+		all = 0.00025
+	}
+	
+
+	
+	demand_multiply = {
+		upper = 5
+	}	
+}
+
+
+sulphur = {
 	method = mining
 	category = raw_material
 	color = goods_sulphur
@@ -40,6 +82,17 @@ phosphate = {
 
 }
 
+caprids = { #
+	method = farming
+	category = raw_material
+	color = goods_caprids
+	default_market_price = 2.5
+
+	ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
+
+	custom_tags = { old_world_goods }
+
+}
 camels = { #
 	method = farming
 	category = raw_material

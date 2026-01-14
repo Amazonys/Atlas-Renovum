@@ -1,12 +1,12 @@
 ﻿
 wool = {
-	method = farming
+	method = produced
 	category = raw_material
 	color = goods_wool
 	default_market_price = 2.5
 
-	food = 5.0
-	ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
+	#food = 5.0
+	#ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
 }
 
 

@@ -1,7 +1,7 @@
 ﻿SCA_f = {
 
 	level = 3
-	required_locations_fraction = 0.75
+	required_locations_fraction = 0.7
 	rule = plausible
 	
 	potential = {
@@ -9,6 +9,68 @@
 	}
 	
 	allow = {
+		trigger_if = {
+			limit = { 
+				country_exists = c:DAN
+				this != c:DAN
+			}
+			custom_tooltip = {
+				text = SCA_f_trigger_dan
+				OR = {
+					tag = DAN
+					NOT = { country_exists = c:DAN }
+					c:DAN = { is_subject_or_below_of = root }
+					c:DAN = { in_union_with = root }
+				}			
+			}
+		}
+		trigger_if = {
+			limit = { 
+				country_exists = c:SWE
+				this != c:SWE
+			}
+			custom_tooltip = {
+				text = SCA_f_trigger_swe
+				OR = {
+					tag = SWE
+					NOT = { country_exists = c:SWE }
+					c:SWE = { is_subject_or_below_of = root }
+					c:SWE = { in_union_with = root }
+				}			
+			}
+		}
+		trigger_if = {
+			limit = { 
+				country_exists = c:NOR
+				this != c:NOR
+			}
+			custom_tooltip = {
+				text = SCA_f_trigger_nor
+				OR = {
+					tag = NOR
+					NOT = { country_exists = c:NOR }
+					c:NOR = { is_subject_or_below_of = root }
+					c:NOR = { in_union_with = root }
+				}			
+			}
+		}
+		trigger_if = {
+			limit = { 
+				country_exists = c:FIN
+				this != c:FIN
+			}
+			custom_tooltip = {
+				text = SCA_f_trigger_fin
+				OR = {
+					tag = FIN
+					NOT = { country_exists = c:FIN }
+					c:FIN = { is_subject_or_below_of = DAN }
+					c:FIN = { is_subject_or_below_of = SWE }
+					c:FIN = { is_subject_or_below_of = NOR }
+					c:FIN = { in_union_with = root }
+				}			
+			}
+		}
 	}
 
 	name = SCA
@@ -24,6 +86,10 @@
 		iceland_area
 	}
 	form_effect = {
+		annex_country = { country = c:DAN }
+		annex_country = { country = c:SWE }
+		annex_country = { country = c:NOR }
+		annex_country = { country = c:FIN }
 	}
 }
 

@@ -6871,7 +6871,7 @@ can_extract_swine={
 		category=country
 	}
 }
-can_extract_buffalo={
+can_extract_bison={
 	boolean=yes
 	game_data={
 		category=country

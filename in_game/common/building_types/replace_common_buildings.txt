@@ -5,7 +5,7 @@
 	
 	employment_size = rural_peasant_produce_employment
 	
-	rural_settlement = no
+	rural_settlement = yes
 	town = yes
 	city = yes
 
@@ -16,9 +16,8 @@
 			vegetation = forest
 			vegetation = farmland
 			vegetation = jungle
-		}
-		NOT = {
-			raw_material = goods:lumber
+			raw_material = goods:softwood
+			raw_material = goods:hardwood
 		}
 	}
 
@@ -31,7 +30,17 @@
 			produced = lumber
 			output = 1
 
-			tools = 0.4
+			softwood = 1
+			tools = 0.1
+			
+			category = building_maintenance
+		}
+		lumber_mill_maintenance = {
+			produced = lumber
+			output = 1
+
+			hardwood = 1
+			tools = 0.1
 			
 			category = building_maintenance
 		}

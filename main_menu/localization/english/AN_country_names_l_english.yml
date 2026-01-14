@@ -3,3 +3,10 @@
  DUA_f: "Dual Monarchy"
  DUA: "Dual Monarchy"
  DUA_ADJ: "Angevin"
+ 
+ SCA_f_trigger_dan: "We must either destroy [GetCountry('DAN').GetNameWithFlag] or make them our [subject|e]!"
+ SCA_f_trigger_swe: "We must either destroy [GetCountry('SWE').GetNameWithFlag] or make them our [subject|e]!"
+ SCA_f_trigger_nor: "We must either destroy [GetCountry('NOR').GetNameWithFlag] or make them our [subject|e]!"
+ SCA_f_trigger_fin: "We must either destroy [GetCountry('FIN').GetNameWithFlag] or make them our [subject|e]!"
+ SCA_f_trigger_ice: "We must either destroy [GetCountry('ICE').GetNameWithFlag] or make them our [subject|e]!"
+

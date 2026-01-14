@@ -1250,6 +1250,7 @@ template rgo_all {
 		rye_mesh_list			= rye_farming_mesh_list
 		barley_mesh_list		= zinc_mesh_list
 		zinc_mesh_list			= barley_farming_mesh_list
+		bison_mesh_list			= raw_bison_america_mesh_list
 	}
 	code [[
 	# "farming" rgos (gathered)
@@ -1309,12 +1310,13 @@ template rgo_all {
 		load_template rgo_generic { rgo_contributor = rgo_workers:shoal_fish	mesh_list = @fish_mesh_list 	scale = 1.0		filter = next_to_water_filter }
 		load_template rgo_generic { rgo_contributor = rgo_workers:cetaceans		mesh_list = @fish_mesh_list 	scale = 1.0		filter = next_to_water_filter }
 		load_template rgo_generic { rgo_contributor = rgo_workers:crustaceans	mesh_list = @fish_mesh_list 	scale = 1.0		filter = next_to_water_filter }
-		load_template rgo_generic { rgo_contributor = rgo_workers:wool			mesh_list = @wool_mesh_list	filter = next_to_anything_filter 	scale = 1.0 }
+		load_template rgo_generic { rgo_contributor = rgo_workers:caprids		mesh_list = @wool_mesh_list	filter = next_to_anything_filter 	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:reindeer		mesh_list = @reindeer_mesh_list	filter = next_to_anything_filter 	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:livestock		mesh_list = @livestock_mesh_list 	filter = closest_to_center_tile_filter  		scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:swine			mesh_list = @swine_mesh_list 	filter = closest_to_center_tile_filter  		scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:poultry		mesh_list = @poultry_mesh_list 	filter = closest_to_center_tile_filter  		scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:horses		mesh_list = @horses_mesh_list 	filter = next_to_anything_filter	scale = 1.0 }
+		load_template rgo_generic { rgo_contributor = rgo_workers:bison			mesh_list = @bison_mesh_list filter = next_to_anything_filter	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:wild_game		mesh_list = @wild_game_mesh_list filter = next_to_anything_filter	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:ivory			mesh_list = @ivory_mesh_list 	filter = next_to_anything_filter	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:lumber		mesh_list = @lumber_mesh_list	filter = next_to_anything_filter	scale = 1.0 }
@@ -1417,16 +1419,14 @@ template rgo_all {
 		#animals
 		#load_template raw_resource { contributor = raw_resource:pearls			mesh_list = raw_pearls_mesh_list			scale = 0.02 	size = small	can_build_over = no  clear_map_objects = yes}
 		#load_template raw_resource { contributor = raw_resource:fish			mesh_list = raw_fish_mesh_list			scale = 0.02 	size = small	can_build_over = no}
-		load_template raw_resource_seeded { contributor = raw_resource:wool			required_contributor = continent:europe			mesh_list = raw_wool_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
-		load_template raw_resource_seed { contributor = raw_resource:wool			required_contributor = continent:europe			mesh_list = raw_wool_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
-		load_template raw_resource_seeded { contributor = raw_resource:wool			required_contributor = continent:oceania			mesh_list = raw_wool_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
-		load_template raw_resource_seed { contributor = raw_resource:wool			required_contributor = continent:oceania			mesh_list = raw_wool_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
-		load_template raw_resource_seeded { contributor = raw_resource:wool			required_contributor = continent:africa			mesh_list = raw_wool_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
-		load_template raw_resource_seed { contributor = raw_resource:wool			required_contributor = continent:africa			mesh_list = raw_wool_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
-		load_template raw_resource_seeded { contributor = raw_resource:wool			required_contributor = continent:asia			mesh_list = raw_wool_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
-		load_template raw_resource_seed { contributor = raw_resource:wool			required_contributor = continent:asia			mesh_list = raw_wool_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
-		load_template raw_resource_seeded { contributor = raw_resource:wool			required_contributor = continent:america		mesh_list = raw_llama_wool_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
-		load_template raw_resource_seed { contributor = raw_resource:wool			required_contributor = continent:america		mesh_list = raw_llama_wool_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
+		load_template raw_resource_seeded { contributor = raw_resource:caprids	required_contributor = continent:europe			mesh_list = raw_wool_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:caprids	required_contributor = continent:europe			mesh_list = raw_wool_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
+		load_template raw_resource_seeded { contributor = raw_resource:caprids	required_contributor = continent:oceania			mesh_list = raw_wool_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:caprids	required_contributor = continent:oceania			mesh_list = raw_wool_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
+		load_template raw_resource_seeded { contributor = raw_resource:caprids	required_contributor = continent:africa			mesh_list = raw_wool_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:caprids	required_contributor = continent:africa			mesh_list = raw_wool_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
+		load_template raw_resource_seeded { contributor = raw_resource:caprids	required_contributor = continent:asia			mesh_list = raw_wool_mesh_list			scale = 0.02 	size = small	can_build_over = yes}
+		load_template raw_resource_seed { contributor = raw_resource:caprids	required_contributor = continent:asia			mesh_list = raw_wool_mesh_list			scale = 0.01 	size = small	can_build_over = yes}
 		load_template raw_resource_seeded { contributor = raw_resource:fur		required_contributor = continent:europe		mesh_list = raw_fur_mesh_list			scale = 0.15 	size = small	can_build_over = yes	}
 		load_template raw_resource_seed { contributor = raw_resource:fur		required_contributor = continent:europe		mesh_list = raw_fur_mesh_list			scale = 0.1 	size = small	can_build_over = yes	}
 		load_template raw_resource_seeded { contributor = raw_resource:fur		required_contributor = continent:asia		mesh_list = raw_fur_mesh_list			scale = 0.05	size = small	can_build_over = yes	}
@@ -1446,6 +1446,8 @@ template rgo_all {
 		load_template raw_resource_seed { contributor = raw_resource:wild_game		required_contributor = continent:africa		mesh_list = raw_wild_game_africa_mesh_list			scale = 0.02 	size = small	can_build_over = no}
 		load_template raw_resource_seeded { contributor = raw_resource:wild_game		required_contributor = continent:oceania		mesh_list = raw_wild_game_oceania_mesh_list			scale = 0.05 	size = small	can_build_over = no}
 		load_template raw_resource_seed { contributor = raw_resource:wild_game		required_contributor = continent:oceania		mesh_list = raw_wild_game_oceania_mesh_list			scale = 0.02 	size = small	can_build_over = no}
+		load_template raw_resource_seeded { contributor = raw_resource:bison		mesh_list = raw_bison_america_mesh_list		scale = 0.05 	size = small	can_build_over = no}
+		load_template raw_resource_seed { contributor = raw_resource:bison			mesh_list = raw_bison_america_mesh_list		scale = 0.02 	size = small	can_build_over = no}
 		load_template raw_resource_seeded { contributor = raw_resource:ivory			required_contributor = climate:continental 	mesh_list = raw_ivory_walrus_mesh_list			scale = 0.1 	size = small	can_build_over = yes}
 		load_template raw_resource_seed { contributor = raw_resource:ivory			required_contributor = climate:continental 	mesh_list = raw_ivory_walrus_mesh_list			scale = 0.05 	size = small	can_build_over = yes}
 		load_template raw_resource_seeded { contributor = raw_resource:ivory			required_contributor = climate:arctic 	mesh_list = raw_ivory_walrus_mesh_list			scale = 0.1 	size = small	can_build_over = yes}

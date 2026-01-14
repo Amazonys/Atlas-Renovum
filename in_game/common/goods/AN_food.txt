@@ -342,10 +342,10 @@ swine = {
 	
 	custom_tags = { old_world_goods }
 }
-buffalo = {
+bison = {
 	method = hunting
 	category = raw_material
-	color = goods_buffalo
+	color = goods_bison
 	
 	#food = 8
 	default_market_price = 1.5
