@@ -60,7 +60,7 @@ status = {
 	
 
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/sea/atoll.dds"
+		texture_file = "gfx/interface/illustrations/location/sea/atoll_metadata_os2654x440_d700x0.dds"
 		priority = 100
 		scope = location
 
@@ -1299,7 +1299,7 @@ settlement1 = {
 	}
 
 	illustration_image = { #Alpha 0
-		texture_file = "gfx/interface/illustrations/location/settlement1/north_german/rural/north_german_rural11_metadata_os2654x440_d0x148.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement1/north_german/rural/north_german_rural11_metadata_os2654x440_d0x112.dds"
 		priority = 1
 		scope = location
 

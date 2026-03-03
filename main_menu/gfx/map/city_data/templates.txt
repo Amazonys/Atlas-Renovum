@@ -1247,9 +1247,9 @@ template rgo_all {
 		reindeer_mesh_list		= raw_reindeer_mesh_list
 		llamas_mesh_list		= raw_llama_wool_mesh_list
 		parrots_mesh_list		= parrots_mesh_list
-		rye_mesh_list			= rye_farming_mesh_list
-		barley_mesh_list		= zinc_mesh_list
-		zinc_mesh_list			= barley_farming_mesh_list
+		rye_mesh_list			= raw_rye_mesh_list
+		barley_mesh_list		= raw_barley_mesh_list
+		zinc_mesh_list			= zinc_mesh_list
 		bison_mesh_list			= raw_bison_america_mesh_list
 	}
 	code [[

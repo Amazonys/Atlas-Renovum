@@ -1,13 +1,13 @@
 pdxmesh = {
-	name = "zinc_mines_mesh"
-	file = "zinc_mines.mesh"
+	name = "building_northgerman_gather_mines_zinc_mesh"
+	file = "building_northgerman_gather_mines_tin.mesh"
 
 	lod_percentages = {
 		lod = { index = 1 percent = 5.0 }
 		lod = { index = 2 percent = 2.0 }
 	}
 
-	animation = { id = "zinc_mines_anim" type = "zinc_mines.anim" }
+	animation = { id = "building_northgerman_mines_b_idle_animation" type = "building_northgerman_gather_mines_tin_building_northgerman_mines_b_idle.anim" }
 
 	meshsettings = {
 		name = "mines_lod0Shape"
@@ -21,11 +21,11 @@ pdxmesh = {
 	}
 
 	meshsettings = {
-		name = "zinc_lod0Shape"
+		name = "tin_lod0Shape"
 		index = 0
-		texture_diffuse = "resource_zinc_diffuse.dds"
-		texture_normal = "resource_zinc_normal.dds"
-		texture_specular = "resource_zinc_properties.dds"
+		texture_diffuse = "resource_tin_diffuse.dds"
+		texture_normal = "resource_tin_normal.dds"
+		texture_specular = "resource_tin_properties.dds"
 		shader = "snap_to_terrain"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
@@ -53,11 +53,11 @@ pdxmesh = {
 	}
 
 	meshsettings = {
-		name = "zinc_lod1Shape"
+		name = "tin_lod1Shape"
 		index = 0
-		texture_diffuse = "resource_zinc_diffuse.dds"
-		texture_normal = "resource_zinc_normal.dds"
-		texture_specular = "resource_zinc_properties.dds"
+		texture_diffuse = "resource_tin_diffuse.dds"
+		texture_normal = "resource_tin_normal.dds"
+		texture_specular = "resource_tin_properties.dds"
 		shader = "snap_to_terrain"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
@@ -85,11 +85,11 @@ pdxmesh = {
 	}
 
 	meshsettings = {
-		name = "zinc_lod2Shape"
+		name = "tin_lod2Shape"
 		index = 0
-		texture_diffuse = "resource_zinc_diffuse.dds"
-		texture_normal = "resource_zinc_normal.dds"
-		texture_specular = "resource_zinc_properties.dds"
+		texture_diffuse = "resource_tin_diffuse.dds"
+		texture_normal = "resource_tin_normal.dds"
+		texture_specular = "resource_tin_properties.dds"
 		shader = "snap_to_terrain"
 		shader_file = "gfx/FX/pdxmesh.shader"
 	}
@@ -107,12 +107,12 @@ pdxmesh = {
 }
 
 entity = {
-	name = "zinc_mines_entity"
-	pdxmesh = "zinc_mines_mesh"
+	name = "building_northgerman_gather_mines_zinc_entity"
+	pdxmesh = "building_northgerman_gather_mines_zinc_mesh"
 
-	default_state = "zinc_mines_idle"
+	default_state = "building_northgerman_mines_b_idle"
 	state = {
-		name = "zinc_mines_idle"
-		animation = "zinc_mines_anim"
+		name = "building_northgerman_mines_b_idle"
+		animation = "building_northgerman_mines_b_idle_animation"
 	}
 }
