@@ -26,7 +26,7 @@
 	build_time = rural_build_time
 	
 	unique_production_methods = {
-		lumber_mill_maintenance = {
+		softwood_processing = {
 			produced = lumber
 			output = 1
 
@@ -35,7 +35,7 @@
 			
 			category = building_maintenance
 		}
-		lumber_mill_maintenance = {
+		hardwood_processing = {
 			produced = lumber
 			output = 1
 
