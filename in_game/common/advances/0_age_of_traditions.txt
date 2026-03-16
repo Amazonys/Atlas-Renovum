@@ -178,6 +178,7 @@ agriculture_advance = {
 windmills_advance = {
 	age = age_1_traditions
 	unlock_building = windmill
+	unlock_building = bakery
 	requires = agriculture_advance
 }
 
@@ -216,6 +217,8 @@ ranching = {
 	starting_technology_level = 1
 	requires = windmills_advance
 	
+	unlock_building = butcher
+	unlock_building = dairychurn
 	allow = { 
 		OR = {
 			has_embraced_institution = institution:feudalism
@@ -325,7 +328,14 @@ bronze_working = {
 	can_extract_copper = yes
 	can_extract_tin = yes
 	can_extract_lead = yes
-
+	can_extract_zinc = yes
+	
+	unlock_building = copper_forge
+	unlock_building = tin_forge
+	unlock_building = lead_forge
+	unlock_building = zinc_forge
+	unlock_building = bronze_forge
+	unlock_building = brass_forge
 }
 
 iron_working = {
@@ -342,6 +352,7 @@ iron_working = {
 	can_extract_coal = yes
 	can_extract_iron = yes
 	unlock_building = bog_iron_smelter
+	unlock_building = iron_forge
 }
 
 local_smelters_advance = {

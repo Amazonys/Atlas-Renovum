@@ -1,4 +1,44 @@
 ﻿l_english:
+ 
+ 
+ #Bread
+ bakery: "Bakery"
+ bakery_desc: ""
+ 
+ wheat_bakery_maintenance: "Wheat Bread"
+ rye_bakery_maintenance: "Rye Bread"
+ barley_bakery_maintenance: "Barley Bread"
+ oats_bakery_maintenance: "Oat Bread"
+ rice_bakery_maintenance: "Rice Bread"
+ maize_bakery_maintenance: "Maize Bread"
+ millet_bakery_maintenance: "Millet Bread"
+ 
+ #Meat
+ butcher: "Butcher"
+ butcher_desc: ""
+ 
+ cattle_butcher_maintenance: "Cattle Butchering"
+ swine_butcher_maintenance: "Swine Butchering"
+ poultry_butcher_maintenance: "Poultry Butchering"
+ caprids_butcher_maintenance: "Caprid Butchering"
+ reindeer_butcher_maintenance: "Reindeer Butchering"
+ buffalo_butcher_maintenance: "Buffalo Butchering"
+ llamas_butcher_maintenance: "Llama Butchering"
+ horses_butcher_maintenance: "Horse Butchering"
+ camels_butcher_maintenance: "Camel Butchering"
+ cetaceans_butcher_maintenance: "Cetacean Butchering"
+
+ #Dairy
+ dairychurn: "Dairychurn"
+ dairychurn_desc: ""
+ 
+ cattle_dairychurn_maintenance: "Cattle Dairy"
+ caprids_dairychurn_maintenance: "Caprid Dairy"
+ llamas_dairychurn_maintenance: "Llama Dairy"
+ horses_dairychurn_maintenance: "Horse Dairy"
+ camels_dairychurn_maintenance: "Camel Dairy"
+ 
+ ##############################
 
  #Village Production Methods 
  farming_village_millet_maintenance: "Grain Farming"

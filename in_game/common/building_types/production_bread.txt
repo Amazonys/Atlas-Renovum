@@ -1,0 +1,96 @@
+﻿bakery = {
+	is_foreign = no
+	pop_type = burghers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = guild_employment
+	
+	
+	town = yes
+	city = yes
+
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		wheat_bakery_maintenance = {
+			wheat = 1
+			lumber = 0.2
+
+			produced = bread
+			output = 2
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		rye_bakery_maintenance = {
+			rye = 1
+			lumber = 0.2
+			
+
+			produced = bread
+			output = 2
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		barley_bakery_maintenance = {
+			barley = 1
+			lumber = 0.2
+			
+
+			produced = bread
+			output = 2.125
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		oats_bakery_maintenance = {
+			oats = 1
+			lumber = 0.2
+			
+
+			produced = bread
+			output = 2.5
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}	
+		rice_bakery_maintenance = {
+			rice = 1
+			lumber = 0.2
+			
+			
+			produced = bread
+			output = 2.375
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		maize_bakery_maintenance = {
+			maize = 1
+			lumber = 0.2
+			
+
+			produced = bread
+			output = 2.25
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		millet_bakery_maintenance = {
+			millet = 1
+			lumber = 0.2
+			
+
+			produced = bread
+			output = 1.875
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+	}
+}

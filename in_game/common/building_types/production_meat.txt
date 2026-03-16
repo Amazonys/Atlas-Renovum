@@ -1,0 +1,129 @@
+﻿butcher = {
+	is_foreign = no
+	pop_type = burghers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = guild_employment
+	
+	
+	town = yes
+	city = yes
+
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		cattle_butcher_maintenance = {
+			livestock = 1
+			tools = 0.1
+
+			produced = meat
+			output = 2
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		swine_butcher_maintenance = {
+			swine = 1
+			tools = 0.1
+			
+
+			produced = meat
+			output = 2
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		poultry_butcher_maintenance = {
+			poultry = 1
+			tools = 0.1
+			
+
+			produced = meat
+			output = 1.5
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		caprids_butcher_maintenance = {
+			caprids = 1
+			tools = 0.1
+			
+
+			produced = meat
+			output = 1.25
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}	
+		reindeer_butcher_maintenance = {
+			reindeer = 1
+			tools = 0.1
+			
+			
+			produced = meat
+			output = 1
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		bison_butcher_maintenance = {
+			bison = 1
+			tools = 0.1
+			
+
+			produced = meat
+			output = 2.5
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		llamas_butcher_maintenance = {
+			llamas = 1
+			tools = 0.1
+			
+
+			produced = meat
+			output = 1.5
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		horses_butcher_maintenance = {
+			horses = 1
+			tools = 0.1
+			
+
+			produced = meat
+			output = 0.5
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		camels_butcher_maintenance = {
+			camels = 1
+			tools = 0.1
+			
+
+			produced = meat
+			output = 0.5
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		cetaceans_butcher_maintenance = {
+			cetaceans = 1
+			tools = 0.1
+			
+
+			produced = meat
+			output = 2.5
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+	}
+}

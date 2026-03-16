@@ -1,0 +1,262 @@
+﻿copper_forge = {
+	is_foreign = no
+	pop_type = laborers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = advanced_peasant_building_employment
+	
+	
+	town = yes
+	city = yes
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		copper_forge_maintenance = {
+			copper = 1.5
+			lumber = 0.5
+			tools = 0.1
+
+			produced = copper_metal
+			output = 1
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+	}
+}
+
+tin_forge = {
+	is_foreign = no
+	pop_type = laborers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = advanced_peasant_building_employment
+	
+	
+	town = yes
+	city = yes
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		tin_forge_maintenance = {
+			tin = 1.5
+			lumber = 0.5
+			tools = 0.1
+
+			produced = tin_metal
+			output = 1
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+	}
+}
+
+
+lead_forge = {
+	is_foreign = no
+	pop_type = laborers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = advanced_peasant_building_employment
+	
+	
+	town = yes
+	city = yes
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		lead_forge_maintenance = {
+			lead = 1.5
+			lumber = 0.5
+			tools = 0.1
+
+			produced = lead_metal
+			output = 1
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+	}
+}
+
+zinc_forge = {
+	is_foreign = no
+	pop_type = laborers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = advanced_peasant_building_employment
+	
+	
+	town = yes
+	city = yes
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		zinc_forge_maintenance = {
+			zinc = 1.5
+			lumber = 0.5
+			tools = 0.1
+
+			produced = zinc_metal
+			output = 1
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+	}
+}
+
+iron_forge = {
+	is_foreign = no
+	pop_type = laborers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = advanced_peasant_building_employment
+	
+	
+	town = yes
+	city = yes
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		iron_forge_maintenance = {
+			iron = 1.5
+			lumber = 0.5
+			tools = 0.1
+
+			produced = iron_metal
+			output = 1
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+	}
+}
+
+aluminum_forge = {
+	is_foreign = no
+	pop_type = laborers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = advanced_peasant_building_employment
+	
+	
+	town = yes
+	city = yes
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		alum_forge_maintenance = {
+			alum = 5
+			lumber = 0.5
+			tools = 0.1
+
+			produced = aluminum
+			output = 1
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		bauxite_forge_maintenance = {
+			bauxite = 2
+			coal = 1
+			tools = 0.25
+
+			produced = aluminum
+			output = 1
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+	}
+}
+
+bronze_forge = {
+	is_foreign = no
+	pop_type = laborers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = advanced_peasant_building_employment
+	
+	
+	town = yes
+	city = yes
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		bronze_forge_maintenance = {
+			copper = 1.5
+			tin = 1.5
+			lumber = 0.5
+			tools = 0.1
+
+			produced = bronze
+			output = 1
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+	}
+}
+
+brass_forge = {
+	is_foreign = no
+	pop_type = laborers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = advanced_peasant_building_employment
+	
+	
+	town = yes
+	city = yes
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		brass_forge_maintenance = {
+			copper = 1.5
+			zinc = 1.5
+			lumber = 0.5
+			tools = 0.1
+
+			produced = brass
+			output = 1
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+	}
+}
+
