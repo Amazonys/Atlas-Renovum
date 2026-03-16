@@ -38,7 +38,89 @@
  horses_dairychurn_maintenance: "Horse Dairy"
  camels_dairychurn_maintenance: "Camel Dairy"
  
+ #Wool
+ shearing_shed: "Shearing Shed"
+ shearing_shed_desc: ""
+ 
+ caprids_wool_maintenance: "Caprid Shearing"
+ llamas_wool_maintenance: "Llama Shearing"
+ 
+ 
+ ### Metals
+ #Copper
+ copper_forge: "Copper Forge"
+ copper_forge_desc: ""
+ 
+ copper_forge_maintenance: "Copper Smelting"
+ 
+ #Tin
+ tin_forge: "Tin Forge"
+ tin_forge_desc: ""
+ 
+ tin_forge_maintenance: "Tin Smelting"
+ 
+ #Lead
+ lead_forge: "Lead Forge"
+ lead_forge_desc: ""
+ 
+ lead_forge_maintenance: "Lead Smelting"
+ 
+ #Zinc
+ zinc_forge: "Zinc Forge"
+ zinc_forge_desc: ""
+ 
+ zinc_forge_maintenance: "Zinc Smelting"
+ 
+ #Iron
+ iron_forge: "Iron Forge"
+ iron_forge_desc: ""
+ 
+ iron_forge_maintenance: "Iron Smelting"
+ 
+ #Aluminum
+ aluminum_forge: "Aluminum Forge"
+ aluminum_forge_desc: ""
+ 
+ alum_forge_maintenance: "Alum Smelting" 
+ bauxite_forge_maintenance: "Bauxite Smelting" 
+ 
+ #Brass
+ brass_forge: "Brass Forge"
+ brass_forge_desc: ""
+ 
+ brass_forge_maintenance: "Brass Smelting"
+ 
+ #Bronze
+ bronze_forge: "Bronze Forge"
+ bronze_forge_desc: ""
+ 
+ bronze_forge_maintenance: "Bronze Smelting"
+ 
+ 
+ 
+ #####
+ #Oils
+ oil_press: "Oil Press"
+ oil_press_desc: ""
+ 
+ olive_oils_maintenancec: "Olive Oil"
+ legume_oils_maintenancec: "Legume Oil"
+ palm_oils_maintenancec: "Palm Oil"
+ nut_oils_maintenancec: "Nut Oil"
+ medicament_oils_maintenancec: "Herb Oil"
+ whale_oils_maintenancec: "Whale Oil"
+ 
  ##############################
+ ##### PRODUCTION METHODS
+ 
+ 
+ 
+ # Lumber Mill
+ softwood_lumber_mill_maintenance: "Softwood Milling"
+ hardwood_lumber_mill_maintenance: "Hardwood Milling"
+ 
+ 
+ 
 
  #Village Production Methods 
  farming_village_millet_maintenance: "Grain Farming"

@@ -219,6 +219,7 @@ ranching = {
 	
 	unlock_building = butcher
 	unlock_building = dairychurn
+	unlock_building = shearing_shed
 	allow = { 
 		OR = {
 			has_embraced_institution = institution:feudalism

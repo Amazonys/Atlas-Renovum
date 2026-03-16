@@ -1,0 +1,74 @@
+﻿oil_press = {
+	is_foreign = no
+	pop_type = laborers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = guild_employment
+	
+	
+	town = yes
+	city = yes
+
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		olive_oils_maintenance = {
+			olives = 2
+			tools = 0.5
+			
+
+			produced = oils
+			output = 1
+			category = guild_input
+		}
+		legume_oils_maintenance = {
+			legumes = 2
+			tools = 0.5
+			
+
+			produced = oils
+			output = 1
+			category = guild_input
+		}
+		palm_oils_maintenance = {
+			palm = 1
+			tools = 0.5
+			
+
+			produced = oils
+			output = 1
+			category = guild_input
+		}
+		nut_oils_maintenance = {
+			nuts = 3
+			tools = 0.5
+			
+
+			produced = oils
+			output = 1
+			category = guild_input
+		}
+		medicament_oils_maintenance = {
+			medicaments = 2
+			tools = 0.5
+			
+
+			produced = oils
+			output = 1
+			category = guild_input
+		}
+		whale_oils_maintenance = {
+			cetaceans = 1
+			tools = 0.5
+			
+
+			produced = oils
+			output = 1
+			category = guild_input
+		}
+	}
+}

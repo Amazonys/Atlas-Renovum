@@ -1,0 +1,37 @@
+﻿shearing_shed = {
+	is_foreign = no
+	pop_type = laborers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = guild_employment
+	
+	
+	rural = yes
+
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		caprids_wool_maintenance = {
+			caprids = 1
+			tools = 0.1
+			
+
+			produced = wool
+			output = 1
+			category = guild_input
+		}
+		llamas_wool_maintenance = {
+			llamas = 1
+			tools = 0.1
+			
+
+			produced = wool
+			output = 1.25
+			category = guild_input
+		}
+	}
+}

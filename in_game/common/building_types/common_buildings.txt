@@ -316,33 +316,29 @@ lumber_mill = {
 	
 	employment_size = rural_peasant_produce_employment
 	
-	rural_settlement = yes
 	town = yes
 	city = yes
 
-	
-	location_potential = {
-		OR = {
-			vegetation = woods
-			vegetation = forest
-			vegetation = farmland
-			vegetation = jungle
-		}
-		NOT = {
-			raw_material = goods:lumber
-		}
-	}
-
-	category = rgo_building_category
+	category = basic_industry_category
 	
 	build_time = rural_build_time
 	
 	unique_production_methods = {
-		lumber_mill_maintenance = {
+		softwood_lumber_mill_maintenance = {
 			produced = lumber
 			output = 1
 
 			tools = 0.4
+			softwood = 1.5
+			
+			category = building_maintenance
+		}
+		hardwood_lumber_mill_maintenance = {
+			produced = lumber
+			output = 1
+
+			tools = 0.4
+			hardwood = 1.25
 			
 			category = building_maintenance
 		}
