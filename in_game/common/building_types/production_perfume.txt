@@ -1,0 +1,120 @@
+﻿perfumery = {
+	is_foreign = no
+	pop_type = burghers
+	max_levels = guild_max_level
+	
+	category = consumer_goods_category
+	
+	employment_size = guild_employment
+	
+	
+	town = yes
+	city = yes
+
+	custom_tags = { guild }
+	construction_demand = guild_construction
+
+	build_time = guild_build_time
+
+	unique_production_methods = {
+		
+		oil_base = {
+			oils = 0.5
+			glass = 0.25
+			
+
+			produced = perfume
+			output = 1
+			
+			category = guild_input
+		}
+		alcohol_base = {
+			liquor = 0.4
+			glass = 0.25
+			
+			produced = perfume
+			output = 1
+			
+			category = guild_input
+		}
+		chemical_base = {
+			chemicals = 0.3
+			glass = 0.25
+			
+			produced = perfume
+			output = 1
+			
+			category = guild_input
+		}
+
+	}
+
+
+	unique_production_methods = {
+		fruity_aroma = {
+			fruit = 0.1
+			produced = perfume
+			output = 0.1
+			
+			category = guild_input
+		}
+		floral_aroma = {
+			saffron = 0.1
+			produced = perfume
+			output = 0.1
+			
+			category = guild_input
+		}
+		amber_aroma = {
+			amber = 0.1
+			produced = perfume
+			output = 0.1
+			
+			category = guild_input
+		}
+		woody_aroma = {
+			incense = 0.1
+			produced = perfume
+			output = 0.1
+			
+			category = guild_input
+		}
+		leather_aroma = {
+			beeswax = 0.1
+			tobacco = 0.1
+			tar = 0.1
+			produced = perfume
+			output = 0.3
+			
+			category = guild_input
+		}
+		chypre_aroma = {
+			fruit = 0.1
+			amber = 0.1
+			saffron = 0.1
+			produced = perfume
+			output = 0.3
+			
+			category = guild_input
+		}
+		fougere_aroma = {
+			medicaments = 0.1
+			cinnamon = 0.1
+			amber = 0.1
+			produced = perfume
+			output = 0.3
+			
+			category = guild_input
+		}
+		gourmand_aroma = {
+			vanilla = 0.1
+			cocoa = 0.1
+			cinnamon = 0.1
+			produced = perfume
+			produced = 0.3
+			
+			category = guild_input
+		}
+		
+	}
+}

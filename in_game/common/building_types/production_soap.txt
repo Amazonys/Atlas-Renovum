@@ -1,0 +1,84 @@
+﻿soaper = {
+	is_foreign = no
+	pop_type = burghers
+	max_levels = guild_max_level
+	
+	category = consumer_goods_category
+	
+	employment_size = guild_employment
+	
+	
+	town = yes
+	city = yes
+
+	custom_tags = { guild }
+	construction_demand = guild_construction
+
+	build_time = guild_build_time
+
+	unique_production_methods = {
+		
+		soapmaking_maintenence = {
+			oils = 1
+			tools = 0.25
+			chemicals = 1
+
+			produced = soap
+			output = 0.5
+			
+			category = guild_input
+		}
+	}
+
+
+	unique_production_methods = {
+		unscented_soap_maintenance = {
+			produced = soap
+			tar = 0.05
+			
+			output = 0.1
+			
+			category = guild_input
+		}
+		
+		sand_soap_maintenance = {
+			produced = soap
+			sand = 0.05
+			tar = 0.1
+			
+			output = 0.2
+			
+			category = guild_input
+		}
+		
+		clay_soap_maintenance = {
+			produced = soap
+			clay = 0.05
+			tar = 0.1
+			
+			output = 0.2
+			
+			category = guild_input
+		}
+
+		metal_soap_maintenance = {
+			produced = soap
+			alum = 0.05
+			tar = 0.1
+			
+			output = 0.2
+			
+			category = guild_input
+		}
+
+		resin_soap_maintenance = {
+			produced = soap
+			amber = 0.05
+			tar = 0.1
+			
+			output = 0.2
+			
+			category = guild_input
+		}
+	}
+}

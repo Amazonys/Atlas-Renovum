@@ -669,7 +669,7 @@ naval_governor = {
 	}
 
 	location_potential = {
-		NOT = { is_connected_to = owner.capital }
+		#NOT = { is_connected_to = owner.capital }
 		is_overseas_for_owner = no
 		is_port = yes
 	}

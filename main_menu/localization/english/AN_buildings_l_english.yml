@@ -107,8 +107,45 @@
  legume_oils_maintenancec: "Legume Oil"
  palm_oils_maintenancec: "Palm Oil"
  nut_oils_maintenancec: "Nut Oil"
+ tuber_oils_maintenance: "Tuber Oil"
  medicament_oils_maintenancec: "Herb Oil"
  whale_oils_maintenancec: "Whale Oil"
+ 
+ #Perfume
+ perfumery: "Perfumery"
+ perfumery_desc: ""
+ 
+ oil_base: "Oil Solvent"
+ alcohol_base: "Alcohol Solvent"
+ chemical_base: "Chemical Solvent"
+ 
+ fruity_aroma: "Fruit Aroma"
+ floral_aroma: "Floral Aroma"
+ amber_aroma: "Amber Aroma"
+ woody_aroma: "Woody Aroma"
+ leather_aroma: "Leather Aroma"
+ chypre_aroma: "Chypre Aroma"
+ fougere_aroma: "Fougère Aroma"
+ gourmand_aroma: "Gourmand Aroma"
+ 
+ #Soap
+ soaper: "Soaper"
+ soaper_desc: ""
+ 
+ soapmaking_maintenence: "Soap"
+ unscented_soap_maintenance: "Unscented Soap"
+ sand_soap_maintenance: "Scouring Soap"
+ clay_soap_maintenance: "Clay Soap"
+ metal_soap_maintenance: "Metallic Soap"
+ resin_soap_maintenance: "Resin Soap"
+ 
+ #Cigars 
+ cigar_roller: "Cigar Roller"
+ cigar_roller_desc: ""
+ 
+ tobacco_cigar_maintenence: "Tobacco Cigars"
+ hemp_cigar_maintenence: "Hemp Cigars"
+ opium_cigar_maintenence: "Opium Cigars"
  
  ##############################
  ##### PRODUCTION METHODS

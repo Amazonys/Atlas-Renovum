@@ -1,0 +1,58 @@
+﻿powder_mill = {
+	is_foreign = no
+	pop_type = burghers
+	max_levels = guild_max_level
+	
+	category = consumer_goods_category
+	
+	employment_size = guild_employment
+	
+	
+	town = yes
+	city = yes
+
+	custom_tags = { guild }
+	construction_demand = guild_construction
+
+	build_time = guild_build_time
+
+	unique_production_methods = {
+		
+		tobacco_gunpowdermaking_maintenence = {
+			tobacco = 1
+			paper = 0.8
+			resin = 0.2
+			wood = 0.1
+			
+
+			produced = gunpowder
+			output = 0.5
+			
+			category = guild_input
+		}
+		hemp_gunpowdermaking_maintenence = {
+			hemp = 1.1
+			paper = 0.8
+			resin = 0.2
+			wood = 0.1
+			
+
+			produced = gunpowder
+			output = 0.5
+			
+			category = guild_input
+		}
+		opium_gunpowdermaking_maintenence = {
+			opium = 1.2
+			paper = 0.8
+			resin = 0.2
+			wood = 0.1
+			
+
+			produced = gunpowder
+			output = 0.5
+			
+			category = guild_input
+		}
+	}
+}

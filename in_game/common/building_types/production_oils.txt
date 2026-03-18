@@ -3,7 +3,7 @@
 	pop_type = laborers
 	max_levels = guild_max_level
 	
-	category = basic_industry_category
+	category = consumer_goods_category
 	
 	employment_size = guild_employment
 	
@@ -11,7 +11,8 @@
 	town = yes
 	city = yes
 
-	
+	custom_tags = { guild }
+	construction_demand = guild_construction
 
 	build_time = guild_build_time
 
@@ -19,7 +20,7 @@
 		olive_oils_maintenance = {
 			olives = 2
 			tools = 0.5
-			
+			glass = 0.25
 
 			produced = oils
 			output = 1
@@ -28,6 +29,7 @@
 		legume_oils_maintenance = {
 			legumes = 2
 			tools = 0.5
+			glass = 0.25
 			
 
 			produced = oils
@@ -37,6 +39,7 @@
 		palm_oils_maintenance = {
 			palm = 1
 			tools = 0.5
+			glass = 0.25
 			
 
 			produced = oils
@@ -46,6 +49,17 @@
 		nut_oils_maintenance = {
 			nuts = 3
 			tools = 0.5
+			glass = 0.25
+			
+
+			produced = oils
+			output = 1
+			category = guild_input
+		}
+		tuber_oils_maintenance = {
+			nuts = 2
+			tools = 0.5
+			glass = 0.25
 			
 
 			produced = oils
@@ -55,6 +69,7 @@
 		medicament_oils_maintenance = {
 			medicaments = 2
 			tools = 0.5
+			glass = 0.25
 			
 
 			produced = oils
@@ -64,6 +79,7 @@
 		whale_oils_maintenance = {
 			cetaceans = 1
 			tools = 0.5
+			glass = 0.25
 			
 
 			produced = oils
