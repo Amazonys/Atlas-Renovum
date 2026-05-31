@@ -47,55 +47,17 @@
  
  
  ### Metals
- #Copper
- copper_forge: "Copper Forge"
- copper_forge_desc: ""
+ forge: "Forge"
+ forge_desc: ""
+ forge_slot_0: "Base [production_method|e]:"
+ forge_slot_1: "Fuel:"
  
- copper_forge_maintenance: "Copper Smelting"
- 
- #Tin
- tin_forge: "Tin Forge"
- tin_forge_desc: ""
- 
- tin_forge_maintenance: "Tin Smelting"
- 
- #Lead
- lead_forge: "Lead Forge"
- lead_forge_desc: ""
- 
- lead_forge_maintenance: "Lead Smelting"
- 
- #Zinc
- zinc_forge: "Zinc Forge"
- zinc_forge_desc: ""
- 
- zinc_forge_maintenance: "Zinc Smelting"
- 
- #Iron
- iron_forge: "Iron Forge"
- iron_forge_desc: ""
- 
- iron_forge_maintenance: "Iron Smelting"
- 
- #Aluminum
- aluminum_forge: "Aluminum Forge"
- aluminum_forge_desc: ""
- 
- alum_forge_maintenance: "Alum Smelting" 
- bauxite_forge_maintenance: "Bauxite Smelting" 
- 
- #Brass
- brass_forge: "Brass Forge"
- brass_forge_desc: ""
- 
- brass_forge_maintenance: "Brass Smelting"
- 
- #Bronze
- bronze_forge: "Bronze Forge"
- bronze_forge_desc: ""
- 
- bronze_forge_maintenance: "Bronze Smelting"
- 
+ furnace: "Furnace"
+ furnace_desc: ""
+ blast_furnace: "Blast Furnace"
+ blast_furnace_desc: ""
+ puddling_furnace: ""
+ puddling_furnace_desc: "Puddling Furnace"
  
  
  #####
@@ -115,6 +77,9 @@
  perfumery: "Perfumery"
  perfumery_desc: ""
  
+ perfumery_slot_0: "Solvent:"
+ perfumery_slot_1: "Aroma:"
+ 
  oil_base: "Oil Solvent"
  alcohol_base: "Alcohol Solvent"
  chemical_base: "Chemical Solvent"
@@ -132,6 +97,9 @@
  soaper: "Soaper"
  soaper_desc: ""
  
+ soaper_slot_0: "Base [production_method|e]:"
+ soaper_slot_1: "Enhancements:"
+ 
  soapmaking_maintenence: "Soap"
  unscented_soap_maintenance: "Unscented Soap"
  sand_soap_maintenance: "Scouring Soap"
@@ -146,6 +114,66 @@
  tobacco_cigar_maintenence: "Tobacco Cigars"
  hemp_cigar_maintenence: "Hemp Cigars"
  opium_cigar_maintenence: "Opium Cigars"
+ 
+ #Chemicals
+ alchemist: "Alchemist"
+ alchemist_desc: ""
+ 
+ alchemical_maintenence: "Alchemistry"
+ 
+ iatrochemist: "Iatrochemist"
+ iatrochemist_desc: ""
+ 
+ essential_iatrochemical_maintenence: "Essential Iatrochemistry"
+ paracelsian_iatrochemical_maintenence: "Paracelsian Iatrochemistry"
+ helmontian_iatrochemical_maintenence: "Helmontian Iatrochemistry"
+ 
+ chemist: "Chemist"
+ chemist_desc: ""
+ 
+ organic_chemist_maintenence: "Organic Chemistry"
+ inorganic_chemist_maintenence: "Inorganic Chemistry"
+ 
+ chemical_factory: "Chemical Factory"
+ chemical_factory_desc: ""
+ 
+ organic_chemical_maintenence: "Organic Chemicals"
+ inorganic_chemical_maintenence: "Inorganic Chemicals"
+ 
+ #Chocolate
+ confectionary: "Confectionary"
+ confectionary_desc: ""
+ 
+ sugar_chocolate_maintenence: "Chocolates"
+ vanilla_chocolate_maintenence: "Xocolatl"
+ sugar_candy_maintenence: "Sugar Candies"
+ pastry_maintenence: "Pastries"
+ fruit_comfit_maintenence: "Fruit Comfits"
+ nut_comfit_maintenence: "Nut Comfits"
+ root_comfit_maintenence: "Root Comfits"
+ flower_comfit_maintenence: "Floral Comfits"
+ 
+ #Gunpowder
+ powder_mill: "Powder Mill"
+ powder_mill_desc: ""
+ 
+ powdermixing_maintenence: "Gunpowder Mixing"
+ 
+ 
+ 
+ 
+ ### REWORK
+ #Incense
+ censer: "Censer"
+ censer_desc: ""
+ 
+ jewish_censer_maintenance: "Jewish Aromatica"
+ christian_censer_maintenance: "Christian Aromatica"
+ muslim_censer_maintenance: "Islamic Aromatica"
+ indian_censer_maintenance: "Indian Aromatica"
+ chinese_censer_maintenance: "Chinese Aromatica"
+ japanese_censer_maintenance: "Japanese Aromatica"
+ modern_censer_maintenance: "Traditional Aromatica"
  
  ##############################
  ##### PRODUCTION METHODS

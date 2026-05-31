@@ -6290,14 +6290,14 @@ can_extract_coal={
 	}
 }
 
-can_extract_iron={
+can_extract_iron_ore={
 	boolean=yes
 	game_data={
 		category=country
 	}
 }
 
-can_extract_copper={
+can_extract_copper_ore={
 	boolean=yes
 	game_data={
 		category=country
@@ -6325,14 +6325,14 @@ can_extract_stone={
 	}
 }
 
-can_extract_tin={
+can_extract_tin_ore={
 	boolean=yes
 	game_data={
 		category=country
 	}
 }
 
-can_extract_lead={
+can_extract_lead_ore={
 	boolean=yes
 	game_data={
 		category=country
@@ -6805,12 +6805,6 @@ can_extract_tomato={
 		category=country
 	}
 }
-can_extract_beans={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
 can_extract_nuts={
 	boolean=yes
 	game_data={
@@ -6889,24 +6883,6 @@ can_extract_exotica={
 		category=country
 	}
 }
-can_extract_dairy={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_bread={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_meat={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
 can_extract_cinnamon={
 	boolean=yes
 	game_data={
@@ -6937,25 +6913,25 @@ can_extract_sulphur={
 		category=country
 	}
 }
-can_extract_zinc={
+can_extract_softwood={
 	boolean=yes
 	game_data={
 		category=country
 	}
 }
-can_extract_bauxite={
+can_extract_hardwood={
 	boolean=yes
 	game_data={
 		category=country
 	}
 }
-can_extract_chromite={
+can_extract_zinc_ore={
 	boolean=yes
 	game_data={
 		category=country
 	}
 }
-can_extract_phosphate={
+can_extract_caprids={
 	boolean=yes
 	game_data={
 		category=country
@@ -6968,42 +6944,6 @@ can_extract_camels={
 	}
 }
 can_extract_llamas={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_perfume={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_soap={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_cigars={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_artifices={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_chemicals={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_fertilizer={
 	boolean=yes
 	game_data={
 		category=country
