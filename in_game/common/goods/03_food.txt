@@ -30,6 +30,7 @@ wheat = {
 		subtropical = 0.5
 		tropical = 0.5
 	}
+	no_demand_if_no_market_availability = yes
 }
 
 rice = {
@@ -104,7 +105,123 @@ maize = {
 	origin_in_new_world = yes
 	custom_tags = { new_world_goods }
 
-	demand_only_in_continent = america
+	no_demand_if_no_market_availability = yes
+}
+
+rye = {
+	method = farming
+	category = raw_material
+	color = goods_rye
+	
+	food = 8.0
+	
+	default_market_price = 1
+	
+	demand_add = {	
+		all = 0.001
+	}
+	demand_multiply = {
+		upper = 2.5
+		slaves = 0
+		tribesmen = 0
+	}
+	
+	wealth_impact_threshold = {
+		peasants = 1.1
+		laborers = 1.1
+		soldiers = 1.0
+	}
+	
+
+	origin_in_old_world = yes
+	custom_tags = { old_world_goods }
+	
+	no_demand_if_no_market_availability = yes
+}
+
+oats = {
+	method = farming
+	category = raw_material
+	color = goods_oats
+	
+	food = 10.0
+	
+	default_market_price = 1
+	
+	demand_add = {	
+		all = 0.001
+	}
+	demand_multiply = {
+		upper = 2.5
+		slaves = 0
+		tribesmen = 0
+	}
+	
+	wealth_impact_threshold = {
+		peasants = 1.1
+		laborers = 1.1
+		soldiers = 1.0
+	}
+	
+
+	origin_in_old_world = yes
+	custom_tags = { old_world_goods }
+	
+	no_demand_if_no_market_availability = yes
+}
+
+barley = {
+	method = farming
+	category = raw_material
+	color = goods_barley
+	
+	food = 8.5
+	
+	default_market_price = 1
+	
+	demand_add = {	
+		all = 0.001
+	}
+	demand_multiply = {
+		upper = 2.5
+		slaves = 0
+		tribesmen = 0
+	}
+	
+	wealth_impact_threshold = {
+		peasants = 1.1
+		laborers = 1.1
+		soldiers = 1.0
+	}
+	
+
+	origin_in_old_world = yes
+	custom_tags = { old_world_goods }
+	
+	no_demand_if_no_market_availability = yes
+}
+
+amaranth = {
+	method = farming
+	category = raw_material
+	color = goods_dyes
+
+	food = 8.0
+
+	default_market_price = 1
+
+	demand_add = {
+		all = 0.008
+	}
+	demand_multiply = {
+		upper = 2
+		tribesmen = 0
+	}
+	origin_in_new_world = yes
+	custom_tags = { new_world_goods }
+
+	#demand_only_in_continent = america
+	no_demand_if_no_market_availability = yes
 }
 
 #Livestock
@@ -141,6 +258,67 @@ livestock = {
 	origin_in_old_world = yes
 	custom_tags = { old_world_goods }
 }
+
+poultry = {
+	method = farming
+	category = raw_material
+	color = goods_poultry
+	
+	#food = 8
+	default_market_price = 1
+	transport_cost = 0.75
+	ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
+	
+	demand_add = {	
+		all = 0.001
+		
+	}
+	demand_multiply = {
+		 nobles = 30
+		 clergy = 10
+		 burghers = 10
+		 slaves = 0
+		 tribesmen = 0
+	}
+	
+	wealth_impact_threshold = {
+		peasants = 1.1
+		laborers = 1.1
+		soldiers = 1.1
+	}
+}
+swine = {
+	method = farming
+	category = raw_material
+	color = goods_swine
+	
+	#food = 8
+	default_market_price = 1.5
+	transport_cost = 2
+	ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
+	
+	demand_add = {	
+		all = 0.001
+		
+	}
+	demand_multiply = {
+		 nobles = 30
+		 clergy = 10
+		 burghers = 10
+		 slaves = 0
+		 tribesmen = 0
+	}
+	
+	wealth_impact_threshold = {
+		peasants = 1.1
+		laborers = 1.1
+		soldiers = 1.1
+	}
+
+	origin_in_old_world = yes
+	custom_tags = { old_world_goods }
+}
+
 
 #Agriculture
 wool = {
@@ -275,6 +453,131 @@ beeswax = {
 	no_demand_if_no_market_availability = yes
 }
 
+tomato = {
+	method = farming
+	category = raw_material
+	color = goods_tomato
+
+	food = 7
+	default_market_price = 1.5
+	transport_cost = 0.5
+	
+	demand_add = {
+		all = 0.001
+	}
+	demand_multiply = {
+		upper = 2
+		slaves = 0
+		tribesmen = 0
+
+	}
+	
+	wealth_impact_threshold = {
+		peasants = 1.1
+		laborers = 1.1
+		soldiers = 1.1
+	}	
+}
+
+nuts = {
+	method = gathering
+	category = raw_material
+	color = goods_nuts
+
+	food = 2
+	default_market_price = 1
+	transport_cost = 0.25
+	
+	demand_add = {
+		all = 0.001
+	}
+	demand_multiply = {
+		upper = 2
+		slaves = 0
+		tribesmen = 0
+
+	}
+	
+	wealth_impact_threshold = {
+		peasants = 1.1
+		laborers = 1.1
+		soldiers = 1.1
+	}	
+}
+
+roots = {
+	method = farming
+	category = raw_material
+	color = goods_tubers
+
+	food = 3
+	default_market_price = 1
+	transport_cost = 0.5
+	
+	demand_add = {
+		all = 0.001
+	}
+	demand_multiply = {
+		upper = 2
+		slaves = 0
+		tribesmen = 0
+
+	}
+	
+	wealth_impact_threshold = {
+		peasants = 1.1
+		laborers = 1.1
+		soldiers = 1.1
+	}	
+}
+
+palm = {
+	method = farming
+	category = raw_material
+	color = goods_palm
+
+	food = 3.5
+	default_market_price = 1
+	transport_cost = 0.5
+	
+	demand_add = {
+		all = 0.001
+	}
+	demand_multiply = {
+		upper = 2
+		slaves = 0
+		tribesmen = 0
+
+	}
+	
+	wealth_impact_threshold = {
+		peasants = 1.1
+		laborers = 1.1
+		soldiers = 1.1
+	}	
+}
+
+dates = {
+	method = farming
+	category = raw_material
+	color = goods_dates
+	
+	food = 3.5
+	default_market_price = 1.5
+	transport_cost = 0.25
+	
+	demand_add = {	
+		all = 0.002
+	}
+	
+	demand_multiply = {
+		upper = 2
+	}
+
+	custom_tags = { old_world_goods }
+}
+
+
 #Aquaculture
 fish = {
 	method = gathering
@@ -296,6 +599,77 @@ fish = {
 	}
 }
 
+pelagic_fish = {
+	method = gathering
+	category = raw_material
+	color = goods_pelagic_fish
+	
+	food = 8.0	
+	default_market_price = 1.5
+	transport_cost = 1.5
+	demand_add = {
+		all = 0.001
+	}
+	
+	demand_multiply = {
+		upper = 2
+	}
+
+	
+}
+shoal_fish = {
+	method = gathering
+	category = raw_material
+	color = goods_shoal_fish
+	
+	food = 4.0	
+	default_market_price = 1
+	transport_cost = 0.5
+	demand_add = {
+		all = 0.001
+	}
+	
+	demand_multiply = {
+		upper = 2
+	}
+
+	
+}
+cetaceans = {
+	method = hunting
+	category = raw_material
+	color = goods_cetaceans
+	
+	#food = 5.0
+	default_market_price = 2
+	transport_cost = 10
+	demand_add = {
+		all = 0.001
+	}
+	
+	demand_multiply = {
+		upper = 2
+	}
+
+	
+}
+crustaceans = {
+	method = gathering
+	category = raw_material
+	color = goods_crustaceans
+	
+	food = 6.0	
+	default_market_price = 1
+	demand_add = {
+		all = 0.001
+	}
+	
+	demand_multiply = {
+		upper = 2
+	}
+
+	
+}
 
 #Other
 wild_game = {
@@ -349,4 +723,75 @@ fur = {
 	topography_demand_modifier = {
 		mountains = 1.1
 	}
+}
+
+bison = {
+	method = hunting
+	category = raw_material
+	color = goods_bison
+	
+	#food = 8
+	default_market_price = 1.5
+	transport_cost = 10	
+	ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
+	
+	demand_add = {	
+		all = 0.001
+		
+	}
+	demand_multiply = {
+		 nobles = 30
+		 clergy = 10
+		 burghers = 10
+		 slaves = 0
+		 tribesmen = 0
+	}
+	
+	wealth_impact_threshold = {
+		peasants = 1.1
+		laborers = 1.1
+		soldiers = 1.1
+	}
+
+	
+	custom_tags = { new_world_goods }
+}
+reindeer = {
+	method = hunting
+	category = raw_material
+	color = goods_reindeer
+	
+	#food = 3.5
+	
+	default_market_price = 1.5
+	
+	transport_cost = 5
+	demand_add = {
+		all =  0.0004
+	}
+	demand_multiply = {
+		nobles = 20
+		clergy = 5
+		burghers = 5
+	}
+
+}
+exotica = {
+	method = gathering
+	category = raw_material
+	color = goods_exotica
+	
+	food = 1	
+	default_market_price = 4	
+	transport_cost = 2.5
+	
+	demand_add = {
+		all =  0.0004
+	}
+	demand_multiply = {
+		nobles = 20
+		clergy = 5
+		burghers = 5
+	}
+
 }
