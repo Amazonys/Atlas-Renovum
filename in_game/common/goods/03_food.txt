@@ -204,7 +204,7 @@ barley = {
 amaranth = {
 	method = farming
 	category = raw_material
-	color = goods_dyes
+	color = goods_amaranth
 
 	food = 8.0
 
@@ -508,7 +508,7 @@ nuts = {
 roots = {
 	method = farming
 	category = raw_material
-	color = goods_tubers
+	color = goods_roots
 
 	food = 3
 	default_market_price = 1
