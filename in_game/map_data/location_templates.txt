@@ -2569,7 +2569,7 @@ ibiza = { topography = flatland vegetation = woods climate = mediterranean relig
 manacor = { topography = flatland vegetation = grasslands climate = mediterranean religion = catholic culture = catalan raw_material = wine natural_harbor_suitability = 0.25}
 pollensa = { topography = hills vegetation = grasslands climate = cascadic religion = catholic culture = catalan raw_material = fiber_crops natural_harbor_suitability = 0.00}
 viseu = { topography = plateau vegetation = forest climate = cascadic religion = catholic culture = portuguese raw_material = softwood}
-besteiros = { topography = flatland vegetation = woods climate = cascadic religion = catholic culture = portuguese raw_material = hardwood}
+besteiros = { topography = flatland vegetation = woods climate = cascadic religion = catholic culture = portuguese raw_material = softwood}
 guarda = { topography = hills vegetation = forest climate = cascadic religion = catholic culture = portuguese raw_material = caprids}
 lamego = { topography = hills vegetation = woods climate = cascadic religion = catholic culture = portuguese raw_material = wine}
 meda = { topography = plateau vegetation = woods climate = cascadic religion = catholic culture = portuguese raw_material = wine}
@@ -2594,7 +2594,7 @@ braga = { topography = hills vegetation = woods climate = cascadic religion = ca
 guimaraes = { topography = hills vegetation = woods climate = cascadic religion = catholic culture = portuguese raw_material = poultry}
 valenca = { topography = hills vegetation = woods climate = cascadic religion = catholic culture = portuguese raw_material = livestock}
 viana_do_castelo = { topography = hills vegetation = woods climate = cascadic religion = catholic culture = portuguese raw_material = wine natural_harbor_suitability = 0.50}
-braganca = { topography = hills vegetation = woods climate = cascadic religion = catholic culture = portuguese raw_material = livestock}
+braganca = { topography = hills vegetation = woods climate = cascadic religion = catholic culture = portuguese raw_material = swine}
 aguiar = { topography = hills vegetation = woods climate = cascadic religion = catholic culture = portuguese raw_material = tin}
 chaves = { topography = hills vegetation = woods climate = cascadic religion = catholic culture = portuguese raw_material = caprids}
 macedo = { topography = hills vegetation = woods climate = cascadic religion = catholic culture = portuguese raw_material = softwood}
@@ -2635,7 +2635,7 @@ mora_portugal = { topography = flatland vegetation = grasslands climate = medite
 ponte_sor = { topography = flatland vegetation = grasslands climate = mediterranean religion = catholic culture = portuguese raw_material = sand}
 salvaterra = { topography = flatland vegetation = grasslands climate = mediterranean religion = catholic culture = portuguese raw_material = wine}
 tomar = { topography = flatland vegetation = grasslands climate = cascadic religion = catholic culture = portuguese raw_material = fiber_crops}
-torres_novas = { topography = flatland vegetation = woods climate = mediterranean religion = catholic culture = portuguese raw_material = softwood}
+torres_novas = { topography = flatland vegetation = woods climate = mediterranean religion = catholic culture = portuguese raw_material = hardwood}
 alarcon = { topography = plateau vegetation = woods climate = cold_arid religion = catholic culture = castilian raw_material = swine}
 belmonte = { topography = plateau vegetation = sparse climate = cold_arid religion = catholic culture = castilian raw_material = livestock}
 iniesta = { topography = plateau vegetation = grasslands climate = cold_arid religion = catholic culture = castilian raw_material = beeswax}
@@ -22017,7 +22017,7 @@ ahuilizapan = { topography = mountains vegetation = forest climate = subtropical
 otlaquiquixtla = { topography = hills vegetation = forest climate = oceanic religion = nahuatl culture = nahua_culture raw_material = wild_game}
 zongolica = { topography = mountains vegetation = forest climate = subtropical religion = nahuatl culture = nahua_culture raw_material = softwood}
 cempoala = { topography = hills vegetation = jungle climate = calidic religion = mayan culture = totonac_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
-itzcalpan = { topography = plateau vegetation = jungle climate = calidic religion = nahuatl culture = nahua_culture raw_material = cocoa}
+itzcalpan = { topography = plateau vegetation = jungle climate = calidic religion = nahuatl culture = nahua_culture raw_material = vanilla}
 xicochimalco = { topography = hills vegetation = forest climate = oceanic religion = nahuatl culture = nahua_culture raw_material = maize}
 quiahuiztlan = { topography = hills vegetation = jungle climate = calidic religion = mayan culture = totonac_culture raw_material = sand natural_harbor_suitability = 0.00}
 tizatlan = { topography = hills vegetation = grasslands climate = oceanic religion = mesoamerican culture = tlaxcaltec_culture raw_material = poultry}
@@ -22042,15 +22042,15 @@ tlatlauquitepec = { topography = mountains vegetation = forest climate = oceanic
 nauhtlan = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = totonac_culture raw_material = fruit natural_harbor_suitability = 0.00}
 tuzapan = { topography = flatland vegetation = jungle climate = mesothermal religion = mayan culture = totonac_culture raw_material = silver}
 papantla = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = totonac_culture raw_material = maize natural_harbor_suitability = 0.00}
-tlapacoyan = { topography = flatland vegetation = jungle climate = mesothermal religion = mayan culture = totonac_culture raw_material = cocoa}
+tlapacoyan = { topography = flatland vegetation = jungle climate = mesothermal religion = mayan culture = totonac_culture raw_material = vanilla}
 cuyuxquihui = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = totonac_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 xalapa = { topography = mountains vegetation = jungle climate = oceanic religion = nahuatl culture = nahua_culture raw_material = poultry}
 xalacinco = { topography = plateau vegetation = woods climate = oceanic religion = nahuatl culture = nahua_culture raw_material = fiber_crops}
-mizantla = { topography = hills vegetation = jungle climate = mesothermal religion = mayan culture = totonac_culture raw_material = cocoa}
+mizantla = { topography = hills vegetation = jungle climate = mesothermal religion = mayan culture = totonac_culture raw_material = vanilla}
 teziutlan = { topography = hills vegetation = forest climate = oceanic religion = mayan culture = totonac_culture raw_material = wild_game}
-tuxpan = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = huastec_culture raw_material = cocoa natural_harbor_suitability = 0.00}
+tuxpan = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = huastec_culture raw_material = vanilla natural_harbor_suitability = 0.00}
 teayotlan = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = huastec_culture raw_material = cotton natural_harbor_suitability = 0.00}
-pantepec = { topography = flatland vegetation = jungle climate = mesothermal religion = nahuatl culture = nahua_culture raw_material = chili}
+pantepec = { topography = flatland vegetation = jungle climate = mesothermal religion = nahuatl culture = nahua_culture raw_material = vanilla}
 taximaroa = { topography = hills vegetation = forest climate = subtropical religion = mesoamerican culture = purepecha_culture raw_material = chili}
 tzitacuaro = { topography = mountains vegetation = forest climate = subtropical religion = mesoamerican culture = purepecha_culture raw_material = gems}
 zinapecuaro = { topography = plateau vegetation = forest climate = subtropical religion = chichimecah_religion culture = otomanguean_culture raw_material = softwood}
