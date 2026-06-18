@@ -6781,6 +6781,25 @@ can_extract_furniture={
 }
 
 #Amyz Extract
+can_extract_softwood={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_hardwood={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_sulphur={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
 can_extract_barley={
 	boolean=yes
 	game_data={
@@ -6799,6 +6818,14 @@ can_extract_oats={
 		category=country
 	}
 }
+
+can_extract_amaranth={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
 can_extract_tomato={
 	boolean=yes
 	game_data={
@@ -6811,7 +6838,7 @@ can_extract_nuts={
 		category=country
 	}
 }
-can_extract_tubers={
+can_extract_roots={
 	boolean=yes
 	game_data={
 		category=country
@@ -6829,6 +6856,83 @@ can_extract_dates={
 		category=country
 	}
 }
+
+
+can_extract_opium={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_rubber={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+can_extract_cinnamon={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_vanilla={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+can_extract_poultry={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_swine={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_bison={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_caprids={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_camels={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_llamas={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_reindeer={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_exotica={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
 can_extract_pelagic_fish={
 	boolean=yes
 	game_data={
@@ -6853,102 +6957,15 @@ can_extract_crustaceans={
 		category=country
 	}
 }
-can_extract_poultry={
+
+can_extract_zinc={
 	boolean=yes
 	game_data={
 		category=country
 	}
 }
-can_extract_swine={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_bison={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_reindeer={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_exotica={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_cinnamon={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_opium={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_vanilla={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_rubber={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_sulphur={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_softwood={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_hardwood={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_zinc_ore={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_caprids={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_camels={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
-can_extract_llamas={
-	boolean=yes
-	game_data={
-		category=country
-	}
-}
+
+#End Amyz
 
 ban_exports_of_cotton={
 	boolean=yes

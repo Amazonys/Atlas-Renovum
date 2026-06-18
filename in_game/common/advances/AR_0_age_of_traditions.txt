@@ -1,0 +1,56 @@
+﻿
+#Agriculture
+REPLACE:agriculture_advance = {
+	age = age_1_traditions
+	research_cost = 2.0
+	can_extract_wheat = yes
+	can_extract_barley = yes
+	can_extract_rye = yes
+	can_extract_oats = yes
+	can_extract_maize = yes
+	can_extract_amaranth = yes
+	can_extract_rice = yes
+	can_extract_millet = yes
+
+	depth = 0
+
+	starting_technology_level = 1
+}
+
+REPLACE:ranching = {
+	age = age_1_traditions
+	icon = finest_of_horses
+	starting_technology_level = 1
+	requires = windmills_advance
+	
+	allow = { 
+		OR = {
+			has_embraced_institution = institution:feudalism
+			original_capital ?= { continent = continent:europe }
+			original_capital ?= { continent = continent:asia }
+			original_capital ?= { sub_continent = sub_continent:north_africa }
+			original_capital ?= { sub_continent = sub_continent:west_africa }
+			
+			original_capital ?= {
+				market ?= { 
+					OR = {
+						is_produced_in_market = goods:horses 
+						is_traded_in_market = goods:horses 
+						is_produced_in_market = goods:camels 
+						is_traded_in_market = goods:camels 
+					}
+				} 
+			}
+		}
+	}
+	can_extract_horses = yes
+	can_extract_camels = yes
+}
+
+INJECT:bronze_working = {
+	can_extract_zinc = yes
+}
+
+INJECT:advanced_mining  = {
+	can_extract_sulphur = yes
+}

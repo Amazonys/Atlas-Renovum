@@ -1,0 +1,25 @@
+﻿INJECT:country_base_values = {
+	can_extract_potato = yes
+	can_extract_tomato = yes
+	can_extract_roots = yes
+	can_extract_legumes = yes
+	can_extract_dates = yes
+	can_extract_palm = yes
+	can_extract_opium = yes
+	can_extract_rubber = yes
+	can_extract_vanilla = yes
+	can_extract_cinnamon = yes
+	can_extract_poultry = yes
+	can_extract_swine = yes
+	can_extract_bison = yes
+	can_extract_reindeer = yes
+	can_extract_caprids = yes
+	can_extract_llamas = yes
+	can_extract_exotica = yes
+	can_extract_pelagic_fish = yes
+	can_extract_shoal_fish = yes
+	can_extract_crustaceans = yes
+	can_extract_cetaceans = yes
+	can_extract_softwood = yes
+	can_extract_hardwood = yes	
+}

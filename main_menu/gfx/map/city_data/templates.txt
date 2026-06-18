@@ -1227,6 +1227,7 @@ template rgo_all {
 		mercury_mesh_list		= mercury_mesh_list
 		sand_mesh_list			= sand_mesh_list
 		salt_mesh_list			= salt_mesh_list
+		sulphur_mesh_list		= sulphur_mesh_list
 		clay_mesh_list			= clay_mesh_list
 		pearls_mesh_list		= pearls_mesh_list
 		fish_mesh_list			= fish_mesh_list
@@ -1301,6 +1302,7 @@ template rgo_all {
 		load_template rgo_generic { rgo_contributor = rgo_workers:mercury     	mesh_list = @mercury_mesh_list 		size = small 	filter = replace_raw_resource_filter scale = 0.5}
 		load_template rgo_generic { rgo_contributor = rgo_workers:sand    		mesh_list = @sand_mesh_list 		size = small 	filter = replace_raw_resource_filter scale = 0.5}
 		load_template rgo_generic { rgo_contributor = rgo_workers:salt    		mesh_list = @salt_mesh_list 		size = small 	filter = replace_raw_resource_filter scale = 0.5}
+		load_template rgo_generic { rgo_contributor = rgo_workers:sulphur   	mesh_list = @sulphur_mesh_list 		size = small 	filter = replace_raw_resource_filter scale = 0.5}
 		load_template rgo_generic { rgo_contributor = rgo_workers:clay     		mesh_list = @clay_mesh_list 	scale = 2.0 size = small filter = replace_raw_resource_filter scale = 1 }
 		
 	# misc
@@ -1319,7 +1321,8 @@ template rgo_all {
 		load_template rgo_generic { rgo_contributor = rgo_workers:bison			mesh_list = @bison_mesh_list filter = next_to_anything_filter	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:wild_game		mesh_list = @wild_game_mesh_list filter = next_to_anything_filter	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:ivory			mesh_list = @ivory_mesh_list 	filter = next_to_anything_filter	scale = 1.0 }
-		load_template rgo_generic { rgo_contributor = rgo_workers:lumber		mesh_list = @lumber_mesh_list	filter = next_to_anything_filter	scale = 1.0 }
+		load_template rgo_generic { rgo_contributor = rgo_workers:softwood		mesh_list = @lumber_mesh_list	filter = next_to_anything_filter	scale = 1.0 }
+		load_template rgo_generic { rgo_contributor = rgo_workers:hardwood		mesh_list = @lumber_mesh_list	filter = next_to_anything_filter	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:beeswax		mesh_list = @beeswax_mesh_list 	filter = next_to_anything_filter	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:llamas		mesh_list = @llamas_mesh_list	filter = next_to_anything_filter	scale = 1.0 }
 		load_template rgo_generic { rgo_contributor = rgo_workers:exotica		mesh_list = @parrots_mesh_list	filter = next_to_anything_filter	scale = 1.0 }
@@ -1411,6 +1414,8 @@ template rgo_all {
 		load_template raw_resource_seed { contributor = raw_resource:sand			mesh_list = raw_sand_mesh_list			scale = 0.01	size = small	can_build_over = no}
 		load_template raw_resource_seeded { contributor = raw_resource:salt			mesh_list = raw_salt_mesh_list			scale = 0.03	size = small	can_build_over = no}
 		load_template raw_resource_seed { contributor = raw_resource:salt			mesh_list = raw_salt_mesh_list			scale = 0.01	size = small	can_build_over = no}
+		load_template raw_resource_seeded { contributor = raw_resource:sulphur			mesh_list = raw_sulphur_mesh_list			scale = 0.03	size = small	can_build_over = no}
+		load_template raw_resource_seed { contributor = raw_resource:sulphur			mesh_list = raw_sulphur_mesh_list			scale = 0.01	size = small	can_build_over = no}
 		load_template raw_resource { contributor = raw_resource:clay			mesh_list = raw_clay_mesh_list			scale = 0.07 	size = small	can_build_over = no}
 
 
@@ -1486,7 +1491,6 @@ template rgo_all {
 		load_template bear_seeded {}
 		load_template parrots {}
 		load_template elk {}
-		#load_template raw_resource { contributor = raw_resource:lumber			mesh_list = raw_lumber_mesh_list		scale = 0.01 	size = small	can_build_over = no}
 
 	]]
 }

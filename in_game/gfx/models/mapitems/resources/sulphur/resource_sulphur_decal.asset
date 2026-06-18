@@ -1,0 +1,23 @@
+pdxmesh = {
+	name = "resource_sulphur_decal_mesh"
+	file = "resource_salt_decal.mesh"
+	scale = 0.12
+
+	
+
+	meshsettings = {
+		name = "salt_decal_lowShape"
+		index = 0
+		texture_diffuse = "raw_resources_salt_diffuse.dds"
+		texture_normal = "raw_resources_salt_normal.dds"
+		texture_specular = "raw_resources_salt_properties.dds"
+		shader = "decal_local"
+		shader_file = "gfx/FX/pdxmesh_decal.shader"
+		subpass = "LocalDecals"
+	}
+}
+
+entity = {
+	name = "resource_sulphur_decal_entity"
+	pdxmesh = "resource_sulphur_decal_mesh"
+}
