@@ -1,0 +1,157 @@
+﻿
+colors = {	
+	#urban
+	color_megalopolis = hsv360 { 259 86 85 } #Royal Purple
+	color_metropolis = hsv360 { 40 78 75 } #Bright Gold
+	color_city = hsv360 { 117 14 66 } #Blue Silver
+	color_town = hsv360 { 215 35 30 } #Mordor Silver
+	color_rural = hsv360 { 9 78 63 } #Red Bronze
+	
+	#climate
+	climate_sicco = rgb { 215 177 145 }
+	climate_xeric = rgb { 240 240 177 }
+	climate_cold_arid = rgb { 191 219 157 }
+	climate_arctic = rgb { 191 205 238 }
+	
+	climate_arid = rgb { 170 122 122 }
+	climate_mediterranean = rgb { 198 255 78 }
+	climate_continental = hsv360 { 126 57 62 }
+	climate_boreal = rgb {120 171 191}
+	
+	climate_calidic = rgb { 180 90 90 }
+	climate_mesothermal = rgb { 222 245 11 }
+	climate_oceanic = rgb { 102 255 51 }
+	climate_hemiboreal = rgb { 52 163 141 }
+	
+	climate_tropical = rgb { 191 22 22 }
+	climate_subtropical = rgb { 240 211 57 }	
+	climate_cascadic = rgb { 2 194 90 }	
+	climate_maritime = rgb { 0 219 219 }	
+	
+	#goods
+	goods_wine = rgb { 0.36 0.13 0.28 }
+	goods_wool = hsv360 { 180 10 60 }
+	goods_cloth = rgb { 0.86 0.19 0.19 }
+	goods_fur = rgb { 0.54 0.40 0.31 }
+	goods_salt = rgb { 0.999 0.999 0.999 }
+	goods_naval_supplies = rgb { 0.11 0.17 0.4 }
+	goods_copper = hsv360 { 20 60 85 }
+	goods_gold = rgb { 1.0 0.84 0.19 }
+	goods_iron = rgb { 0.2 0.2 0.2 }
+	goods_ivory = rgb { 0.75 0.7 0.63 }
+	goods_tea = rgb { 0.07 0.33 0.09 }
+	goods_porcelain = rgb { 0.18 0.57 0.8 }
+	goods_coffee = rgb { 0.22 0.15 0.09 }
+	goods_cotton = rgb { 0.52 0.68 0.6 }
+	goods_sugar = rgb { 0.74 0.95 0.68 }
+	goods_tobacco = rgb { 0.33 0.56 0.38 }
+	goods_cocoa = rgb { 0.45 0.21 0.09 }
+	goods_silk = rgb { 0.72 0.10 0.10 }
+	goods_dyes = rgb { 0.63 0.17 0.50 }
+	goods_lumber = rgb { 0.45 0.47 0.09 }
+	goods_incense = rgb { 0.89 0.79 0.47 }
+	goods_glass = rgb { 0.0 0.60 0.45 }
+	goods_paper = rgb { 0.9 0.86 0.71 }
+	goods_gems = hsv360 { 158 100 73 }
+	goods_coal = hsv { 0 0 0.12 }
+	goods_slaves = rgb { 0.0 0.0 0.0 }
+
+	# just made up colors
+	goods_silver = rgb { 192 192 192 }	
+	goods_stone = hsv { 0.6 0.2 0.3 }
+	goods_tin = hsv { 0.0 0.0 0.3 }
+	goods_lead = hsv { 0.67 0.8 0.9 }
+	goods_fiber_crops = hsv { 0.38 0.8 0.3 }
+	goods_firearms = hsv { 0.88 0.3 1 }	
+	goods_cannons = hsv { 0.78 0.4 1 }	
+	goods_steel = hsv { 0.6 0.3 0.2 }	
+	goods_liquor = hsv { 0.9 0.8 0.2 }
+	goods_beer = hsv { 0.7 0.82 0.25 }
+	goods_jewelry = hsv { 0.085 0.95 1 }
+	goods_leather = hsv { 0.05 0.35 0.15 }
+	goods_tools = hsv { 0.62 0.3 0.08 }
+	goods_clay = rgb { 190 70 70 }
+	goods_sand = rgb { 242 242 111 }
+	goods_tar = hsv { 0 0 0.16 }	
+	goods_subst = hsv { 0.15 0.69 0.6 }
+	goods_wild_game = rgb { 156 130 100 }
+	goods_fish = hsv { 0.49 0.59 0.47 }
+	goods_wheat = hsv { 0.16 0.91 0.83 }
+	goods_maize = hsv360 { 40 90 80 }
+	goods_rice = hsv { 0.26 0.39 0.5 }
+	goods_millet = hsv { 0.28 0.60 0.40 }
+	goods_legumes = hsv { 0.46 0.7 0.59 }
+	goods_potato = rgb { 255 174 106 }
+	goods_livestock = hsv { 0.23 0.93 0.58 }
+	goods_olives = rgb { 72 102 0 }
+	goods_fruit = rgb { 242 63 63 }
+	
+	goods_medicaments = rgb { 255 127 127 }
+	goods_pearls = rgb { 234 224 200 }
+	goods_amber = rgb { 255 191 0 }
+	goods_saltpeter = rgb { 150 75 0 }
+	goods_horses = rgb { 159 129 112 }
+	goods_weaponry = rgb { 202 204 206 }
+	goods_fine_cloth = rgb { 183 169 155 }
+	goods_books = hsv { 0.91 0.81 0.63 }
+	goods_lacquerware = rgb { 152 0 24 }
+	goods_alum = rgb { 123 50 45 }
+	goods_elephants = rgb { 210 106 47 }
+	goods_marble = rgb { 0.97 0.90 0.97 }
+	goods_mercury = rgb { 224 59 80 }
+	goods_masonry = hsv360 {	26	70	25	} 	
+
+	goods_beeswax = hsv360 { 37 82 80 }	
+	goods_saffron = hsv360 { 22 86 75 }	
+	goods_pepper = rgb { 102 63 63 }
+	goods_chili = hsv360 { 10 87 75 }	
+	goods_cloves = hsv360 { 110 87 75 }	
+	goods_pottery = rgb { 160 192 192 }	
+	goods_furniture = rgb { 130 192 192 }	
+	
+	#Atlas Renovum goods
+	goods_barley = rgb { 155 105 59 }	
+	goods_oats = rgb { 233 214 161 }	
+	goods_rye = rgb { 231 203 140 }	
+	goods_amaranth = rgb { 170 141 179 }
+	goods_bison = rgb { 128 69 13 }
+	goods_tomato = rgb { 205 49 24 }		
+	goods_nuts = rgb { 145 69 59 }	
+	goods_roots = rgb { 158 117 92 }	
+	goods_palm = rgb { 227 150 69 }	
+	goods_dates = rgb { 122 49 36 }	
+	goods_pelagic_fish = rgb { 89 209 196 }	
+	goods_shoal_fish = rgb { 56 153 173 }	
+	goods_cetaceans = rgb { 115 235 247 }	
+	goods_crustaceans = rgb { 252 115 94 }	
+	goods_poultry = rgb { 230 166 82 }	
+	goods_swine = rgb { 203 133 113 }	
+	goods_buffalo = rgb { 112 64 46 }	
+	goods_reindeer = rgb { 90 60 40 }	
+	goods_exotica = rgb { 212 3 3 }	
+	#
+	goods_dairy = rgb { 252 192 54 }	
+	goods_bread = rgb { 173 192 192 }	
+	goods_meat = rgb { 173 192 192 }	
+	#
+	goods_caprids = hsv360 { 180 10 60 }
+	goods_camels = rgb { 235 196 148 }
+	goods_llamas = rgb { 252 212 181 }
+	#	
+	goods_softwood = rgb { 66 40 18 }
+	goods_hardwood = rgb { 54 45 38 }
+	goods_sulphur = rgb { 192 165 65 }
+	goods_zinc = rgb { 173 192 192 }
+	#
+	goods_cinnamon = rgb { 143 87 43 }	
+	goods_opium = rgb { 41 210 142 }	
+	goods_vanilla = rgb { 38 3 112 }	
+	goods_rubber = rgb { 173 192 192 }	
+	#
+	goods_perfume = rgb { 173 192 192 }	
+	goods_soap = rgb { 173 192 192 }	
+	goods_cigars = rgb { 173 192 192 }	
+	goods_artifices = rgb { 173 192 192 }	
+	goods_chemicals = rgb { 173 192 192 }	
+}
+

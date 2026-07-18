@@ -1,0 +1,1637 @@
+﻿### From 00_unique_buildings_to_make_obsolete.txt ###
+# CONTRIBUTION BY d0sada#
+ 
+INJECT:sofa_stockade = {
+    metropolis = yes
+}
+ 
+INJECT:korean_barracks = {
+    metropolis = yes
+}
+ 
+INJECT:provincial_garrison = {
+    metropolis = yes
+}
+ 
+### From capital_buildings.txt ###
+ 
+INJECT:royal_court = {
+    metropolis = yes
+}
+ 
+INJECT:house_of_parliament = {
+    metropolis = yes
+}
+ 
+INJECT:order_headquarters = {
+    metropolis = yes
+}
+ 
+INJECT:admiralty = {
+    metropolis = yes
+}
+ 
+INJECT:war_college = {
+    metropolis = yes
+}
+ 
+INJECT:tax_assessor = {
+    metropolis = yes
+}
+ 
+INJECT:supreme_court = {
+    metropolis = yes
+}
+ 
+INJECT:chancery = {
+    metropolis = yes
+}
+ 
+INJECT:republican_assembly = {
+    metropolis = yes
+}
+ 
+INJECT:royal_garden = {
+    metropolis = yes
+}
+ 
+INJECT:pirate_stronghold = {
+    metropolis = yes
+}
+ 
+### From coastal_forts.txt ###
+ 
+INJECT:coastal_fort = {
+    metropolis = yes
+}
+ 
+INJECT:naval_battery = {
+    metropolis = yes
+}
+ 
+### From common_buildings.txt ###
+ 
+INJECT:irrigation_systems = {
+    metropolis = yes
+}
+ 
+INJECT:bridge_infrastructure = {
+    metropolis = yes
+}
+ 
+INJECT:pound_lock_canal_infrastructure = {
+    metropolis = yes
+}
+ 
+INJECT:mason = {
+    metropolis = yes
+}
+ 
+INJECT:mercury_patio = {
+    metropolis = yes
+}
+ 
+INJECT:tar_kiln = {
+    metropolis = yes
+}
+ 
+INJECT:horse_breeders = {
+    metropolis = yes
+}
+ 
+INJECT:stone_quarry = {
+    metropolis = yes
+}
+ 
+INJECT:lumber_mill = {
+    metropolis = yes
+}
+ 
+INJECT:fiber_crops_farm = {
+    metropolis = yes
+}
+ 
+INJECT:sand_pit = {
+    metropolis = yes
+}
+ 
+INJECT:bog_iron_smelter = {
+    metropolis = yes
+}
+ 
+INJECT:clay_pit = {
+    metropolis = yes
+}
+ 
+INJECT:salt_collector = {
+    metropolis = yes
+}
+ 
+INJECT:fruit_orchard = {
+    metropolis = yes
+}
+ 
+### From culture_buildings.txt ###
+ 
+INJECT:university = {
+    metropolis = yes
+}
+ 
+INJECT:library = {
+    metropolis = yes
+}
+ 
+INJECT:confucian_school = {
+    metropolis = yes
+}
+ 
+INJECT:confucian_academy = {
+    metropolis = yes
+}
+ 
+INJECT:opera_house = {
+    metropolis = yes
+}
+ 
+INJECT:theater = {
+    metropolis = yes
+}
+ 
+INJECT:jesuit_college = {
+    metropolis = yes
+}
+ 
+INJECT:art_school = {
+    metropolis = yes
+}
+ 
+INJECT:arts_academy = {
+    metropolis = yes
+}
+ 
+### From estate_buildings.txt ###
+ 
+INJECT:toll_castle = {
+    metropolis = yes
+}
+ 
+INJECT:local_noble_delegation = {
+    metropolis = yes
+}
+ 
+INJECT:nobles_recruitment_center = {
+    metropolis = yes
+}
+ 
+INJECT:parish_church = {
+    metropolis = yes
+}
+ 
+INJECT:clerical_archives = {
+    metropolis = yes
+}
+ 
+INJECT:guild_hall = {
+    metropolis = yes
+}
+ 
+INJECT:merchants_guild = {
+    metropolis = yes
+}
+ 
+INJECT:burgher_mansion = {
+    metropolis = yes
+}
+ 
+INJECT:artisan_guilds = {
+    metropolis = yes
+}
+ 
+INJECT:local_assembly = {
+    metropolis = yes
+}
+ 
+INJECT:pirate_haven = {
+    metropolis = yes
+}
+ 
+INJECT:festival_grounds = {
+    metropolis = yes
+}
+ 
+INJECT:local_schools = {
+    metropolis = yes
+}
+ 
+INJECT:local_newspaper = {
+    metropolis = yes
+}
+ 
+### From event_only_buildings.txt ###
+ 
+INJECT:cantonments = {
+    metropolis = yes
+}
+ 
+INJECT:grand_palace = {
+    metropolis = yes
+}
+ 
+INJECT:great_madrasa = {
+    metropolis = yes
+}
+ 
+INJECT:tibetan_great_monastery = {
+    metropolis = yes
+}
+ 
+INJECT:tower_of_belem = {
+    metropolis = yes
+}
+ 
+INJECT:fortezza_di_sant_andrea = {
+    metropolis = yes
+}
+ 
+INJECT:great_temple_of_tenochtitlan = {
+    metropolis = yes
+}
+ 
+INJECT:corporation_of_london = {
+    metropolis = yes
+}
+ 
+INJECT:grand_apartment = {
+    metropolis = yes
+}
+ 
+INJECT:sanssouci = {
+    metropolis = yes
+}
+ 
+INJECT:berlin_palace = {
+    metropolis = yes
+}
+ 
+INJECT:versailles = {
+    metropolis = yes
+}
+ 
+INJECT:imperial_halic_shipyards = {
+    metropolis = yes
+}
+ 
+INJECT:rock_of_monaco = {
+    metropolis = yes
+}
+ 
+INJECT:llotja_seda = {
+    metropolis = yes
+}
+ 
+INJECT:camara_comptos = {
+    metropolis = yes
+}
+ 
+INJECT:zwinger = {
+    metropolis = yes
+}
+ 
+INJECT:globe_theatre = {
+    metropolis = yes
+}
+ 
+INJECT:schwaz_mine = {
+    metropolis = yes
+}
+ 
+INJECT:urban_parliament_seat = {
+    metropolis = yes
+}
+ 
+INJECT:ribeira_das_naus = {
+    metropolis = yes
+}
+ 
+INJECT:papal_archives = {
+    metropolis = yes
+}
+ 
+INJECT:adm_vatican_library = {
+    metropolis = yes
+}
+ 
+INJECT:dip_vatican_library = {
+    metropolis = yes
+}
+ 
+INJECT:mil_vatican_library = {
+    metropolis = yes
+}
+ 
+INJECT:wisselbank = {
+    metropolis = yes
+}
+ 
+INJECT:bolshoi_theater = {
+    metropolis = yes
+}
+ 
+INJECT:archive_of_the_indies = {
+    metropolis = yes
+}
+ 
+INJECT:hsa_burgtor = {
+    metropolis = yes
+}
+ 
+INJECT:bodrum_castle = {
+    metropolis = yes
+}
+ 
+INJECT:forbidden_city = {
+    metropolis = yes
+}
+ 
+INJECT:chi_macau_port = {
+    metropolis = yes
+}
+ 
+INJECT:chi_missionary_building = {
+    metropolis = yes
+}
+ 
+INJECT:college_of_poets = {
+    metropolis = yes
+}
+ 
+INJECT:bibliotheca_corviniana = {
+    metropolis = yes
+}
+ 
+INJECT:hexamilion_wall = {
+    metropolis = yes
+}
+ 
+INJECT:ablaq_palace = {
+    metropolis = yes
+}
+ 
+INJECT:oma_falaj = {
+    metropolis = yes
+}
+ 
+INJECT:oma_nizwa_fort = {
+    metropolis = yes
+}
+ 
+INJECT:dutch_trade_outpost = {
+    metropolis = yes
+}
+ 
+INJECT:friesland_admiralty = {
+    metropolis = yes
+}
+ 
+INJECT:west_friesland_admiralty = {
+    metropolis = yes
+}
+ 
+INJECT:rotterdam_admiralty = {
+    metropolis = yes
+}
+ 
+INJECT:zeeland_admiralty = {
+    metropolis = yes
+}
+ 
+INJECT:amsterdam_admiralty = {
+    metropolis = yes
+}
+ 
+INJECT:schonbrunn_palace = {
+    metropolis = yes
+}
+ 
+INJECT:teatro_san_cassiano = {
+    metropolis = yes
+}
+ 
+INJECT:doges_palace = {
+    metropolis = yes
+}
+ 
+INJECT:library_of_vijayanagar = {
+    metropolis = yes
+}
+ 
+INJECT:city_of_victory = {
+    metropolis = yes
+}
+ 
+INJECT:ranganathaswamy_temple_building = {
+    metropolis = yes
+}
+ 
+INJECT:venkateswara_temple = {
+    metropolis = yes
+}
+ 
+INJECT:piazza_san_marco = {
+    metropolis = yes
+}
+ 
+INJECT:walls_of_ston = {
+    metropolis = yes
+}
+ 
+INJECT:swi_collegium_helveticum = {
+    metropolis = yes
+}
+ 
+INJECT:kastellet = {
+    metropolis = yes
+}
+ 
+INJECT:kronborg = {
+    metropolis = yes
+}
+ 
+INJECT:husuni_kubwa = {
+    metropolis = yes
+}
+ 
+INJECT:magistrato_alla_sanita = {
+    metropolis = yes
+}
+ 
+INJECT:imperial_city_of_hue = {
+    metropolis = yes
+}
+ 
+INJECT:wat_chaiwatthanaram_temple_building = {
+    metropolis = yes
+}
+ 
+INJECT:constantinople_observatory = {
+    metropolis = yes
+}
+ 
+INJECT:castel_sant_angelo = {
+    metropolis = yes
+}
+ 
+INJECT:quirinal_palace = {
+    metropolis = yes
+}
+ 
+INJECT:debere_meshwae = {
+    metropolis = yes
+}
+ 
+INJECT:lighthouse_of_alexandria = {
+    metropolis = yes
+}
+ 
+INJECT:al_azhar_madrasa = {
+    metropolis = yes
+}
+ 
+INJECT:delhi_tomb = {
+    metropolis = yes
+}
+ 
+INJECT:red_fort = {
+    metropolis = yes
+}
+ 
+INJECT:ori_portuguese_quarters = {
+    metropolis = yes
+}
+ 
+INJECT:mahmud_gawan_madrasa = {
+    metropolis = yes
+}
+ 
+INJECT:ambras_castle = {
+    metropolis = yes
+}
+ 
+INJECT:belvedere_palace = {
+    metropolis = yes
+}
+ 
+INJECT:sco_palace_of_holyroodhouse = {
+    metropolis = yes
+}
+ 
+INJECT:fra_louvre_museum = {
+    metropolis = yes
+}
+ 
+INJECT:guich_garrison = {
+    metropolis = yes
+}
+ 
+INJECT:bavarian_academy_of_sciences = {
+    metropolis = yes
+}
+ 
+INJECT:herrenchiemsee_abbey = {
+    metropolis = yes
+}
+ 
+INJECT:munich_residenz_founding = {
+    metropolis = yes
+}
+ 
+INJECT:munich_residenz_renaissance_expansion = {
+    metropolis = yes
+}
+ 
+INJECT:munich_residenz_baroque_expansion = {
+    metropolis = yes
+}
+ 
+INJECT:general_archive_of_simancas = {
+    metropolis = yes
+}
+ 
+INJECT:el_escorial_palace = {
+    metropolis = yes
+}
+ 
+INJECT:school_of_salamanca = {
+    metropolis = yes
+}
+ 
+INJECT:segovia_artillery_academy = {
+    metropolis = yes
+}
+ 
+INJECT:usa_academy_of_arts_and_sciences = {
+    metropolis = yes
+}
+ 
+INJECT:usa_philosophical_society = {
+    metropolis = yes
+}
+ 
+INJECT:usa_national_bank = {
+    metropolis = yes
+}
+ 
+INJECT:usa_national_mint = {
+    metropolis = yes
+}
+ 
+INJECT:the_cipher_secretary = {
+    metropolis = yes
+}
+ 
+INJECT:phanariot_district = {
+    metropolis = yes
+}
+ 
+INJECT:maniot_toll_guards = {
+    metropolis = yes
+}
+ 
+INJECT:bulgarian_administration_center = {
+    metropolis = yes
+}
+ 
+INJECT:jewish_district = {
+    metropolis = yes
+}
+ 
+INJECT:darussifa = {
+    metropolis = yes
+}
+ 
+INJECT:woodhenge_of_cahokia = {
+    metropolis = yes
+}
+ 
+INJECT:sevilla_bullfighting_school = {
+    metropolis = yes
+}
+ 
+INJECT:royal_audience_and_chancery = {
+    metropolis = yes
+}
+ 
+INJECT:charite_of_berlin = {
+    metropolis = yes
+}
+ 
+### From foreign_buildings.txt ###
+ 
+INJECT:trade_office = {
+    metropolis = yes
+}
+ 
+INJECT:embassy = {
+    metropolis = yes
+}
+ 
+INJECT:slave_center = {
+    metropolis = yes
+}
+ 
+### From forts.txt
+ 
+INJECT:stockade = {
+    metropolis = yes
+}
+ 
+INJECT:castle = {
+    metropolis = yes
+}
+ 
+INJECT:bastion = {
+    metropolis = yes
+}
+ 
+INJECT:star_fort = {
+    metropolis = yes
+}
+ 
+INJECT:fortress = {
+    metropolis = yes
+}
+ 
+### From manpower_buildings.txt ###
+ 
+INJECT:sergeantry = {
+    metropolis = yes
+}
+ 
+INJECT:warrior_temple = {
+    metropolis = yes
+}
+ 
+INJECT:armory = {
+    metropolis = yes
+}
+ 
+INJECT:barracks = {
+    metropolis = yes
+}
+ 
+INJECT:conscription_center = {
+    metropolis = yes
+}
+ 
+INJECT:jurchen_barracks = {
+    metropolis = yes
+}
+ 
+INJECT:thema_headquarters = {
+    metropolis = yes
+}
+ 
+INJECT:city_guard = {
+    metropolis = yes
+}
+ 
+### From market_buildings.txt ###
+ 
+INJECT:entrepot = {
+    metropolis = yes
+}
+ 
+INJECT:trading_hub = {
+    metropolis = yes
+}
+ 
+INJECT:customs_house = {
+    metropolis = yes
+}
+ 
+INJECT:stock_exchange = {
+    metropolis = yes
+}
+ 
+INJECT:clearing_house = {
+    metropolis = yes
+}
+ 
+INJECT:market_warehouse = {
+    metropolis = yes
+}
+ 
+INJECT:funduq = {
+    metropolis = yes
+}
+ 
+### From pirate_buildings.txt ###
+ 
+INJECT:black_market = {
+    metropolis = yes
+}
+ 
+INJECT:smuggler_cove = {
+    metropolis = yes
+}
+ 
+INJECT:brothel = {
+    metropolis = yes
+}
+ 
+INJECT:pirate_tavern = {
+    metropolis = yes
+}
+ 
+### From plantation_buildings.txt ###
+ 
+INJECT:sugar_plantation = {
+    metropolis = yes
+}
+ 
+INJECT:cotton_plantation = {
+    metropolis = yes
+}
+ 
+INJECT:tobacco_plantation = {
+    metropolis = yes
+}
+ 
+### From port_buildings.txt ###
+ 
+INJECT:dock = {
+    metropolis = yes
+}
+ 
+INJECT:dry_dock = {
+    metropolis = yes
+}
+ 
+INJECT:shipyard = {
+    metropolis = yes
+}
+ 
+INJECT:grand_shipyard = {
+    metropolis = yes
+}
+ 
+INJECT:naval_base = {
+    metropolis = yes
+}
+ 
+INJECT:protected_harbor = {
+    metropolis = yes
+}
+ 
+### From production_beer.txt ###
+ 
+INJECT:brewery = {
+    metropolis = yes
+}
+ 
+INJECT:beer_workshop = {
+    metropolis = yes
+}
+ 
+INJECT:brewery_manufactory = {
+    metropolis = yes
+}
+ 
+INJECT:brewery_mill = {
+    metropolis = yes
+}
+ 
+### From production_books.txt ###
+ 
+INJECT:scriptorium = {
+    metropolis = yes
+}
+ 
+INJECT:printing_press_shop = {
+    metropolis = yes
+}
+ 
+INJECT:printing_manufactory = {
+    metropolis = yes
+}
+ 
+INJECT:printing_mill = {
+    metropolis = yes
+}
+ 
+### From production_cannons.txt ###
+ 
+INJECT:cannon_maker = {
+    metropolis = yes
+}
+ 
+INJECT:cannon_workshop = {
+    metropolis = yes
+}
+ 
+INJECT:cannon_foundry = {
+    metropolis = yes
+}
+ 
+INJECT:cannons_factory = {
+    metropolis = yes
+}
+ 
+### From production_cloth.txt ###
+ 
+INJECT:cloth_guild = {
+    metropolis = yes
+}
+ 
+INJECT:cloth_workshop = {
+    metropolis = yes
+}
+ 
+INJECT:cloth_manufactory = {
+    metropolis = yes
+}
+ 
+INJECT:textile_mill = {
+    metropolis = yes
+}
+ 
+### From production_dyes.txt ###
+ 
+INJECT:dyes_guild = {
+    metropolis = yes
+}
+ 
+INJECT:dyes_workshop = {
+    metropolis = yes
+}
+ 
+INJECT:dyesworks = {
+    metropolis = yes
+}
+ 
+INJECT:dyes_mill = {
+    metropolis = yes
+}
+ 
+### From production_fine_cloth.txt ###
+ 
+INJECT:fine_cloth_guild = {
+    metropolis = yes
+}
+ 
+INJECT:fine_cloth_workshop = {
+    metropolis = yes
+}
+ 
+INJECT:fine_cloth_manufactory = {
+    metropolis = yes
+}
+ 
+INJECT:fine_cloth_mill = {
+    metropolis = yes
+}
+ 
+### From production_fireams.txt ###
+ 
+INJECT:hand_cannon_guild = {
+    metropolis = yes
+}
+ 
+INJECT:gun_smith = {
+    metropolis = yes
+}
+ 
+INJECT:guns_workshop = {
+    metropolis = yes
+}
+ 
+INJECT:firearms_manufactory = {
+    metropolis = yes
+}
+ 
+INJECT:firearms_factory = {
+    metropolis = yes
+}
+ 
+### FROM production_furniture.txt ###
+ 
+INJECT:furniture_guild = {
+    metropolis = yes
+}
+ 
+INJECT:furniture_workshop = {
+    metropolis = yes
+}
+ 
+INJECT:furniture_manufactory = {
+    metropolis = yes
+}
+ 
+INJECT:furniture_mill = {
+    metropolis = yes
+}
+ 
+### production_glass.txt ###
+ 
+INJECT:glass_guild = {
+    metropolis = yes
+}
+ 
+INJECT:glass_workshop = {
+    metropolis = yes
+}
+ 
+INJECT:glassworks = {
+    metropolis = yes
+}
+ 
+INJECT:glass_mill = {
+    metropolis = yes
+}
+ 
+### From production_lacquerware.txt ###
+ 
+INJECT:lacquerware_guild = {
+    metropolis = yes
+}
+ 
+INJECT:lacquerware_manufactory = {
+    metropolis = yes
+}
+ 
+### From production_leather.txt ###
+ 
+INJECT:tannery = {
+    metropolis = yes
+}
+ 
+INJECT:tanning_workshop = {
+    metropolis = yes
+}
+ 
+INJECT:tannery_manufactory = {
+    metropolis = yes
+}
+ 
+INJECT:tannery_mill = {
+    metropolis = yes
+}
+ 
+### From production_liqour.txt ###
+ 
+INJECT:distillers_guild = {
+    metropolis = yes
+}
+ 
+INJECT:distillers_workshop = {
+    metropolis = yes
+}
+ 
+INJECT:distiller_manufactory = {
+    metropolis = yes
+}
+ 
+INJECT:distiller_mill = {
+    metropolis = yes
+}
+ 
+### From production_naval_supplies.txt ###
+ 
+INJECT:naval_supplies_guild = {
+    metropolis = yes
+}
+ 
+INJECT:naval_supplies_workshop = {
+    metropolis = yes
+}
+ 
+INJECT:naval_supplies_manufactory = {
+    metropolis = yes
+}
+ 
+INJECT:naval_supplies_mill = {
+    metropolis = yes
+}
+ 
+### From production_paper.txt ###
+ 
+INJECT:paper_guild = {
+    metropolis = yes
+}
+ 
+INJECT:paper_workshop = {
+    metropolis = yes
+}
+ 
+INJECT:paper_manufactory = {
+    metropolis = yes
+}
+ 
+INJECT:paper_mill = {
+    metropolis = yes
+}
+ 
+### From production_porcelain.txt ###
+ 
+INJECT:porcelain_guild = {
+    metropolis = yes
+}
+ 
+INJECT:porcelain_manufactory = {
+    metropolis = yes
+}
+ 
+### From production_pottery.txt ###
+ 
+INJECT:pottery_guild = {
+    metropolis = yes
+}
+INJECT:pottery_workshop = {
+    metropolis = yes
+}
+INJECT:pottery_manufactory = {
+    metropolis = yes
+}
+INJECT:pottery_mill = {
+    metropolis = yes
+}
+ 
+ 
+### From production_saltpeter.txt ###
+ 
+INJECT:saltpeter_guild = {
+    metropolis = yes
+}
+INJECT:saltpeter_workshop = {
+    metropolis = yes
+}
+INJECT:putrefaction_works = {
+    metropolis = yes
+}
+INJECT:putrefaction_mill = {
+    metropolis = yes
+}
+ 
+ 
+### From production_tools.txt ###
+ 
+INJECT:tools_guild = {
+    metropolis = yes
+}
+INJECT:tools_workshop = {
+    metropolis = yes
+}
+INJECT:iron_foundry = {
+    metropolis = yes
+}
+INJECT:iron_mill = {
+    metropolis = yes
+}
+ 
+ 
+### From production_weapons.txt ###
+ 
+INJECT:weapon_guild = {
+    metropolis = yes
+}
+INJECT:weapon_workshop = {
+    metropolis = yes
+}
+INJECT:weapon_manufactory = {
+    metropolis = yes
+}
+INJECT:weapon_factory = {
+    metropolis = yes
+}
+ 
+ 
+### From production_wine.txt ###
+ 
+INJECT:winery = {
+    metropolis = yes
+}
+INJECT:winery_manufactory = {
+    metropolis = yes
+}
+ 
+ 
+### From pure_one_level_productions.txt ###
+ 
+INJECT:apothecary = {
+    metropolis = yes
+}
+INJECT:jewelry_guild = {
+    metropolis = yes
+}
+INJECT:steel_mill = {
+    metropolis = yes
+}
+INJECT:perfumery = {
+    metropolis = yes
+}
+ 
+ 
+### From religion_buildings.txt ###
+ 
+INJECT:monastery = {
+    metropolis = yes
+}
+INJECT:fortress_church = {
+    metropolis = yes
+}
+INJECT:madrasa = {
+    metropolis = yes
+}
+INJECT:sufi_lodge = {
+    metropolis = yes
+}
+INJECT:orthodox_monastery = {
+    metropolis = yes
+}
+INJECT:miaphysite_monastery = {
+    metropolis = yes
+}
+ 
+### From rural_buildings.txt ###
+ 
+INJECT:improved_charcoal_maker = {
+    metropolis = yes
+}
+ 
+### From situation_buildings.txt ###
+ 
+INJECT:lutheran_preachers = {
+    metropolis = yes
+}
+INJECT:calvinist_preachers = {
+    metropolis = yes
+}
+ 
+ 
+### From town_buildings.txt ###
+ 
+INJECT:temple = {
+    metropolis = yes
+}
+INJECT:cathedral = {
+    metropolis = yes
+}
+INJECT:construction_center = {
+    metropolis = yes
+}
+INJECT:counting_house = {
+    metropolis = yes
+}
+INJECT:minting_office = {
+    metropolis = yes
+}
+INJECT:granary = {
+    metropolis = yes
+}
+INJECT:fortress_granary = {
+    metropolis = yes
+}
+INJECT:wharf = {
+    metropolis = yes
+}
+INJECT:medical_school = {
+    metropolis = yes
+}
+INJECT:lazaretto = {
+    metropolis = yes
+}
+INJECT:pest_house = {
+    metropolis = yes
+}
+INJECT:hospital = {
+    metropolis = yes
+}
+INJECT:slave_market = {
+    metropolis = yes
+}
+ 
+### From trade_buildings.txt ###
+ 
+INJECT:marketplace = {
+    metropolis = yes
+}
+ 
+INJECT:merchants_quarters = {
+    metropolis = yes
+}
+ 
+INJECT:grand_marketplace = {
+    metropolis = yes
+}
+ 
+INJECT:commerce_center = {
+    metropolis = yes
+}
+ 
+INJECT:port_authority = {
+    metropolis = yes
+}
+ 
+ 
+### From trade_company_buildings.txt ###
+ 
+INJECT:trade_company_headquarters = {
+    metropolis = yes
+}
+ 
+INJECT:trade_company_garrison = {
+    metropolis = yes
+}
+ 
+INJECT:trade_company_harbor = {
+    metropolis = yes
+}
+ 
+INJECT:trade_company_local_venture = {
+    metropolis = yes
+}
+ 
+INJECT:trade_company_foreign_influence = {
+    metropolis = yes
+}
+ 
+INJECT:trade_company_governance = {
+    metropolis = yes
+}
+ 
+### From unique_buildings.txt ###
+ 
+INJECT:pounamou_carver = {
+    metropolis = yes
+}
+ 
+INJECT:bardic_school = {
+    metropolis = yes
+}
+ 
+INJECT:hanseatic_kontor = {
+    metropolis = yes
+}
+ 
+INJECT:hanseatic_shipwright_guild = {
+    metropolis = yes
+}
+ 
+INJECT:hanseatic_town_hall = {
+    metropolis = yes
+}
+ 
+INJECT:fondaco = {
+    metropolis = yes
+}
+ 
+INJECT:venetian_arsenal = {
+    metropolis = yes
+}
+ 
+INJECT:kurultai = {
+    metropolis = yes
+}
+ 
+INJECT:order_stronghold = {
+    metropolis = yes
+}
+ 
+INJECT:order_commandery = {
+    metropolis = yes
+}
+ 
+INJECT:banking_office = {
+    metropolis = yes
+}
+ 
+INJECT:tribes_of_galway = {
+    metropolis = yes
+}
+ 
+INJECT:copenhagen_dockyard = {
+    metropolis = yes
+}
+ 
+INJECT:caravanserai = {
+    metropolis = yes
+}
+ 
+INJECT:caravan_stop = {
+    metropolis = yes
+}
+ 
+INJECT:cinque_port = {
+    metropolis = yes
+}
+ 
+INJECT:eng_royal_forest = {
+    metropolis = yes
+}
+ 
+INJECT:seat_of_cardinal = {
+    metropolis = yes
+}
+ 
+INJECT:north_sea_shipyards = {
+    metropolis = yes
+}
+ 
+INJECT:galley_barracks = {
+    metropolis = yes
+}
+ 
+INJECT:janissary_barracks = {
+    metropolis = yes
+}
+ 
+INJECT:safaviyya_order_hall = {
+    metropolis = yes
+}
+ 
+INJECT:ghilman_barracks = {
+    metropolis = yes
+}
+ 
+INJECT:stannary_court = {
+    metropolis = yes
+}
+ 
+INJECT:lieutenancy = {
+    metropolis = yes
+}
+ 
+INJECT:viceroyalty = {
+    metropolis = yes
+}
+ 
+INJECT:barcelona_royal_shipyard = {
+    metropolis = yes
+}
+ 
+INJECT:uffizi = {
+    metropolis = yes
+}
+ 
+INJECT:brethren_marsh = {
+    metropolis = yes
+}
+ 
+INJECT:sofa_barracks = {
+    metropolis = yes
+}
+ 
+INJECT:cawa_barracks = {
+    metropolis = yes
+}
+ 
+INJECT:kings_manor = {
+    metropolis = yes
+}
+ 
+INJECT:polders = {
+    metropolis = yes
+}
+ 
+INJECT:telpochcalli = {
+    metropolis = yes
+}
+ 
+INJECT:calmecac = {
+    metropolis = yes
+}
+ 
+INJECT:panaqa_building = {
+    metropolis = yes
+}
+ 
+INJECT:terraces = {
+    metropolis = yes
+}
+ 
+INJECT:tambo = {
+    metropolis = yes
+}
+ 
+INJECT:incamisana = {
+    metropolis = yes
+}
+ 
+INJECT:royal_society = {
+    metropolis = yes
+}
+ 
+INJECT:royal_academy_of_arts = {
+    metropolis = yes
+}
+ 
+INJECT:peel_towers = {
+    metropolis = yes
+}
+ 
+INJECT:dun_fort = {
+    metropolis = yes
+}
+ 
+INJECT:kokufu = {
+    metropolis = yes
+}
+ 
+INJECT:gosho = {
+    metropolis = yes
+}
+ 
+INJECT:yakata = {
+    metropolis = yes
+}
+ 
+INJECT:tatara = {
+    metropolis = yes
+}
+ 
+INJECT:clan_family_shrine = {
+    metropolis = yes
+}
+ 
+INJECT:korean_gunnery_land_defense = {
+    metropolis = yes
+}
+ 
+INJECT:korean_gunnery_coastal_defense = {
+    metropolis = yes
+}
+ 
+INJECT:kremlin = {
+    metropolis = yes
+}
+ 
+INJECT:stroganov_school_of_iconic_art = {
+    metropolis = yes
+}
+ 
+INJECT:venetian_palaces = {
+    metropolis = yes
+}
+ 
+INJECT:venetian_quarter = {
+    metropolis = yes
+}
+ 
+INJECT:galata = {
+    metropolis = yes
+}
+ 
+INJECT:novodevichy_convent = {
+    metropolis = yes
+}
+ 
+INJECT:moscow_artillery_yard = {
+    metropolis = yes
+}
+ 
+INJECT:bund = {
+    metropolis = yes
+}
+ 
+INJECT:kalari = {
+    metropolis = yes
+}
+ 
+INJECT:ibadat_khana = {
+    metropolis = yes
+}
+ 
+INJECT:academy_of_sciences = {
+    metropolis = yes
+}
+ 
+INJECT:greek_latin_academy = {
+    metropolis = yes
+}
+ 
+INJECT:sukharev_tower = {
+    metropolis = yes
+}
+ 
+INJECT:the_bock_fortifications = {
+    metropolis = yes
+}
+ 
+INJECT:ruined_great_wall_of_china = {
+    metropolis = yes
+}
+ 
+INJECT:repaired_great_wall_of_china = {
+    metropolis = yes
+}
+ 
+INJECT:free_economic_society = {
+    metropolis = yes
+}
+ 
+INJECT:imperial_academy_of_arts = {
+    metropolis = yes
+}
+ 
+INJECT:moscow_orphanage = {
+    metropolis = yes
+}
+ 
+INJECT:institute_of_noble_maidens = {
+    metropolis = yes
+}
+ 
+INJECT:royal_atarazanas_seville = {
+    metropolis = yes
+}
+ 
+INJECT:alhambra = {
+    metropolis = yes
+}
+ 
+INJECT:theodosian_walls = {
+    metropolis = yes
+}
+ 
+INJECT:bey_fortress = {
+    metropolis = yes
+}
+INJECT:mamluk_barracks = {
+    metropolis = yes
+}
+ 
+INJECT:kurmina_headquarter = {
+    metropolis = yes
+}
+ 
+INJECT:great_hill_complex = {
+    metropolis = yes
+}
+ 
+INJECT:great_valley_complex = {
+    metropolis = yes
+}
+ 
+INJECT:trans_saharan_trade_outposts = {
+    metropolis = yes
+}
+ 
+INJECT:khmer_baray = {
+    metropolis = yes
+}
+ 
+INJECT:bajang_ratu = {
+    metropolis = yes
+}
+ 
+INJECT:fulani_cattle_rearing_pen = {
+    metropolis = yes
+}
+ 
+INJECT:walls_of_benin = {
+    metropolis = yes
+}
+ 
+INJECT:zazzau_walls = {
+    metropolis = yes
+}
+ 
+INJECT:eghabho_nore_mansion = {
+    metropolis = yes
+}
+ 
+INJECT:ribat = {
+    metropolis = yes
+}
+ 
+INJECT:por_feitoria = {
+    metropolis = yes
+}
+ 
+INJECT:gurgaddi = {
+    metropolis = yes
+}
+ 
+INJECT:sufi_mosque = {
+    metropolis = yes
+}
+ 
+INJECT:wali_songo_shrine = {
+    metropolis = yes
+}
+ 
+INJECT:zhixian = {
+    metropolis = yes
+}
+ 
+INJECT:seljuk_mint = {
+    metropolis = yes
+}
+ 
+INJECT:tur_kodjabashi_office = {
+    metropolis = yes
+}
+ 
+INJECT:qalat_al_mashwar = {
+    metropolis = yes
+}

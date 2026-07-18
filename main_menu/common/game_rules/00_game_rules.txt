@@ -61,6 +61,28 @@ ai_difficulty = {
 	}
 }
 
+
+ai_aggression = {
+	default = ai_normal_aggression
+
+	ai_low_aggression = {
+		apply_modifier = ai:low_aggression
+		flag = blocks_achievements
+		flag = general_rule
+	}
+
+	ai_normal_aggression = {		
+		apply_modifier = ai:normal_aggression
+		flag = general_rule
+	}
+
+	ai_high_aggression = {
+		apply_modifier = ai:high_aggression
+		flag = general_rule
+	}
+}
+
+
 ahistorical_formable_countries = {
 	default = allow_plausible_ahistorical_formable_countries
 
@@ -116,6 +138,20 @@ country_change = {
 	}	
 }
 
+rename_locations = {
+	default = rename_locations_allowed
+
+	rename_locations_allowed = {
+		flag = rename_locations_allowed
+		flag = general_rule
+	}
+
+	rename_locations_prohibited = {
+		flag = rename_locations_prohibited
+		flag = general_rule
+	}
+}
+
 mission_packs_enabled_rule = {
 	default = mission_packs_disabled
 	mission_packs_enabled = {
@@ -148,7 +184,7 @@ mission_rewards = {
 }
 
 ai_colonisation_rule = {
-	default = all_countries_colonize
+	default = western_colonisation_only
 	
 	all_countries_colonize = {
 		flag = flavour_rule
@@ -160,7 +196,7 @@ ai_colonisation_rule = {
 }
 
 ai_exploration_rule = {
-	default = western_exploration_only
+	default = all_countries_explore
 	
 	western_exploration_only = {
 		flag = flavour_rule
@@ -172,7 +208,7 @@ ai_exploration_rule = {
 }
 
 ai_religious_conversion_rule = {
-	default = only_within_religion_group
+	default = free_conversion
 	
 	only_within_religion_group = {
 		flag = flavour_rule
@@ -222,8 +258,7 @@ black_death_date_rule = {
 	black_death_date_historical = {
 		flag = flavour_rule
 	}
-	black_death_date_random = { 
-		flag = blocks_achievements 
+	black_death_date_random = {  
 		flag = flavour_rule
 	}
 	black_death_date_off = { 
@@ -265,6 +300,10 @@ byz_name = {
 	}
 	byz_name_ere = {
 		flag = byz_name_ere
+		flag = flavour_rule
+	}
+	byz_name_greek = {
+		flag = byz_name_greek
 		flag = flavour_rule
 	}
 }
@@ -369,6 +408,67 @@ countries_dynastic_naming = {
 		flag = flavour_rule
 	}
 	do_not_change_countries_dynastic_naming = {
+		flag = flavour_rule
+	}
+}
+
+holy_roman_empire_rank_restriction = {
+	default = historical_rank_restriction
+
+	historical_rank_restriction = {
+		flag = flavour_rule
+	}
+	rank_restriction_by_numbers = {
+		flag = flavour_rule
+	}
+	no_rank_restriction = {
+		flag = flavour_rule
+	}
+}
+
+inmersion_mode = {
+	default = inmersion_mode_show_events
+
+	inmersion_mode_show_events = {
+		flag = general_rule
+	}
+	inmersion_mode_hide_events = {
+		flag = inmersion_mode_enabled
+		flag = general_rule
+	}
+}
+
+#not yet you eager beavers
+# spy_network_fog = {
+# 	default = spy_network_fog_off
+
+# 	spy_network_fog_off = {
+# 		flag = general_rule
+# 	}
+# 	spy_network_fog_active = {
+# 		flag = spy_network_fog_enabled
+# 		flag = general_rule
+# 	}
+# }
+
+ai_personalities = {
+	default = ai_personalities_historical
+
+	ai_personalities_historical = {
+		flag = flavour_rule
+	}
+	ai_personalities_random = {
+		flag = ai_personalities_random
+		flag = flavour_rule
+	}
+	ai_personalities_random_per_age = {
+		flag = ai_personalities_random
+		flag = ai_personalities_random_per_age
+		flag = flavour_rule
+	}
+	ai_personalities_random_per_ruler = {
+		flag = ai_personalities_random
+		flag = ai_personalities_random_per_ruler
 		flag = flavour_rule
 	}
 }

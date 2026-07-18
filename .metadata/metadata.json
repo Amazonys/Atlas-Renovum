@@ -1,8 +1,8 @@
 {
-	"name":	"Atlas Novum",
+	"name":	"Atlas Novum - Basic",
 	"id":	"atlas.novum",
 	"version": "0.0.1",
-	"supported_game_version": "1.1.0",
+	"supported_game_version": "1.3.11",
 	"picture": "thumbnail.png",
 	"short_description": "Atlas Novum",
 	"tags":	["Balance", "Events", "Fixes", "Gameplay", "Historical", "Map"],

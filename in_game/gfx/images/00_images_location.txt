@@ -704,7 +704,7 @@ dock = {
 
 	###ASHANTI DOCK 1
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/ashanti/ashanti_dock1_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/ashanti/ashanti_dock1_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -715,7 +715,7 @@ dock = {
 
 	###ASHANTI DOCK 2
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/ashanti/ashanti_dock2_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/ashanti/ashanti_dock2_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -726,7 +726,7 @@ dock = {
 
 	###ASHANTI DOCK 3
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/ashanti/ashanti_dock3_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/ashanti/ashanti_dock3_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -737,7 +737,7 @@ dock = {
 
 	###ASIAN DOCK 1
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/asian/asian_dock1_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/asian/asian_dock1_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -748,7 +748,7 @@ dock = {
 
 	###ASIAN DOCK 2
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/asian/asian_dock2_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/asian/asian_dock2_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -759,7 +759,7 @@ dock = {
 
 	###ASIAN DOCK 3
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/asian/asian_dock3_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/asian/asian_dock3_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -770,7 +770,7 @@ dock = {
 
 	###AZTEC DOCK 1
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/aztec/aztec_dock1_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/aztec/aztec_dock1_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -781,7 +781,7 @@ dock = {
 
 	###AZTEC DOCK 2
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/aztec/aztec_dock2_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/aztec/aztec_dock2_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -792,7 +792,7 @@ dock = {
 
 	###AZTEC DOCK 3
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/aztec/aztec_dock3_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/aztec/aztec_dock3_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -803,7 +803,7 @@ dock = {
 
 	###DECCAN DOCK 1
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/deccan/deccan_dock1_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/deccan/deccan_dock1_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -814,7 +814,7 @@ dock = {
 
 	###DECCAN DOCK 2
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/deccan/deccan_dock2_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/deccan/deccan_dock2_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -825,7 +825,7 @@ dock = {
 
 	###DECCAN DOCK 3
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/deccan/deccan_dock3_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/deccan/deccan_dock3_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -836,7 +836,7 @@ dock = {
 
 	###IROQUOIS DOCK 1
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/iroquois/iroquois_dock1_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/iroquois/iroquois_dock1_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -847,7 +847,7 @@ dock = {
 
 	###IROQUOIS DOCK 2
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/iroquois/iroquois_dock2_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/iroquois/iroquois_dock2_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -858,7 +858,7 @@ dock = {
 
 	###IROQUOIS DOCK 3
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/iroquois/iroquois_dock3_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/iroquois/iroquois_dock3_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -869,7 +869,7 @@ dock = {
 
 	###SYRIAN DOCK 1
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/syrian/syrian_dock1_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/syrian/syrian_dock1_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -880,7 +880,7 @@ dock = {
 
 	###SYRIAN DOCK 2
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/syrian/syrian_dock2_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/syrian/syrian_dock2_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -891,7 +891,7 @@ dock = {
 
 	###SYRIAN DOCK 3
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/syrian/syrian_dock3_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/syrian/syrian_dock3_metadata_os2654x440_d426x140_t.dds"
 		priority = 20
 		scope = location
 		trigger = {
@@ -902,7 +902,7 @@ dock = {
 
 	###NORTH GERMAN DOCK 1
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/north_german/north_german_dock1_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/north_german/north_german_dock1_metadata_os2654x440_d426x140_t.dds"
 		priority = 5
 		scope = location
 		trigger = {
@@ -912,7 +912,7 @@ dock = {
 
 	###NORTH GERMAN DOCK 2
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/north_german/north_german_dock2_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/north_german/north_german_dock2_metadata_os2654x440_d426x140_t.dds"
 		priority = 5
 		scope = location
 		trigger = {
@@ -922,7 +922,7 @@ dock = {
 
 	###NORTH GERMAN DOCK 3
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/dock/north_german/north_german_dock3_metadata_os2654x440_d326x140_t.dds"
+		texture_file = "gfx/interface/illustrations/location/dock/north_german/north_german_dock3_metadata_os2654x440_d426x140_t.dds"
 		priority = 5
 		scope = location
 		trigger = {
@@ -953,7 +953,7 @@ water = {
 
 	###OCEAN
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/water/ocean/ocean_metadata_os2654x440_d0x204.dds"
+		texture_file = "gfx/interface/illustrations/location/water/ocean/ocean_metadata_os2654x440_d0x254.dds"
 		priority = 20
 		scope = location
 
@@ -1057,26 +1057,24 @@ settlement1 = {
 	}
 	###ASIAN
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement1/asian/city/asian_city1_metadata_os2654x440_d0x122.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement1/asian/city/asian_city1_metadata_os2654x440_d0x132.dds"
 		priority = 11
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
-			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = east_asian_gfx }
+			city_illustration_trigger = yes
+			secondary_otherwise_primary_culture = { gfx_culture_applicable = east_asian_gfx }
 		}
 	}
 
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement1/asian/town/asian_town1_metadata_os2654x440_d0x56.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement1/asian/town/asian_town1_metadata_os2654x440_d0x86.dds"
 		priority = 10
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
-			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = east_asian_gfx }
+			town_illustration_trigger = yes
+			secondary_otherwise_primary_culture = { gfx_culture_applicable = east_asian_gfx }
 		}
 	}
 
@@ -1086,22 +1084,20 @@ settlement1 = {
 		scope = location
 
 		trigger = {
-			has_owner = yes
-			population > 1.000
+			rural_illustration_trigger = yes
 			gfx_culture_applicable = east_asian_gfx
 		}
 	}
 
 	###ASHANTI
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement1/ashanti/city/ashanti_city1_metadata_os2654x440_d0x126.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement1/ashanti/city/ashanti_city1_metadata_os2654x440_d0x116.dds"
 		priority = 11
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
-			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = african_gfx }
+			city_illustration_trigger = yes
+			secondary_otherwise_primary_culture = { gfx_culture_applicable = african_gfx }
 		}
 	}
 
@@ -1111,9 +1107,8 @@ settlement1 = {
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
-			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = african_gfx }
+			town_illustration_trigger = yes
+			secondary_otherwise_primary_culture = { gfx_culture_applicable = african_gfx }
 		}
 	}
 
@@ -1123,22 +1118,20 @@ settlement1 = {
 		scope = location
 
 		trigger = {
-			has_owner = yes
-			population > 1.000
+			rural_illustration_trigger = yes
 			gfx_culture_applicable = african_gfx
 		}
 	}
 
 	###AZTEC
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement1/aztec/city/aztec_city1_metadata_os2654x440_d0x126.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement1/aztec/city/aztec_city1_metadata_os2654x440_d0x116.dds"
 		priority = 11
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
-			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = south_american_gfx }
+			city_illustration_trigger = yes
+			secondary_otherwise_primary_culture = { gfx_culture_applicable = south_american_gfx }
 		}
 	}
 
@@ -1148,9 +1141,8 @@ settlement1 = {
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
-			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = south_american_gfx }
+			town_illustration_trigger = yes
+			secondary_otherwise_primary_culture = { gfx_culture_applicable = south_american_gfx }
 		}
 	}
 
@@ -1160,70 +1152,64 @@ settlement1 = {
 		scope = location
 
 		trigger = {
-			has_owner = yes
-			population > 1.000
+			rural_illustration_trigger = yes
 			gfx_culture_applicable = south_american_gfx
 		}
 	}
 
 	###DECCAN
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement1/deccan/city/deccan_city1_metadata_os2654x440_d0x124.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement1/deccan/city/deccan_city1_metadata_os2654x440_d0x109.dds"
 		priority = 11
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
-			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = indian_gfx }
+			city_illustration_trigger = yes
+			secondary_otherwise_primary_culture = { gfx_culture_applicable = indian_gfx }
 		}
 	}
 
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement1/deccan/town/deccan_town1_metadata_os2654x440_d0x134.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement1/deccan/town/deccan_town1_metadata_os2654x440_d0x124.dds"
 		priority = 10
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
-			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = indian_gfx }
+			town_illustration_trigger = yes
+			secondary_otherwise_primary_culture = { gfx_culture_applicable = indian_gfx }
 		}
 	}
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement1/deccan/rural/deccan_rural1_metadata_os2654x440_d216x166.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement1/deccan/rural/deccan_rural1_metadata_os2654x440_d216x106.dds"
 		priority = 5
 		scope = location
 
 		trigger = {
-			has_owner = yes
-			population > 1.000
+			rural_illustration_trigger = yes
 			gfx_culture_applicable = indian_gfx
 		}
 	}
 
 	###SYRIAN
 	illustration_image = { #Alpha 0
-		texture_file = "gfx/interface/illustrations/location/settlement1/syrian/city/syrian_city1_metadata_os2654x440_d0x114.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement1/syrian/city/syrian_city1_metadata_os2654x440_d0x124.dds"
 		priority = 11
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
-			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = middle_east_gfx }
+			city_illustration_trigger = yes
+			secondary_otherwise_primary_culture = { gfx_culture_applicable = middle_east_gfx }
 		}
 	}
 
 	illustration_image = { #Alpha 0
-		texture_file = "gfx/interface/illustrations/location/settlement1/syrian/town/syrian_town1_metadata_os2654x440_d104x150.dds"
-		priority = 10
+		texture_file = "gfx/interface/illustrations/location/settlement1/syrian/town/syrian_town1_metadata_os2654x440_d0x114.dds"
+		priority = 100000000
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
-			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = middle_east_gfx }
+			town_illustration_trigger = yes
+			secondary_otherwise_primary_culture = { gfx_culture_applicable = middle_east_gfx }
 		}
 	}
 
@@ -1233,79 +1219,72 @@ settlement1 = {
 		scope = location
 
 		trigger = {
-			has_owner = yes
-			population > 1.000
+			rural_illustration_trigger = yes
 			gfx_culture_applicable = middle_east_gfx
 		}
 	}
 
 	#IROQUOIS
 		illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement1/iroquois/city/iroquois_city1_metadata_os2654x440_d0x136.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement1/iroquois/city/iroquois_city1_metadata_os2654x440_d0x106.dds"
 		priority = 11
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
-			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = north_american_gfx }
+			city_illustration_trigger = yes
+			secondary_otherwise_primary_culture = { gfx_culture_applicable = north_american_gfx }
 		}
 	}
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement1/iroquois/town/iroquois_town1_metadata_os2654x440_d0x140.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement1/iroquois/town/iroquois_town1_metadata_os2654x440_d0x120.dds"
 		priority = 10
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
-			secondary_otherwise_primary_culture ?= { gfx_culture_applicable = north_american_gfx }
+			town_illustration_trigger = yes
+			secondary_otherwise_primary_culture = { gfx_culture_applicable = north_american_gfx }
 		}
 	}
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement1/iroquois/rural/iroquois_rural1_metadata_os2654x440_d190x160.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement1/iroquois/rural/iroquois_rural1_metadata_os2654x440_d190x140.dds"
 		priority = 5
 		scope = location
 
 		trigger = {
-			has_owner = yes
-			population > 1.000
+			rural_illustration_trigger = yes
 			gfx_culture_applicable = north_american_gfx
 		}
 	}
 
-
 	###NORTH GERMAN
-	illustration_image = { #Alpha 0
-		texture_file = "gfx/interface/illustrations/location/settlement1/north_german/city/north_german_city1_metadata_os2654x440_d0x96.dds"
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/north_german/city/north_german_city1_metadata_os2654x440_d0x116.dds"
 		priority = 3
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
+			city_illustration_trigger = yes
 		}
 	}
 
-	illustration_image = { #Alpha 0
+	illustration_image = {
 		texture_file = "gfx/interface/illustrations/location/settlement1/north_german/town/north_german_town1_metadata_os2654x440_d0x106.dds"
 		priority = 2
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
+		always = yes
+			town_illustration_trigger = yes
 		}
 	}
 
-	illustration_image = { #Alpha 0
-		texture_file = "gfx/interface/illustrations/location/settlement1/north_german/rural/north_german_rural11_metadata_os2654x440_d0x112.dds"
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement1/north_german/rural/north_german_rural11_metadata_os2654x440_d0x92.dds"
 		priority = 1
 		scope = location
 
 		trigger = {
-			has_owner = yes
-			population > 1.000
+			rural_illustration_trigger = yes
 		}
 	}
 }
@@ -1728,6 +1707,100 @@ factories = {
 	}
 }
 
+wall = {
+	tag = "wall"
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
+	}
+
+	### Ashanti walls
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/wall/ashanti_wall_metadata_os2654x440_d680x156.dds"
+		priority = 30
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = african_gfx
+			has_building_with_graphical_tag = city_walls
+		}
+	}
+
+	### Asian walls
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/wall/asian_wall_metadata_os2654x440_d680x156.dds"
+		priority = 30
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = east_asian_gfx
+			has_building_with_graphical_tag = city_walls
+		}
+	}
+
+	### Aztec walls
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/wall/aztec_wall_metadata_os2654x440_d680x156.dds"
+		priority = 30
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = aztec_gfx
+			has_building_with_graphical_tag = city_walls
+		}
+	}
+
+	### Deccan walls
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/wall/deccan_wall_metadata_os2654x440_d680x156.dds"
+		priority = 30
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = indian_gfx
+			has_building_with_graphical_tag = city_walls
+		}
+	}
+
+	### Iroquois walls
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/wall/iroquois_wall_metadata_os2654x440_d680x156.dds"
+		priority = 30
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = north_american_gfx
+			has_building_with_graphical_tag = city_walls
+		}
+	}
+
+	### Syrian walls
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/wall/syrian_wall_metadata_os2654x440_d680x156.dds"
+		priority = 30
+		scope = location
+
+		trigger = {
+			gfx_culture_applicable = middle_east_gfx
+			has_building_with_graphical_tag = city_walls
+		}
+	}
+
+	### North German walls
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/wall/north_german_wall_metadata_os2654x440_d680x156.dds"
+		priority = 5
+		scope = location
+
+		trigger = {
+			#gfx_culture_applicable = north_german_gfx
+			has_building_with_graphical_tag = city_walls
+		}
+	}
+}
+
 religious_buildings = {
 	tag = "religious_buildings"
 
@@ -1798,7 +1871,7 @@ religious_buildings = {
 
 	####INDIAN
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/religious_buildings/deccan/deccan_religious1_metadata_os2654x440_d0x40.dds"
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/deccan/deccan_religious1_metadata_os2654x440_d0x45.dds"
 		priority = 20
 		scope = location
 
@@ -1808,7 +1881,7 @@ religious_buildings = {
 		}
 	}
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/religious_buildings/deccan/deccan_religious2_metadata_os2654x440_d0x55.dds"
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/deccan/deccan_religious2_metadata_os2654x440_d0x60.dds"
 		priority = 21
 		scope = location
 
@@ -1819,7 +1892,7 @@ religious_buildings = {
 	}
 
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/religious_buildings/deccan/deccan_religious3_metadata_os2654x440_d0x30.dds"
+		texture_file = "gfx/interface/illustrations/location/religious_buildings/deccan/deccan_religious3_metadata_os2654x440_d0x35.dds"
 		priority = 22
 		scope = location
 
@@ -1933,13 +2006,12 @@ settlement2 = {
 
 	#NORTH GERMAN
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/north_german/city/north_german_city2_metadata_os2654x440_d0x34.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/north_german/city/north_german_city2_metadata_os2654x440_d0x44.dds"
 		priority = 2
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
+			city_illustration_trigger = yes
 		}
 	}
 	illustration_image = {
@@ -1948,20 +2020,18 @@ settlement2 = {
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
+			town_illustration_trigger = yes
 		}
 	}
 
 	###SYRIAN
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/syrian/city/syrian_city2_metadata_os2654x440_d0x52.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/syrian/city/syrian_city2_metadata_os2654x440_d0x62.dds"
 		priority = 11
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
+			city_illustration_trigger = yes
 			gfx_culture_applicable = middle_east_gfx
 		}
 	}
@@ -1972,92 +2042,84 @@ settlement2 = {
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
+			town_illustration_trigger = yes
 			gfx_culture_applicable = middle_east_gfx
 		}
 	}
 	###DECCAN
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/deccan/city/deccan_city2_metadata_os2654x440_d0x64.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/deccan/city/deccan_city2_metadata_os2654x440_d0x44.dds"
 		priority = 11
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
+			city_illustration_trigger = yes
 			gfx_culture_applicable = indian_gfx
 		}
 	}
 
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/deccan/town/deccan_town2_metadata_os2654x440_d0x94.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/deccan/town/deccan_town2_metadata_os2654x440_d0x44.dds"
 		priority = 10
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
+			town_illustration_trigger = yes
 			gfx_culture_applicable = indian_gfx
 		}
 	}
 
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/deccan/rural/deccan_rural2_metadata_os2654x440_d470x116.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/deccan/rural/deccan_rural2_metadata_os2654x440_d470x46.dds"
 		priority = 5
 		scope = location
 
 		trigger = {
-			has_owner = yes
-			population > 1.000
+			rural_illustration_trigger = yes
 			gfx_culture_applicable = indian_gfx
 		}
 	}
 
 	#ASIAN
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/asian/city/asian_city2_metadata_os2654x440_d0x54.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/asian/city/asian_city2_metadata_os2654x440_d0x44.dds"
 		priority = 11
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
+			city_illustration_trigger = yes
 			gfx_culture_applicable = east_asian_gfx
 		}
 	}
 		illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/asian/town/asian_town2_metadata_os2654x440_d50x80.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/asian/town/asian_town2_metadata_os2654x440_d50x70.dds"
 		priority = 10
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
+			town_illustration_trigger = yes
 			gfx_culture_applicable = east_asian_gfx
 		}
 	}
 		illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/asian/rural/asian_rural2_metadata_os2654x440_d100x104.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/asian/rural/asian_rural2_metadata_os2654x440_d100x94.dds"
 		priority = 5
 		scope = location
 
 		trigger = {
-			has_owner = yes
-			population > 1.000
+			rural_illustration_trigger = yes
 			gfx_culture_applicable = east_asian_gfx
 		}
 	}
 
 	###ASHANTI
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/ashanti/city/ashanti_city2_metadata_os2654x440_d0x68.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/ashanti/city/ashanti_city2_metadata_os2654x440_d0x78.dds"
 		priority = 11
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
+			city_illustration_trigger = yes
 			gfx_culture_applicable = african_gfx
 		}
 	}
@@ -2068,8 +2130,7 @@ settlement2 = {
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
+			town_illustration_trigger = yes
 			gfx_culture_applicable = african_gfx
 		}
 	}
@@ -2080,21 +2141,19 @@ settlement2 = {
 		scope = location
 
 		trigger = {
-			has_owner = yes
-			population > 1.000
+			rural_illustration_trigger = yes
 			gfx_culture_applicable = african_gfx
 		}
 	}
 
 	###AZTEC
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/aztec/city/aztec_city2_metadata_os2654x440_d0x60.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/aztec/city/aztec_city2_metadata_os2654x440_d0x70.dds"
 		priority = 11
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
+			city_illustration_trigger = yes
 			gfx_culture_applicable = south_american_gfx
 		}
 	}
@@ -2105,8 +2164,7 @@ settlement2 = {
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
+			town_illustration_trigger = yes
 			gfx_culture_applicable = south_american_gfx
 		}
 	}
@@ -2117,45 +2175,133 @@ settlement2 = {
 		scope = location
 
 		trigger = {
-			has_owner = yes
-			population > 1.000
+			rural_illustration_trigger = yes
 			gfx_culture_applicable = south_american_gfx
 		}
 	}
 
 	#IROQUOIS
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/iroquois/city/iroquois_city2_metadata_os2654x440_d0x64.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/iroquois/city/iroquois_city2_metadata_os2654x440_d0x44.dds"
 		priority = 11
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:city
+			city_illustration_trigger = yes
 			gfx_culture_applicable = north_american_gfx
 		}
 	}
 		illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/iroquois/town/iroquois_town2_metadata_os2654x440_d146x104.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/iroquois/town/iroquois_town2_metadata_os2654x440_d146x74.dds"
 		priority = 10
 		scope = location
 
 		trigger = {
-			is_city = yes
-			location_rank = location_rank:town
+			town_illustration_trigger = yes
 			gfx_culture_applicable = north_american_gfx
 		}
 	}
 		illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/settlement2/iroquois/rural/iroquois_rural2_metadata_os2654x440_d346x138.dds"
+		texture_file = "gfx/interface/illustrations/location/settlement2/iroquois/rural/iroquois_rural2_metadata_os2654x440_d346x108.dds"
 		priority = 5
 		scope = location
 
 		trigger = {
-			has_owner = yes
-			population > 1.000
+			rural_illustration_trigger = yes
 			gfx_culture_applicable = north_american_gfx
 		}
+	}
+}
+
+settlement3 = {
+	tag = "settlement3"
+
+	###SYRIAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/syrian/city/syrian_city2_metadata_os2654x440_d0x62.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			OR = { location_rank ?= location_rank:metropolis location_rank ?= location_rank:megalopolis }
+			gfx_culture_applicable = middle_east_gfx
+		}
+	}
+	###DECCAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/deccan/city/deccan_city2_metadata_os2654x440_d0x44.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			OR = { location_rank ?= location_rank:metropolis location_rank ?= location_rank:megalopolis }
+			gfx_culture_applicable = indian_gfx
+		}
+	}
+
+	#ASIAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/asian/city/asian_city2_metadata_os2654x440_d0x44.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			OR = { location_rank ?= location_rank:metropolis location_rank ?= location_rank:megalopolis }
+			gfx_culture_applicable = east_asian_gfx
+		}
+	}
+
+	###ASHANTI
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/ashanti/city/ashanti_city2_metadata_os2654x440_d0x78.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			OR = { location_rank ?= location_rank:metropolis location_rank ?= location_rank:megalopolis }
+			gfx_culture_applicable = african_gfx
+		}
+	}
+
+	###AZTEC
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/aztec/city/aztec_city2_metadata_os2654x440_d0x70.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			OR = { location_rank ?= location_rank:metropolis location_rank ?= location_rank:megalopolis }
+			gfx_culture_applicable = south_american_gfx
+		}
+	}
+
+	#IROQUOIS
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/iroquois/city/iroquois_city2_metadata_os2654x440_d0x44.dds"
+		priority = 11
+		scope = location
+
+		trigger = {
+			OR = { location_rank ?= location_rank:metropolis location_rank ?= location_rank:megalopolis }
+			gfx_culture_applicable = north_american_gfx
+		}
+	}
+
+	#NORTH GERMAN
+	illustration_image = {
+		texture_file = "gfx/interface/illustrations/location/settlement2/north_german/city/north_german_city2_metadata_os2654x440_d0x44.dds"
+		priority = 2
+		scope = location
+
+		trigger = {
+			OR = { location_rank ?= location_rank:metropolis location_rank ?= location_rank:megalopolis }
+		}
+	}
+
+	illustration_image = { #Alpha 0
+		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
+		priority = 1
+		scope = location
 	}
 }
 
@@ -2708,8 +2854,8 @@ topology = {
 	
 }
 
-statusback = {
-	tag = "statusback"
+topostatus = {
+	tag = "topostatus"
 
 	illustration_image = {
 		texture_file = "gfx/illustrations/assets/location_view/test/empty.dds"
@@ -2718,7 +2864,7 @@ statusback = {
 	}
 
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/topology/volcano/volcano_lava_metadata_os2654x440_d520x0.dds"
+		texture_file = "gfx/interface/illustrations/location/topology/volcano/volcano_lava_metadata_os2654x440_d520x40.dds"
 		priority = 30
 		scope = location
 
@@ -2730,7 +2876,7 @@ statusback = {
 	}
 
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/topology/volcano/volcano_erupt_metadata_os2654x440_d800x0.dds"
+		texture_file = "gfx/interface/illustrations/location/topology/volcano/volcano_erupt_metadata_os2654x440_d800x40.dds"
 		priority = 25
 		scope = location
 
@@ -2742,7 +2888,7 @@ statusback = {
 	}
 
 	illustration_image = {
-		texture_file = "gfx/interface/illustrations/location/topology/volcano/volcano_metadata_os2654x440_d890x16.dds"
+		texture_file = "gfx/interface/illustrations/location/topology/volcano/volcano_metadata_os2654x440_d890x56.dds"
 		priority = 20
 		scope = location
 
