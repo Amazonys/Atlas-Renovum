@@ -1,0 +1,46 @@
+﻿#Metals industry
+alloy_cast = {
+	is_foreign = no
+	pop_type = laborers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = advanced_peasant_building_employment
+	
+	rural_settlement = yes
+	town = yes
+	city = yes
+	metropolis = yes
+	megalopolis = yes
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		bronze_cast_maintenance = {
+			copper = 0.5
+			tin = 0.5
+			coal = 0.25
+			tools = 0.1
+
+			produced = bronze
+			output = 1
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+		brass_cast_maintenance = {
+			copper = 0.5
+			zinc = 0.5
+			coal = 0.25
+			tools = 0.1
+
+			produced = brass
+			output = 1
+			category = guild_input
+
+			debug_max_profit = 0.2
+		}
+	}
+}

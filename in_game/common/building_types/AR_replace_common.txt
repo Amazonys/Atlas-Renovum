@@ -1,0 +1,94 @@
+﻿REPLACE:lumber_mill = {
+	audio_tier = 1
+	is_foreign = no
+	max_levels = guild_max_level
+	startup_ramp_target = rural_startup_ramp_target
+	pop_type = laborers
+	
+	employment_size = advanced_peasant_building_employment
+	
+	rural_settlement = yes
+	town = yes
+	city = yes
+	metropolis = yes
+	megalopolis = yes
+
+	category = basic_industry_category
+	
+	build_time = guild_build_time
+	
+	unique_production_methods = {
+		softwood_lumber_mill_maintenance = {
+			produced = lumber
+			output = 2
+
+			softwood = 1.5
+			tools = 0.05
+			debug_max_profit = rural_profit_margin
+			category = guild_input
+		}
+		hardwood_lumber_mill_maintenance = {
+			produced = lumber
+			output = 2
+
+			hardwood = 1.25
+			tools = 0.05
+			debug_max_profit = rural_profit_margin
+			category = guild_input
+		}
+	}
+
+	construction_demand = basic_construction_needs
+}
+
+REPLACE:tar_kiln = {
+	audio_tier = 1
+	is_foreign = no
+	pop_type = laborers
+	max_levels = rural_building_cap
+	startup_ramp_target = rural_startup_ramp_target
+
+	employment_size = tiny_rural_peasant_produce_employment
+	
+	category = basic_industry_category
+	
+	rural_settlement = yes
+	town = yes
+	city = yes
+	metropolis = yes
+	megalopolis = yes
+	
+	location_potential = {
+		OR = {
+			vegetation = woods
+			vegetation = forest
+			vegetation = farmland
+			vegetation = jungle
+			raw_material = goods:softwood
+			raw_material = goods:hardwood
+		}
+	}
+
+	unique_production_methods = {	
+		softwood_tar_kiln_maintenance = {
+			produced = tar
+			output = 1.0
+			softwood = 1.1111
+			category = guild_input
+
+			debug_max_profit = rural_profit_margin
+		}
+		hardwood_tar_kiln_maintenance = {
+			produced = tar
+			output = 1.0
+			hardwood = 1.1111
+			category = guild_input
+
+			debug_max_profit = rural_profit_margin
+		}
+	}
+
+	build_time = rural_build_time
+
+	construction_demand = guild_construction
+}

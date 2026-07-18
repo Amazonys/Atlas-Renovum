@@ -6290,14 +6290,14 @@ can_extract_coal={
 	}
 }
 
-can_extract_iron_ore={
+can_extract_iron={
 	boolean=yes
 	game_data={
 		category=country
 	}
 }
 
-can_extract_copper_ore={
+can_extract_copper={
 	boolean=yes
 	game_data={
 		category=country
@@ -6325,14 +6325,14 @@ can_extract_stone={
 	}
 }
 
-can_extract_tin_ore={
+can_extract_tin={
 	boolean=yes
 	game_data={
 		category=country
 	}
 }
 
-can_extract_lead_ore={
+can_extract_lead={
 	boolean=yes
 	game_data={
 		category=country

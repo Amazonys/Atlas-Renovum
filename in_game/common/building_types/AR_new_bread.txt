@@ -1,0 +1,140 @@
+﻿bakery = {
+	is_foreign = no
+	pop_type = burghers
+	max_levels = guild_max_level
+	
+	category = basic_industry_category
+	
+	employment_size = guild_employment
+	
+	
+	rural_settlement = yes
+	town = yes
+	city = yes
+	metropolis = yes
+	megalopolis = yes
+
+	
+
+	build_time = guild_build_time
+
+	unique_production_methods = {		
+		wheat_bakery_maintenance = {
+			wheat = 1
+
+			produced = bread
+			output = 1.5
+			category = guild_input
+
+			debug_max_profit = guild_profit_margin
+		}
+		rye_bakery_maintenance = {
+			rye = 1
+			
+
+			produced = bread
+			output = 1.5
+			category = guild_input
+
+			debug_max_profit = guild_profit_margin
+		}
+		barley_bakery_maintenance = {
+			barley = 1
+			
+
+			produced = bread
+			output = 1.625
+			category = guild_input
+
+			debug_max_profit = guild_profit_margin
+		}
+		oats_bakery_maintenance = {
+			oats = 1
+			
+
+			produced = bread
+			output = 2
+			category = guild_input
+
+			debug_max_profit = guild_profit_margin
+		}	
+		rice_bakery_maintenance = {
+			rice = 1
+			
+			
+			produced = bread
+			output = 1.875
+			category = guild_input
+
+			debug_max_profit = guild_profit_margin
+		}
+		maize_bakery_maintenance = {
+			maize = 1
+			
+
+			produced = bread
+			output = 1.75
+			category = guild_input
+
+			debug_max_profit = guild_profit_margin
+		}
+		amaranth_bakery_maintenance = {
+			amaranth = 1
+			
+
+			produced = bread
+			output = 1.75
+			category = guild_input
+
+			debug_max_profit = guild_profit_margin
+		}
+		millet_bakery_maintenance = {
+			millet = 1
+			
+
+			produced = bread
+			output = 1.375
+			category = guild_input
+
+			debug_max_profit = guild_profit_margin
+		}
+	}
+	unique_production_methods = {	
+		softwood_oven_maintenance = {
+			softwood = 0.375
+		
+			produced = bread
+			output = 0.5
+			category = guild_input
+
+			debug_max_profit = guild_profit_margin
+		}
+		hardwood_oven_maintenance = {
+			hardwood = 0.325
+		
+			produced = bread
+			output = 0.5
+			category = guild_input
+
+			debug_max_profit = guild_profit_margin
+		}
+		lumber_oven_maintenance = {
+			lumber = 0.5
+		
+			produced = bread
+			output = 0.5
+			category = guild_input
+
+			debug_max_profit = guild_profit_margin
+		}
+		coal_oven_maintenance = {
+			coal = 0.25
+		
+			produced = bread
+			output = 0.5
+			category = guild_input
+
+			debug_max_profit = guild_profit_margin
+		}
+	}
+}

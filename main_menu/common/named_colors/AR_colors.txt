@@ -1,5 +1,12 @@
 ﻿
 colors = {	
+	#urban
+	color_megalopolis = hsv360 { 259 86 85 } #Royal Purple
+	color_metropolis = hsv360 { 40 78 75 } #Bright Gold
+	color_city = hsv360 { 117 14 66 } #Blue Silver
+	color_town = hsv360 { 215 35 30 } #Mordor Silver
+	color_rural = hsv360 { 9 78 63 } #Red Bronze
+	
 	#climate
 	climate_sicco = rgb { 215 177 145 }
 	climate_xeric = rgb { 240 240 177 }

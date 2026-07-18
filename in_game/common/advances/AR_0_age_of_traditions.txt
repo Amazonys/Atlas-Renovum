@@ -47,8 +47,20 @@ REPLACE:ranching = {
 	can_extract_camels = yes
 }
 
-INJECT:bronze_working = {
+INJECT:metallurgy = {
+	can_extract_copper = yes
+	can_extract_lead = yes
+}
+
+REPLACE:bronze_working = {
+	age = age_1_traditions
+	icon = serbian_mining
+	requires = metallurgy
+	research_cost = 2.0
+	
+	can_extract_tin = yes
 	can_extract_zinc = yes
+	unlock_building = alloy_cast
 }
 
 INJECT:advanced_mining  = {
