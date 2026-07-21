@@ -647,6 +647,8 @@ chili = {
 	custom_tags = { new_world_goods }
 }
 
+#Amyz
+
 softwood = {
 	method = forestry
 	category = raw_material

@@ -231,7 +231,7 @@ livestock = {
 	category = raw_material
 	color = goods_livestock
 	
-	food = 8
+	#food = 8
 	default_market_price = 1.5
 	ai_rgo_size_importance = 1.5 # ai preference to avoid building a city on this rgo
 	

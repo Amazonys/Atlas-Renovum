@@ -1,18 +1,20 @@
 ﻿#Metals industry
-alloy_cast = {
+metalsmith = {
 	is_foreign = no
-	pop_type = laborers
+	pop_type = burghers
 	max_levels = guild_max_level
 	
 	category = basic_industry_category
 	
-	employment_size = advanced_peasant_building_employment
+	employment_size = guild_employment
+	
 	
 	rural_settlement = yes
 	town = yes
 	city = yes
 	metropolis = yes
 	megalopolis = yes
+
 	
 
 	build_time = guild_build_time
@@ -28,7 +30,7 @@ alloy_cast = {
 			output = 1
 			category = guild_input
 
-			debug_max_profit = 0.2
+			debug_max_profit = guild_profit_margin
 		}
 		brass_cast_maintenance = {
 			copper = 0.5
@@ -40,7 +42,7 @@ alloy_cast = {
 			output = 1
 			category = guild_input
 
-			debug_max_profit = 0.2
+			debug_max_profit = guild_profit_margin
 		}
 	}
 }

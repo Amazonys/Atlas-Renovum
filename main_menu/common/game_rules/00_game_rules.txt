@@ -111,12 +111,10 @@ historical_ai = {
 	}
 
 	weighted_ai_choices = {
-		flag = blocks_achievements
 		flag = general_rule
 	}
 
 	random_ai_choices = {
-		flag = blocks_achievements
 		flag = random_ai_choices
 		flag = general_rule
 	}
@@ -273,7 +271,6 @@ black_death_origin_rule = {
 		flag = flavour_rule
 	}
 	black_death_origin_random = { 
-		flag = blocks_achievements 
 		flag = flavour_rule
 	}
 }

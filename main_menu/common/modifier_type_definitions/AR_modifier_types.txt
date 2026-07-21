@@ -1,0 +1,2170 @@
+﻿#Amyz Extract
+can_extract_softwood={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_hardwood={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_sulphur={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+can_extract_barley={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_rye={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_oats={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+can_extract_amaranth={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+can_extract_tomato={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_nuts={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_roots={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_palm={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_dates={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+
+can_extract_opium={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_rubber={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+can_extract_cinnamon={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_vanilla={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+can_extract_poultry={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_swine={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_bison={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_caprids={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_camels={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_llamas={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_reindeer={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_exotica={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+can_extract_pelagic_fish={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_shoal_fish={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_cetaceans={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_crustaceans={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+can_extract_zinc={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+can_extract_bronze={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_brass={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_aluminum={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_gunpowder={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_perfume={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_soap={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_cigars={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_artifices={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_chemicals={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_chocolate={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+can_extract_oils={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+##################################
+
+ban_exports_of_softwood={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_hardwood={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_sulphur={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_exports_of_barley={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_rye={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_oats={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_exports_of_amaranth={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_exports_of_tomato={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_nuts={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_roots={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_palm={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_dates={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+
+ban_exports_of_opium={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_rubber={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_exports_of_cinnamon={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_vanilla={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_exports_of_poultry={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_swine={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_bison={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_caprids={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_camels={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_llamas={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_reindeer={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_exotica={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_exports_of_pelagic_fish={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_shoal_fish={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_cetaceans={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_crustaceans={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_exports_of_zinc={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_exports_of_bronze={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_brass={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_aluminum={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_gunpowder={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_perfume={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_soap={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_cigars={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_artifices={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_chemicals={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_chocolate={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_oils={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+##################################
+
+ban_imports_of_softwood={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_hardwood={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_sulphur={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_imports_of_barley={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_rye={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_oats={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_imports_of_amaranth={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_imports_of_tomato={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_nuts={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_roots={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_palm={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_dates={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+
+ban_imports_of_opium={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_rubber={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_imports_of_cinnamon={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_vanilla={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_imports_of_poultry={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_swine={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_bison={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_caprids={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_camels={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_llamas={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_reindeer={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_exotica={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_imports_of_pelagic_fish={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_shoal_fish={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_cetaceans={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_crustaceans={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_imports_of_zinc={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+ban_imports_of_bronze={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_brass={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_aluminum={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_gunpowder={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_perfume={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_soap={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_cigars={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_artifices={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_chemicals={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_chocolate={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_oils={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+##################################
+
+local_softwood_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_hardwood_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_sulphur_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+local_barley_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_rye_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_oats_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+local_amaranth_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+local_tomato_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_nuts_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_roots_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_palm_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_dates_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+
+local_opium_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_rubber_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+local_cinnamon_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_vanilla_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+local_poultry_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_swine_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_bison_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_caprids_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_camels_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_llamas_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_reindeer_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_exotica_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+local_pelagic_fish_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_shoal_fish_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_cetaceans_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_crustaceans_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+local_zinc_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+local_bronze_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_brass_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_aluminum_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_gunpowder_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_perfume_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_soap_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_cigars_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_artifices_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_chemicals_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_chocolate_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+local_oils_output_modifier={
+	boolean=yes
+	game_data={
+		category=location
+	}
+}
+
+##################################
+
+global_softwood_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_hardwood_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_sulphur_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_barley_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_rye_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_oats_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_amaranth_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_tomato_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_nuts_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_roots_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_palm_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_dates_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+
+global_opium_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_rubber_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_cinnamon_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_vanilla_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_poultry_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_swine_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_bison_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_caprids_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_camels_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_llamas_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_reindeer_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_exotica_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_pelagic_fish_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_shoal_fish_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_cetaceans_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_crustaceans_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_zinc_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_bronze_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_brass_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_aluminum_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_gunpowder_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_perfume_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_soap_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_cigars_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_artifices_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_chemicals_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_chocolate_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_oils_output_modifier={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+##################################
+
+global_softwood_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_hardwood_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_sulphur_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_barley_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_rye_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_oats_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_amaranth_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_tomato_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_nuts_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_roots_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_palm_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_dates_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+
+global_opium_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_rubber_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_cinnamon_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_vanilla_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_poultry_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_swine_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_bison_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_caprids_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_camels_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_llamas_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_reindeer_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_exotica_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_pelagic_fish_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_shoal_fish_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_cetaceans_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_crustaceans_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_zinc_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+global_bronze_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_brass_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_aluminum_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_gunpowder_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_perfume_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_soap_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_cigars_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_artifices_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_chemicals_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_chocolate_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+global_oils_pop_demand={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+##################################
+
+softwood_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+hardwood_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+sulphur_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+barley_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+rye_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+oats_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+amaranth_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+tomato_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+nuts_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+roots_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+palm_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+dates_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+
+opium_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+rubber_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+cinnamon_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+vanilla_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+poultry_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+swine_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+bison_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+caprids_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+camels_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+llamas_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+reindeer_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+exotica_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+pelagic_fish_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+shoal_fish_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+cetaceans_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+crustaceans_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+zinc_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+bronze_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+brass_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+aluminum_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+gunpowder_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+perfume_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+soap_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+cigars_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+artifices_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+chemicals_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+chocolate_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+oils_impacts_inflation={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+##################################
+
+softwood_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+hardwood_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+sulphur_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+barley_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+rye_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+oats_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+amaranth_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+tomato_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+nuts_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+roots_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+palm_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+dates_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+
+opium_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+rubber_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+cinnamon_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+vanilla_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+poultry_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+swine_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+bison_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+caprids_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+camels_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+llamas_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+reindeer_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+exotica_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+pelagic_fish_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+shoal_fish_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+cetaceans_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+crustaceans_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+zinc_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+bronze_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+brass_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+aluminum_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+gunpowder_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+perfume_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+soap_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+cigars_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+artifices_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+chemicals_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+chocolate_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+oils_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+
+#
+can_extract_meat={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_meat={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_meat={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+local_meat_output_modifier={
+	percent=yes
+	game_data={
+		category=location
+	}
+}
+global_meat_output_modifier={
+	percent=yes
+	game_data={
+		category=country
+	}
+}
+global_meat_pop_demand={
+	percent=yes
+	game_data={
+		category=country
+	}
+}
+meat_impacts_inflation={
+	percent=yes
+	game_data={
+		category=country
+	}
+}
+meat_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+#
+can_extract_bread={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_bread={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_bread={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+local_bread_output_modifier={
+	percent=yes
+	game_data={
+		category=location
+	}
+}
+global_bread_output_modifier={
+	percent=yes
+	game_data={
+		category=country
+	}
+}
+global_bread_pop_demand={
+	percent=yes
+	game_data={
+		category=country
+	}
+}
+bread_impacts_inflation={
+	percent=yes
+	game_data={
+		category=country
+	}
+}
+bread_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+#
+can_extract_dairy={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_exports_of_dairy={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+ban_imports_of_dairy={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}
+local_dairy_output_modifier={
+	percent=yes
+	game_data={
+		category=location
+	}
+}
+global_dairy_output_modifier={
+	percent=yes
+	game_data={
+		category=country
+	}
+}
+global_dairy_pop_demand={
+	percent=yes
+	game_data={
+		category=country
+	}
+}
+dairy_impacts_inflation={
+	percent=yes
+	game_data={
+		category=country
+	}
+}
+dairy_used_for_minting={
+	boolean=yes
+	game_data={
+		category=country
+	}
+}

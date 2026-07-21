@@ -8,7 +8,16 @@
 		local_supply_limit_modifier = -0.05
 		local_life_expectancy = -8
 		local_monthly_development_modifier = -0.16
-		#local_wheat_output_modifier = -0.05
+		
+		#local_wheat_output_modifier = -0.8
+		#local_rice_output_modifier = -1
+		#local_rye_output_modifier = -0.8
+		#local_barley_output_modifier = -0.4
+		#local_oats_output_modifier = -0.8
+		#local_millet_output_modifier = -0.2
+		#local_maize_output_modifier = -0.8
+		#local_amaranth_output_modifier = -0.4
+		
 		#free_capacity_attracts_pops = yes
 	}
 	unit_modifier = {

@@ -11,6 +11,9 @@ REPLACE:agriculture_advance = {
 	can_extract_amaranth = yes
 	can_extract_rice = yes
 	can_extract_millet = yes
+	
+	unlock_building = butcher
+	unlock_building = dairychurn
 
 	depth = 0
 
@@ -60,9 +63,13 @@ REPLACE:bronze_working = {
 	
 	can_extract_tin = yes
 	can_extract_zinc = yes
-	unlock_building = alloy_cast
+	unlock_building = metalsmith
 }
 
 INJECT:advanced_mining  = {
 	can_extract_sulphur = yes
+}
+
+INJECT:windmills_advance  = {
+	unlock_building = bakery
 }
