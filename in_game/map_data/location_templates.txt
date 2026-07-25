@@ -22154,7 +22154,7 @@ cupilco = { topography = wetlands vegetation = jungle climate = tropical religio
 zahuatan = { topography = wetlands vegetation = jungle climate = tropical religion = mayan culture = chontal_culture raw_material = cocoa}
 tatahuitalpan = { topography = flatland vegetation = jungle climate = tropical religion = mayan culture = kanek_culture raw_material = fruit}
 mayapan = { topography = flatland vegetation = woods climate = calidic religion = mayan culture = yucatec_culture raw_material = cotton}
-mani = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = softwood}
+mani = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = beeswax}
 hocabail = { topography = flatland vegetation = woods climate = calidic religion = mayan culture = yucatec_culture raw_material = medicaments}
 sotuta = { topography = flatland vegetation = woods climate = calidic religion = mayan culture = yucatec_culture raw_material = tobacco}
 maxcanu = { topography = wetlands vegetation = woods climate = calidic religion = mayan culture = yucatec_culture raw_material = fiber_crops natural_harbor_suitability = 0.00}
@@ -22167,13 +22167,13 @@ chichen_itza = { topography = flatland vegetation = woods climate = calidic reli
 tases = { topography = flatland vegetation = woods climate = calidic religion = mayan culture = yucatec_culture raw_material = cotton}
 kalotmul = { topography = flatland vegetation = woods climate = calidic religion = mayan culture = yucatec_culture raw_material = beeswax}
 zaci = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = cocoa}
-kaan_peech = { topography = flatland vegetation = woods climate = calidic religion = mayan culture = putun_culture raw_material = legumes natural_harbor_suitability = 0.00}
-calkini = { topography = wetlands vegetation = woods climate = calidic religion = mayan culture = yucatec_culture raw_material = fruit natural_harbor_suitability = 0.00}
-edzna = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = putun_culture raw_material = wild_game}
-hochob = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = putun_culture raw_material = amaranth}
-dzibilnocac = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = fiber_crops}
+kaan_peech = { topography = flatland vegetation = woods climate = calidic religion = mayan culture = putun_culture raw_material = pearls natural_harbor_suitability = 0.00}
+calkini = { topography = wetlands vegetation = woods climate = calidic religion = mayan culture = yucatec_culture raw_material = clay natural_harbor_suitability = 0.00}
+edzna = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = putun_culture raw_material = fruit}
+hochob = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = putun_culture raw_material = maize}
+dzibilnocac = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = amaranth}
 chakan_putum = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = putun_culture raw_material = chili natural_harbor_suitability = 0.00}
-tixchel = { topography = wetlands vegetation = jungle climate = calidic religion = mayan culture = putun_culture raw_material = fiber_crops natural_harbor_suitability = 0.00}
+tixchel = { topography = wetlands vegetation = jungle climate = calidic religion = mayan culture = putun_culture raw_material = cocoa natural_harbor_suitability = 0.00}
 xicallanco = { topography = wetlands vegetation = jungle climate = tropical religion = mayan culture = chol_culture raw_material = vanilla natural_harbor_suitability = 0.00}
 itzamkanac = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = kanek_culture raw_material = cotton}
 nadzcaan = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = kowoj_culture raw_material = hardwood}
@@ -22188,7 +22188,7 @@ bakhalal = { topography = flatland vegetation = jungle climate = calidic religio
 chacchoben = { topography = wetlands vegetation = jungle climate = calidic religion = mayan culture = yucatec_culture raw_material = pelagic_fish natural_harbor_suitability = 0.00}
 tixmul = { topography = wetlands vegetation = jungle climate = calidic religion = mayan culture = yucatec_culture raw_material = cocoa natural_harbor_suitability = 0.00}
 xpaicheil = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = kowoj_culture raw_material = hardwood}
-telantunich = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = beeswax}
+telantunich = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = hardwood}
 ekab = { topography = wetlands vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = salt natural_harbor_suitability = 0.00}
 labcah = { topography = flatland vegetation = forest climate = calidic religion = mayan culture = yucatec_culture raw_material = roots natural_harbor_suitability = 0.00}
 zama = { topography = flatland vegetation = jungle climate = calidic religion = mayan culture = yucatec_culture raw_material = beeswax natural_harbor_suitability = 0.00}
@@ -24739,7 +24739,7 @@ inka_llaqta = { topography = flatland vegetation = jungle climate = tropical rel
 ayopaya = { topography = mountains vegetation = sparse climate = subtropical religion = inti culture = aimara_culture raw_material = copper}
 paititi = { topography = mountains vegetation = jungle climate = oceanic religion = inti culture = aimara_culture raw_material = softwood}
 yungas = { topography = mountains vegetation = grasslands climate = subtropical religion = inti culture = aimara_culture raw_material = maize}
-guanay = { topography = hills vegetation = jungle climate = calidic religion = pava_religion culture = kallawaya_culture raw_material = roots}
+guanay = { topography = hills vegetation = jungle climate = calidic religion = pava_religion culture = kallawaya_culture raw_material = rubber}
 kallawaya = { topography = mountains vegetation = jungle climate = subtropical religion = pava_religion culture = kallawaya_culture raw_material = beeswax}
 caupolican = { topography = mountains vegetation = jungle climate = oceanic religion = pava_religion culture = kallawaya_culture raw_material = legumes}
 sarkajpa = { topography = mountains vegetation = sparse climate = oceanic religion = mororuma_religion culture = charka_culture raw_material = fiber_crops}
