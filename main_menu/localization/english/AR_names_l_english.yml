@@ -1,0 +1,7 @@
+﻿l_english:
+ # Ranks
+ metropolis: "Metropolis"
+ metropolis_desc: "A Metropolis stands as a dominant regional center — a vast urban sprawl of commerce, artisanship, and civic life. Its influence reaches across surrounding lands, drawing people, culture, and wealth into its orbit."
+ FOUND_metropolis: "Found a Metropolis"
+ FOUND_metropolis_effect: "This province will be elevated to a Metropolis, significantly boosting its population capacity, workforce distribution, construction abilities, and administrative impact."
+ ACTIVE_metropolis: "Metropolis Status"

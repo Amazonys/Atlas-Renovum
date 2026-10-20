@@ -1,0 +1,15 @@
+﻿REPLACE:megalopolis_upgrade = {
+	gold = 8000
+}
+
+metropolis_upgrade = {
+	gold = 4000
+}
+
+REPLACE:city_upgrade = {
+	gold = 2000
+}
+
+REPLACE:town_upgrade = {
+	gold = 500
+}

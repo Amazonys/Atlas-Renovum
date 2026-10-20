@@ -1,6 +1,5 @@
 ﻿### From 00_unique_buildings_to_make_obsolete.txt ###
-# CONTRIBUTION BY d0sada#
- 
+
 INJECT:sofa_stockade = {
     metropolis = yes
 }
@@ -56,6 +55,22 @@ INJECT:royal_garden = {
 }
  
 INJECT:pirate_stronghold = {
+    metropolis = yes
+}
+
+INJECT:local_governor = {
+    metropolis = yes
+}
+
+INJECT:italian_administration_center = {
+    metropolis = yes
+}
+
+INJECT:naval_governor = {
+    metropolis = yes
+}
+
+INJECT:central_bank = {
     metropolis = yes
 }
  
@@ -131,6 +146,21 @@ INJECT:fruit_orchard = {
     metropolis = yes
 }
  
+### From council_hall.txt ###
+
+INJECT:early_council_hall = {
+    metropolis = yes
+}
+
+INJECT:council_hall = {
+    metropolis = yes
+}
+
+INJECT:modern_council_hall = {
+    metropolis = yes
+}
+
+
 ### From culture_buildings.txt ###
  
 INJECT:university = {
@@ -625,6 +655,18 @@ INJECT:charite_of_berlin = {
     metropolis = yes
 }
  
+INJECT:walls_of_lucca = {
+    metropolis = yes
+}
+ 
+INJECT:lucca_silk_production_guild = {
+    metropolis = yes
+}
+ 
+INJECT:sie_sienese_port = {
+    metropolis = yes
+}
+
 ### From foreign_buildings.txt ###
  
 INJECT:trade_office = {
@@ -636,6 +678,18 @@ INJECT:embassy = {
 }
  
 INJECT:slave_center = {
+    metropolis = yes
+}
+ 
+INJECT:colonial_administration = {
+    metropolis = yes
+}
+ 
+INJECT:merchant_guild_chapel = {
+    metropolis = yes
+}
+ 
+INJECT:viceroyalty = {
     metropolis = yes
 }
  
@@ -658,6 +712,10 @@ INJECT:star_fort = {
 }
  
 INJECT:fortress = {
+    metropolis = yes
+}
+ 
+INJECT:city_walls = {
     metropolis = yes
 }
  
@@ -1209,6 +1267,12 @@ INJECT:hospital = {
 INJECT:slave_market = {
     metropolis = yes
 }
+INJECT:aqueduct_system = {
+    metropolis = yes
+} 
+INJECT:provincial_chancery = {
+    metropolis = yes
+}
  
 ### From trade_buildings.txt ###
  
@@ -1633,5 +1697,29 @@ INJECT:tur_kodjabashi_office = {
 }
  
 INJECT:qalat_al_mashwar = {
+    metropolis = yes
+}
+ 
+INJECT:german_river_toll_castle = {
+    metropolis = yes
+}
+ 
+INJECT:german_mountain_toll_castle = {
+    metropolis = yes
+}
+ 
+INJECT:hippodrome = {
+    metropolis = yes
+}
+ 
+INJECT:porto_pisano = {
+    metropolis = yes
+}
+ 
+INJECT:gymnasium_building = {
+    metropolis = yes
+}
+ 
+INJECT:hsa_burgtor = {
     metropolis = yes
 }

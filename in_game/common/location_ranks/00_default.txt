@@ -1,5 +1,5 @@
 ﻿#Note:  logic assumes that anything below a rank in the list is worse
-REPLACE:megalopolis = {
+megalopolis = {
 	
 	rank_modifier = {
 		local_burghers_desired_pop = 4.0
@@ -69,7 +69,7 @@ REPLACE:megalopolis = {
 	
 	construction_demand = build_megalopolis_demand
 	
-	frame_tier = 4
+	frame_tier = 5
 	show_in_label = yes
 
 }
@@ -121,12 +121,8 @@ metropolis = {
 	
 	allow = {
 		location_rank = location_rank:city
-		population >= 100
+		population >= 200
 		modifier:cannot_upgrade_location = no
-		any_location_in_province = {
-		  count = 2
-		  location_rank = location_rank:city
-		}
 	}
 	
 	build_time = 730
@@ -136,12 +132,12 @@ metropolis = {
 	
 	construction_demand = build_city_demand
 	
-	frame_tier = 3
+	frame_tier = 4
 	show_in_label = yes
 
 }
 
-REPLACE:city = {
+city = {
 	
 	rank_modifier = {
 		local_burghers_desired_pop = 1.0
@@ -204,7 +200,7 @@ REPLACE:city = {
 
 }
 
-REPLACE:town = {
+town = {
 	
 	rank_modifier = {
 		local_burghers_desired_pop = 0.2
@@ -250,7 +246,7 @@ REPLACE:town = {
 
 }
 
-REPLACE:rural_settlement = {
+rural_settlement = {
 	rank_modifier = {
 		local_max_rgo_size_modifier = 1.0
 		local_monthly_food_modifier = 0.1
